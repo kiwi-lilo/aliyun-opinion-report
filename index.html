@@ -122,6 +122,15 @@
     .aside-section { padding: 3px 0 22px; border-bottom: 1px solid var(--line); }
     .aside-section + .aside-section { padding-top: 22px; }
     .aside-title { margin: 0 0 13px; font-size: 18px; }
+    .visual-overview { display: grid; grid-template-columns: 88px minmax(0,1fr); align-items: center; gap: 14px; margin-bottom: 20px; }
+    .visual-donut { --ratio: 0%; position: relative; display: grid; place-items: center; width: 82px; height: 82px; border-radius: 50%; background: conic-gradient(var(--red) var(--ratio), #e9e3de 0); }
+    .visual-donut::after { content: ""; position: absolute; inset: 10px; border-radius: 50%; background: var(--paper); }
+    .visual-donut-content { position: relative; z-index: 1; display: grid; justify-items: center; line-height: 1; }
+    .visual-donut-content strong { color: var(--dark); font-size: 18px; }
+    .visual-donut-content span { margin-top: 5px; color: var(--muted); font-size: 10px; }
+    .visual-facts { display: grid; gap: 8px; }
+    .visual-fact { display: flex; justify-content: space-between; gap: 10px; padding-bottom: 7px; border-bottom: 1px solid var(--line); color: var(--muted); font-size: 11px; }
+    .visual-fact strong { color: var(--ink); font-size: 13px; }
     .visual-list { display: grid; gap: 12px; }
     .visual-row { display: grid; gap: 5px; }
     .visual-label, .source-row-head { display: flex; justify-content: space-between; gap: 12px; color: var(--ink); font-size: 12px; }
@@ -165,6 +174,8 @@
       .other-news-row span { display: block; margin-top: 3px; }
       .unsummarized-row { grid-template-columns: 18px minmax(0,1fr) auto; gap: 8px; padding: 10px; }
       .unsummarized-copy { min-width: 38px; padding: 5px 6px; }
+      .visual-overview { grid-template-columns: 78px minmax(0,1fr); gap: 10px; }
+      .visual-donut { width: 72px; height: 72px; }
     }
   </style>
 </head>
@@ -212,7 +223,7 @@
         </section>
       </section>
       <aside class="aside">
-        <section class="aside-section" id="visual-section"><p class="section-label">Signal map</p><h3 class="aside-title" id="visual-title">城市态势</h3><div class="visual-list" id="visual-list"><div class="empty">等待数据</div></div></section>
+        <section class="aside-section" id="visual-section"><p class="section-label">Signal map</p><h3 class="aside-title" id="visual-title">城市态势</h3><div class="visual-overview" id="visual-overview"></div><div class="visual-list" id="visual-list"><div class="empty">等待数据</div></div></section>
         <section class="aside-section"><p class="section-label">Sources</p><h3 class="aside-title">来源分布</h3><ul class="source-list" id="source-list"><li class="source-row"><span>等待数据</span><span>--</span></li></ul></section>
       </aside>
     </div>
@@ -233,7 +244,7 @@
     const itemText = (item) => item.copy_text || [item.summary || item.title || "", item.url || item.link || ""].filter(Boolean).join("\n");
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
     const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
-    const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [], unsummarized: data.unsummarized || data.other_items || [] });
+    const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [], unsummarized: data.unsummarized || data.other_items || data.unsummarized_items || data.all || [] });
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [], featured: data.top10 || data.recommendations || data.items || [] });
     function currentData() { return state.active === "personal" ? state.personal : state.media; }
     function rssCandidates() { return state.media?.rss_candidates || []; }
@@ -254,6 +265,14 @@
     }
     function renderVisual(data, items) {
       const personal = state.active === "personal";
+      const stats = data?.stats || {};
+      const total = personal ? Number(stats.total_posts || 0) : Number(items.length || 0);
+      const focus = personal ? Number(stats.new_neg || 0) : Number(stats.verified || 0);
+      const ratio = total ? Math.min(100, Math.round(focus / total * 100)) : 0;
+      const focusLabel = personal ? "新增关注" : "原文核验";
+      const secondLabel = personal ? "健康城市" : "RSS候选";
+      const secondValue = personal ? Number(stats.healthy || 0) : Number(stats.rss_candidates || 0);
+      $("#visual-overview").innerHTML = `<div class="visual-donut" style="--ratio:${ratio}%"><div class="visual-donut-content"><strong>${ratio}%</strong><span>${focusLabel}</span></div></div><div class="visual-facts"><div class="visual-fact"><span>监测总量</span><strong>${total}</strong></div><div class="visual-fact"><span>${secondLabel}</span><strong>${secondValue}</strong></div><div class="visual-fact"><span>当前状态</span><strong>${data ? "已同步" : "等待"}</strong></div></div>`;
       const rows = personal
         ? (data?.cities || []).map((city) => [city.city || "其他", city.total || 0, city.new_neg || 0])
         : Object.entries(items.reduce((map, item) => { const key = item.media || "其他"; map[key] = (map[key] || 0) + 1; return map; }, {})).map(([name, count]) => [name, count, count]);
@@ -386,7 +405,8 @@
       $("#unsummarized-list").innerHTML = items.length ? items.slice(0, 20).map((item, index) => {
         const text = item.text || item.summary || item.title || "未生成摘要";
         const link = item.url || item.link || "";
-        const meta = [item.region || item.city, item.time, item.user ? `@${item.user}` : ""].filter(Boolean).join(" · ");
+        const region = item.region || (Array.isArray(item.regions) ? item.regions.slice(0, 2).join("、") : "") || item.city;
+        const meta = [region, item.time, item.user ? `@${item.user}` : ""].filter(Boolean).join(" · ");
         return `<li class="unsummarized-row"><span class="issue-number">${String(index + 1).padStart(2, "0")}</span><div><div class="unsummarized-text">${escapeHtml(text)}</div><div class="unsummarized-meta">${escapeHtml(meta || "未生成摘要")}${link ? ` · <a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文</a>` : ""}</div></div><button class="copy-button unsummarized-copy" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></li>`;
       }).join("") : `<li class="empty">暂无未生成摘要的新增舆情。</li>`;
     }
