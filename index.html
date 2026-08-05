@@ -7,65 +7,67 @@
   <title>陕西舆情工作台</title>
   <style>
     :root {
-      --bg: #edf1f2;
-      --paper: #fff;
-      --ink: #1d292d;
-      --muted: #6d7b80;
-      --line: #d8e0e1;
-      --dark: #172529;
-      --teal: #16766b;
-      --teal-soft: #e7f3f0;
-      --red: #b34b42;
-      --red-soft: #faece9;
-      --amber: #a66a27;
-      --blue: #2d6378;
-      --shadow: 0 12px 30px rgba(23, 37, 41, .07);
+      --bg: #f3f0ec;
+      --paper: #fffdf9;
+      --ink: #28232b;
+      --muted: #766e76;
+      --line: #e3ddd7;
+      --dark: #2b2634;
+      --teal: #2e7e73;
+      --teal-soft: #e6f2ed;
+      --red: #c45149;
+      --red-soft: #fae9e6;
+      --amber: #b47832;
+      --blue: #3e6f8f;
+      --violet: #75648e;
+      --violet-soft: #f0ebf7;
+      --shadow: 0 16px 36px rgba(52, 39, 49, .08);
     }
     * { box-sizing: border-box; }
     html { background: var(--bg); }
     body { margin: 0; color: var(--ink); background: var(--bg); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; letter-spacing: 0; }
     button, input { font: inherit; }
     button { cursor: pointer; }
-    .masthead { color: #f7fbfa; background: var(--dark); }
+    .masthead { color: #fffaf4; background: var(--dark); }
     .masthead-inner, main, footer { width: min(1120px, calc(100% - 40px)); margin: 0 auto; }
     .masthead-inner { padding: 34px 0 0; }
     .brand-row { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
-    .kicker, .section-label { margin: 0 0 8px; color: #9fb4b5; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+    .kicker, .section-label { margin: 0 0 8px; color: #c9b9c9; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
     h1 { margin: 0; font-size: clamp(28px, 4vw, 46px); font-weight: 700; line-height: 1.1; }
-    .subline { margin: 12px 0 28px; color: #c1cecf; font-size: 13px; }
-    .status { flex: none; align-self: center; display: inline-flex; align-items: center; gap: 8px; color: #c3d8d2; font-size: 12px; }
+    .subline { margin: 12px 0 28px; color: #d8ced8; font-size: 13px; }
+    .status { flex: none; align-self: center; display: inline-flex; align-items: center; gap: 8px; color: #d7e7dc; font-size: 12px; }
     .status::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #4fc39c; box-shadow: 0 0 0 4px rgba(79, 195, 156, .12); }
     .tabs { display: flex; gap: 28px; border-bottom: 1px solid rgba(255,255,255,.16); }
-    .tab { position: relative; border: 0; padding: 15px 0 14px; color: #9fb4b5; background: transparent; font-weight: 700; }
+    .tab { position: relative; border: 0; padding: 15px 0 14px; color: #b8aebd; background: transparent; font-weight: 700; }
     .tab[aria-selected="true"] { color: #fff; }
     .tab[aria-selected="true"]::after { content: ""; position: absolute; right: 0; bottom: -1px; left: 0; height: 3px; background: #74c7b4; }
-    .tab-count { display: inline-block; min-width: 20px; margin-left: 5px; padding: 2px 5px; border-radius: 12px; color: #dceae8; background: rgba(255,255,255,.13); font-size: 11px; text-align: center; }
+    .tab-count { display: inline-block; min-width: 20px; margin-left: 5px; padding: 2px 5px; border-radius: 12px; color: #f2eaf3; background: rgba(255,255,255,.15); font-size: 11px; text-align: center; }
     main { padding: 28px 0 44px; }
-    .metrics { display: grid; grid-template-columns: repeat(4, 1fr); margin-bottom: 28px; border: 1px solid var(--line); background: var(--paper); box-shadow: var(--shadow); }
+    .metrics { display: grid; grid-template-columns: repeat(4, 1fr); margin-bottom: 28px; border: 1px solid var(--line); border-top: 3px solid var(--amber); background: var(--paper); box-shadow: var(--shadow); }
     .metric { min-height: 92px; padding: 17px 20px; border-right: 1px solid var(--line); }
     .metric:last-child { border-right: 0; }
     .metric-value { display: block; color: var(--dark); font-size: 28px; font-weight: 750; line-height: 1; }
     .metric-label { display: block; margin-top: 10px; color: var(--muted); font-size: 12px; }
     .metric-action { width: 100%; border: 0; border-right: 1px solid var(--line) !important; text-align: left; background: var(--paper); }
-    .metric-action:hover { background: var(--teal-soft); }
-    .metric-action:focus-visible { position: relative; z-index: 1; outline: 3px solid #a9d3ca; outline-offset: -3px; }
-    .candidate-panel { margin: -10px 0 28px; padding: 20px; border: 1px solid #b8d4cf; background: #f4faf8; box-shadow: var(--shadow); }
+    .metric-action:hover { background: var(--violet-soft); }
+    .metric-action:focus-visible { position: relative; z-index: 1; outline: 3px solid #c7b8d8; outline-offset: -3px; }
+    .candidate-panel { margin: -10px 0 28px; padding: 20px; border: 1px solid #cbbddd; background: #f7f3fa; box-shadow: var(--shadow); }
     .candidate-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 15px; margin-bottom: 13px; }
     .candidate-head h3 { margin: 0; font-size: 19px; }
     .candidate-tools { display: flex; align-items: center; gap: 8px; margin: 14px 0 10px; }
-    .candidate-search { flex: 1; min-width: 0; border: 1px solid #c6d9d5; padding: 8px 10px; color: var(--ink); background: #fff; outline: none; font-size: 12px; }
-    .candidate-search:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(22,118,107,.1); }
-    .candidate-page-button { border: 1px solid #a5c8c1; padding: 7px 10px; border-radius: 4px; color: var(--teal); background: #fff; font-size: 12px; }
+    .candidate-search { flex: 1; min-width: 0; border: 1px solid #d5c9df; padding: 8px 10px; color: var(--ink); background: #fff; outline: none; font-size: 12px; }
+    .candidate-search:focus { border-color: var(--violet); box-shadow: 0 0 0 3px rgba(117,100,142,.12); }
+    .candidate-page-button { border: 1px solid #c1b2d0; padding: 7px 10px; border-radius: 4px; color: var(--violet); background: #fff; font-size: 12px; }
     .candidate-page-button:disabled { cursor: default; opacity: .45; }
     .candidate-page-count { min-width: 54px; color: var(--muted); font-size: 11px; text-align: center; }
     .candidate-list { display: grid; gap: 7px; max-height: 360px; overflow: auto; }
-    .candidate-row { display: grid; grid-template-columns: 28px minmax(0,1fr) auto; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid #d6e7e3; background: #fff; }
+    .candidate-row { display: grid; grid-template-columns: 22px minmax(0,1fr) auto; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid #e1d9e6; background: #fff; }
     .candidate-row strong { color: var(--ink); font-size: 13px; line-height: 1.55; }
     .candidate-row a { color: inherit; text-decoration: none; }
     .candidate-row a:hover { color: var(--blue); text-decoration: underline; }
     .candidate-meta { color: var(--muted); font-size: 11px; }
-    .select-candidate, .generate-button, .copy-draft { border: 1px solid #a5c8c1; padding: 7px 10px; border-radius: 4px; color: var(--teal); background: #fff; font-size: 12px; font-weight: 700; }
-    .select-candidate:hover, .generate-button:hover, .copy-draft:hover { background: var(--teal-soft); }
+    .select-candidate, .generate-button, .copy-draft { border: 1px solid #c1b2d0; padding: 7px 10px; border-radius: 4px; color: var(--violet); background: #fff; font-size: 12px; font-weight: 700; }
+    .select-candidate:hover, .generate-button:hover, .copy-draft:hover { background: var(--violet-soft); }
     .select-candidate[data-selected="true"] { color: #fff; background: var(--teal); }
     .candidate-detail { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: end; gap: 16px; margin-top: 15px; padding-top: 15px; border-top: 1px solid #cde1dc; }
     .candidate-detail p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.7; }
@@ -85,10 +87,10 @@
     .search { min-width: 150px; margin-left: auto; border: 1px solid var(--line); padding: 7px 10px; border-radius: 4px; color: var(--ink); background: var(--paper); outline: none; font-size: 12px; }
     .search:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(22,118,107,.1); }
     .issue-list { display: grid; gap: 10px; border-top: 2px solid var(--dark); padding-top: 2px; }
-    .issue { display: grid; grid-template-columns: 40px minmax(0,1fr); gap: 15px; padding: 18px 19px; border: 1px solid var(--line); border-left: 4px solid var(--amber); background: var(--paper); box-shadow: 0 3px 12px rgba(23,37,41,.035); }
+    .issue { display: grid; grid-template-columns: 22px minmax(0,1fr); gap: 12px; padding: 18px 19px; border: 1px solid var(--line); border-left: 4px solid var(--amber); background: var(--paper); box-shadow: 0 3px 12px rgba(52,39,49,.04); }
     .issue[data-level="negative"] { border-left-color: var(--red); }
     .issue[data-level="positive"] { border-left-color: var(--teal); }
-    .issue-number { color: #9aa8aa; font-size: 16px; font-weight: 750; }
+    .issue-number { color: #a79aa8; font-size: 10px; font-weight: 800; letter-spacing: .08em; line-height: 1.2; padding-top: 3px; text-align: right; }
     .issue-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: start; gap: 15px; }
     .issue-meta { min-width: 0; color: var(--muted); font-size: 12px; line-height: 1.7; overflow-wrap: anywhere; }
     .issue-meta strong { color: var(--ink); font-size: 14px; }
@@ -102,8 +104,14 @@
     .issue-link:hover { text-decoration: underline; }
     .issue-footer { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; margin-top: 12px; }
     .issue-author { min-width: 0; color: #a4afb1; font-size: 12px; opacity: .82; overflow-wrap: anywhere; }
-    .other-news { margin-top: 30px; border-top: 2px solid var(--dark); }
-    .other-news-head { display: flex; align-items: end; justify-content: space-between; gap: 16px; padding: 16px 0 10px; }
+    .unsummarized-section, .other-news { margin-top: 30px; border-top: 2px solid var(--dark); }
+    .unsummarized-head, .other-news-head { display: flex; align-items: end; justify-content: space-between; gap: 16px; padding: 16px 0 10px; }
+    .unsummarized-section h3 { margin: 0; font-size: 18px; }
+    .unsummarized-list { display: grid; gap: 7px; margin: 0; padding: 0; list-style: none; }
+    .unsummarized-row { display: grid; grid-template-columns: 22px minmax(0,1fr) auto; align-items: start; gap: 10px; padding: 11px 12px; border: 1px solid var(--line); background: rgba(255,253,249,.72); }
+    .unsummarized-text { min-width: 0; color: var(--ink); font-size: 13px; line-height: 1.6; overflow-wrap: anywhere; }
+    .unsummarized-meta { margin-top: 3px; color: var(--muted); font-size: 11px; }
+    .unsummarized-copy { min-width: 42px; padding: 6px 8px; font-size: 11px; }
     .other-news h3 { margin: 0; font-size: 18px; }
     .other-news-list { margin: 0; padding: 0; list-style: none; }
     .other-news-row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding: 10px 0; border-bottom: 1px solid var(--line); }
@@ -114,8 +122,16 @@
     .aside-section { padding: 3px 0 22px; border-bottom: 1px solid var(--line); }
     .aside-section + .aside-section { padding-top: 22px; }
     .aside-title { margin: 0 0 13px; font-size: 18px; }
-    .source-list { margin: 0; padding: 0; list-style: none; }
-    .source-row { display: flex; justify-content: space-between; gap: 12px; padding: 9px 0; border-bottom: 1px solid #e8eded; font-size: 13px; }
+    .visual-list { display: grid; gap: 12px; }
+    .visual-row { display: grid; gap: 5px; }
+    .visual-label, .source-row-head { display: flex; justify-content: space-between; gap: 12px; color: var(--ink); font-size: 12px; }
+    .visual-label span, .source-row-head span { color: var(--muted); font-size: 11px; }
+    .visual-track, .source-track { height: 6px; overflow: hidden; background: #e9e3de; }
+    .visual-fill, .source-fill { display: block; height: 100%; background: var(--teal); }
+    .visual-row:nth-child(2n) .visual-fill { background: var(--violet); }
+    .visual-row:nth-child(3n) .visual-fill { background: var(--amber); }
+    .source-list { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; }
+    .source-row { display: grid; gap: 5px; font-size: 13px; }
     .source-row span { color: var(--muted); }
     .note { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.8; }
     .empty { padding: 24px; border: 1px dashed #b9c8c8; color: var(--muted); background: rgba(255,255,255,.5); text-align: center; }
@@ -137,16 +153,18 @@
       h1 { font-size: 30px; }
       .toolbar { flex-wrap: wrap; }
       .search { width: 100%; margin-left: 0; }
-      .issue { grid-template-columns: 27px minmax(0,1fr); gap: 10px; padding: 15px 12px; }
+      .issue { grid-template-columns: 18px minmax(0,1fr); gap: 8px; padding: 15px 12px; }
       .issue-top { grid-template-columns: minmax(0, 1fr) auto; gap: 10px; }
       .copy-button { grid-column: 2; grid-row: 1; align-self: start; margin-top: 0; }
       .candidate-detail { grid-template-columns: 1fr; }
-      .candidate-row { grid-template-columns: 24px minmax(0,1fr); }
+      .candidate-row { grid-template-columns: 18px minmax(0,1fr); }
       .select-candidate { grid-column: 2; justify-self: start; }
       .candidate-tools { flex-wrap: wrap; }
       .candidate-search { flex-basis: 100%; }
       .other-news-row { display: block; }
       .other-news-row span { display: block; margin-top: 3px; }
+      .unsummarized-row { grid-template-columns: 18px minmax(0,1fr) auto; gap: 8px; padding: 10px; }
+      .unsummarized-copy { min-width: 38px; padding: 5px 6px; }
     }
   </style>
 </head>
@@ -184,12 +202,17 @@
         <div class="section-head"><div><p class="section-label" id="section-label">Personal / 01</p><h2 id="panel-title">精选舆情</h2></div><span class="count" id="result-count">--</span></div>
         <div class="toolbar" id="toolbar"><button class="filter" type="button" aria-pressed="true" data-filter="all">全部</button><button class="filter" type="button" aria-pressed="false" data-filter="negative">负面</button><button class="filter" type="button" aria-pressed="false" data-filter="positive">正向</button><input class="search" id="issue-search" type="search" placeholder="搜索城市、摘要或用户" aria-label="搜索"></div>
         <div class="issue-list" id="issue-list"><div class="empty">正在读取最新数据…</div></div>
+        <section class="unsummarized-section" id="unsummarized-section" hidden>
+          <div class="unsummarized-head"><div><p class="section-label">Unsummarized signals</p><h3>其他新增舆情</h3></div><span class="count" id="unsummarized-count">--</span></div>
+          <ul class="unsummarized-list" id="unsummarized-list"></ul>
+        </section>
         <section class="other-news" id="other-news" hidden>
           <div class="other-news-head"><div><p class="section-label">Other verified reports</p><h3>其他有效报道</h3></div><span class="count" id="other-news-count">--</span></div>
           <ul class="other-news-list" id="other-news-list"></ul>
         </section>
       </section>
       <aside class="aside">
+        <section class="aside-section" id="visual-section"><p class="section-label">Signal map</p><h3 class="aside-title" id="visual-title">城市态势</h3><div class="visual-list" id="visual-list"><div class="empty">等待数据</div></div></section>
         <section class="aside-section"><p class="section-label">Sources</p><h3 class="aside-title">来源分布</h3><ul class="source-list" id="source-list"><li class="source-row"><span>等待数据</span><span>--</span></li></ul></section>
       </aside>
     </div>
@@ -210,7 +233,7 @@
     const itemText = (item) => item.copy_text || [item.summary || item.title || "", item.url || item.link || ""].filter(Boolean).join("\n");
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
     const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
-    const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [] });
+    const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [], unsummarized: data.unsummarized || data.other_items || [] });
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [], featured: data.top10 || data.recommendations || data.items || [] });
     function currentData() { return state.active === "personal" ? state.personal : state.media; }
     function rssCandidates() { return state.media?.rss_candidates || []; }
@@ -229,10 +252,24 @@
         if (!$("#candidate-panel").hidden) renderCandidates();
       });
     }
+    function renderVisual(data, items) {
+      const personal = state.active === "personal";
+      const rows = personal
+        ? (data?.cities || []).map((city) => [city.city || "其他", city.total || 0, city.new_neg || 0])
+        : Object.entries(items.reduce((map, item) => { const key = item.media || "其他"; map[key] = (map[key] || 0) + 1; return map; }, {})).map(([name, count]) => [name, count, count]);
+      const sorted = rows.sort((a, b) => b[1] - a[1]).slice(0, 6);
+      const max = Math.max(1, ...sorted.map((row) => row[1]));
+      $("#visual-title").textContent = personal ? "城市态势" : "媒体态势";
+      $("#visual-list").innerHTML = sorted.length ? sorted.map(([name, total, negative]) => {
+        const label = personal ? `${negative} 负面 / ${total} 条` : `${total} 条`;
+        return `<div class="visual-row"><div class="visual-label"><strong>${escapeHtml(name)}</strong><span>${escapeHtml(label)}</span></div><div class="visual-track"><i class="visual-fill" style="width:${Math.max(4, Math.round(total / max * 100))}%"></i></div></div>`;
+      }).join("") : `<div class="empty">暂无可视化数据</div>`;
+    }
     function renderSources(items) {
       const counts = items.reduce((map, item) => { const key = item.media || item.city || "其他"; map[key] = (map[key] || 0) + 1; return map; }, {});
       const rows = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 6);
-      $("#source-list").innerHTML = rows.length ? rows.map(([name, count]) => `<li class="source-row"><strong>${escapeHtml(name)}</strong><span>${count} 条</span></li>`).join("") : `<li class="source-row"><span>暂无数据</span><span>--</span></li>`;
+      const max = Math.max(1, ...(rows.map(([, count]) => count)));
+      $("#source-list").innerHTML = rows.length ? rows.map(([name, count]) => `<li class="source-row"><div class="source-row-head"><strong>${escapeHtml(name)}</strong><span>${count} 条</span></div><div class="source-track"><i class="source-fill" style="width:${Math.max(4, Math.round(count / max * 100))}%"></i></div></li>`).join("") : `<li class="source-row"><div class="source-row-head"><span>暂无数据</span><span>--</span></div></li>`;
     }
     function renderCandidates() {
       const candidates = rssCandidates();
@@ -337,11 +374,32 @@
         const author = personal ? (item.user ? `@${item.user}` : "") : "";
         return `<article class="issue" data-level="${level}"><div class="issue-number">${String(index + 1).padStart(2, "0")}</div><div><div class="issue-top"><div class="issue-meta"><strong>${escapeHtml(heading)}</strong>${personal ? `<span class="tag ${level === "positive" ? "good" : ""}">${escapeHtml(label)}</span>` : ""}<br>${escapeHtml(meta)}</div><button class="copy-button" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></div>${body ? `<p class="issue-summary">${escapeHtml(body)}</p>` : ""}<div class="issue-footer"><span class="issue-author">${escapeHtml(author)}</span>${link ? `<a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文 ↗</a>` : ""}</div></div></article>`;
       }).join("") : `<div class="empty">当前报告没有符合条件的内容。</div>`;
-      document.querySelectorAll(".copy-button").forEach((button) => button.addEventListener("click", async () => {
-        const original = button.textContent;
-        try { await copyText(button.dataset.copy || ""); button.textContent = "已复制"; button.dataset.state = "copied"; } catch (error) { button.textContent = "失败"; }
-        window.setTimeout(() => { button.textContent = original; delete button.dataset.state; }, 1500);
-      }));
+    }
+    function renderUnsummarized() {
+      const panel = $("#unsummarized-section");
+      if (state.active !== "personal" || !state.personal) { panel.hidden = true; return; }
+      const recommendedKeys = new Set((state.personal.items || []).map((item) => item.id || item.url || item.user + item.time + item.text));
+      const items = (state.personal.unsummarized || []).filter((item) => !recommendedKeys.has(item.id || item.url || item.user + item.time + item.text));
+      if (!items.length) { panel.hidden = true; return; }
+      panel.hidden = false;
+      $("#unsummarized-count").textContent = `共 ${items.length} 条`;
+      $("#unsummarized-list").innerHTML = items.length ? items.slice(0, 20).map((item, index) => {
+        const text = item.text || item.summary || item.title || "未生成摘要";
+        const link = item.url || item.link || "";
+        const meta = [item.region || item.city, item.time, item.user ? `@${item.user}` : ""].filter(Boolean).join(" · ");
+        return `<li class="unsummarized-row"><span class="issue-number">${String(index + 1).padStart(2, "0")}</span><div><div class="unsummarized-text">${escapeHtml(text)}</div><div class="unsummarized-meta">${escapeHtml(meta || "未生成摘要")}${link ? ` · <a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文</a>` : ""}</div></div><button class="copy-button unsummarized-copy" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></li>`;
+      }).join("") : `<li class="empty">暂无未生成摘要的新增舆情。</li>`;
+    }
+    function bindCopyButtons() {
+      document.querySelectorAll(".copy-button").forEach((button) => {
+        if (button.dataset.bound === "true") return;
+        button.dataset.bound = "true";
+        button.addEventListener("click", async () => {
+          const original = button.textContent;
+          try { await copyText(button.dataset.copy || ""); button.textContent = "已复制"; button.dataset.state = "copied"; } catch (error) { button.textContent = "失败"; }
+          window.setTimeout(() => { button.textContent = original; delete button.dataset.state; }, 1500);
+        });
+      });
     }
     function renderOtherMedia() {
       const panel = $("#other-news");
@@ -361,7 +419,7 @@
       $("#panel-title").textContent = state.active === "personal" ? "精选舆情" : "精选报道";
       $("#updated-line").textContent = data ? `${data.period || "最新报告"} · 更新于 ${data.updated_at || "未知时间"}` : "正在读取最新日报";
       $("#status-line").textContent = state.errors.length ? "部分数据未更新" : (data ? "数据已同步" : "在线读取");
-      renderMetrics(data); renderSources(items); renderIssues(); renderOtherMedia();
+      renderMetrics(data); renderVisual(data, items); renderSources(items); renderIssues(); renderUnsummarized(); renderOtherMedia(); bindCopyButtons();
       if (state.active !== "media") { $("#candidate-panel").hidden = true; state.selectedCandidate = null; $("#candidate-detail").hidden = true; }
       else if (!$("#candidate-panel").hidden) renderCandidates();
     }
