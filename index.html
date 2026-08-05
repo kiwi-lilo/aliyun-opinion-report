@@ -89,12 +89,12 @@
     .issue[data-level="negative"] { border-left-color: var(--red); }
     .issue[data-level="positive"] { border-left-color: var(--teal); }
     .issue-number { color: #9aa8aa; font-size: 16px; font-weight: 750; }
-    .issue-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; }
-    .issue-meta { color: var(--muted); font-size: 12px; line-height: 1.7; }
+    .issue-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: start; gap: 15px; }
+    .issue-meta { min-width: 0; color: var(--muted); font-size: 12px; line-height: 1.7; overflow-wrap: anywhere; }
     .issue-meta strong { color: var(--ink); font-size: 14px; }
     .tag { display: inline-block; margin-left: 7px; padding: 2px 6px; border-radius: 3px; color: var(--red); background: var(--red-soft); font-size: 11px; }
     .tag.good { color: var(--teal); background: var(--teal-soft); }
-    .copy-button { flex: none; min-width: 58px; border: 1px solid #b6c1c2; padding: 7px 10px; border-radius: 4px; color: var(--dark); background: #fff; font-size: 12px; font-weight: 700; }
+    .copy-button { justify-self: end; min-width: 58px; white-space: nowrap; border: 1px solid #b6c1c2; padding: 7px 10px; border-radius: 4px; color: var(--dark); background: #fff; font-size: 12px; font-weight: 700; }
     .copy-button:hover { border-color: var(--teal); color: var(--teal); }
     .copy-button[data-state="copied"] { border-color: var(--teal); color: var(--teal); background: var(--teal-soft); }
     .issue-summary { margin: 12px 0 10px; font-size: 15px; line-height: 1.8; overflow-wrap: anywhere; }
@@ -138,8 +138,8 @@
       .toolbar { flex-wrap: wrap; }
       .search { width: 100%; margin-left: 0; }
       .issue { grid-template-columns: 27px minmax(0,1fr); gap: 10px; padding: 15px 12px; }
-      .issue-top { display: block; }
-      .copy-button { margin-top: 10px; }
+      .issue-top { grid-template-columns: minmax(0, 1fr) auto; gap: 10px; }
+      .copy-button { grid-column: 2; grid-row: 1; align-self: start; margin-top: 0; }
       .candidate-detail { grid-template-columns: 1fr; }
       .candidate-row { grid-template-columns: 24px minmax(0,1fr); }
       .select-candidate { grid-column: 2; justify-self: start; }
