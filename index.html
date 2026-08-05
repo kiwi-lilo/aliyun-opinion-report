@@ -46,6 +46,29 @@
     .metric:last-child { border-right: 0; }
     .metric-value { display: block; color: var(--dark); font-size: 28px; font-weight: 750; line-height: 1; }
     .metric-label { display: block; margin-top: 10px; color: var(--muted); font-size: 12px; }
+    .metric-action { width: 100%; border: 0; border-right: 1px solid var(--line); text-align: left; background: var(--paper); }
+    .metric-action:hover { background: var(--teal-soft); }
+    .metric-action:focus-visible { position: relative; z-index: 1; outline: 3px solid #a9d3ca; outline-offset: -3px; }
+    .candidate-panel { margin: -10px 0 28px; padding: 20px; border: 1px solid #b8d4cf; background: #f4faf8; box-shadow: var(--shadow); }
+    .candidate-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 15px; margin-bottom: 13px; }
+    .candidate-head h3 { margin: 0; font-size: 19px; }
+    .candidate-list { display: grid; gap: 7px; max-height: 360px; overflow: auto; }
+    .candidate-row { display: grid; grid-template-columns: 28px minmax(0,1fr) auto; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid #d6e7e3; background: #fff; }
+    .candidate-row strong { color: var(--ink); font-size: 13px; line-height: 1.55; }
+    .candidate-row a { color: inherit; text-decoration: none; }
+    .candidate-row a:hover { color: var(--blue); text-decoration: underline; }
+    .candidate-meta { color: var(--muted); font-size: 11px; }
+    .select-candidate, .generate-button, .copy-draft { border: 1px solid #a5c8c1; padding: 7px 10px; border-radius: 4px; color: var(--teal); background: #fff; font-size: 12px; font-weight: 700; }
+    .select-candidate:hover, .generate-button:hover, .copy-draft:hover { background: var(--teal-soft); }
+    .select-candidate[data-selected="true"] { color: #fff; background: var(--teal); }
+    .candidate-detail { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: end; gap: 16px; margin-top: 15px; padding-top: 15px; border-top: 1px solid #cde1dc; }
+    .candidate-detail p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.7; }
+    .candidate-detail strong { color: var(--ink); font-size: 14px; }
+    .draft-box { margin-top: 14px; }
+    .draft-box textarea { display: block; width: 100%; min-height: 105px; resize: vertical; border: 1px solid #c6d9d5; padding: 11px; color: var(--ink); background: #fff; line-height: 1.7; outline: none; }
+    .draft-box textarea:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(22,118,107,.1); }
+    .draft-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 8px; }
+    .draft-status { margin: 8px 0 0; color: var(--muted); font-size: 12px; }
     .content-grid { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 34px; }
     .section-head { display: flex; align-items: end; justify-content: space-between; gap: 20px; margin-bottom: 14px; }
     h2 { margin: 0; font-size: 25px; line-height: 1.2; }
@@ -90,6 +113,7 @@
       .tabs { gap: 20px; margin-top: 20px; }
       .metrics { grid-template-columns: repeat(2, 1fr); }
       .metric:nth-child(2) { border-right: 0; }
+      .metric-action { border-right: 0; }
       .metric:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
       .content-grid { grid-template-columns: 1fr; gap: 28px; }
       .aside { border-top: 1px solid var(--line); border-left: 0; padding: 23px 0 0; }
@@ -101,6 +125,9 @@
       .issue { grid-template-columns: 27px minmax(0,1fr); gap: 10px; padding: 15px 12px; }
       .issue-top { display: block; }
       .copy-button { margin-top: 10px; }
+      .candidate-detail { grid-template-columns: 1fr; }
+      .candidate-row { grid-template-columns: 24px minmax(0,1fr); }
+      .select-candidate { grid-column: 2; justify-self: start; }
     }
   </style>
 </head>
@@ -119,6 +146,19 @@
   </header>
   <main>
     <section class="metrics" id="metrics" aria-label="报告统计"></section>
+    <section class="candidate-panel" id="candidate-panel" hidden>
+      <div class="candidate-head"><div><p class="section-label">RSS discovery</p><h3>RSS 候选标题</h3></div><span class="count" id="candidate-count">--</span></div>
+      <div class="candidate-list" id="candidate-list"></div>
+      <div class="candidate-detail" id="candidate-detail" hidden>
+        <p><strong id="selected-candidate-title">尚未选择候选</strong><br><span id="selected-candidate-meta"></span></p>
+        <button class="generate-button" id="generate-button" type="button" disabled>生成摘要</button>
+      </div>
+      <div class="draft-box" id="draft-box" hidden>
+        <textarea id="draft-text" placeholder="生成的摘要会出现在这里"></textarea>
+        <div class="draft-actions"><button class="copy-draft" id="copy-draft" type="button">按格式复制</button></div>
+        <p class="draft-status" id="draft-status"></p>
+      </div>
+    </section>
     <div class="content-grid">
       <section>
         <div class="section-head"><div><p class="section-label" id="section-label">Personal / 01</p><h2 id="panel-title">精选舆情</h2></div><span class="count" id="result-count">--</span></div>
@@ -133,7 +173,11 @@
   </main>
   <footer>联合报告入口 · 数据由 GitHub Actions 与阿里云函数分别更新</footer>
   <script>
-    const state = { active: "personal", personal: null, media: null, errors: [] };
+    const state = { active: "personal", personal: null, media: null, errors: [], selectedCandidate: null };
+    // The browser calls the OpenAI-compatible endpoint directly for manual summaries.
+    const SUMMARY_API_BASE = "https://api.deepseek.com";
+    const SUMMARY_API_KEY = "在这里粘贴浏览器摘要 API Key";
+    const SUMMARY_MODEL = "deepseek-v4-flash";
     const $ = (selector) => document.querySelector(selector);
     const escapeHtml = (value) => String(value ?? "").replace(/[&<>'"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;","\"":"&quot;"}[char]));
     const copyText = async (value) => {
@@ -144,15 +188,96 @@
     const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [] });
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [] });
     function currentData() { return state.active === "personal" ? state.personal : state.media; }
+    function rssCandidates() { return state.media?.rss_candidates || []; }
     function renderMetrics(data) {
       const stats = data?.stats || {};
       const values = state.active === "personal" ? [[stats.new_neg ?? 0, "新增负面"], [stats.total_posts ?? 0, "监测帖子"], [stats.healthy ?? 0, "健康城市"], [stats.city_count ?? 0, "覆盖城市"]] : [[data?.items?.length ?? 0, "有效报道"], [stats.verified ?? 0, "原文核验"], [stats.rss_candidates ?? 0, "RSS候选"], [stats.summary_candidates ?? 0, "精选候选"]];
-      $("#metrics").innerHTML = values.map(([value, label]) => `<div class="metric"><span class="metric-value">${escapeHtml(value)}</span><span class="metric-label">${escapeHtml(label)}</span></div>`).join("");
+      $("#metrics").innerHTML = values.map(([value, label]) => {
+        const isCandidateAction = state.active === "media" && label === "RSS候选";
+        const tag = isCandidateAction ? "button" : "div";
+        const extra = isCandidateAction ? " id=\"rss-candidate-card\" class=\"metric metric-action\" type=\"button\"" : " class=\"metric\"";
+        return `<${tag}${extra}><span class="metric-value">${escapeHtml(value)}</span><span class="metric-label">${escapeHtml(label)}${isCandidateAction ? " · 点击查看" : ""}</span></${tag}>`;
+      }).join("");
+      const candidateCard = $("#rss-candidate-card");
+      if (candidateCard) candidateCard.addEventListener("click", () => {
+        $("#candidate-panel").hidden = !$("#candidate-panel").hidden;
+        if (!$("#candidate-panel").hidden) renderCandidates();
+      });
     }
     function renderSources(items) {
       const counts = items.reduce((map, item) => { const key = item.media || item.city || "其他"; map[key] = (map[key] || 0) + 1; return map; }, {});
       const rows = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 6);
       $("#source-list").innerHTML = rows.length ? rows.map(([name, count]) => `<li class="source-row"><strong>${escapeHtml(name)}</strong><span>${count} 条</span></li>`).join("") : `<li class="source-row"><span>暂无数据</span><span>--</span></li>`;
+    }
+    function renderCandidates() {
+      const candidates = rssCandidates();
+      $("#candidate-count").textContent = `共 ${candidates.length} 条`;
+      $("#candidate-list").innerHTML = candidates.length ? candidates.map((item, index) => `<div class="candidate-row"><span class="issue-number">${String(index + 1).padStart(2, "0")}</span><div><strong><a href="${escapeHtml(item.link || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名候选")}</a></strong><div class="candidate-meta">${escapeHtml(item.media || "央媒")} · ${escapeHtml(item.time || "时间未知")}</div></div><button class="select-candidate" type="button" data-candidate-index="${index}" data-selected="${String(state.selectedCandidate === item)}">选中</button></div>`).join("") : `<div class="empty">本轮没有 RSS 候选。</div>`;
+      document.querySelectorAll(".select-candidate").forEach((button) => button.addEventListener("click", () => selectCandidate(Number(button.dataset.candidateIndex))));
+    }
+    function selectCandidate(index) {
+      const candidate = rssCandidates()[index];
+      if (!candidate) return;
+      state.selectedCandidate = candidate;
+      $("#candidate-detail").hidden = false;
+      $("#selected-candidate-title").textContent = candidate.title || "未命名候选";
+      $("#selected-candidate-meta").textContent = `${candidate.media || "央媒"} · ${candidate.time || "时间未知"}`;
+      $("#generate-button").disabled = false;
+      $("#draft-box").hidden = true;
+      $("#draft-text").value = "";
+      $("#draft-status").textContent = "";
+      document.querySelectorAll(".select-candidate").forEach((button) => button.setAttribute("data-selected", String(Number(button.dataset.candidateIndex) === index)));
+    }
+    function cleanGeneratedSummary(text) {
+      return String(text || "").replace(/^```(?:text|markdown)?/i, "").replace(/```$/g, "").replace(/^\s*\u25b3\s*/, "").trim();
+    }
+    async function tryReadCandidateArticle(item) {
+      if (item.excerpt) return item.excerpt;
+      if (!item.link) return "";
+      try {
+        const response = await fetch(item.link, { mode: "cors", cache: "no-store" });
+        if (!response.ok) return "";
+        const html = await response.text();
+        const holder = document.createElement("div");
+        holder.innerHTML = html;
+        return (holder.textContent || "").replace(/\s+/g, " ").trim().slice(0, 12000);
+      } catch (error) {
+        return "";
+      }
+    }
+    async function generateCandidateSummary() {
+      const item = state.selectedCandidate;
+      if (!item) return;
+      const button = $("#generate-button");
+      const status = $("#draft-status");
+      if (!SUMMARY_API_KEY || SUMMARY_API_KEY.includes("在这里粘贴")) {
+        status.textContent = "请先在 index.html 顶部填写 SUMMARY_API_KEY。";
+        return;
+      }
+      button.disabled = true;
+      button.textContent = "生成中…";
+      status.textContent = "正在请求摘要接口，请稍候。";
+      try {
+        const articleText = await tryReadCandidateArticle(item);
+        const prompt = `你是政务新闻编辑。请根据下面的央媒涉陕新闻信息写一段简洁、准确的两句摘要。只输出摘要正文，不加标题、来源括号、三角符号或链接；如果正文为空，就只能依据标题，不能编造标题之外的事实。\n媒体：${item.media || "央媒"}\n标题：${item.title || ""}\n原文链接：${item.link || ""}\n正文：${articleText || "（浏览器未能读取原文正文，请仅依据标题保持审慎）"}`;
+        const response = await fetch(`${SUMMARY_API_BASE.replace(/\/$/, "")}/chat/completions`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "Authorization": `Bearer ${SUMMARY_API_KEY}` },
+          body: JSON.stringify({ model: SUMMARY_MODEL, temperature: 0.1, max_tokens: 512, messages: [{ role: "user", content: prompt }] }),
+        });
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.error?.message || `HTTP ${response.status}`);
+        const summary = cleanGeneratedSummary(data.choices?.[0]?.message?.content);
+        if (!summary) throw new Error("接口没有返回摘要");
+        $("#draft-text").value = `${summary}\n${item.link || ""}`.trim();
+        $("#draft-box").hidden = false;
+        status.textContent = "摘要已生成，可以继续修改后按格式复制。";
+      } catch (error) {
+        status.textContent = `生成失败：${error.message || error}`;
+      } finally {
+        button.disabled = false;
+        button.textContent = "生成摘要";
+      }
     }
     function renderIssues() {
       const data = currentData();
@@ -191,10 +316,18 @@
       $("#status-line").textContent = state.errors.length ? "部分数据未更新" : (data ? "数据已同步" : "在线读取");
       $("#note").textContent = data ? `${data.period || "本轮报告"}。点击每条内容右侧的复制按钮，可复制摘要与原文链接。` : "数据加载完成后，这里会显示当前报告的采集范围与状态。";
       renderMetrics(data); renderSources(items); renderIssues();
+      if (state.active !== "media") { $("#candidate-panel").hidden = true; state.selectedCandidate = null; $("#candidate-detail").hidden = true; }
+      else if (!$("#candidate-panel").hidden) renderCandidates();
     }
-    document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => { state.active = tab.dataset.tab; document.querySelectorAll(".tab").forEach((button) => button.setAttribute("aria-selected", String(button === tab))); document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.filter === "all"))); $("#issue-search").value = ""; render(); }));
+    document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => { state.active = tab.dataset.tab; document.querySelectorAll(".tab").forEach((button) => button.setAttribute("aria-selected", String(button === tab))); document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.filter === "all"))); $("#issue-search").value = ""; state.selectedCandidate = null; render(); }));
     document.querySelectorAll(".filter").forEach((filter) => filter.addEventListener("click", () => { document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button === filter))); renderIssues(); }));
     $("#issue-search").addEventListener("input", renderIssues);
+    $("#generate-button").addEventListener("click", generateCandidateSummary);
+    $("#copy-draft").addEventListener("click", async () => {
+      const draft = $("#draft-text").value.trim();
+      if (!draft) return;
+      try { await copyText(draft); $("#draft-status").textContent = "已按格式复制摘要和原文链接。"; } catch (error) { $("#draft-status").textContent = `复制失败：${error.message || error}`; }
+    });
     async function load() {
       const requests = await Promise.allSettled([fetch(`personal.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("personal"); return response.json(); }), fetch(`media.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("media"); return response.json(); })]);
       state.errors = []; if (requests[0].status === "fulfilled") state.personal = normalizePersonal(requests[0].value); else state.errors.push("personal"); if (requests[1].status === "fulfilled") state.media = normalizeMedia(requests[1].value); else state.errors.push("media"); render();
