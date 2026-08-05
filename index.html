@@ -52,6 +52,12 @@
     .candidate-panel { margin: -10px 0 28px; padding: 20px; border: 1px solid #b8d4cf; background: #f4faf8; box-shadow: var(--shadow); }
     .candidate-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 15px; margin-bottom: 13px; }
     .candidate-head h3 { margin: 0; font-size: 19px; }
+    .candidate-tools { display: flex; align-items: center; gap: 8px; margin: 14px 0 10px; }
+    .candidate-search { flex: 1; min-width: 0; border: 1px solid #c6d9d5; padding: 8px 10px; color: var(--ink); background: #fff; outline: none; font-size: 12px; }
+    .candidate-search:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(22,118,107,.1); }
+    .candidate-page-button { border: 1px solid #a5c8c1; padding: 7px 10px; border-radius: 4px; color: var(--teal); background: #fff; font-size: 12px; }
+    .candidate-page-button:disabled { cursor: default; opacity: .45; }
+    .candidate-page-count { min-width: 54px; color: var(--muted); font-size: 11px; text-align: center; }
     .candidate-list { display: grid; gap: 7px; max-height: 360px; overflow: auto; }
     .candidate-row { display: grid; grid-template-columns: 28px minmax(0,1fr) auto; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid #d6e7e3; background: #fff; }
     .candidate-row strong { color: var(--ink); font-size: 13px; line-height: 1.55; }
@@ -94,6 +100,8 @@
     .issue-summary { margin: 12px 0 10px; font-size: 15px; line-height: 1.8; overflow-wrap: anywhere; }
     .issue-link { color: var(--blue); font-size: 12px; font-weight: 700; text-decoration: none; }
     .issue-link:hover { text-decoration: underline; }
+    .issue-footer { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; margin-top: 12px; }
+    .issue-author { min-width: 0; color: #a4afb1; font-size: 12px; opacity: .82; overflow-wrap: anywhere; }
     .other-news { margin-top: 30px; border-top: 2px solid var(--dark); }
     .other-news-head { display: flex; align-items: end; justify-content: space-between; gap: 16px; padding: 16px 0 10px; }
     .other-news h3 { margin: 0; font-size: 18px; }
@@ -135,6 +143,8 @@
       .candidate-detail { grid-template-columns: 1fr; }
       .candidate-row { grid-template-columns: 24px minmax(0,1fr); }
       .select-candidate { grid-column: 2; justify-self: start; }
+      .candidate-tools { flex-wrap: wrap; }
+      .candidate-search { flex-basis: 100%; }
       .other-news-row { display: block; }
       .other-news-row span { display: block; margin-top: 3px; }
     }
@@ -157,6 +167,7 @@
     <section class="metrics" id="metrics" aria-label="报告统计"></section>
     <section class="candidate-panel" id="candidate-panel" hidden>
       <div class="candidate-head"><div><p class="section-label">RSS discovery</p><h3>RSS 候选标题</h3><p class="note">候选来自 RSS，只有标记“已核验原文”的链接才属于已确认的央媒正文。</p></div><span class="count" id="candidate-count">--</span></div>
+      <div class="candidate-tools"><input class="candidate-search" id="candidate-search" type="search" placeholder="搜索候选标题或媒体" aria-label="搜索 RSS 候选"><button class="candidate-page-button" id="candidate-prev" type="button">上一页</button><span class="candidate-page-count" id="candidate-page-count">1 / 1</span><button class="candidate-page-button" id="candidate-next" type="button">下一页</button></div>
       <div class="candidate-list" id="candidate-list"></div>
       <div class="candidate-detail" id="candidate-detail" hidden>
         <p><strong id="selected-candidate-title">尚未选择候选</strong><br><span id="selected-candidate-meta"></span></p>
@@ -185,7 +196,7 @@
   </main>
   <footer>联合报告入口 · 数据由 GitHub Actions 与阿里云函数分别更新</footer>
   <script>
-    const state = { active: "personal", personal: null, media: null, errors: [], selectedCandidate: null };
+    const state = { active: "personal", personal: null, media: null, errors: [], selectedCandidate: null, candidatePage: 1 };
     // The browser calls the OpenAI-compatible endpoint directly for manual summaries.
     const SUMMARY_API_BASE = "https://api.deepseek.com";
     const SUMMARY_API_KEY = "在这里粘贴浏览器摘要 API Key";
@@ -197,6 +208,8 @@
       const input = document.createElement("textarea"); input.value = value; input.style.position = "fixed"; input.style.opacity = "0"; document.body.appendChild(input); input.select(); document.execCommand("copy"); input.remove();
     };
     const itemText = (item) => item.copy_text || [item.summary || item.title || "", item.url || item.link || ""].filter(Boolean).join("\n");
+    const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
+    const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
     const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [] });
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [], featured: data.top10 || data.recommendations || data.items || [] });
     function currentData() { return state.active === "personal" ? state.personal : state.media; }
@@ -224,7 +237,17 @@
     function renderCandidates() {
       const candidates = rssCandidates();
       $("#candidate-count").textContent = `共 ${candidates.length} 条`;
-      $("#candidate-list").innerHTML = candidates.length ? candidates.map((item, index) => { const status = item.verified ? "已核验原文" : "待核验 RSS 跳转"; return `<div class="candidate-row"><span class="issue-number">${String(index + 1).padStart(2, "0")}</span><div><strong><a href="${escapeHtml(item.link || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名候选")}</a></strong><div class="candidate-meta">${escapeHtml(item.media || "央媒")} · ${escapeHtml(item.time || "时间未知")} · ${status}</div></div><button class="select-candidate" type="button" data-candidate-index="${index}" data-selected="${String(state.selectedCandidate === item)}">选中</button></div>`; }).join("") : `<div class="empty">本轮没有 RSS 候选。</div>`;
+      const query = $("#candidate-search").value.trim().toLowerCase();
+      const filtered = candidates.filter((item) => [item.title, item.media, item.time].join(" ").toLowerCase().includes(query));
+      const pageSize = 20;
+      const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
+      state.candidatePage = Math.min(Math.max(1, state.candidatePage), pageCount);
+      const start = (state.candidatePage - 1) * pageSize;
+      const visible = filtered.slice(start, start + pageSize);
+      $("#candidate-page-count").textContent = `${state.candidatePage} / ${pageCount}`;
+      $("#candidate-prev").disabled = state.candidatePage <= 1;
+      $("#candidate-next").disabled = state.candidatePage >= pageCount;
+      $("#candidate-list").innerHTML = visible.length ? visible.map((item, offset) => { const index = start + offset; const status = item.verified ? "已核验原文" : "待核验 RSS 跳转"; return `<div class="candidate-row"><span class="issue-number">${String(index + 1).padStart(2, "0")}</span><div><strong><a href="${escapeHtml(item.link || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名候选")}</a></strong><div class="candidate-meta">${escapeHtml(item.media || "央媒")} · ${escapeHtml(item.time || "时间未知")} · ${status}</div></div><button class="select-candidate" type="button" data-candidate-index="${candidates.indexOf(item)}" data-selected="${String(state.selectedCandidate === item)}">选中</button></div>`; }).join("") : `<div class="empty">没有符合搜索条件的 RSS 候选。</div>`;
       document.querySelectorAll(".select-candidate").forEach((button) => button.addEventListener("click", () => selectCandidate(Number(button.dataset.candidateIndex))));
     }
     function selectCandidate(index) {
@@ -306,10 +329,13 @@
       $("#issue-list").innerHTML = visible.length ? visible.map((item, index) => {
         const label = item.label || item.sentiment_label || "报道";
         const level = /负面|关注/.test(label) ? "negative" : /正面|正向/.test(label) ? "positive" : "all";
-        const heading = state.active === "personal" ? `${item.city || "未知城市"} · ${item.user || "个人用户"}` : `${item.media || "央媒"} · ${item.title || "未命名报道"}`;
+        const personal = state.active === "personal";
+        const heading = personal ? firstSentence(item.summary || item.text || "暂无摘要") : `${item.media || "央媒"} · ${item.title || "未命名报道"}`;
         const meta = state.active === "personal" ? `${item.region || item.city || ""} · ${item.time || ""}` : `${item.time || ""}`;
         const link = item.url || item.link || "";
-        return `<article class="issue" data-level="${level}"><div class="issue-number">${String(index + 1).padStart(2, "0")}</div><div><div class="issue-top"><div class="issue-meta"><strong>${escapeHtml(heading)}</strong>${state.active === "personal" ? `<span class="tag ${level === "positive" ? "good" : ""}">${escapeHtml(label)}</span>` : ""}<br>${escapeHtml(meta)}</div><button class="copy-button" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></div><p class="issue-summary">${escapeHtml(item.summary || item.title || "暂无摘要")}</p>${link ? `<a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文 ↗</a>` : ""}</div></article>`;
+        const body = personal ? summaryRemainder(item.summary || item.text || "") : (item.summary || "");
+        const author = personal ? (item.user ? `@${item.user}` : "") : "";
+        return `<article class="issue" data-level="${level}"><div class="issue-number">${String(index + 1).padStart(2, "0")}</div><div><div class="issue-top"><div class="issue-meta"><strong>${escapeHtml(heading)}</strong>${personal ? `<span class="tag ${level === "positive" ? "good" : ""}">${escapeHtml(label)}</span>` : ""}<br>${escapeHtml(meta)}</div><button class="copy-button" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></div>${body ? `<p class="issue-summary">${escapeHtml(body)}</p>` : ""}<div class="issue-footer"><span class="issue-author">${escapeHtml(author)}</span>${link ? `<a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文 ↗</a>` : ""}</div></div></article>`;
       }).join("") : `<div class="empty">当前报告没有符合条件的内容。</div>`;
       document.querySelectorAll(".copy-button").forEach((button) => button.addEventListener("click", async () => {
         const original = button.textContent;
@@ -339,9 +365,12 @@
       if (state.active !== "media") { $("#candidate-panel").hidden = true; state.selectedCandidate = null; $("#candidate-detail").hidden = true; }
       else if (!$("#candidate-panel").hidden) renderCandidates();
     }
-    document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => { state.active = tab.dataset.tab; document.querySelectorAll(".tab").forEach((button) => button.setAttribute("aria-selected", String(button === tab))); document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.filter === "all"))); $("#issue-search").value = ""; state.selectedCandidate = null; render(); }));
+    document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => { state.active = tab.dataset.tab; document.querySelectorAll(".tab").forEach((button) => button.setAttribute("aria-selected", String(button === tab))); document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.filter === "all"))); $("#issue-search").value = ""; state.selectedCandidate = null; state.candidatePage = 1; render(); }));
     document.querySelectorAll(".filter").forEach((filter) => filter.addEventListener("click", () => { document.querySelectorAll(".filter").forEach((button) => button.setAttribute("aria-pressed", String(button === filter))); renderIssues(); }));
     $("#issue-search").addEventListener("input", renderIssues);
+    $("#candidate-search").addEventListener("input", () => { state.candidatePage = 1; renderCandidates(); });
+    $("#candidate-prev").addEventListener("click", () => { state.candidatePage -= 1; renderCandidates(); });
+    $("#candidate-next").addEventListener("click", () => { state.candidatePage += 1; renderCandidates(); });
     $("#generate-button").addEventListener("click", generateCandidateSummary);
     $("#copy-draft").addEventListener("click", async () => {
       const draft = $("#draft-text").value.trim();
