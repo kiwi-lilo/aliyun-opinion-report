@@ -1,13 +1,21 @@
 {
   "source": "media",
-  "updated_at": "2026-08-06 01:39",
+  "updated_at": "2026-08-06 01:45",
   "period": "最近 48 小时",
   "stats": {
-    "rss_candidates": 121,
-    "verified": 9,
-    "summary_candidates": 7
+    "rss_candidates": 124,
+    "verified": 13,
+    "summary_candidates": 8
   },
   "items": [
+    {
+      "media": "中国新闻网",
+      "title": "2026西安马拉松报名启动 总参赛规模达3.6万人",
+      "summary": "2026西安马拉松报名启动 总参赛规模达3.6万人",
+      "time": "08-04 16:53",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-04/10671789.shtml",
+      "copy_text": "2026西安马拉松报名启动 总参赛规模达3.6万人\nhttps://www.chinanews.com.cn/ty/2026/08-04/10671789.shtml"
+    },
     {
       "media": "新华网",
       "title": "两岸临书展亮相西安 共续文化根脉",
@@ -79,9 +87,41 @@
       "time": "08-04 07:51",
       "link": "https://tv.cctv.com/2026/08/04/VIDEfqPs1WaduGi7EGTiHWq0260804.shtml",
       "copy_text": "[朝闻天下]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制\nhttps://tv.cctv.com/2026/08/04/VIDEfqPs1WaduGi7EGTiHWq0260804.shtml"
+    },
+    {
+      "media": "央视网",
+      "title": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员",
+      "summary": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员",
+      "time": "08-04 19:39",
+      "link": "https://tv.cctv.com/2026/08/04/VIDEKH69hQ42g8NtAl24nA24260804.shtml",
+      "copy_text": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员\nhttps://tv.cctv.com/2026/08/04/VIDEKH69hQ42g8NtAl24nA24260804.shtml"
+    },
+    {
+      "media": "央视网",
+      "title": "[经济信息联播]陕西多地加码新能源汽车消费补贴",
+      "summary": "[经济信息联播]陕西多地加码新能源汽车消费补贴",
+      "time": "08-05 20:53",
+      "link": "https://tv.cctv.com/2026/08/05/VIDEYLW4t8uM0KDMOouB7xR4260805.shtml",
+      "copy_text": "[经济信息联播]陕西多地加码新能源汽车消费补贴\nhttps://tv.cctv.com/2026/08/05/VIDEYLW4t8uM0KDMOouB7xR4260805.shtml"
+    },
+    {
+      "media": "央视网",
+      "title": "《国家记忆》 20260714 人民军工在延安 开拓",
+      "summary": "《国家记忆》 20260714 人民军工在延安 开拓",
+      "time": "08-04 16:57",
+      "link": "https://tv.cctv.com/2026/08/04/VIDEjctiIrjzRllDNtMGIJ9J260804.shtml",
+      "copy_text": "《国家记忆》 20260714 人民军工在延安 开拓\nhttps://tv.cctv.com/2026/08/04/VIDEjctiIrjzRllDNtMGIJ9J260804.shtml"
     }
   ],
   "top10": [
+    {
+      "media": "中国新闻网",
+      "title": "2026西安马拉松报名启动 总参赛规模达3.6万人",
+      "summary": "2026西安马拉松报名启动 总参赛规模达3.6万人",
+      "time": "08-04 16:53",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-04/10671789.shtml",
+      "copy_text": "2026西安马拉松报名启动 总参赛规模达3.6万人\nhttps://www.chinanews.com.cn/ty/2026/08-04/10671789.shtml"
+    },
     {
       "media": "新华网",
       "title": "两岸临书展亮相西安 共续文化根脉",
@@ -151,11 +191,11 @@
     },
     {
       "media": "人民日报",
-      "title": "官方通报西安赛格商场坠亡事件",
-      "summary": "官方通报西安赛格商场坠亡事件",
+      "title": "官方通报“西安赛格商场坠亡事件”",
+      "summary": "官方通报“西安赛格商场坠亡事件”",
       "time": "08-05 21:53",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZnRBM0ZyX2VZQU8ycWRwQ3p2cjN0eXNEdHNWRzBXYXRtMi05LWVibWRlajVhaUJodkRLUjFUN2xCeW1aLXp3NjFjNGpYU2tFQ2s4SUhxY3ZreUZJQUhhMkw0ZE9yRm44WEROMGZUbmxELXc?oc=5",
-      "copy_text": "官方通报西安赛格商场坠亡事件\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTFAtZnRBM0ZyX2VZQU8ycWRwQ3p2cjN0eXNEdHNWRzBXYXRtMi05LWVibWRlajVhaUJodkRLUjFUN2xCeW1aLXp3NjFjNGpYU2tFQ2s4SUhxY3ZreUZJQUhhMkw0ZE9yRm44WEROMGZUbmxELXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZdW5sRGE3YWZwMVJ5d1FmeXM5Q2tad2FFcGxvRXR6dUhpUC1tWDFJWWhCYnZGcmpMcEljUlFycVVEbmhEc1A4Sm1UZ1BQTzAzZmRlUXNjbjBSTGJSbFA5OVd4cFE0UEFkWU5qeHE3SklRT2c?oc=5",
+      "copy_text": "官方通报“西安赛格商场坠亡事件”\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE1ZdW5sRGE3YWZwMVJ5d1FmeXM5Q2tad2FFcGxvRXR6dUhpUC1tWDFJWWhCYnZGcmpMcEljUlFycVVEbmhEc1A4Sm1UZ1BQTzAzZmRlUXNjbjBSTGJSbFA5OVd4cFE0UEFkWU5qeHE3SklRT2c?oc=5",
       "verified": false
     },
     {
@@ -170,20 +210,11 @@
     },
     {
       "media": "人民日报",
-      "title": "陕西各地优服务出实招 助力小微企业发展壮大",
-      "summary": "陕西各地优服务出实招 助力小微企业发展壮大",
-      "time": "08-05 11:44",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UM2VMSFlYZXc0Q1J4cWxEQWRYeFNIU2hIR1duMXRuS3JJN2MtZEZzNnR4WWtYdV9fTnpvZHU2enlERDZickNVWFZfakdob2hsZF9EOGROemtWWGxTTlFBUA?oc=5",
-      "copy_text": "陕西各地优服务出实招 助力小微企业发展壮大\nhttps://news.google.com/rss/articles/CBMiYEFVX3lxTE5UM2VMSFlYZXc0Q1J4cWxEQWRYeFNIU2hIR1duMXRuS3JJN2MtZEZzNnR4WWtYdV9fTnpvZHU2enlERDZickNVWFZfakdob2hsZF9EOGROemtWWGxTTlFBUA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
       "title": "陕西省榆林市子洲5万千瓦风电项目正式转入商业运营",
       "summary": "陕西省榆林市子洲5万千瓦风电项目正式转入商业运营",
       "time": "08-05 19:32",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQVFKdlo4NlhiR2dJdmhjUF9sNmpZc241VXZmUzRpTFJYMXlFYVo4NTZ4NWUxREVqaTFGZXV0NnZYOElOeTh6MGtvd2FkUWdzbFRoZDY2VTltZw?oc=5",
-      "copy_text": "陕西省榆林市子洲5万千瓦风电项目正式转入商业运营\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQVFKdlo4NlhiR2dJdmhjUF9sNmpZc241VXZmUzRpTFJYMXlFYVo4NTZ4NWUxREVqaTFGZXV0NnZYOElOeTh6MGtvd2FkUWdzbFRoZDY2VTltZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lWW80MnNkMElmOEliRF9JOVVmYnlja1lxdDFJbG52V0VEV1BPOUx5aGFYaG8wdm9Xb1hmd2I0bVlzR05BVHR3WDI0QU9zeV91M010cnNTUWNEeU0?oc=5",
+      "copy_text": "陕西省榆林市子洲5万千瓦风电项目正式转入商业运营\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE1lWW80MnNkMElmOEliRF9JOVVmYnlja1lxdDFJbG52V0VEV1BPOUx5aGFYaG8wdm9Xb1hmd2I0bVlzR05BVHR3WDI0QU9zeV91M010cnNTUWNEeU0?oc=5",
       "verified": false
     },
     {
@@ -197,6 +228,15 @@
     },
     {
       "media": "人民日报",
+      "title": "痛心！30岁村支书李杨不幸牺牲……",
+      "summary": "痛心！30岁村支书李杨不幸牺牲……",
+      "time": "08-05 13:54",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hTkRDc2J0cG85N3pJTFRza1A5bW9VYjNmaTktbXBnZWEzRXFRWjVURmJRZy1jQ2lGYkxJeU1oamFHb0cyNXFxcTd3QnI5N3RkX1MwQzk2azk2enAtUmdPV1ZtYWlBRXVpM1EtSU1FVTFOSU0?oc=5",
+      "copy_text": "痛心！30岁村支书李杨不幸牺牲……\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE1hTkRDc2J0cG85N3pJTFRza1A5bW9VYjNmaTktbXBnZWEzRXFRWjVURmJRZy1jQ2lGYkxJeU1oamFHb0cyNXFxcTd3QnI5N3RkX1MwQzk2azk2enAtUmdPV1ZtYWlBRXVpM1EtSU1FVTFOSU0?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
       "title": "西安市科学技术局发布关于2026年青年科技人才项目拟立项目的公示",
       "summary": "西安市科学技术局发布关于2026年青年科技人才项目拟立项目的公示",
       "time": "08-05 18:54",
@@ -206,11 +246,11 @@
     },
     {
       "media": "人民日报",
-      "title": "痛心！30岁村支书李杨不幸牺牲……",
-      "summary": "痛心！30岁村支书李杨不幸牺牲……",
-      "time": "08-05 13:54",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hTkRDc2J0cG85N3pJTFRza1A5bW9VYjNmaTktbXBnZWEzRXFRWjVURmJRZy1jQ2lGYkxJeU1oamFHb0cyNXFxcTd3QnI5N3RkX1MwQzk2azk2enAtUmdPV1ZtYWlBRXVpM1EtSU1FVTFOSU0?oc=5",
-      "copy_text": "痛心！30岁村支书李杨不幸牺牲……\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE1hTkRDc2J0cG85N3pJTFRza1A5bW9VYjNmaTktbXBnZWEzRXFRWjVURmJRZy1jQ2lGYkxJeU1oamFHb0cyNXFxcTd3QnI5N3RkX1MwQzk2azk2enAtUmdPV1ZtYWlBRXVpM1EtSU1FVTFOSU0?oc=5",
+      "title": "知名狗仔卓伟爆料天王巨星有私生子",
+      "summary": "知名狗仔卓伟爆料天王巨星有私生子",
+      "time": "08-05 17:07",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MUE1CQk9ERXJ1MElCNXhtSFNxWjJVUVVjSWc3YVhCQm1YSG9kVm5mM05sS1RISGFjcDlZOG5ITUl6Q2tBWHAtelA2cUViRzhUSnZrNEN2UzFwT2cxQXhiWGxsSXQwTzdSeThTNlFQaVBlZw?oc=5",
+      "copy_text": "知名狗仔卓伟爆料天王巨星有私生子\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE5MUE1CQk9ERXJ1MElCNXhtSFNxWjJVUVVjSWc3YVhCQm1YSG9kVm5mM05sS1RISGFjcDlZOG5ITUl6Q2tBWHAtelA2cUViRzhUSnZrNEN2UzFwT2cxQXhiWGxsSXQwTzdSeThTNlFQaVBlZw?oc=5",
       "verified": false
     },
     {
@@ -238,15 +278,6 @@
       "time": "08-05 08:10",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFFoUktIaTFXZVUwRnV1Q3NxVnVzSGluY0VUbnhyVl9fTE5MWi1yQXdXYS1WdlVncGhsajd3c0NuMTJycHhVbzZCQTVUcExNQmNyWmRKVjJWTUdTZmF2NjEySEM4Q1h6ckhGaDJzT1laV0Z0a2JLTnNyNHVRTDZtZlJoUjlNN1BR?oc=5",
       "copy_text": "看中国银行陕西省分行的“塑料果筐贷”\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFFoUktIaTFXZVUwRnV1Q3NxVnVzSGluY0VUbnhyVl9fTE5MWi1yQXdXYS1WdlVncGhsajd3c0NuMTJycHhVbzZCQTVUcExNQmNyWmRKVjJWTUdTZmF2NjEySEM4Q1h6ckhGaDJzT1laV0Z0a2JLTnNyNHVRTDZtZlJoUjlNN1BR?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "知名狗仔卓伟爆料天王巨星有私生子",
-      "summary": "知名狗仔卓伟爆料天王巨星有私生子",
-      "time": "08-05 17:07",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MUE1CQk9ERXJ1MElCNXhtSFNxWjJVUVVjSWc3YVhCQm1YSG9kVm5mM05sS1RISGFjcDlZOG5ITUl6Q2tBWHAtelA2cUViRzhUSnZrNEN2UzFwT2cxQXhiWGxsSXQwTzdSeThTNlFQaVBlZw?oc=5",
-      "copy_text": "知名狗仔卓伟爆料天王巨星有私生子\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE5MUE1CQk9ERXJ1MElCNXhtSFNxWjJVUVVjSWc3YVhCQm1YSG9kVm5mM05sS1RISGFjcDlZOG5ITUl6Q2tBWHAtelA2cUViRzhUSnZrNEN2UzFwT2cxQXhiWGxsSXQwTzdSeThTNlFQaVBlZw?oc=5",
       "verified": false
     },
     {
@@ -292,15 +323,6 @@
       "time": "08-05 15:55",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVhYcmxwNnhFelFTQk4tbmtsWjlLNFNqQ1lxRE1UUlZ3aDRLMk4xUW1DRHlWVHhSNXZzTUNvMmZmem5XMDFzRS12OTlGSkxuVlFtWG1fU0lYZmxHVlVLNEwtZS1RUnVHdTI1YVRBdlZsYmxULVV3VEx3MVpJbEZqdmpYd0hNU2tSUUxPQw?oc=5",
       "copy_text": "夏语（552）｜上游主题摄影征稿作品展——王毛键作品\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPRVhYcmxwNnhFelFTQk4tbmtsWjlLNFNqQ1lxRE1UUlZ3aDRLMk4xUW1DRHlWVHhSNXZzTUNvMmZmem5XMDFzRS12OTlGSkxuVlFtWG1fU0lYZmxHVlVLNEwtZS1RUnVHdTI1YVRBdlZsYmxULVV3VEx3MVpJbEZqdmpYd0hNU2tSUUxPQw?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "仙人掌安卓官网",
-      "summary": "仙人掌安卓官网",
-      "time": "08-05 01:33",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10T2F1WFJONVpIOUwzVXpKS2R1X0tKQkpaNnJJTy1LYVBLLUZlc3YzUGFYMVBUdkc3WlNrRmR6dXlJcmlFZTNFZHpseWR5WGkxZlNkdmYwbUNfYTI2UTFPWWkwaHIyZUpVcEEyTlV6SWZCcnZuY0FyVzJPeXZSdw?oc=5",
-      "copy_text": "仙人掌安卓官网\nhttps://news.google.com/rss/articles/CBMifkFVX3lxTE10T2F1WFJONVpIOUwzVXpKS2R1X0tKQkpaNnJJTy1LYVBLLUZlc3YzUGFYMVBUdkc3WlNrRmR6dXlJcmlFZTNFZHpseWR5WGkxZlNkdmYwbUNfYTI2UTFPWWkwaHIyZUpVcEEyTlV6SWZCcnZuY0FyVzJPeXZSdw?oc=5",
       "verified": false
     },
     {
@@ -386,15 +408,6 @@
     },
     {
       "media": "人民日报",
-      "title": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 39",
-      "summary": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 39",
-      "time": "08-04 07:39",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPbGstZEtvWV9ueXEzWVF0SmM2S000aC0xU0M0UWxaYmE3VFhseG04SENxRkNOUERCSVJ6UTl2TVYyLUc1VjlDVWZEYXk3dm1kMjBxTFBwQnFzS3otOHItZ2Q2MDBHMzFfRDhYSTNzWEh0djlwVVhMdUxjS2ozeXRfNlZldXFpYk5tdS1ObTd1aWFlYldzN3NwTi1FUXNkU0ttTnhmWG1tOE9SeFZaWDdEaUpTRXpHUU80Ym9VOTNLQlJ1cHBtVDVZOGh2UGJHMnRkQ0llc3VadXEzWkowNlJWbWxvbUxMalhtY2x3eWNJaWlXU3FINzBJZHJPa3Nnc2stbkd3QVVEOU54Rkd1QkdDeW5TNmdLVEFYUkZiYmxEYW5oOW5DX2tDZ182OVRjQ1V2Sm92Yk1hNF9YSnpndXVsRWJBSjc5VTA2RE9BX2Z4UjNUM2pDZ0JpMUU4cDgwU1llT25hMzNpOGlZZUczTGQ2MkRjVFhxcEo4enp0SXZIdlRPUXV4OHhrMDZJNklvc3lxaHViNkNtT3JKZW12eVNQbVdFU2dLX21JWldfUQ?oc=5",
-      "copy_text": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 39\nhttps://news.google.com/rss/articles/CBMirANBVV95cUxPbGstZEtvWV9ueXEzWVF0SmM2S000aC0xU0M0UWxaYmE3VFhseG04SENxRkNOUERCSVJ6UTl2TVYyLUc1VjlDVWZEYXk3dm1kMjBxTFBwQnFzS3otOHItZ2Q2MDBHMzFfRDhYSTNzWEh0djlwVVhMdUxjS2ozeXRfNlZldXFpYk5tdS1ObTd1aWFlYldzN3NwTi1FUXNkU0ttTnhmWG1tOE9SeFZaWDdEaUpTRXpHUU80Ym9VOTNLQlJ1cHBtVDVZOGh2UGJHMnRkQ0llc3VadXEzWkowNlJWbWxvbUxMalhtY2x3eWNJaWlXU3FINzBJZHJPa3Nnc2stbkd3QVVEOU54Rkd1QkdDeW5TNmdLVEFYUkZiYmxEYW5oOW5DX2tDZ182OVRjQ1V2Sm92Yk1hNF9YSnpndXVsRWJBSjc5VTA2RE9BX2Z4UjNUM2pDZ0JpMUU4cDgwU1llT25hMzNpOGlZZUczTGQ2MkRjVFhxcEo4enp0SXZIdlRPUXV4OHhrMDZJNklvc3lxaHViNkNtT3JKZW12eVNQbVdFU2dLX21JWldfUQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
       "title": "西安市中心医院王康斩获全省科普讲解大赛医药卫生赛道一等奖",
       "summary": "西安市中心医院王康斩获全省科普讲解大赛医药卫生赛道一等奖",
       "time": "08-05 11:54",
@@ -422,15 +435,6 @@
     },
     {
       "media": "人民日报",
-      "title": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 14",
-      "summary": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 14",
-      "time": "08-04 06:49",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPeTlwOXBjUTh2U2hZQjVjVmo0a05pVlBFenJ3NjBmUmFOSnZ3c0VKSmE5WWYydGJvZFRlUmppWFFfU2NhN0UzNzhBZFFRNjFpbGtHVjNBWlBHQnZxOHFvRkd4N2RGM2c3OGdpRTJfUFdSTzAzcDVCZFVnS0lxQ1BZX1FIYWQxUGJfcGJacFZ5Q3NWT1R1RmN6em5jV0J5Y1J1b2pLc3h1SGZsVXNmZl9BNU5ZT0RNS0JQTkdIRURUdEpodTRzY3E2SDZJZTZ3Q1RMTXBwY0RwSFV1S1RSZkdDOEt6aXdOTk9fQjlOYmVMc0tIY2ZDdmp6Um1LZ2s4N05BX3lYT1QyVnVsSVI5em9ualdiS1Z2ZzZDcDljeDRPaF9IOGFjd0hFTUJ3bVJqdFFpYVVtV2djS2tWREQ0U093NWU5cHllcS15aDFJcldVWEhLYW1xdGxodXBIM0ZCdmM5cUNhVy1QNF80RC1ET0RVM2p1RUFIdnZVYVo2b1VONTVIYmFlRGVqV0U3NVRsTHY4cDNnWDlydDBfcE93NlpkQW45SS1Dcy1KZ0xJ?oc=5",
-      "copy_text": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 14\nhttps://news.google.com/rss/articles/CBMiqwNBVV95cUxPeTlwOXBjUTh2U2hZQjVjVmo0a05pVlBFenJ3NjBmUmFOSnZ3c0VKSmE5WWYydGJvZFRlUmppWFFfU2NhN0UzNzhBZFFRNjFpbGtHVjNBWlBHQnZxOHFvRkd4N2RGM2c3OGdpRTJfUFdSTzAzcDVCZFVnS0lxQ1BZX1FIYWQxUGJfcGJacFZ5Q3NWT1R1RmN6em5jV0J5Y1J1b2pLc3h1SGZsVXNmZl9BNU5ZT0RNS0JQTkdIRURUdEpodTRzY3E2SDZJZTZ3Q1RMTXBwY0RwSFV1S1RSZkdDOEt6aXdOTk9fQjlOYmVMc0tIY2ZDdmp6Um1LZ2s4N05BX3lYT1QyVnVsSVI5em9ualdiS1Z2ZzZDcDljeDRPaF9IOGFjd0hFTUJ3bVJqdFFpYVVtV2djS2tWREQ0U093NWU5cHllcS15aDFJcldVWEhLYW1xdGxodXBIM0ZCdmM5cUNhVy1QNF80RC1ET0RVM2p1RUFIdnZVYVo2b1VONTVIYmFlRGVqV0U3NVRsTHY4cDNnWDlydDBfcE93NlpkQW45SS1Dcy1KZ0xJ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
       "title": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 37",
       "summary": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 37",
       "time": "08-04 08:14",
@@ -449,15 +453,6 @@
     },
     {
       "media": "人民日报",
-      "title": "非常污得软件_百度 _ 知道",
-      "summary": "非常污得软件_百度 _ 知道",
-      "time": "08-05 02:22",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2RjBaby1yQXJxQWVZZEUwdWxWZkVMN0RyaS04Rkg3RnJ3UllaTy1hS05HRDNZUDlmbWtPU3cteGhVOWYwaTdnSUt5M1MwYmM2eDBSc1ZrNU9GSzJnSE5VaFVDU3RDeXdUNTUtTVNpSEdjaVlRd0hTMUstSWI?oc=5",
-      "copy_text": "非常污得软件_百度 _ 知道\nhttps://news.google.com/rss/articles/CBMifEFVX3lxTFA2RjBaby1yQXJxQWVZZEUwdWxWZkVMN0RyaS04Rkg3RnJ3UllaTy1hS05HRDNZUDlmbWtPU3cteGhVOWYwaTdnSUt5M1MwYmM2eDBSc1ZrNU9GSzJnSE5VaFVDU3RDeXdUNTUtTVNpSEdjaVlRd0hTMUstSWI?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
       "title": "西安市红会医院多学科微创手术成功保肢",
       "summary": "西安市红会医院多学科微创手术成功保肢",
       "time": "08-05 11:53",
@@ -472,15 +467,6 @@
       "time": "08-05 09:43",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm9aZVpubDBvSDIwY2tVSEFlZVpNWVVMazN1MXdqNHdkdFFhUWNnRFc4NE9ibGNQVi1SU0FXTHFGQS1BX1BPM241VE9sRW41YnVqUVJzeW9FaDloWUp4aWRSakZqTG9LQWVZMkpFclZ1WS1sSXQ2eUE5N1NjN0tqMW5nSWZVRE1o?oc=5",
       "copy_text": "西安884套保租房开放申请 应届生优先选房\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm9aZVpubDBvSDIwY2tVSEFlZVpNWVVMazN1MXdqNHdkdFFhUWNnRFc4NE9ibGNQVi1SU0FXTHFGQS1BX1BPM241VE9sRW41YnVqUVJzeW9FaDloWUp4aWRSakZqTG9LQWVZMkpFclZ1WS1sSXQ2eUE5N1NjN0tqMW5nSWZVRE1o?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "2026年铜川市深化产业工人队伍建设改革工作会议召开",
-      "summary": "2026年铜川市深化产业工人队伍建设改革工作会议召开",
-      "time": "08-04 05:17",
-      "link": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQSXc3NW9oXzVoQTdPdFE4eDJQdzNpNmRXYjNnalBtdThSbmwwRGdOd3IwTm0wTVVHZ0lTTk9IN25mcW9TcFJCbDlHZ05COERhNTRuUldJdG1iYWs3ZU80alNoSDBNZXUtelpQeW4tVGFlRmhhVm5DLXVKdmhvblRHejhhLTNmZHJGWEN4QllSMzZmb1ZCUHlIRC05ME9lbFVBcnNUbUFBVEFtenk5dnhVRXdPRkxjUDZESHlWYnBTTk9xbmtxMkVyU3VNTnp4QWpsTnV5UE1SOXFYNmlDUktWNjBTT1ExZGs3ekZwUlJMVG80QnA0T1VhTmtJcC15cVdoemJfbTVHUVgxRWd3VVFXLVN2MG55OFl4NWhFaTdBSldOQjdPS1pmTGRGcko2aEMzWkhvQnJDUjQ5NUhTT24ydkN4dU1qZUhSb1dOVDY0Qzg0YW9tdTEtaEUxcHkxYzlOUVU1R1F1X1RZX01FVmVsR3Z6VU8xS3JIWVE0OUJpWXdwT0EtN3c3dHVXYW1MR3hhbE4wai1vV0x2cURldkg3QVI3am44OFUzT0prZ1p5N3VXVG1Ta2ZBeFI4NVZvdlBEVlJkd1Q0Y2psMXN2S21KSXZSUmJ2SmxSRkpQWWZJTHQ4N21SZTRmenBtOFA4VFJFd202aVNhYXROR1ZYWHZNMHhId1d2cEFhaHAyV1puTmR2eTROVEZ2dmNBUDNLZEtNRmNUM2NsUms3bUllSjIzSU1BamhxZ2VBWUZxYm1QdUlaYTlzVi1GR3lkZUtnMnRqSDB2RWhpb3NHVThhOHVjV0NpS3lpS1B5MVJrU0wxVQ?oc=5",
-      "copy_text": "2026年铜川市深化产业工人队伍建设改革工作会议召开\nhttps://news.google.com/rss/articles/CBMi7wRBVV95cUxQSXc3NW9oXzVoQTdPdFE4eDJQdzNpNmRXYjNnalBtdThSbmwwRGdOd3IwTm0wTVVHZ0lTTk9IN25mcW9TcFJCbDlHZ05COERhNTRuUldJdG1iYWs3ZU80alNoSDBNZXUtelpQeW4tVGFlRmhhVm5DLXVKdmhvblRHejhhLTNmZHJGWEN4QllSMzZmb1ZCUHlIRC05ME9lbFVBcnNUbUFBVEFtenk5dnhVRXdPRkxjUDZESHlWYnBTTk9xbmtxMkVyU3VNTnp4QWpsTnV5UE1SOXFYNmlDUktWNjBTT1ExZGs3ekZwUlJMVG80QnA0T1VhTmtJcC15cVdoemJfbTVHUVgxRWd3VVFXLVN2MG55OFl4NWhFaTdBSldOQjdPS1pmTGRGcko2aEMzWkhvQnJDUjQ5NUhTT24ydkN4dU1qZUhSb1dOVDY0Qzg0YW9tdTEtaEUxcHkxYzlOUVU1R1F1X1RZX01FVmVsR3Z6VU8xS3JIWVE0OUJpWXdwT0EtN3c3dHVXYW1MR3hhbE4wai1vV0x2cURldkg3QVI3am44OFUzT0prZ1p5N3VXVG1Ta2ZBeFI4NVZvdlBEVlJkd1Q0Y2psMXN2S21KSXZSUmJ2SmxSRkpQWWZJTHQ4N21SZTRmenBtOFA4VFJFd202aVNhYXROR1ZYWHZNMHhId1d2cEFhaHAyV1puTmR2eTROVEZ2dmNBUDNLZEtNRmNUM2NsUms3bUllSjIzSU1BamhxZ2VBWUZxYm1QdUlaYTlzVi1GR3lkZUtnMnRqSDB2RWhpb3NHVThhOHVjV0NpS3lpS1B5MVJrU0wxVQ?oc=5",
       "verified": false
     },
     {
@@ -598,15 +584,6 @@
       "time": "08-04 21:56",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTluWFBhVlFWUEVMRS1HcFMzQTZ2aC0yQl9qMk44bU80SDZnREJHdXNsd1B1U3AtcDNYdFJKYkxKRHFvcDJwakU4NGhuRnVQa2taN0ZkZEM1X1FIV2EwWmtfZTlLUi1IQk1ZdV9oN1ZERU9MRS0zM19Qb05rNDU3WHBtS2dyMGcyQXUyWA?oc=5",
       "copy_text": "省十八运会（青少年组）三人篮球比赛落幕 西安市篮球健儿包揽4金！\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeTluWFBhVlFWUEVMRS1HcFMzQTZ2aC0yQl9qMk44bU80SDZnREJHdXNsd1B1U3AtcDNYdFJKYkxKRHFvcDJwakU4NGhuRnVQa2taN0ZkZEM1X1FIV2EwWmtfZTlLUi1IQk1ZdV9oN1ZERU9MRS0zM19Qb05rNDU3WHBtS2dyMGcyQXUyWA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "“刘兄弟，到家了！”",
-      "summary": "“刘兄弟，到家了！”",
-      "time": "08-04 08:40",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxORDlVRUs3OGVQY2hqdXZGSWs4ZE5GbDhJdzl6NUpEd1R0N3RRS2VsREtUbktMaEZuSWRETWJaZGVUM3VJZXNKYnhvbzRRSWQzeG9pMndEaWI5UTFYeEpxbEg2UlhsVzZXbGhpT0dOU3RJUFdvbW0wQ1BhdlpYcUJPVUFQanVTeFpDOHprWC1KQ1JjT25zR0hRbzBuWWsyQVF4S1V4amE0bE9qdzlqTXg1SW5yRXlGdko2clB1V3BSYUF2MmY4M2ZHWTRBdFdzOTZEXzFzS2VJQWNOY3QyTURtNmVVeVpqX19wVUtHV3VhTHZTbmltZWRGMVc5el95Vk9MeEpLbVJGN1BHSVNSbGR1WXFtUVMyRUduSkZQSWVnSk8tTVRyQlVGTWpRTkhHdE00d0xZQzJDblRJRnR6RGVKd0lrSmRZSUFzNktsZV9pWjhpN3BJQk1zeUZB?oc=5",
-      "copy_text": "“刘兄弟，到家了！”\nhttps://news.google.com/rss/articles/CBMi2gJBVV95cUxORDlVRUs3OGVQY2hqdXZGSWs4ZE5GbDhJdzl6NUpEd1R0N3RRS2VsREtUbktMaEZuSWRETWJaZGVUM3VJZXNKYnhvbzRRSWQzeG9pMndEaWI5UTFYeEpxbEg2UlhsVzZXbGhpT0dOU3RJUFdvbW0wQ1BhdlpYcUJPVUFQanVTeFpDOHprWC1KQ1JjT25zR0hRbzBuWWsyQVF4S1V4amE0bE9qdzlqTXg1SW5yRXlGdko2clB1V3BSYUF2MmY4M2ZHWTRBdFdzOTZEXzFzS2VJQWNOY3QyTURtNmVVeVpqX19wVUtHV3VhTHZTbmltZWRGMVc5el95Vk9MeEpLbVJGN1BHSVNSbGR1WXFtUVMyRUduSkZQSWVnSk8tTVRyQlVGTWpRTkhHdE00d0xZQzJDblRJRnR6RGVKd0lrSmRZSUFzNktsZV9pWjhpN3BJQk1zeUZB?oc=5",
       "verified": false
     },
     {
@@ -737,15 +714,6 @@
     },
     {
       "media": "人民日报",
-      "title": "平凉市到西安市路线，卫星视角俯瞰全程",
-      "summary": "平凉市到西安市路线，卫星视角俯瞰全程",
-      "time": "08-04 07:50",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wQlZFRWxVT0ZjTmk0Mm4yMXdVQU1VcTVuQnhWWnhMck1PNkhfUE95WC01cDZHUnc5enlVOUh6LXdpLW5IdjRtdWR6Vm1QUXVXSWJ3?oc=5",
-      "copy_text": "平凉市到西安市路线，卫星视角俯瞰全程\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE1wQlZFRWxVT0ZjTmk0Mm4yMXdVQU1VcTVuQnhWWnhMck1PNkhfUE95WC01cDZHUnc5enlVOUh6LXdpLW5IdjRtdWR6Vm1QUXVXSWJ3?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
       "title": "在陕西关中农村，至今仍保留一项活动，以后可能看不到",
       "summary": "在陕西关中农村，至今仍保留一项活动，以后可能看不到",
       "time": "08-04 05:18",
@@ -796,6 +764,15 @@
       "time": "08-04 15:37",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkJLaHYzMVN0YThyeGZnOVF3bmZMY2JBQUlxdHJlVlJVTHlhcTRIbmFuNlZXZ1Y5N0swenBFZWVOdjIzVjVGOXU5dUVyVGhOQXM3dWhrYmlXRDNLX1U5S3V2U293T2lB?oc=5",
       "copy_text": "2026年西安马拉松开启报名 度小满携手组委会为跑者提供免费接驳\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkJLaHYzMVN0YThyeGZnOVF3bmZMY2JBQUlxdHJlVlJVTHlhcTRIbmFuNlZXZ1Y5N0swenBFZWVOdjIzVjVGOXU5dUVyVGhOQXM3dWhrYmlXRDNLX1U5S3V2U293T2lB?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民网",
+      "title": "陕西：多元文化产品激活消费新动能",
+      "summary": "陕西：多元文化产品激活消费新动能",
+      "time": "08-04 08:55",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSE8tZmRrLWZWc19KX2ItQTUyYjV6YWN1dnJYM3hJb19YZnc4VmZxRHR0bHVMRE14ZlhYRW1oWXROdzNFOUg2Q25PSWRxaFBvUFZSY0ZYWGluX1RZbHBjOUpwOUtYc0lvSmc?oc=5",
+      "copy_text": "陕西：多元文化产品激活消费新动能\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE8zSE8tZmRrLWZWc19KX2ItQTUyYjV6YWN1dnJYM3hJb19YZnc4VmZxRHR0bHVMRE14ZlhYRW1oWXROdzNFOUg2Q25PSWRxaFBvUFZSY0ZYWGluX1RZbHBjOUpwOUtYc0lvSmc?oc=5",
       "verified": false
     },
     {
@@ -854,29 +831,11 @@
     },
     {
       "media": "人民网",
-      "title": "陕西：多元文化产品激活消费新动能",
-      "summary": "陕西：多元文化产品激活消费新动能",
-      "time": "08-04 08:55",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSE8tZmRrLWZWc19KX2ItQTUyYjV6YWN1dnJYM3hJb19YZnc4VmZxRHR0bHVMRE14ZlhYRW1oWXROdzNFOUg2Q25PSWRxaFBvUFZSY0ZYWGluX1RZbHBjOUpwOUtYc0lvSmc?oc=5",
-      "copy_text": "陕西：多元文化产品激活消费新动能\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE8zSE8tZmRrLWZWc19KX2ItQTUyYjV6YWN1dnJYM3hJb19YZnc4VmZxRHR0bHVMRE14ZlhYRW1oWXROdzNFOUg2Q25PSWRxaFBvUFZSY0ZYWGluX1RZbHBjOUpwOUtYc0lvSmc?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民网",
       "title": "渭南《主角》同款经典折子戏首次开启全国大规模商业巡演",
       "summary": "渭南《主角》同款经典折子戏首次开启全国大规模商业巡演",
       "time": "08-04 09:29",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNHNjLWhJTm9QRTFqNk5uVG03TzVNdS01X2w1cjJ0MWRPcXFjMGhCR1d6Qk9zcUEwcjFmaG02RkFNalpjZVlEa0dxTkFBS3JpNnFfOGlmMTRkQkxjNTNaMHFfQnMxczlnWHc?oc=5",
       "copy_text": "渭南《主角》同款经典折子戏首次开启全国大规模商业巡演\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBGNHNjLWhJTm9QRTFqNk5uVG03TzVNdS01X2w1cjJ0MWRPcXFjMGhCR1d6Qk9zcUEwcjFmaG02RkFNalpjZVlEa0dxTkFBS3JpNnFfOGlmMTRkQkxjNTNaMHFfQnMxczlnWHc?oc=5",
-      "verified": false
-    },
-    {
-      "media": "新华每日电讯",
-      "title": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 18",
-      "summary": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 18",
-      "time": "08-04 23:27",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNVFZFTDFORkpFN0FPQU1ZY3V2QkJkSnlvYjI0N3hFRmtTd0V6RjFhbnRFYXRpZXRDa0ExN2ZvNVdyWVBISUFZUy1PMDRJdzBDS2FDOE9FXzZlU2hudmlfSk1mWHE1NWdILXZmeHI3alF0SG1ydVhCSl9yRDRvemtmZUp3bVJuZ1ljMENQeDJXZXJjSUZRaC12UnhDbWIzSkpzTEZ0aEI2T0M1Z2QtQ0NndTNjUmtkQm1ubTJIckplN0xBaDIta0NqMGxsZ1dMQ3JwQUdyam0tN0JDVko4N3FmM1Rza1FCM3R0d1VqeE1qZVlwTDNIUlFsWEZsanRBYU03dGFmRGxmV01OM1VOMkJYM3ltWXM0SjJPX3h0cUlKQ3Rlb2cwdko5U3RhTDBDNy1jeU5HM3dieE9EWHZxQ2VXckljQjdYUUNzYUdEQ0QzSmg3TlZKX0tJSDltN1NnUVMtTWNhQW9KUjZ5ZXUxNE9Mb3BLTU1FWlUtX0tIbGJUXzRHcmpaMHhkRzl3MDlRVEd1WDNnVFhrazBaR0o5cjRUVWtISTJXM0NNTS1z?oc=5",
-      "copy_text": "画廊 西安市未央路小学综合楼 / 中国建筑西北设计研究院 屈培青工作室 - 18\nhttps://news.google.com/rss/articles/CBMiqwNBVV95cUxNVFZFTDFORkpFN0FPQU1ZY3V2QkJkSnlvYjI0N3hFRmtTd0V6RjFhbnRFYXRpZXRDa0ExN2ZvNVdyWVBISUFZUy1PMDRJdzBDS2FDOE9FXzZlU2hudmlfSk1mWHE1NWdILXZmeHI3alF0SG1ydVhCSl9yRDRvemtmZUp3bVJuZ1ljMENQeDJXZXJjSUZRaC12UnhDbWIzSkpzTEZ0aEI2T0M1Z2QtQ0NndTNjUmtkQm1ubTJIckplN0xBaDIta0NqMGxsZ1dMQ3JwQUdyam0tN0JDVko4N3FmM1Rza1FCM3R0d1VqeE1qZVlwTDNIUlFsWEZsanRBYU03dGFmRGxmV01OM1VOMkJYM3ltWXM0SjJPX3h0cUlKQ3Rlb2cwdko5U3RhTDBDNy1jeU5HM3dieE9EWHZxQ2VXckljQjdYUUNzYUdEQ0QzSmg3TlZKX0tJSDltN1NnUVMtTWNhQW9KUjZ5ZXUxNE9Mb3BLTU1FWlUtX0tIbGJUXzRHcmpaMHhkRzl3MDlRVEd1WDNnVFhrazBaR0o5cjRUVWtISTJXM0NNTS1z?oc=5",
       "verified": false
     },
     {
@@ -909,6 +868,15 @@
     },
     {
       "media": "新华网",
+      "title": "官方通报西安赛格商场坠亡事件",
+      "summary": "官方通报西安赛格商场坠亡事件",
+      "time": "08-05 15:12",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmdiNDVJTWVkeW54NG84UjV6WFZvckpqRjRMNjVkWUtzYmY0TzVBeXRMVllKV21YSk9QRGFiVTZSYy1MajNiU3NueU1QSVJfY2MweUJ4ek1UTHhBM0taT0ExdFVBX09zUWdBUURwbjFURFZkZXNr?oc=5",
+      "copy_text": "官方通报西安赛格商场坠亡事件\nhttps://news.google.com/rss/articles/CBMid0FVX3lxTE5RbmdiNDVJTWVkeW54NG84UjV6WFZvckpqRjRMNjVkWUtzYmY0TzVBeXRMVllKV21YSk9QRGFiVTZSYy1MajNiU3NueU1QSVJfY2MweUJ4ek1UTHhBM0taT0ExdFVBX09zUWdBUURwbjFURFZkZXNr?oc=5",
+      "verified": false
+    },
+    {
+      "media": "新华网",
       "title": "长征精神新画卷丨陕西延安：红色文艺弘扬长征精神",
       "summary": "长征精神新画卷丨陕西延安：红色文艺弘扬长征精神",
       "time": "08-05 00:00",
@@ -918,12 +886,12 @@
       "verified": true
     },
     {
-      "media": "新华网",
-      "title": "官方通报“西安赛格商场坠亡事件”",
-      "summary": "官方通报“西安赛格商场坠亡事件”",
-      "time": "08-05 21:53",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZdW5sRGE3YWZwMVJ5d1FmeXM5Q2tad2FFcGxvRXR6dUhpUC1tWDFJWWhCYnZGcmpMcEljUlFycVVEbmhEc1A4Sm1UZ1BQTzAzZmRlUXNjbjBSTGJSbFA5OVd4cFE0UEFkWU5qeHE3SklRT2c?oc=5",
-      "copy_text": "官方通报“西安赛格商场坠亡事件”\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE1ZdW5sRGE3YWZwMVJ5d1FmeXM5Q2tad2FFcGxvRXR6dUhpUC1tWDFJWWhCYnZGcmpMcEljUlFycVVEbmhEc1A4Sm1UZ1BQTzAzZmRlUXNjbjBSTGJSbFA5OVd4cFE0UEFkWU5qeHE3SklRT2c?oc=5",
+      "media": "央视网",
+      "title": "[朝闻天下]陕西汉中 敬老院积水倒灌 消防排水转移老人",
+      "summary": "[朝闻天下]陕西汉中 敬老院积水倒灌 消防排水转移老人",
+      "time": "08-05 02:10",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWtwc1hKR2FtYXZBR0JjVDdkMTJkWnNyRy1heFBCdnFkNTB1OTlXVnh4eUZVbThoOFFmdEZkdnFtMWdzcF9YVUJEWk9rdUxVRlpGN1VSWmtUU1B1NlpfcVBSZzdsdkpiZDJFQlk0Z0ZoRUF4aS04Y3dqanRIXzZLYjVfWllGTnlKRnVGUzRTWQ?oc=5",
+      "copy_text": "[朝闻天下]陕西汉中 敬老院积水倒灌 消防排水转移老人\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxOYWtwc1hKR2FtYXZBR0JjVDdkMTJkWnNyRy1heFBCdnFkNTB1OTlXVnh4eUZVbThoOFFmdEZkdnFtMWdzcF9YVUJEWk9rdUxVRlpGN1VSWmtUU1B1NlpfcVBSZzdsdkpiZDJFQlk0Z0ZoRUF4aS04Y3dqanRIXzZLYjVfWllGTnlKRnVGUzRTWQ?oc=5",
       "verified": false
     },
     {
@@ -966,6 +934,15 @@
     },
     {
       "media": "央视网",
+      "title": "[探索·发现]西安文物修复师的工作重心大半都要放在修复陶俑之上",
+      "summary": "[探索·发现]西安文物修复师的工作重心大半都要放在修复陶俑之上",
+      "time": "08-05 01:17",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFBZYk8xcGhfQTNEOHcta09nclh0bDRSdjU0R1R5S0NJTDlvc1A2RWUxYzY1TVVNWVBJZUc0bzZqOXEwc2V0RlFPMktzd2Y5ZzBmTk4yWkFMS2VTNWttQ2cwdDZlb1NCU013QkwtX3ByNDRBLVBCbG16NXhfTnBlazAyck1LS090QUZ4b1BNMA?oc=5",
+      "copy_text": "[探索·发现]西安文物修复师的工作重心大半都要放在修复陶俑之上\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxQMFBZYk8xcGhfQTNEOHcta09nclh0bDRSdjU0R1R5S0NJTDlvc1A2RWUxYzY1TVVNWVBJZUc0bzZqOXEwc2V0RlFPMktzd2Y5ZzBmTk4yWkFMS2VTNWttQ2cwdDZlb1NCU013QkwtX3ByNDRBLVBCbG16NXhfTnBlazAyck1LS090QUZ4b1BNMA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央视网",
       "title": "[新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制",
       "summary": "[新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制",
       "time": "08-04 09:43",
@@ -973,6 +950,15 @@
       "copy_text": "[新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制\nhttps://tv.cctv.com/2026/08/04/VIDExToL4B4je6GBmkQZq4M7260804.shtml",
       "excerpt": "[新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制 来源 : 央视网 2026-08-04 09:43 内容简介 关注 视频简介 陕西宝鸡：S218太镇线多处山体塌方，道路封闭管制。 栏目信息 栏目名称： 栏目介绍： [新闻直播间]陕西宝鸡 S218太镇线多处山体塌方 道路封闭管制 简介 来源：央视网 更新时间：2026年08月04日 09:43 视频简介 陕西宝鸡：S218太镇线多处山体塌方，道路封闭管制。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
       "verified": true
+    },
+    {
+      "media": "央视网",
+      "title": "[东方时空]陕西西安 千年遗址繁花似锦 赏花期持续至五月",
+      "summary": "[东方时空]陕西西安 千年遗址繁花似锦 赏花期持续至五月",
+      "time": "08-04 07:33",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkFoX1JnZzQza3o0UW8xRm9kNWtDRGdZc0ZUZEo2QjJSSDlWNWltc2pxdlIxRnZnZVMzN3Z5aWY2ZHpwbkdMUjNQR1U3Z2pSc05ZVWdOMkVsX2dEblZ5dDVya3Joc2hzc3ZaUVpSWXJjYUt1enlOTk1GS2NFOUZnVHpkRXprb2RKRGhvcWc4MA?oc=5",
+      "copy_text": "[东方时空]陕西西安 千年遗址繁花似锦 赏花期持续至五月\nhttps://news.google.com/rss/articles/CBMijwFBVV95cUxNZkFoX1JnZzQza3o0UW8xRm9kNWtDRGdZc0ZUZEo2QjJSSDlWNWltc2pxdlIxRnZnZVMzN3Z5aWY2ZHpwbkdMUjNQR1U3Z2pSc05ZVWdOMkVsX2dEblZ5dDVya3Joc2hzc3ZaUVpSWXJjYUt1enlOTk1GS2NFOUZnVHpkRXprb2RKRGhvcWc4MA?oc=5",
+      "verified": false
     },
     {
       "media": "央视网",
@@ -1007,27 +993,30 @@
       "title": "《国家记忆》 20260714 人民军工在延安 开拓",
       "summary": "《国家记忆》 20260714 人民军工在延安 开拓",
       "time": "08-04 16:57",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bb3VrT2hKY1Vjb01HTUl1TGFxdi1QUXNVX1RYb1RHMmNCa1RHV0NFVk5jYWVRU2dmN1FjREktSjgzVS1jN2hZMlZVZmZab1dTYlVZbC1uRzVfQVVWZkVnSnl3dDhUY1NDMEtkUDNuazNEdFN4Z0E?oc=5",
-      "copy_text": "《国家记忆》 20260714 人民军工在延安 开拓\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE5Bb3VrT2hKY1Vjb01HTUl1TGFxdi1QUXNVX1RYb1RHMmNCa1RHV0NFVk5jYWVRU2dmN1FjREktSjgzVS1jN2hZMlZVZmZab1dTYlVZbC1uRzVfQVVWZkVnSnl3dDhUY1NDMEtkUDNuazNEdFN4Z0E?oc=5",
-      "verified": false
+      "link": "https://tv.cctv.com/2026/08/04/VIDEjctiIrjzRllDNtMGIJ9J260804.shtml",
+      "copy_text": "《国家记忆》 20260714 人民军工在延安 开拓\nhttps://tv.cctv.com/2026/08/04/VIDEjctiIrjzRllDNtMGIJ9J260804.shtml",
+      "excerpt": "《国家记忆》 20260714 人民军工在延安 开拓 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 《国家记忆》 20260714 人民军工在延安 开拓 来源 : 央视网 2026-08-04 16:57 内容简介 关注 视频简介 本期节目主要内容： 1942年初，延安温家沟兵工厂接到中央军委的紧急命令，要求他们在短期内赶制出10万颗手榴弹，火速支援前线作战。面对骤然压来的生产任务，这支刚刚组建的军工队伍能扛得下来吗？ （《国家记忆》 20260714 人民军工在延安 开拓） 栏目信息 栏目名称： 栏目介绍： 《国家记忆》 20260714 人民军工在延安 开拓 简介 来源：央视网 更新时间：2026年08月04日 16:57 视频简介 本期节目主要内容： 1942年初，延安温家沟兵工厂接到中央军委的紧急命令，要求他们在短期内赶制出10万颗手榴弹，火速支援前线作战。面对骤然压来的生产任务，这支刚刚组建的军工队伍能扛得下来吗？ （《国家记忆》 20260714 人民军工在延安 开拓） 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "verified": true
     },
     {
       "media": "央视网",
       "title": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员",
       "summary": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员",
       "time": "08-04 19:39",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYjRObWhPcFUxM19MbEVFblZYZzFnSklmQU5CcWVjckg3RVZYcFl5SXAwQ3JDN3Qya0w2VzNma1FwanZkc2tSc2EtaHd3eEFuMVBBZXZncW1QblBNc2ltaXFZUFdFZnFrOFFEaERFbTJGNmJkUkE?oc=5",
-      "copy_text": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTFBHYjRObWhPcFUxM19MbEVFblZYZzFnSklmQU5CcWVjckg3RVZYcFl5SXAwQ3JDN3Qya0w2VzNma1FwanZkc2tSc2EtaHd3eEFuMVBBZXZncW1QblBNc2ltaXFZUFdFZnFrOFFEaERFbTJGNmJkUkE?oc=5",
-      "verified": false
+      "link": "https://tv.cctv.com/2026/08/04/VIDEKH69hQ42g8NtAl24nA24260804.shtml",
+      "copy_text": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员\nhttps://tv.cctv.com/2026/08/04/VIDEKH69hQ42g8NtAl24nA24260804.shtml",
+      "excerpt": "[中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员 来源 : 央视网 2026-08-04 19:39 内容简介 关注 视频简介 陕西安康：最大累计降水量达到271.6毫米，紧急撤离人员。 栏目信息 栏目名称： 栏目介绍： [中国三农报道]陕西安康 最大累计降水量达到271.6毫米 紧急撤离人员 简介 来源：央视网 更新时间：2026年08月04日 19:39 视频简介 陕西安康：最大累计降水量达到271.6毫米，紧急撤离人员。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "verified": true
     },
     {
       "media": "央视网",
       "title": "[经济信息联播]陕西多地加码新能源汽车消费补贴",
       "summary": "[经济信息联播]陕西多地加码新能源汽车消费补贴",
       "time": "08-05 20:53",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tTGljaU9yZFVVRU5oSDlCNHZUS0labldNS0hEVU5iVU52bTJ0dU5fVDhPUGJGNks2SDRING90N3M0TjBiLWlUWU9QQ1ZWSUxINVZXNEJoeDBjRXg2NFZyMi1Del9HTTY1cDFJZVVEb0h1dEU3UFE?oc=5",
-      "copy_text": "[经济信息联播]陕西多地加码新能源汽车消费补贴\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE8tTGljaU9yZFVVRU5oSDlCNHZUS0labldNS0hEVU5iVU52bTJ0dU5fVDhPUGJGNks2SDRING90N3M0TjBiLWlUWU9QQ1ZWSUxINVZXNEJoeDBjRXg2NFZyMi1Del9HTTY1cDFJZVVEb0h1dEU3UFE?oc=5",
-      "verified": false
+      "link": "https://tv.cctv.com/2026/08/05/VIDEYLW4t8uM0KDMOouB7xR4260805.shtml",
+      "copy_text": "[经济信息联播]陕西多地加码新能源汽车消费补贴\nhttps://tv.cctv.com/2026/08/05/VIDEYLW4t8uM0KDMOouB7xR4260805.shtml",
+      "excerpt": "[经济信息联播]陕西多地加码新能源汽车消费补贴 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [经济信息联播]陕西多地加码新能源汽车消费补贴 来源 : 央视网 2026-08-05 20:53 内容简介 关注 视频简介 陕西多地加码新能源汽车消费补贴。 栏目信息 栏目名称： 栏目介绍： [经济信息联播]陕西多地加码新能源汽车消费补贴 简介 来源：央视网 更新时间：2026年08月05日 20:53 视频简介 陕西多地加码新能源汽车消费补贴。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "verified": true
     },
     {
       "media": "央广网",
@@ -1045,6 +1034,61 @@
       "time": "08-05 15:09",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UFhWaVVkd0pEYk44SmVuSUFmS3FiTnJBS0hPanpNSDE5ODhJYURyd3VEaFNWRG10NE5lWGZ3Nl9rcWVZRkxQdjE2UTEtNUIzcFlKWUNDSXJScGhyZTZKUWU1cXh2QWdYcGhOaWt2R1Y?oc=5",
       "copy_text": "一商户坠亡 西安雁塔区通报赛格商场与坠楼者商业纠纷情况\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTFB5UFhWaVVkd0pEYk44SmVuSUFmS3FiTnJBS0hPanpNSDE5ODhJYURyd3VEaFNWRG10NE5lWGZ3Nl9rcWVZRkxQdjE2UTEtNUIzcFlKWUNDSXJScGhyZTZKUWU1cXh2QWdYcGhOaWt2R1Y?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "探访汉中宁强非遗羌绣 感受指尖上的千年记忆",
+      "summary": "探访汉中宁强非遗羌绣 感受指尖上的千年记忆",
+      "time": "08-04 08:12",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15YzY2bDladUplZjljbUJJRXkzYm84OXN2UGxKMVF0bS1qdG1XZjg4VjZiVER0ZHpzd29LNF9kaHRQWTVLMzdpeTBaalpLMGp4MGhzTWNtbmxJNGdndExtOTkwSDJXZWVFZHZ2RnNB?oc=5",
+      "copy_text": "探访汉中宁强非遗羌绣 感受指尖上的千年记忆\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE15YzY2bDladUplZjljbUJJRXkzYm84OXN2UGxKMVF0bS1qdG1XZjg4VjZiVER0ZHpzd29LNF9kaHRQWTVLMzdpeTBaalpLMGp4MGhzTWNtbmxJNGdndExtOTkwSDJXZWVFZHZ2RnNB?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "陕西佳县：发展林果产业 赋能乡村振兴",
+      "summary": "陕西佳县：发展林果产业 赋能乡村振兴",
+      "time": "08-05 00:00",
+      "link": "https://www.cnr.cn/sxpd/jd/20260805/t20260805_527747814.shtml",
+      "copy_text": "陕西佳县：发展林果产业 赋能乡村振兴\nhttps://www.cnr.cn/sxpd/jd/20260805/t20260805_527747814.shtml",
+      "excerpt": "眼下，陕西省榆林市佳县特色林果迎来丰收季——“金皇后”杏李成熟了。连日来，走进佳县乌镇尚家沟村水果采摘基地，一颗颗圆润金黄的杏李掩映在翠绿的枝叶间，沉甸甸地压弯了枝条，成为黄土高原夏日一道亮眼的“金色风景”。 据了解，“金皇后”是优质杏李杂交品种。刚采摘下的“金皇后”杏李光滑鲜亮，散发着淡淡的果香，随手掰开一颗，果肉橙黄细密，汁水顺着指缝流下，咬上一口，既有杏子的浓郁香甜，又有李子的脆嫩清爽，酸甜适口的风味令人回味无穷。 圆润金黄的杏李压弯了枝条（佳县县委宣传部供图） 佳县地处黄河沿岸，光照充足、昼夜温差大，适宜的气候和黄土高原沙质土壤，为“金皇后”杏李的生长提供了得天独厚的条件。 凭借优良的品质，佳县“金皇后”杏李一上市就受到市场的青睐，目前杏李已发往榆林、西安等多个城市商超，不少外地客商前来果园采购。此外，采摘基地负责人王向娃还通过采摘体验游等形式，吸引更多游人走进采摘基地，沉浸式体验采摘果实的乐趣。 “之前我在外打工，还要兼顾家里，很不方便。现在家门口就能打工，平时在园里做些剪枝、管护的活儿，一年下来收入比在外打工还稳当，感觉很知足。”今年64岁的尚家沟村村民王向军开心地说。 采摘基地负责人王向娃表示，下一步将抓好标准化种植，优化果园管护技术，改良果树品种，不断提升果品品质。同时，完善采摘观光配套设施，打造采摘观光果园，吸引游客前来体验采摘，让林果产业成为乡亲们持续增收的好产业。 近年来，佳县依托本地资源优势，把特色林果产业作为推动乡村振兴、带动群众增收的核心抓手，大力引进推广优质品种，通过推行“村集体+合作社+农户”的抱团发展模式，建立县镇村三级技术服务队伍，从春季疏花疏果、夏季灌溉施肥到病虫害绿色防控，为果农提供标准化技术指导，全面助力乡村振兴。（来源：佳县县委宣传部）",
+      "verified": true
+    },
+    {
+      "media": "央广网",
+      "title": "树立和践行正确政绩观丨陕西西安、甘肃定西坚持以学促干，推动学习教育取得实效",
+      "summary": "树立和践行正确政绩观丨陕西西安、甘肃定西坚持以学促干，推动学习教育取得实效",
+      "time": "08-04 10:48",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xM2xwcmZ1bF9FQ2hPaVRHYW1FbHp5U0Y5dUFtcFZxQ2JqTnUzS2tPY2hOVzJja1NsSXc3cXFWUW9TSEJiX1hQUjhObEJER0pnTWpMZVNUeVdYVGt5Z2JDbkNaVEJIdGtvZ3NweA?oc=5",
+      "copy_text": "树立和践行正确政绩观丨陕西西安、甘肃定西坚持以学促干，推动学习教育取得实效\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE4xM2xwcmZ1bF9FQ2hPaVRHYW1FbHp5U0Y5dUFtcFZxQ2JqTnUzS2tPY2hOVzJja1NsSXc3cXFWUW9TSEJiX1hQUjhObEJER0pnTWpMZVNUeVdYVGt5Z2JDbkNaVEJIdGtvZ3NweA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "宝鸡渭滨区：深耕银发康养沃土",
+      "summary": "宝鸡渭滨区：深耕银发康养沃土",
+      "time": "08-04 14:21",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcW04TUtSWVBIRnE5MWNYMjRscTRNRXFDT3o3enlXTUV2RWFIVGZMSFdkV054QjF4dnhHQ1RfdFJEOXo5Tjh0VTdSVkdIa3NUWFU0WWVOSGtYcGExcjBUS2QyZGFBLXJJRGhaZQ?oc=5",
+      "copy_text": "宝鸡渭滨区：深耕银发康养沃土\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE1PcW04TUtSWVBIRnE5MWNYMjRscTRNRXFDT3o3enlXTUV2RWFIVGZMSFdkV054QjF4dnhHQ1RfdFJEOXo5Tjh0VTdSVkdIa3NUWFU0WWVOSGtYcGExcjBUS2QyZGFBLXJJRGhaZQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约！",
+      "summary": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约！",
+      "time": "08-05 15:24",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dc2paTV9QVkRxc1pScC1MOHFQOFdENEJlMGZ4akxPRmVubmFMay1ZdDdQVnVyWnFUN0JkR1lJQmJTRENmUWE1ajJJQXc5ZTYtMGcyZ3BoM3lmRnFHUkM3WEs5eEhNWmdJcndTMnJidHZJdw?oc=5",
+      "copy_text": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约！\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9Dc2paTV9QVkRxc1pScC1MOHFQOFdENEJlMGZ4akxPRmVubmFMay1ZdDdQVnVyWnFUN0JkR1lJQmJTRENmUWE1ajJJQXc5ZTYtMGcyZ3BoM3lmRnFHUkM3WEs5eEhNWmdJcndTMnJidHZJdw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "在现场 | 西安一小区惊现蛇类：物业仍在排查，居民生活如常",
+      "summary": "在现场 | 西安一小区惊现蛇类：物业仍在排查，居民生活如常",
+      "time": "08-04 12:56",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNU1iOEhIX05Md2ltQUs1cldmN1AtNGVHazVTdjE2LWNQZXUyNGdhZ3pfOXNEMjJ4MHREY3Jmd0RNM3lGanp2R2FRSjNwY3hGcE9qekRvakdkUXlGZFpGT183aUFFSEM4elJIOVk1LTI?oc=5",
+      "copy_text": "在现场 | 西安一小区惊现蛇类：物业仍在排查，居民生活如常\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE5TNU1iOEhIX05Md2ltQUs1cldmN1AtNGVHazVTdjE2LWNQZXUyNGdhZ3pfOXNEMjJ4MHREY3Jmd0RNM3lGanp2R2FRSjNwY3hGcE9qekRvakdkUXlGZFpGT183aUFFSEM4elJIOVk1LTI?oc=5",
       "verified": false
     }
   ]
