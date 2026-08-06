@@ -232,7 +232,7 @@
     const state = { active: "personal", personal: null, media: null, errors: [], selectedCandidate: null, candidatePage: 1, issueFilter: "all" };
     // The browser calls the OpenAI-compatible endpoint directly for manual summaries.
     const SUMMARY_API_BASE = "https://api.deepseek.com";
-    const SUMMARY_API_KEY = "在这里粘贴浏览器摘要 API Key";
+    const SUMMARY_API_KEY = "sk-107b0f7ac9b34600ac6fdf20014ff32c";
     const SUMMARY_MODEL = "deepseek-v4-flash";
     const $ = (selector) => document.querySelector(selector);
     const escapeHtml = (value) => String(value ?? "").replace(/[&<>'"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;","\"":"&quot;"}[char]));
