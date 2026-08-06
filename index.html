@@ -240,10 +240,31 @@
       if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(value);
       const input = document.createElement("textarea"); input.value = value; input.style.position = "fixed"; input.style.opacity = "0"; document.body.appendChild(input); input.select(); document.execCommand("copy"); input.remove();
     };
+    const personalCopyText = (item) => {
+      const link = String(item.url || item.link || "").trim();
+      let body = String(item.summary || item.text || item.title || "").replace(/^\s*△\s*/, "").trim();
+      if (link && body.endsWith(link)) body = body.slice(0, -link.length).trim();
+      const user = String(item.user || "").trim();
+      for (const marker of [`（新浪微博：${user}）`, `（新浪微博:${user}）`]) {
+        if (user && body.endsWith(marker)) body = body.slice(0, -marker.length).trim();
+      }
+      const source = user ? `（新浪微博：${user}）` : "";
+      return `△${body}${source}${link}`.trim();
+    };
     const itemText = (item) => item.copy_text || [item.summary || item.title || "", item.url || item.link || ""].filter(Boolean).join("\n");
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
     const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
-    const normalizePersonal = (data) => ({ ...data, items: data.recommendations || data.items || [], unsummarized: data.unsummarized || data.other_items || data.unsummarized_items || data.all || [] });
+    const normalizePersonal = (data) => {
+      const items = data.recommendations || data.items || [];
+      const unsummarized = data.unsummarized || data.other_items || data.unsummarized_items || data.all || [];
+      return {
+        ...data,
+        // Rebuild this field in the browser as well so an older personal.json
+        // cannot keep producing the pre-format copy text.
+        items: items.map((item) => ({ ...item, copy_text: personalCopyText(item) })),
+        unsummarized: unsummarized.map((item) => ({ ...item, copy_text: personalCopyText(item) })),
+      };
+    };
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [], featured: data.top10 || data.recommendations || data.items || [] });
     function currentData() { return state.active === "personal" ? state.personal : state.media; }
     function rssCandidates() { return state.media?.rss_candidates || []; }
