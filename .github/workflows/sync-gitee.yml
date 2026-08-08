@@ -1,0 +1,32 @@
+name: 同步舆情数据到 Gitee
+
+on:
+  schedule:
+    # 北京时间工作日 09:37 和 11:37，第二次用于覆盖上游任务延迟。
+    - cron: "37 1,3 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SOURCE_BASE_URL: https://kiwi-lilo.github.io/aliyun-opinion-report
+      GITEE_REPO: ${{ vars.GITEE_REPO }}
+      GITEE_BRANCH: ${{ vars.GITEE_BRANCH || 'master' }}
+      GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+    steps:
+      - name: 拉取同步工具
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 同步 JSON
+        run: python integration/sync_to_gitee.py
+
