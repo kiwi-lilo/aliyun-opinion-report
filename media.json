@@ -1,87 +1,217 @@
 {
   "source": "media",
-  "updated_at": "2026-08-10 08:01",
+  "updated_at": "2026-08-11 08:01",
   "period": "最近 48 小时",
   "stats": {
-    "rss_candidates": 63,
-    "verified": 8,
-    "summary_candidates": 0
+    "rss_candidates": 76,
+    "verified": 12,
+    "summary_candidates": 4
   },
   "items": [
     {
-      "media": "央广网",
-      "title": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级",
-      "summary": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级",
-      "time": "08-09 00:00",
-      "link": "https://news.cnr.cn/native/gd/20260809/t20260809_527755151.shtml",
-      "copy_text": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级\nhttps://news.cnr.cn/native/gd/20260809/t20260809_527755151.shtml"
+      "media": "人民日报",
+      "title": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
+      "summary": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
+      "time": "08-10 00:00",
+      "link": "http://paper.people.com.cn/rmrb/pad/content/202608/10/content_30173973.html",
+      "copy_text": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布\nhttp://paper.people.com.cn/rmrb/pad/content/202608/10/content_30173973.html"
     },
     {
-      "media": "人民日报",
-      "title": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮",
-      "summary": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮",
-      "time": "08-08 15:04",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-08/10674219.shtml",
-      "copy_text": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮\nhttps://www.chinanews.com.cn/ty/2026/08-08/10674219.shtml"
+      "media": "新华网",
+      "title": "无锡向延安市民发放10000张重点景区门票",
+      "summary": "无锡向延安市民发放10000张重点景区门票",
+      "time": "08-10 00:00",
+      "link": "http://js.news.cn/20260810/017d4e8384454c89b79518268c6812b4/c.html",
+      "copy_text": "无锡向延安市民发放10000张重点景区门票\nhttp://js.news.cn/20260810/017d4e8384454c89b79518268c6812b4/c.html"
     },
     {
-      "media": "人民日报",
-      "title": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展",
-      "summary": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展",
-      "time": "08-08 20:57",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-08/10674405.shtml",
-      "copy_text": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展\nhttps://www.chinanews.com.cn/gn/2026/08-08/10674405.shtml"
+      "media": "中国新闻网",
+      "title": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会",
+      "summary": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会",
+      "time": "08-10 13:44",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-10/10675128.shtml",
+      "copy_text": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会\nhttps://www.chinanews.com.cn/txy/2026/08-10/10675128.shtml"
     },
     {
-      "media": "人民日报",
-      "title": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根",
-      "summary": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根",
-      "time": "08-08 20:56",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-08/10674410.shtml",
-      "copy_text": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根\nhttps://www.chinanews.com.cn/ty/2026/08-08/10674410.shtml"
+      "media": "中国新闻网",
+      "title": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学",
+      "summary": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学",
+      "time": "08-10 10:14",
+      "link": "http://www.xj.chinanews.com.cn/xinjiang/2026-08-10/detail-ihfhytzk9168376.shtml",
+      "copy_text": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学\nhttp://www.xj.chinanews.com.cn/xinjiang/2026-08-10/detail-ihfhytzk9168376.shtml"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "陕西携近300个高端岗位赴港揽才",
+      "summary": "中国新闻网指出陕西携近300个高端岗位赴港揽才，推动了陕港两地人才资源与重点产业需求深度融合的宏观主题。 8月10日，中国新闻网报道《陕西携近300个高端岗位赴港揽才》指出，陕西重点用人单位提供涵盖人工智能、航空航天、生物医药等领域的近300个高端岗位，通过推介会讲解产业布局与人才政策，并围绕香港青年人才把握陕西机遇展开交流，建立长效合作机制。该活动吸引逾百名香港学者及青年科学家参与，后续将持续开展人才对接，促进香港优质人才与陕西产业深度融合，为区域创新注入新动能。",
+      "time": "08-10 09:47",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml",
+      "copy_text": "中国新闻网指出陕西携近300个高端岗位赴港揽才，推动了陕港两地人才资源与重点产业需求深度融合的宏观主题。 8月10日，中国新闻网报道《陕西携近300个高端岗位赴港揽才》指出，陕西重点用人单位提供涵盖人工智能、航空航天、生物医药等领域的近300个高端岗位，通过推介会讲解产业布局与人才政策，并围绕香港青年人才把握陕西机遇展开交流，建立长效合作机制。该活动吸引逾百名香港学者及青年科学家参与，后续将持续开展人才对接，促进香港优质人才与陕西产业深度融合，为区域创新注入新动能。\nhttps://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml"
+    },
+    {
+      "media": "新华网",
+      "title": "“秀我中国”年度秀在陕西咸阳举办",
+      "summary": "新华网指出“秀我中国”年度秀在陕西咸阳的落地实践，见证了以咸阳为窗口向世界展示真实、立体、全面中国的媒体融合探索。 8月10日，新华网报道《“秀我中国”年度秀在陕西咸阳举办》指出，活动吸引全国150余名专家学者、媒体记者和网络达人参与，以咸阳实践为切口，聚焦千年文脉传承、发展一线动能及奋斗者故事，并依托西安-咸阳一体化战略背景，搭建城市文化传播新平台；该活动由中共咸阳市委与新华社陕西分社主办，自2023年9月上线的“秀我中国”栏目持续深化国家通讯社与正能量达人共创模式，此次年度秀通过镜头语言展现古都底蕴与创新活力，既增强了文化自信，也为讲好中国故事提供了鲜活的地方样本。",
+      "time": "08-10 00:00",
+      "link": "https://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html",
+      "copy_text": "新华网指出“秀我中国”年度秀在陕西咸阳的落地实践，见证了以咸阳为窗口向世界展示真实、立体、全面中国的媒体融合探索。 8月10日，新华网报道《“秀我中国”年度秀在陕西咸阳举办》指出，活动吸引全国150余名专家学者、媒体记者和网络达人参与，以咸阳实践为切口，聚焦千年文脉传承、发展一线动能及奋斗者故事，并依托西安-咸阳一体化战略背景，搭建城市文化传播新平台；该活动由中共咸阳市委与新华社陕西分社主办，自2023年9月上线的“秀我中国”栏目持续深化国家通讯社与正能量达人共创模式，此次年度秀通过镜头语言展现古都底蕴与创新活力，既增强了文化自信，也为讲好中国故事提供了鲜活的地方样本。\nhttps://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金",
+      "summary": "中国新闻网指出陕西西安承办的2026中国-中亚国家摔跤精英赛见证了以赛训一体化模式推动国际体育务实交流与竞技体育人才培养的宏观主题。 8月10日，中国新闻网报道《2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金》指出，赛事于8月9日晚落幕，吸引10国选手参赛，中国队经三天角逐共获12金，其中首个比赛日古典式摔跤斩获5金，第二日女子自由式摔跤再添6金，收官日佈和额尔敦夺125公斤级金牌；陕西创新“竞赛比拼+跨国联合集训”模式，赛后即启8月10日至16日国际训练营，汇聚各国青年后备人才与教练员。 该赛事由世界摔跤联合会指导、陕西省体育局等联合主办，不仅检验了陕西青年选手训练成果并为其提供国际练兵舞台，还通过常态化国际交流平台夯实重竞技人才梯队，助力体育强省建设与群众体育发展，让更多群众共享体育事业成果。",
+      "time": "08-10 12:04",
+      "link": "https://www.shx.chinanews.com.cn/news/2026/0810/111467.html",
+      "copy_text": "中国新闻网指出陕西西安承办的2026中国-中亚国家摔跤精英赛见证了以赛训一体化模式推动国际体育务实交流与竞技体育人才培养的宏观主题。 8月10日，中国新闻网报道《2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金》指出，赛事于8月9日晚落幕，吸引10国选手参赛，中国队经三天角逐共获12金，其中首个比赛日古典式摔跤斩获5金，第二日女子自由式摔跤再添6金，收官日佈和额尔敦夺125公斤级金牌；陕西创新“竞赛比拼+跨国联合集训”模式，赛后即启8月10日至16日国际训练营，汇聚各国青年后备人才与教练员。 该赛事由世界摔跤联合会指导、陕西省体育局等联合主办，不仅检验了陕西青年选手训练成果并为其提供国际练兵舞台，还通过常态化国际交流平台夯实重竞技人才梯队，助力体育强省建设与群众体育发展，让更多群众共享体育事业成果。\nhttps://www.shx.chinanews.com.cn/news/2026/0810/111467.html"
     },
     {
       "media": "央视网",
-      "title": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！",
-      "summary": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！",
-      "time": "08-08 22:55",
-      "link": "https://news.cctv.com/2026/08/08/ARTIaSD68zThDmUWiijVN3VU260808.shtml",
-      "copy_text": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！\nhttps://news.cctv.com/2026/08/08/ARTIaSD68zThDmUWiijVN3VU260808.shtml"
+      "title": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕",
+      "summary": "央视网指出第40届全国青少年科技创新大赛在陕西的落幕见证了青少年科技创新教育与区域科创生态建设的持续推进。 8月10日，央视网报道《[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕》指出，本届大赛在陕西集中展示了全国青少年最新科创成果，汇聚了来自各地的参赛团队与创新项目，通过评审、展示与交流等环节，系统呈现了青少年在科技实践中的探索过程与核心做法。大赛的顺利举办反映了陕西在承接国家级科技赛事、优化青少年科创服务保障方面的扎实能力，也进一步激发了青少年参与科技创新的热情，为培养后备科技人才、营造全社会创新氛围提供了有效支撑和示范意义。",
+      "time": "08-10 08:23",
+      "link": "https://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml",
+      "copy_text": "央视网指出第40届全国青少年科技创新大赛在陕西的落幕见证了青少年科技创新教育与区域科创生态建设的持续推进。 8月10日，央视网报道《[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕》指出，本届大赛在陕西集中展示了全国青少年最新科创成果，汇聚了来自各地的参赛团队与创新项目，通过评审、展示与交流等环节，系统呈现了青少年在科技实践中的探索过程与核心做法。大赛的顺利举办反映了陕西在承接国家级科技赛事、优化青少年科创服务保障方面的扎实能力，也进一步激发了青少年参与科技创新的热情，为培养后备科技人才、营造全社会创新氛围提供了有效支撑和示范意义。\nhttps://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml"
+    },
+    {
+      "media": "新华网",
+      "title": "中甲：石家庄功夫胜陕西联合",
+      "summary": "中甲：石家庄功夫胜陕西联合",
+      "time": "08-10 00:00",
+      "link": "http://www.news.cn/sports/20260810/90bc19a93e4d413d8cb341ad3ef0ca77/c.html",
+      "copy_text": "中甲：石家庄功夫胜陕西联合\nhttp://www.news.cn/sports/20260810/90bc19a93e4d413d8cb341ad3ef0ca77/c.html"
+    },
+    {
+      "media": "人民日报",
+      "title": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况",
+      "summary": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况",
+      "time": "08-10 00:00",
+      "link": "http://www.xinhuanet.com/sports/20260810/3355121a361c40008faea68d2689067b/c.html",
+      "copy_text": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况\nhttp://www.xinhuanet.com/sports/20260810/3355121a361c40008faea68d2689067b/c.html"
     },
     {
       "media": "央视网",
-      "title": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入",
-      "summary": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入",
-      "time": "08-08 18:11",
-      "link": "https://tv.cctv.com/2026/08/08/VIDEdaSejhYqwtSEiAyYy9hN260808.shtml",
-      "copy_text": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入\nhttps://tv.cctv.com/2026/08/08/VIDEdaSejhYqwtSEiAyYy9hN260808.shtml"
+      "title": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多",
+      "summary": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多",
+      "time": "08-11 06:54",
+      "link": "https://news.cctv.com/2026/08/11/ARTIFafvC2oc72g6hiL9Pkqm260811.shtml",
+      "copy_text": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多\nhttps://news.cctv.com/2026/08/11/ARTIFafvC2oc72g6hiL9Pkqm260811.shtml"
     },
     {
       "media": "央视网",
-      "title": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇",
-      "summary": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇",
-      "time": "08-08 21:01",
-      "link": "https://tv.cctv.com/2026/08/08/VIDEMHgw1tnGt81mz6t7scLg260808.shtml",
-      "copy_text": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇\nhttps://tv.cctv.com/2026/08/08/VIDEMHgw1tnGt81mz6t7scLg260808.shtml"
-    },
-    {
-      "media": "光明日报",
-      "title": "陕西平利：暑期小课堂里的关爱秘方",
-      "summary": "陕西平利：暑期小课堂里的关爱秘方",
-      "time": "08-09 00:00",
-      "link": "https://news.gmw.cn/2026-08/09/content_38933588.htm",
-      "copy_text": "陕西平利：暑期小课堂里的关爱秘方\nhttps://news.gmw.cn/2026-08/09/content_38933588.htm"
+      "title": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余",
+      "summary": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余",
+      "time": "08-09 21:01",
+      "link": "https://tv.cctv.com/2026/08/09/VIDEirEzFzmaNKIdqG9pATEL260809.shtml",
+      "copy_text": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余\nhttps://tv.cctv.com/2026/08/09/VIDEirEzFzmaNKIdqG9pATEL260809.shtml"
     }
   ],
-  "top10": [],
+  "top10": [
+    {
+      "media": "中国新闻网",
+      "title": "陕西携近300个高端岗位赴港揽才",
+      "summary": "中国新闻网指出陕西携近300个高端岗位赴港揽才，推动了陕港两地人才资源与重点产业需求深度融合的宏观主题。 8月10日，中国新闻网报道《陕西携近300个高端岗位赴港揽才》指出，陕西重点用人单位提供涵盖人工智能、航空航天、生物医药等领域的近300个高端岗位，通过推介会讲解产业布局与人才政策，并围绕香港青年人才把握陕西机遇展开交流，建立长效合作机制。该活动吸引逾百名香港学者及青年科学家参与，后续将持续开展人才对接，促进香港优质人才与陕西产业深度融合，为区域创新注入新动能。",
+      "time": "08-10 09:47",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml",
+      "copy_text": "中国新闻网指出陕西携近300个高端岗位赴港揽才，推动了陕港两地人才资源与重点产业需求深度融合的宏观主题。 8月10日，中国新闻网报道《陕西携近300个高端岗位赴港揽才》指出，陕西重点用人单位提供涵盖人工智能、航空航天、生物医药等领域的近300个高端岗位，通过推介会讲解产业布局与人才政策，并围绕香港青年人才把握陕西机遇展开交流，建立长效合作机制。该活动吸引逾百名香港学者及青年科学家参与，后续将持续开展人才对接，促进香港优质人才与陕西产业深度融合，为区域创新注入新动能。\nhttps://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml"
+    },
+    {
+      "media": "新华网",
+      "title": "“秀我中国”年度秀在陕西咸阳举办",
+      "summary": "新华网指出“秀我中国”年度秀在陕西咸阳的落地实践，见证了以咸阳为窗口向世界展示真实、立体、全面中国的媒体融合探索。 8月10日，新华网报道《“秀我中国”年度秀在陕西咸阳举办》指出，活动吸引全国150余名专家学者、媒体记者和网络达人参与，以咸阳实践为切口，聚焦千年文脉传承、发展一线动能及奋斗者故事，并依托西安-咸阳一体化战略背景，搭建城市文化传播新平台；该活动由中共咸阳市委与新华社陕西分社主办，自2023年9月上线的“秀我中国”栏目持续深化国家通讯社与正能量达人共创模式，此次年度秀通过镜头语言展现古都底蕴与创新活力，既增强了文化自信，也为讲好中国故事提供了鲜活的地方样本。",
+      "time": "08-10 00:00",
+      "link": "https://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html",
+      "copy_text": "新华网指出“秀我中国”年度秀在陕西咸阳的落地实践，见证了以咸阳为窗口向世界展示真实、立体、全面中国的媒体融合探索。 8月10日，新华网报道《“秀我中国”年度秀在陕西咸阳举办》指出，活动吸引全国150余名专家学者、媒体记者和网络达人参与，以咸阳实践为切口，聚焦千年文脉传承、发展一线动能及奋斗者故事，并依托西安-咸阳一体化战略背景，搭建城市文化传播新平台；该活动由中共咸阳市委与新华社陕西分社主办，自2023年9月上线的“秀我中国”栏目持续深化国家通讯社与正能量达人共创模式，此次年度秀通过镜头语言展现古都底蕴与创新活力，既增强了文化自信，也为讲好中国故事提供了鲜活的地方样本。\nhttps://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金",
+      "summary": "中国新闻网指出陕西西安承办的2026中国-中亚国家摔跤精英赛见证了以赛训一体化模式推动国际体育务实交流与竞技体育人才培养的宏观主题。 8月10日，中国新闻网报道《2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金》指出，赛事于8月9日晚落幕，吸引10国选手参赛，中国队经三天角逐共获12金，其中首个比赛日古典式摔跤斩获5金，第二日女子自由式摔跤再添6金，收官日佈和额尔敦夺125公斤级金牌；陕西创新“竞赛比拼+跨国联合集训”模式，赛后即启8月10日至16日国际训练营，汇聚各国青年后备人才与教练员。 该赛事由世界摔跤联合会指导、陕西省体育局等联合主办，不仅检验了陕西青年选手训练成果并为其提供国际练兵舞台，还通过常态化国际交流平台夯实重竞技人才梯队，助力体育强省建设与群众体育发展，让更多群众共享体育事业成果。",
+      "time": "08-10 12:04",
+      "link": "https://www.shx.chinanews.com.cn/news/2026/0810/111467.html",
+      "copy_text": "中国新闻网指出陕西西安承办的2026中国-中亚国家摔跤精英赛见证了以赛训一体化模式推动国际体育务实交流与竞技体育人才培养的宏观主题。 8月10日，中国新闻网报道《2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金》指出，赛事于8月9日晚落幕，吸引10国选手参赛，中国队经三天角逐共获12金，其中首个比赛日古典式摔跤斩获5金，第二日女子自由式摔跤再添6金，收官日佈和额尔敦夺125公斤级金牌；陕西创新“竞赛比拼+跨国联合集训”模式，赛后即启8月10日至16日国际训练营，汇聚各国青年后备人才与教练员。 该赛事由世界摔跤联合会指导、陕西省体育局等联合主办，不仅检验了陕西青年选手训练成果并为其提供国际练兵舞台，还通过常态化国际交流平台夯实重竞技人才梯队，助力体育强省建设与群众体育发展，让更多群众共享体育事业成果。\nhttps://www.shx.chinanews.com.cn/news/2026/0810/111467.html"
+    },
+    {
+      "media": "央视网",
+      "title": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕",
+      "summary": "央视网指出第40届全国青少年科技创新大赛在陕西的落幕见证了青少年科技创新教育与区域科创生态建设的持续推进。 8月10日，央视网报道《[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕》指出，本届大赛在陕西集中展示了全国青少年最新科创成果，汇聚了来自各地的参赛团队与创新项目，通过评审、展示与交流等环节，系统呈现了青少年在科技实践中的探索过程与核心做法。大赛的顺利举办反映了陕西在承接国家级科技赛事、优化青少年科创服务保障方面的扎实能力，也进一步激发了青少年参与科技创新的热情，为培养后备科技人才、营造全社会创新氛围提供了有效支撑和示范意义。",
+      "time": "08-10 08:23",
+      "link": "https://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml",
+      "copy_text": "央视网指出第40届全国青少年科技创新大赛在陕西的落幕见证了青少年科技创新教育与区域科创生态建设的持续推进。 8月10日，央视网报道《[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕》指出，本届大赛在陕西集中展示了全国青少年最新科创成果，汇聚了来自各地的参赛团队与创新项目，通过评审、展示与交流等环节，系统呈现了青少年在科技实践中的探索过程与核心做法。大赛的顺利举办反映了陕西在承接国家级科技赛事、优化青少年科创服务保障方面的扎实能力，也进一步激发了青少年参与科技创新的热情，为培养后备科技人才、营造全社会创新氛围提供了有效支撑和示范意义。\nhttps://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml"
+    }
+  ],
   "rss_candidates": [
     {
       "media": "人民日报",
-      "title": "陕西省群众体育五级联赛榆林赛区启动",
-      "summary": "陕西省群众体育五级联赛榆林赛区启动",
-      "time": "08-10 05:08",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0NZbnNhSS16d0cxMXpIMF9YbVctWTNLVURxV2RBVUNoRGdpVmtyeWl2TXRWWm9XU0lwQTZHZ25fQnFCVW5QSkIzMmhtcGZMdmlIVVUzZjc0X29rMnVEZldMTE1YNmg1ZVRvVnNWc24xbVk2MF9YRTJISTFZeUhwVldIbWlFeGhvU09hLVJGLW5lU0xxOGdCeHl4TG9HV2VKVHB4LTNFWkMzV2pRelpSOGJQd0hLYVB1LVhURHBzdVdVc3djYjRZaHJJTmVYanhWX2RSUV9DaVZNdTg?oc=5",
-      "copy_text": "陕西省群众体育五级联赛榆林赛区启动\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0NZbnNhSS16d0cxMXpIMF9YbVctWTNLVURxV2RBVUNoRGdpVmtyeWl2TXRWWm9XU0lwQTZHZ25fQnFCVW5QSkIzMmhtcGZMdmlIVVUzZjc0X29rMnVEZldMTE1YNmg1ZVRvVnNWc24xbVk2MF9YRTJISTFZeUhwVldIbWlFeGhvU09hLVJGLW5lU0xxOGdCeHl4TG9HV2VKVHB4LTNFWkMzV2pRelpSOGJQd0hLYVB1LVhURHBzdVdVc3djYjRZaHJJTmVYanhWX2RSUV9DaVZNdTg?oc=5",
+      "title": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
+      "summary": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
+      "time": "08-10 00:00",
+      "link": "http://paper.people.com.cn/rmrb/pad/content/202608/10/content_30173973.html",
+      "copy_text": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布\nhttp://paper.people.com.cn/rmrb/pad/content/202608/10/content_30173973.html",
+      "excerpt": "﻿ 《榆林能源革命创新示范区创新实践研究报告（2026）》发布 《榆林能源革命创新示范区创新实践研究报告（2026）》发布 2026年08月10日 本报榆林8月9日电 （记者贾丰丰）8月6日，在2026能源经济与碳达峰碳中和高质量发展论坛现场，由人民日报中国品牌发展研究院编制的《榆林能源革命创新示范区创新实践研究报告（2026）》（以下简称《报告》）正式发布，为厘清资源禀赋型城市转型思路、激发绿色发展活力提供经验。 《报告》立足国家能源安全战略全局，深入榆林建设一线，以地区实践为样本，搭建多维立体的综合评价体系，充分展现榆林立足煤炭资源禀赋，统筹能源保供与绿色转型，在多能融合、科创转化、低碳治理、生态修复等领域的丰富经验。 《报告》凝练三项实践认知：一是榆林实践体现了我国推进可持续发展的决心和显著成效，印证中国能源转型道路行之有效；二是形成“全国研发+榆林转化”跨区域协同创新模式，为高碳产业低碳升级提供解决方案；三是总结梳理固废综合利用的突出成果，为资源禀赋型城市现代化治理树立标杆。 《报告》重点关注榆林能源革命创新示范区建设经验，突出能源转型创新生动实践，进一步丰富了能源高质量发展研究体系，为高碳城市践行绿色可持续发展新路提供借鉴和参考，为保障国家能源安全、稳步推进碳达峰碳中和、培育绿色低碳新质生产力提供智力支撑。 2026-08-10 00:00:00:0 30173973 1 0 http://paper.people.com.cn/rmrb/pc/content/202608/10/content_30173973.html http://paper.people.com.cn/rmrb/pad/content/202608/10/content_30173973.html 1 1921 《榆林能源革命创新示范区创新实践研究报告（2026）》发布 /enpproperty--> 微信 朋友圈 QQ空间 新浪微博 上一篇 下一篇",
+      "verified": true
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西西安：为困境儿童筑起“圆梦小屋”",
+      "summary": "陕西西安：为困境儿童筑起“圆梦小屋”",
+      "time": "08-11 05:58",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnF6Y0w1dkgtS3pLY1V4QkR2OEdYUXFHV1BuT213NEsweHh4ckJMVUpxRFEtYTNqLU1FZGd6SzNnbjdGZ1E5OEdEWGhtbC1VMjhaX2d0b21BdV9qTWw1ZXZtSXpLTlVkczFNVElEakZrdVlFWGpvWmJxeFdIMzBRcTNjQXRIT1VwTFZaZkkxQVF0TDZiUmZOdXhySU1FX2dTdUNodFZUaFpKREVuLTJ3?oc=5",
+      "copy_text": "陕西西安：为困境儿童筑起“圆梦小屋”\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOdnF6Y0w1dkgtS3pLY1V4QkR2OEdYUXFHV1BuT213NEsweHh4ckJMVUpxRFEtYTNqLU1FZGd6SzNnbjdGZ1E5OEdEWGhtbC1VMjhaX2d0b21BdV9qTWw1ZXZtSXpLTlVkczFNVElEakZrdVlFWGpvWmJxeFdIMzBRcTNjQXRIT1VwTFZaZkkxQVF0TDZiUmZOdXhySU1FX2dTdUNodFZUaFpKREVuLTJ3?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“陕耀中华”入选全国百大热门展览",
+      "summary": "“陕耀中华”入选全国百大热门展览",
+      "time": "08-10 14:54",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44UWtBVWJLU1NUUU9rQkVuQUpoZXRqWHA2S1BCNll4bkt6MlZCUWV4ODM4YTZVZThKeEhwUHhIWjI1TTBaLTQ3TGZ6ZUpBNzdRdE1TOTZsTFlrZUVjb0N2Z3RXS3o1UGdOblN0VUlpQ0k5ZW5t?oc=5",
+      "copy_text": "“陕耀中华”入选全国百大热门展览\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTE44UWtBVWJLU1NUUU9rQkVuQUpoZXRqWHA2S1BCNll4bkt6MlZCUWV4ODM4YTZVZThKeEhwUHhIWjI1TTBaLTQ3TGZ6ZUpBNzdRdE1TOTZsTFlrZUVjb0N2Z3RXS3o1UGdOblN0VUlpQ0k5ZW5t?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "全球首座全地下遗址博物馆在陕西",
+      "summary": "全球首座全地下遗址博物馆在陕西",
+      "time": "08-11 07:18",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFVYTHNxQlBmUWxTSjhUbUxSSF9pZEgyVEZJcUdGWmc2SmJDeHNsOUlTcld3RmJLRDdLREFrYlFRV010LWsxZHY4eEp5QnpTTWRwVFIwX0FjOTlpenJGQzRrOFpINktUN1NpdUROUlNDUU5xUFdOUDlMZVVuZC1NM0RnVUp3RnRk?oc=5",
+      "copy_text": "全球首座全地下遗址博物馆在陕西\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFVYTHNxQlBmUWxTSjhUbUxSSF9pZEgyVEZJcUdGWmc2SmJDeHNsOUlTcld3RmJLRDdLREFrYlFRV010LWsxZHY4eEp5QnpTTWRwVFIwX0FjOTlpenJGQzRrOFpINktUN1NpdUROUlNDUU5xUFdOUDlMZVVuZC1NM0RnVUp3RnRk?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况",
+      "summary": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况",
+      "time": "08-10 00:00",
+      "link": "http://www.xinhuanet.com/sports/20260810/3355121a361c40008faea68d2689067b/c.html",
+      "copy_text": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况\nhttp://www.xinhuanet.com/sports/20260810/3355121a361c40008faea68d2689067b/c.html",
+      "excerpt": "中国-中亚国家摔跤精英赛：女子自由式摔跤赛况-新华网 新华网 > > 正文 2026 08 / 10 16:55:20 来源：新华网 中国-中亚国家摔跤精英赛：女子自由式摔跤赛况 字体： 小 中 大 分享到： 中国-中亚国家摔跤精英赛：女子自由式摔跤赛况 2026-08-10 16:55:20 来源：新华网 8月8日，中国选手梁进莹（左）和白俄罗斯选手伊琳娜在女子自由式摔跤57公斤级决赛中，最终伊琳娜夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，白俄罗斯选手伊琳娜（左）和中国选手梁进莹在女子自由式摔跤57公斤级决赛中，最终伊琳娜夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手冯泳欣（左）和白俄罗斯选手韦拉妮卡在女子自由式摔跤62公斤级第五轮比赛中，最终冯泳欣获胜。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手冯泳欣（左上）和白俄罗斯选手韦拉妮卡在女子自由式摔跤62公斤级第五轮比赛中，最终冯泳欣获胜。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手宋晨玲（右）和中国选手张奕帆在女子自由式摔跤68公斤级决赛中，最终宋晨玲夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手宋晨玲（下）和中国选手张奕帆在女子自由式摔跤68公斤级决赛中，最终宋晨玲夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手李泽露（上）和中国选手程水燕在女子自由式摔跤72公斤级决赛中，最终李泽露夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手李泽露（右）和中国选手程水燕在女子自由式摔跤72公斤级决赛中，最终李泽露夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手李泽露（左）和中国选手程水燕在女子自由式摔跤72公斤级决赛中，最终李泽露夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手李泽露（上）和中国选手程水燕在女子自由式摔跤72公斤级决赛中，最终李泽露夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手蒋倩（右）和中国选手孙靖茹在女子自由式摔跤76公斤级决赛中，最终蒋倩夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手蒋倩（上）和中国选手孙靖茹在女子自由式摔跤76公斤级决赛中，最终蒋倩夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 8月8日，中国选手蒋倩（上）和中国选手孙靖茹在女子自由式摔跤76公斤级决赛中，最终蒋倩夺得冠军。 8月8日，2026年中国-中亚国家摔跤精英赛女子自由式摔跤比赛在陕西西安陕西省体育馆举行。 新华社记者 李一博 摄 【纠错】 【",
+      "verified": true
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省十八运火炬传递在渭南收官",
+      "summary": "陕西省十八运火炬传递在渭南收官",
+      "time": "08-10 16:04",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQN1NqTThpcE1EaVJydE9DTVNtTlBNLXlKVGZoV09zN29wU21zR3lJbjJ0NGs1MFNSb3VZUDZQUll3eEUtUmluMUxHVlo1YTUwelplODkwS0tvc3ZnTDBOTnVmZHRtS1AxN0RqTWJKT213b0dTdkJ5OA?oc=5",
+      "copy_text": "陕西省十八运火炬传递在渭南收官\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTFBQN1NqTThpcE1EaVJydE9DTVNtTlBNLXlKVGZoV09zN29wU21zR3lJbjJ0NGs1MFNSb3VZUDZQUll3eEUtUmluMUxHVlo1YTUwelplODkwS0tvc3ZnTDBOTnVmZHRtS1AxN0RqTWJKT213b0dTdkJ5OA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省委书记观摩直播带货，与董宇辉深入交流",
+      "summary": "陕西省委书记观摩直播带货，与董宇辉深入交流",
+      "time": "08-10 14:51",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRm13T1YxYlNzb2dXWlo3NURsQ0ZaZmw5dXMwX09wQTc2dmJBRTFnRExIRG1IVUtGXzRHczd1LXJkekdsWGRVb2dmamlRcmF5OWViVGdSckluYmFuVUE?oc=5",
+      "copy_text": "陕西省委书记观摩直播带货，与董宇辉深入交流\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRm13T1YxYlNzb2dXWlo3NURsQ0ZaZmw5dXMwX09wQTc2dmJBRTFnRExIRG1IVUtGXzRHczd1LXJkekdsWGRVb2dmamlRcmF5OWViVGdSckluYmFuVUE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "闻汛而动--商洛市慈善协会西安办事处会驰援镇安",
+      "summary": "闻汛而动--商洛市慈善协会西安办事处会驰援镇安",
+      "time": "08-10 16:43",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DNUp4WDlPWHRSY2dLcXB4WXo4d2d2ZlJzall3Ulp3N3pfR3BCaW9NWExRZldSMDNIVHgzdFJ2RzQ4VG1kMlQ2c2RNM0N4S1JsSVN5di1DSXBWNkp1SkE?oc=5",
+      "copy_text": "闻汛而动--商洛市慈善协会西安办事处会驰援镇安\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE9DNUp4WDlPWHRSY2dLcXB4WXo4d2d2ZlJzall3Ulp3N3pfR3BCaW9NWExRZldSMDNIVHgzdFJ2RzQ4VG1kMlQ2c2RNM0N4S1JsSVN5di1DSXBWNkp1SkE?oc=5",
       "verified": false
     },
     {
@@ -95,48 +225,191 @@
     },
     {
       "media": "人民日报",
-      "title": "西安市雁塔区：建强基层骨干力量 助推基层治理提质增效",
-      "summary": "西安市雁塔区：建强基层骨干力量 助推基层治理提质增效",
-      "time": "08-08 12:52",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJX0lxTFVCZGVMcTd4eWM4TFRuMGFxX3ZqRXNfZjhrYjV0bXhvQzdGTGZyQUhkM0NEWWZjeDRIcll0RWdYcVl5dkdONV9wTkdpcTUzeEdqNjJFRUNrcnVoalNOSXltVzA?oc=5",
-      "copy_text": "西安市雁塔区：建强基层骨干力量 助推基层治理提质增效\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJX0lxTFVCZGVMcTd4eWM4TFRuMGFxX3ZqRXNfZjhrYjV0bXhvQzdGTGZyQUhkM0NEWWZjeDRIcll0RWdYcVl5dkdONV9wTkdpcTUzeEdqNjJFRUNrcnVoalNOSXltVzA?oc=5",
+      "title": "铜川市2026年消毒技能竞赛举行",
+      "summary": "铜川市2026年消毒技能竞赛举行",
+      "time": "08-11 05:42",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2d4bHpNV0dLajJScFlTYUlOZ1ZaVTFHTU1yNld0RVU3TXd2ZHpIM2l2MEVLallsTGpHU3JNTlNGdVhObGFzNFRDYl8xclQzcUJ6QmR2b252X29kRDFwM21leExZRU15b1NMMVNGQ1pfN2FOYzNrVjZWVVNXNFN3eW01ZVRONkprSS1MZEVsTFJHdzFaUEgxbg?oc=5",
+      "copy_text": "铜川市2026年消毒技能竞赛举行\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2d4bHpNV0dLajJScFlTYUlOZ1ZaVTFHTU1yNld0RVU3TXd2ZHpIM2l2MEVLallsTGpHU3JNTlNGdVhObGFzNFRDYl8xclQzcUJ6QmR2b252X29kRDFwM21leExZRU15b1NMMVNGQ1pfN2FOYzNrVjZWVVNXNFN3eW01ZVRONkprSS1MZEVsTFJHdzFaUEgxbg?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根",
-      "summary": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根",
-      "time": "08-08 20:56",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-08/10674410.shtml",
-      "copy_text": "2026年陕西省“全民健身日”主题活动启动 助体育资源向下扎根\nhttps://www.chinanews.com.cn/ty/2026/08-08/10674410.shtml",
-      "excerpt": "中新网 陕西汉中8月8日电 (记者 张一辰)2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动于8日在汉中启动，来自各项目的参赛队员、体育爱好者近7000人齐聚于此，共同见证本次活动的开启。同时，陕西全省各市县(区)体育部门在本地同步启动主题活动。 2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动于8月8日在汉中启动。(赛事主办方供图) 本次活动由陕西省体育局、汉中市人民政府主办，以“全民健身 运动三秦”为主题，包括启动仪式在内，还将举行2026年陕西省全民健身舞蹈公开赛暨2026年陕西省群众体育五级联赛暨社区运动会汉中市广场舞决赛、2026年陕西省象棋公开赛、2026年陕西省围棋公开赛、2026年陕西省跳绳公开赛、2026年陕西省魔方公开赛等5个项目的省级赛事；同时开展国民体质监测、民俗体育项目展示体验等活动，以此引导民众积极投入运动健身。 据统计，截至2025年，陕西全省共有体育场地154749个，城市社区“15分钟健身圈”全面覆盖，群众身边的赛事活动接连举办，陕西年均举办县级以上群众赛事近5000场。 启动仪式的文体展演环节里，汉调桄桄《汉江欢歌奋进今朝》融合了戏曲元素与健身律动，体育舞蹈展演《舞动美好 聚力前行》彰显“健康体育、快乐体育、幸福体育”的鲜活风采，武术展演《武韵三秦 逐梦争先》集传统武术精髓与大众健身理念于一体，全民健身大联欢《全民健身 共赴新程》集中展示了足球、篮球、排球、空竹、街舞、轮滑等项目队伍的精神风貌，一系列精彩纷呈的活动将现场氛围推向高潮。 据介绍，“全民健身日”主题活动省级主会场首次走出西安，落地陕南汉中，此举实现了省级群众体育盛会重心下沉、资源下沉、活力下沉，重塑全省群众体育发展新格局。 活动主办方相关负责人表示，过去五年，从黄土高原上的冰雪运动“热舞”到关中大地上的“赛事名城”建设，再到陕南山林间的生态型“体育+”发展，陕西加快全民健身场地设施建设，不断丰富群众赛事活动供给，持续加强科学健身指导，深入推进全民健身融合发展。(完) 【",
-      "verified": true
-    },
-    {
-      "media": "人民日报",
-      "title": "“金石学在陕西”特展：从“追金”寻古到物我同春",
-      "summary": "“金石学在陕西”特展：从“追金”寻古到物我同春",
-      "time": "08-09 16:18",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXhYcjJYd3lCdk1kLW5HSTJwNVNnMFZVOWdsRDJtUWNVWS11OXJhWEczVGRKaml1MDh0eEVnS2I0QzRVUHdFZk0yMDZNUUZQbXBkS2YzN21RNEpwOEkzVmN6NHNFcl8tOG5BRWEtazI2QXZGYmhwM00xd1NNTkRxMi1RRDl2LUtqU285aQ?oc=5",
-      "copy_text": "“金石学在陕西”特展：从“追金”寻古到物我同春\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPLXhYcjJYd3lCdk1kLW5HSTJwNVNnMFZVOWdsRDJtUWNVWS11OXJhWEczVGRKaml1MDh0eEVnS2I0QzRVUHdFZk0yMDZNUUZQbXBkS2YzN21RNEpwOEkzVmN6NHNFcl8tOG5BRWEtazI2QXZGYmhwM00xd1NNTkRxMi1RRDl2LUtqU285aQ?oc=5",
+      "title": "一图读懂 | 西安市超长期特别国债资金支持老旧小区加装电梯工作指引",
+      "summary": "一图读懂 | 西安市超长期特别国债资金支持老旧小区加装电梯工作指引",
+      "time": "08-11 00:02",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORjJGZi10aU44WHMzU2pGYjI0RlVqWHIzWnpXTHE4b21KRzluTnBXOVJKYk9kcXlvbU9ETUhfY3ZaalJSelB6WHhWOEhYWXRGWmlWUC1seExtRU5lVGlHUW1aZHloSU01WFZMTndwZ1pkMnFXNjZOVmN5SGpyY09rWnVDOWk2X0JEdkJxLQ?oc=5",
+      "copy_text": "一图读懂 | 西安市超长期特别国债资金支持老旧小区加装电梯工作指引\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxORjJGZi10aU44WHMzU2pGYjI0RlVqWHIzWnpXTHE4b21KRzluTnBXOVJKYk9kcXlvbU9ETUhfY3ZaalJSelB6WHhWOEhYWXRGWmlWUC1seExtRU5lVGlHUW1aZHloSU01WFZMTndwZ1pkMnFXNjZOVmN5SGpyY09rWnVDOWk2X0JEdkJxLQ?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "2026年陕西省“全民健身日”主题活动在汉中启动",
-      "summary": "2026年陕西省“全民健身日”主题活动在汉中启动",
-      "time": "08-08 17:18",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45QlNHSjNPdU0zSS1ERXlzb08xNG5CTXIxcENKZkJ5X01NMThXZ2VlSzBpX1AzZUl6T1JtNEhYTWtoTTloZkRtS0xuUGtMOGlUaFllM1VGOWtjYzFqa3g3QXV1WGJEcU1zVmxSWEx6bw?oc=5",
-      "copy_text": "2026年陕西省“全民健身日”主题活动在汉中启动\nhttps://news.google.com/rss/articles/CBMib0FVX3lxTE45QlNHSjNPdU0zSS1ERXlzb08xNG5CTXIxcENKZkJ5X01NMThXZ2VlSzBpX1AzZUl6T1JtNEhYTWtoTTloZkRtS0xuUGtMOGlUaFllM1VGOWtjYzFqa3g3QXV1WGJEcU1zVmxSWEx6bw?oc=5",
+      "title": "靶向治理 精准监管",
+      "summary": "靶向治理 精准监管",
+      "time": "08-11 07:24",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnRTcWhzNXhmeTVKNjF6YkFWN0hlcFJya0ZhVnhZc0NZV1RPV3ZuZEVtSXFhdzVpTk5ieE9Ic0kzelB5ZkdzaEh4WC1iU042dzRzNDdNT0R0TVAxMWR6SDBMeFZ5TEFjMEJGV2RGeGtMZkxLNURDUmMzelN4TXVzd2hVZkVJS3VtMnhxRjByMVFlczNIY2lJcw?oc=5",
+      "copy_text": "靶向治理 精准监管\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxObnRTcWhzNXhmeTVKNjF6YkFWN0hlcFJya0ZhVnhZc0NZV1RPV3ZuZEVtSXFhdzVpTk5ieE9Ic0kzelB5ZkdzaEh4WC1iU042dzRzNDdNT0R0TVAxMWR6SDBMeFZ5TEFjMEJGV2RGeGtMZkxLNURDUmMzelN4TXVzd2hVZkVJS3VtMnhxRjByMVFlczNIY2lJcw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "画廊 西安市航天城第一中学 / 西安建筑科技大学建筑设计研究院 - 23",
-      "summary": "画廊 西安市航天城第一中学 / 西安建筑科技大学建筑设计研究院 - 23",
-      "time": "08-08 17:28",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOOEdmQUhCRE0zelF6M0FiM3VMLXdSdXNQQ2NNUkZqRkVmNHdWR1RfVkltSllVTXpkaGxxSWUtSV9uVXpfNnhrQ0xqNHZIN2Jvd1N5aUJFR3I5eEs3ZWlLY0FxenBQcmdaSUEyck1lUlpFdjcwOWs4ZzJja0NZT203YVJvdlFhZ29maThNYnktVjJ4ZVRmY1dtTmUzaVl4RmdIMUpYekRXWlNaSEZTNkpFTjAyZlZpajdEQ01fbGJwNmhrT3FtVnNtRDJFRXZTb1NrSlZFTWNLNUlvaWh6QVUtVVFxZV9JUGxaeDJaanF2a0lXTWZ6TFUyeF9qRWk1Y2VxdnBzdE9mS2dJNDRucDFxcXBnQjk0MWwtMlB6NTYybTZqa0ZRcU1CNlJuNGNyampuOVctX3Zyd2UzRk51V0FhN0FHRV9ORmlZWkNlQ1IxYjVObGN5WWVscXM2cDg4Q3AyNXVfRWFpRV92YXlDemFnMFIxUkc2V25kTzV3cWhBT2NPci1vVnkweTJJYkZYMlJUZkRoXzRGRQ?oc=5",
-      "copy_text": "画廊 西安市航天城第一中学 / 西安建筑科技大学建筑设计研究院 - 23\nhttps://news.google.com/rss/articles/CBMilwNBVV95cUxOOEdmQUhCRE0zelF6M0FiM3VMLXdSdXNQQ2NNUkZqRkVmNHdWR1RfVkltSllVTXpkaGxxSWUtSV9uVXpfNnhrQ0xqNHZIN2Jvd1N5aUJFR3I5eEs3ZWlLY0FxenBQcmdaSUEyck1lUlpFdjcwOWs4ZzJja0NZT203YVJvdlFhZ29maThNYnktVjJ4ZVRmY1dtTmUzaVl4RmdIMUpYekRXWlNaSEZTNkpFTjAyZlZpajdEQ01fbGJwNmhrT3FtVnNtRDJFRXZTb1NrSlZFTWNLNUlvaWh6QVUtVVFxZV9JUGxaeDJaanF2a0lXTWZ6TFUyeF9qRWk1Y2VxdnBzdE9mS2dJNDRucDFxcXBnQjk0MWwtMlB6NTYybTZqa0ZRcU1CNlJuNGNyampuOVctX3Zyd2UzRk51V0FhN0FHRV9ORmlZWkNlQ1IxYjVObGN5WWVscXM2cDg4Q3AyNXVfRWFpRV92YXlDemFnMFIxUkc2V25kTzV3cWhBT2NPci1vVnkweTJJYkZYMlJUZkRoXzRGRQ?oc=5",
+      "title": "今天，一起送别李杨",
+      "summary": "今天，一起送别李杨",
+      "time": "08-10 16:40",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQ3Zha2otRk1aX0tianJBSWRtcUtub3pJUUdqQXNzZF9vLWFhUkNORTEyWnhBR2hlSkpDVlNiLXRKUjZ1RXlkeDV0UG45SjM4YWxfVjZHSTdlRG1MbkJvM2NHazlPT1VkZzc0NmUyNmdqUEtJZEt2T09heDRLRFY0bG5DVDY3X1E0UlZnN29LSUsxUjZJMnVKV0RNOW5ibTJON21KZjY1Y1JCUktaNElBV2lpN0pIalg4ekcybHBoeURmdkRlWk5BaGNTS0JmTjVuT0EtSHVINEpxaEpWSVpNTnFQcTVNUHdaSG1jUVZUR0pLam5NOXJacXg2WWwtVndpRjV6bXdIckRnUUVsTEZ6a2JEQzVCRkdqNjN2RV9tSDNQTTB4TG1jTnRwZXF0Y3JIRVAwZDNIOWdkRlFiX1VYdjZLMS02WkJC?oc=5",
+      "copy_text": "今天，一起送别李杨\nhttps://news.google.com/rss/articles/CBMiyAJBVV95cUxQQ3Zha2otRk1aX0tianJBSWRtcUtub3pJUUdqQXNzZF9vLWFhUkNORTEyWnhBR2hlSkpDVlNiLXRKUjZ1RXlkeDV0UG45SjM4YWxfVjZHSTdlRG1MbkJvM2NHazlPT1VkZzc0NmUyNmdqUEtJZEt2T09heDRLRFY0bG5DVDY3X1E0UlZnN29LSUsxUjZJMnVKV0RNOW5ibTJON21KZjY1Y1JCUktaNElBV2lpN0pIalg4ekcybHBoeURmdkRlWk5BaGNTS0JmTjVuT0EtSHVINEpxaEpWSVpNTnFQcTVNUHdaSG1jUVZUR0pLam5NOXJacXg2WWwtVndpRjV6bXdIckRnUUVsTEZ6a2JEQzVCRkdqNjN2RV9tSDNQTTB4TG1jTnRwZXF0Y3JIRVAwZDNIOWdkRlFiX1VYdjZLMS02WkJC?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省十八运中的渭南法院力量",
+      "summary": "陕西省十八运中的渭南法院力量",
+      "time": "08-10 18:10",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13MXd0VlpqczhycTRmRDVxcUxmOHQzWXI2bFJYS01tUUVweUc2RTZ5cVA5OW0teEdpZzd1VnBDS0U0cG1NcndHdENZMDFEZDY3XzNOYUlvUFcxcm02YzRYMGtxOW9DRUhJdXhnb3h6UDhyd0I5ZUJ4aA?oc=5",
+      "copy_text": "陕西省十八运中的渭南法院力量\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE13MXd0VlpqczhycTRmRDVxcUxmOHQzWXI2bFJYS01tUUVweUc2RTZ5cVA5OW0teEdpZzd1VnBDS0U0cG1NcndHdENZMDFEZDY3XzNOYUlvUFcxcm02YzRYMGtxOW9DRUhJdXhnb3h6UDhyd0I5ZUJ4aA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "光影咸阳 | 夏日咸阳：人气旺 活力足",
+      "summary": "光影咸阳 | 夏日咸阳：人气旺 活力足",
+      "time": "08-10 20:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGt0SGlwVTk5ZW5KSUVGX2RvRUFodWhiMHRabGVub3dsdU5PclJjSWFiS2dCWEZGXzRmOWVBeVdMb0RLVGQ4cFdfQmloM0FCZlNTbEcwUm9WMVI1SjlWYXp6bGxZS3NXUGhWdEdtNzQtRjlySUh2eW42YWxkOEpRNWozbGF0ZWVvT0xaNm1VSkQwOTRkcHlUQw?oc=5",
+      "copy_text": "光影咸阳 | 夏日咸阳：人气旺 活力足\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxNNGt0SGlwVTk5ZW5KSUVGX2RvRUFodWhiMHRabGVub3dsdU5PclJjSWFiS2dCWEZGXzRmOWVBeVdMb0RLVGQ4cFdfQmloM0FCZlNTbEcwUm9WMVI1SjlWYXp6bGxZS3NXUGhWdEdtNzQtRjlySUh2eW42YWxkOEpRNWozbGF0ZWVvT0xaNm1VSkQwOTRkcHlUQw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西汉中：暑期文旅消费活力迸发",
+      "summary": "陕西汉中：暑期文旅消费活力迸发",
+      "time": "08-10 20:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZkJGaF9DOG9wQlFqTGRLUC1xQkFxb3FHaFppeTFiOTJ3R2ZTd1dsTjBrMEVkd0NlMkZ0V3ZCVmdxYnRNekhIOTFtSmF6STJFT2RtcGFkc1diWUhNcno5RE1la2EtQ2oyYnhPUmY1cnZ5SnduNkZSYTRfUDh1MmlOMURHU0JVa1BacDdtMEF1RVhhY2JRcjhWdQ?oc=5",
+      "copy_text": "陕西汉中：暑期文旅消费活力迸发\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOZkJGaF9DOG9wQlFqTGRLUC1xQkFxb3FHaFppeTFiOTJ3R2ZTd1dsTjBrMEVkd0NlMkZ0V3ZCVmdxYnRNekhIOTFtSmF6STJFT2RtcGFkc1diWUhNcno5RE1la2EtQ2oyYnhPUmY1cnZ5SnduNkZSYTRfUDh1MmlOMURHU0JVa1BacDdtMEF1RVhhY2JRcjhWdQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省2026年高考招生录取圆满结束 全国1818所普通高校在陕录取新生31.9万人",
+      "summary": "陕西省2026年高考招生录取圆满结束 全国1818所普通高校在陕录取新生31.9万人",
+      "time": "08-10 16:37",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2dZa2hnZGlBOWNmcVlMb1RucTJLeGF2SlgtT1JWWkxiRllLZU1EVmJtY1M1aUw4QXZhMGJCNlNpQzd1NDdzUGVRS19zZEVRRERmVnJrbDVsTFFyTjByVkNPWVBtbkEwVGYyY3QwQjVidHJ1ZzBPZGVTdzl6dWJ1UlpJNlA0RU9WazhwXzU1RllKYVRqUUgybQ?oc=5",
+      "copy_text": "陕西省2026年高考招生录取圆满结束 全国1818所普通高校在陕录取新生31.9万人\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQY2dZa2hnZGlBOWNmcVlMb1RucTJLeGF2SlgtT1JWWkxiRllLZU1EVmJtY1M1aUw4QXZhMGJCNlNpQzd1NDdzUGVRS19zZEVRRERmVnJrbDVsTFFyTjByVkNPWVBtbkEwVGYyY3QwQjVidHJ1ZzBPZGVTdzl6dWJ1UlpJNlA0RU9WazhwXzU1RllKYVRqUUgybQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西铜川市印台区：“一喷多促”助玉米抗灾复壮 筑牢秋粮丰收防线",
+      "summary": "陕西铜川市印台区：“一喷多促”助玉米抗灾复壮 筑牢秋粮丰收防线",
+      "time": "08-10 14:40",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHVpUXlOU2YwRE9nTi1rZEFodmJ1TkxxSExocDloV1hNbWhSWnFwcktGd1hRZ0lTTGlybFp3Ykp3U016ejJiZnRha0pCb2ZsQ1pRMkZrYmJNdnl4RVlhLS1Gdlg1eFB5d3h2YnlKcHMtazRmaTN2cFRNemdUcC1iZXZiM0ZrVUxfYlRNeUxpTTlkT3c5SlNsZQ?oc=5",
+      "copy_text": "陕西铜川市印台区：“一喷多促”助玉米抗灾复壮 筑牢秋粮丰收防线\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxNWHVpUXlOU2YwRE9nTi1rZEFodmJ1TkxxSExocDloV1hNbWhSWnFwcktGd1hRZ0lTTGlybFp3Ykp3U016ejJiZnRha0pCb2ZsQ1pRMkZrYmJNdnl4RVlhLS1Gdlg1eFB5d3h2YnlKcHMtazRmaTN2cFRNemdUcC1iZXZiM0ZrVUxfYlRNeUxpTTlkT3c5SlNsZQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "西安市雁塔区市场监督管理局食品安全监督抽检信息通告（2026年第9期）",
+      "summary": "西安市雁塔区市场监督管理局食品安全监督抽检信息通告（2026年第9期）",
+      "time": "08-10 16:31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVdNRmltUEdHS3lQVXB3NkpOa3NzMTQ4NlJpcXJfTWlnUHlBSFlwQ183XzJEbDJCQVhoUkdsOTF2Q09DY1VzRVJ2NnI1cUpLdEYyZTAtRXp6ZjZ4S3RHUWVaQjhRYzltTlpnNlhMdktCa3FhZnZwcWxjOU1Va1lnWjdqXzljZEtZV3ZFaUtSS0QwdC1rNkh6ZQ?oc=5",
+      "copy_text": "西安市雁塔区市场监督管理局食品安全监督抽检信息通告（2026年第9期）\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPUVdNRmltUEdHS3lQVXB3NkpOa3NzMTQ4NlJpcXJfTWlnUHlBSFlwQ183XzJEbDJCQVhoUkdsOTF2Q09DY1VzRVJ2NnI1cUpLdEYyZTAtRXp6ZjZ4S3RHUWVaQjhRYzltTlpnNlhMdktCa3FhZnZwcWxjOU1Va1lnWjdqXzljZEtZV3ZFaUtSS0QwdC1rNkh6ZQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "榆林市未成年人心理健康辅导中心•8月第二周坐班咨询安排",
+      "summary": "榆林市未成年人心理健康辅导中心•8月第二周坐班咨询安排",
+      "time": "08-10 18:51",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDNEYWQxdzc5YlhBbXNpQmpYTmk1cjcySWJQWHZMRkxGMGtDWnZnUmlndXpQZmN2YVVuWTFHM3NQTUk5YlF0Vjg3S0FTMmphMmhWWnM3dlNPcXdXNmZybmVXMFdQeVpoQ0xmMUlJU3VSdzhwRFR1WlM4Rzhzekk5dl82NDRUQkRhMDJFMw?oc=5",
+      "copy_text": "榆林市未成年人心理健康辅导中心•8月第二周坐班咨询安排\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQRDNEYWQxdzc5YlhBbXNpQmpYTmk1cjcySWJQWHZMRkxGMGtDWnZnUmlndXpQZmN2YVVuWTFHM3NQTUk5YlF0Vjg3S0FTMmphMmhWWnM3dlNPcXdXNmZybmVXMFdQeVpoQ0xmMUlJU3VSdzhwRFR1WlM4Rzhzekk5dl82NDRUQkRhMDJFMw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "延安市图书馆持续优化服务点亮群众文化生活",
+      "summary": "延安市图书馆持续优化服务点亮群众文化生活",
+      "time": "08-10 08:15",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04aFRBMmxmZWV5RW94MXFSQ0tLbllTd25VZmNuNm1OekQyYnZEMG9pUlpSYjRzWkFjMEZRSjhZWVFEN1RZYVpyME5SYUR1dWZWMUE?oc=5",
+      "copy_text": "延安市图书馆持续优化服务点亮群众文化生活\nhttps://news.google.com/rss/articles/CBMiUkFVX3lxTE04aFRBMmxmZWV5RW94MXFSQ0tLbllTd25VZmNuNm1OekQyYnZEMG9pUlpSYjRzWkFjMEZRSjhZWVFEN1RZYVpyME5SYUR1dWZWMUE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西渭南市临渭区解放街道各社区多措并举扎实推进移风易俗宣传治理工作",
+      "summary": "陕西渭南市临渭区解放街道各社区多措并举扎实推进移风易俗宣传治理工作",
+      "time": "08-10 10:28",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDNXTy1YVUNJa1F5ZHRYRWduR2QxenJhSmdCMUVBcWx5R0hsZmdXd1NvSFNUZ0RibmFpRVF2Sl9SeFZZMzI2M2JLZm1vZDJnWS1jQzN0cXZwNTBRWlkyd2tvS0pOLXpucGxtSDdrVkt0LVVzVnZSS0RhX3lCOUJhdXMwZjBCVk5HOERWTXloMGFMZ3ZIdVhSeQ?oc=5",
+      "copy_text": "陕西渭南市临渭区解放街道各社区多措并举扎实推进移风易俗宣传治理工作\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQaDNXTy1YVUNJa1F5ZHRYRWduR2QxenJhSmdCMUVBcWx5R0hsZmdXd1NvSFNUZ0RibmFpRVF2Sl9SeFZZMzI2M2JLZm1vZDJnWS1jQzN0cXZwNTBRWlkyd2tvS0pOLXpucGxtSDdrVkt0LVVzVnZSS0RhX3lCOUJhdXMwZjBCVk5HOERWTXloMGFMZ3ZIdVhSeQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "中国银行陕西省分行落地全省首批跨境贸易高水平开放试点业务",
+      "summary": "中国银行陕西省分行落地全省首批跨境贸易高水平开放试点业务",
+      "time": "08-10 16:38",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0dmh6UXFkdTRoZEFFOGVYb25ZWlI3LWVPZzVLck5kd3A0dXBmaWdtcWgtYXdMOUt5dUlWalpTeUlzWnNwbXV0bTF5d1huQ3h1WmJBWThYLUJ5aEktT1ZlY3JWQ1QtNWdzZFByY1FB?oc=5",
+      "copy_text": "中国银行陕西省分行落地全省首批跨境贸易高水平开放试点业务\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTFB0dmh6UXFkdTRoZEFFOGVYb25ZWlI3LWVPZzVLck5kd3A0dXBmaWdtcWgtYXdMOUt5dUlWalpTeUlzWnNwbXV0bTF5d1huQ3h1WmJBWThYLUJ5aEktT1ZlY3JWQ1QtNWdzZFByY1FB?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "商洛市山阳县消防救援大队深入商场超市开展消防安全专项培训",
+      "summary": "商洛市山阳县消防救援大队深入商场超市开展消防安全专项培训",
+      "time": "08-10 17:39",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZjN0UmFsdG5fR05iLXZiYTQtbGVIVmNzTVRwYXUzQjRHb1BNeVE4M2oybHU0ZTlrVlVwYWl0SE9xOFI2eklQYVg3ZFQ0RnNITlBaVU1hVjFPX1lrVUVrME9ZclBrRlFtdmhrTUxuVzE?oc=5",
+      "copy_text": "商洛市山阳县消防救援大队深入商场超市开展消防安全专项培训\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE9nZjN0UmFsdG5fR05iLXZiYTQtbGVIVmNzTVRwYXUzQjRHb1BNeVE4M2oybHU0ZTlrVlVwYWl0SE9xOFI2eklQYVg3ZFQ0RnNITlBaVU1hVjFPX1lrVUVrME9ZclBrRlFtdmhrTUxuVzE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "商洛市商南县成功举办2026年微型消防站比武竞赛",
+      "summary": "商洛市商南县成功举办2026年微型消防站比武竞赛",
+      "time": "08-10 17:43",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvdFpTZlNSd3BfN0hkY0oxaXd6NVZKVkdYUzRmR2RVT1Z4azh6OXY3TjFSX3htcHB0Q2d6Z3RvMHJlSzVMZ0pGU1pqTTl1UTB4cTZiUTF0RnVJUWFod3JGbEtUQzhfdTdxaUl1NnZ4ZzU?oc=5",
+      "copy_text": "商洛市商南县成功举办2026年微型消防站比武竞赛\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTFBvdFpTZlNSd3BfN0hkY0oxaXd6NVZKVkdYUzRmR2RVT1Z4azh6OXY3TjFSX3htcHB0Q2d6Z3RvMHJlSzVMZ0pGU1pqTTl1UTB4cTZiUTF0RnVJUWFod3JGbEtUQzhfdTdxaUl1NnZ4ZzU?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "中国-中亚国家摔跤精英赛在西安开赛",
+      "summary": "中国-中亚国家摔跤精英赛在西安开赛",
+      "time": "08-10 15:53",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXhvQmdON3p0dXQzTlRSV0lma0lrUkhSTjczandUZHV5bmhoUU13SGdEQThDU0pkZGNkOUxyZjVfWEV3bkF6VlVfN0hJLUNaZnROZEhZdHlPWnRFUWlVQy1HdFBOY0FuQmh1OEtHUUNDN2RUN0dVSk1saTNpY0FGTGtJTlVKeFRNaVBfXw?oc=5",
+      "copy_text": "中国-中亚国家摔跤精英赛在西安开赛\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPQXhvQmdON3p0dXQzTlRSV0lma0lrUkhSTjczandUZHV5bmhoUU13SGdEQThDU0pkZGNkOUxyZjVfWEV3bkF6VlVfN0hJLUNaZnROZEhZdHlPWnRFUWlVQy1HdFBOY0FuQmh1OEtHUUNDN2RUN0dVSk1saTNpY0FGTGtJTlVKeFRNaVBfXw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "匠心筑结构精工铸品质——安康七里沟立交项目荣获2026年陕西省建筑业协会建筑优质结构工程奖",
+      "summary": "匠心筑结构精工铸品质——安康七里沟立交项目荣获2026年陕西省建筑业协会建筑优质结构工程奖",
+      "time": "08-10 12:03",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15cTBzSUpqWmlxeDZYVG1MZF9fVDJ5MTFkV1A0bVY0OU5Qd0RnSVdSMnQ0dXMteURodW42aFVWZG1Db1EtS3hGV2RKS0MzZEE?oc=5",
+      "copy_text": "匠心筑结构精工铸品质——安康七里沟立交项目荣获2026年陕西省建筑业协会建筑优质结构工程奖\nhttps://news.google.com/rss/articles/CBMiT0FVX3lxTE15cTBzSUpqWmlxeDZYVG1MZF9fVDJ5MTFkV1A0bVY0OU5Qd0RnSVdSMnQ0dXMteURodW42aFVWZG1Db1EtS3hGV2RKS0MzZEE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“普传文脉，青助扶风”｜聊城大学东昌学院教育系赴陕西省宝鸡市扶风县开展普通话推广社会实践志愿服务活动",
+      "summary": "“普传文脉，青助扶风”｜聊城大学东昌学院教育系赴陕西省宝鸡市扶风县开展普通话推广社会实践志愿服务活动",
+      "time": "08-10 11:38",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feEtwYWt0dDZ6dkNJa3VYMzduY2RvazZFQUxta2tqbjZ5ZEFhblJJYUhtOVZBT2lSczMwcTVPVnByS2owZm1XNXJfQU9ySWNCUFpyWm5IU2hGUHk4T2c?oc=5",
+      "copy_text": "“普传文脉，青助扶风”｜聊城大学东昌学院教育系赴陕西省宝鸡市扶风县开展普通话推广社会实践志愿服务活动\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE9feEtwYWt0dDZ6dkNJa3VYMzduY2RvazZFQUxta2tqbjZ5ZEFhblJJYUhtOVZBT2lSczMwcTVPVnByS2owZm1XNXJfQU9ySWNCUFpyWm5IU2hGUHk4T2c?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西金融监管局核准魏万里中国银行陕西省分行副行长任职资格",
+      "summary": "陕西金融监管局核准魏万里中国银行陕西省分行副行长任职资格",
+      "time": "08-10 14:59",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HQUtPZ2loNURUMnlIcV9rX29EeWhZdnNUTzI3MXk4T2ZJRld6d2txZXRrc0JMeGs1dHJMX055UU04SGN2OVBxRjYyNWFkZzMybS10ZlUyTG0zRnhSSjNUVFBVUFF2QTFnZ0VDaVdR?oc=5",
+      "copy_text": "陕西金融监管局核准魏万里中国银行陕西省分行副行长任职资格\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE9HQUtPZ2loNURUMnlIcV9rX29EeWhZdnNUTzI3MXk4T2ZJRld6d2txZXRrc0JMeGs1dHJMX055UU04SGN2OVBxRjYyNWFkZzMybS10ZlUyTG0zRnhSSjNUVFBVUFF2QTFnZ0VDaVdR?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "【投资陕西】2026年陕西省重点产业投资全景分析",
+      "summary": "【投资陕西】2026年陕西省重点产业投资全景分析",
+      "time": "08-10 17:34",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSVJBYlhDYkh4XzNzbXRpYXZlSUZzQkwwQl9JTTRUdUZtLUgwODhHU2RQQXNkYjhuZzdzaXQwTTBuUllPcTlVZXRpdEVmRnhRa2EyeHhfQ0dBVTRpNENodFVn?oc=5",
+      "copy_text": "【投资陕西】2026年陕西省重点产业投资全景分析\nhttps://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSVJBYlhDYkh4XzNzbXRpYXZlSUZzQkwwQl9JTTRUdUZtLUgwODhHU2RQQXNkYjhuZzdzaXQwTTBuUllPcTlVZXRpdEVmRnhRa2EyeHhfQ0dBVTRpNENodFVn?oc=5",
       "verified": false
     },
     {
@@ -150,22 +423,48 @@
     },
     {
       "media": "人民日报",
-      "title": "陕西各地党员干部下沉一线全力以赴确保安全度汛",
-      "summary": "陕西各地党员干部下沉一线全力以赴确保安全度汛",
-      "time": "08-08 11:00",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNDFVWjhWc2Y5dmprNzh1eUxWWnUwZ05KNlFZQVkwdjFJVG1PYlhTYjNtLVF0LWpWTG9mMkZPLXA5VFFOWEVKbElVUWNSOWZNaDJHbGt3eUFpbE1fbWZCdw?oc=5",
-      "copy_text": "陕西各地党员干部下沉一线全力以赴确保安全度汛\nhttps://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNDFVWjhWc2Y5dmprNzh1eUxWWnUwZ05KNlFZQVkwdjFJVG1PYlhTYjNtLVF0LWpWTG9mMkZPLXA5VFFOWEVKbElVUWNSOWZNaDJHbGt3eUFpbE1fbWZCdw?oc=5",
+      "title": "陕西省群众体育五级联赛榆林赛区启动",
+      "summary": "陕西省群众体育五级联赛榆林赛区启动",
+      "time": "08-10 05:08",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0NZbnNhSS16d0cxMXpIMF9YbVctWTNLVURxV2RBVUNoRGdpVmtyeWl2TXRWWm9XU0lwQTZHZ25fQnFCVW5QSkIzMmhtcGZMdmlIVVUzZjc0X29rMnVEZldMTE1YNmg1ZVRvVnNWc24xbVk2MF9YRTJISTFZeUhwVldIbWlFeGhvU09hLVJGLW5lU0xxOGdCeHl4TG9HV2VKVHB4LTNFWkMzV2pRelpSOGJQd0hLYVB1LVhURHBzdVdVc3djYjRZaHJJTmVYanhWX2RSUV9DaVZNdTg?oc=5",
+      "copy_text": "陕西省群众体育五级联赛榆林赛区启动\nhttps://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0NZbnNhSS16d0cxMXpIMF9YbVctWTNLVURxV2RBVUNoRGdpVmtyeWl2TXRWWm9XU0lwQTZHZ25fQnFCVW5QSkIzMmhtcGZMdmlIVVUzZjc0X29rMnVEZldMTE1YNmg1ZVRvVnNWc24xbVk2MF9YRTJISTFZeUhwVldIbWlFeGhvU09hLVJGLW5lU0xxOGdCeHl4TG9HV2VKVHB4LTNFWkMzV2pRelpSOGJQd0hLYVB1LVhURHBzdVdVc3djYjRZaHJJTmVYanhWX2RSUV9DaVZNdTg?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮",
-      "summary": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮",
-      "time": "08-08 15:04",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-08/10674219.shtml",
-      "copy_text": "陕西省群众体育五级联赛榆林赛区启动 塞上驼城涌动健身热潮\nhttps://www.chinanews.com.cn/ty/2026/08-08/10674219.shtml",
-      "excerpt": "中新网 西安8月8日电 (记者 张一辰)8月8日，“全民健身日”主题活动2026年陕西省群众体育五级联赛暨社区运动会榆林赛区启动仪式在榆林市举行。塞上驼城活力迸发，各界健身群众齐聚一堂，共同开启这场覆盖城乡、全民参与的群众体育盛会。 8月8日，2026年陕西省群众体育五级联赛暨社区运动会榆林赛区启动仪式在榆林市举行。 (赛事组委会供图) 本次活动是陕西省落实全民健身国家战略、构建“省、市、县、乡、村”五级联动赛事体系的关键抓手，核心目标是推动优质健身资源下沉基层，激活群众体育发展内生动力。作为陕西深耕基层群众体育的品牌赛事，群众体育五级联赛以“五级联动、层层选拔”为运行机制，真正把运动舞台办到群众家门口。其中，既有适配全年龄段的大众健身项目，也融入独具地域特色的民俗体育内容，同步配套文体商旅融合活动，全方位覆盖群众多元化健身需求。 榆林市近年来持续推动全民健身公共服务提质增效。截至目前，全市公共体育场馆全部实行免费或低收费开放，学校体育场地有序向社会开放共享；城市公园健身步道、社区乡村健身站点实现广泛覆盖，每年举办各类群众体育赛事活动220场以上，体育消费券等惠民举措持续落地。随着全民健身设施网络不断完善，常态化参与体育锻炼的市民规模稳步增长，“爱运动、尚健身”已成为塞上城市新风尚。 启动仪式结束后，太极拳、广场舞、健身气功等项目随即开赛；足球、篮球、乒乓球等大众竞技项目将按赛程陆续展开角逐。现场同步开设国民体质检测服务，为群众免费出具体质评估报告、提供科学健身指导，切实把体育惠民举措做实做细。 赛事组委会相关负责人表示，榆林市将以本次赛事为契机，持续推进群众体育五级联赛常态化、品牌化发展，推动更多赛事活动进社区、进乡村，切实打通全民健身“最后一公里”。当地还将持续深化体教融合、体卫融合、体旅融合，广泛普及科学健身知识，加快构建更高水平的全民健身公共服务体系，引导更多群众参与健身、乐享健康，以全民健康助力经济社会高质量发展。 本次赛事由陕西省体育局、陕西省委社会工作部主办，陕西省社会体育运动发展中心、陕西省武术运动管理中心等承办，榆林市体育中心、威赢赛事运营有限公司等协办。(完) 【",
-      "verified": true
+      "title": "中国-中亚国家摔跤精英赛：男子自由式摔跤赛况",
+      "summary": "中国-中亚国家摔跤精英赛：男子自由式摔跤赛况",
+      "time": "08-10 09:57",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnVDbHRQMzdMUGFlMmRxX0RYbks1bm83dkEzNXZGOHg5aGJJQTAySTU5UjVoY0k2OGdkLUtHSVU5QWNQa1VnY0R3VHowS1cxM3hKenNnSG4yY0tQYnliaWZRRjZNdW8wRWJ4TnJza3VxSXFVSkM4V3RQNlZqdnlleDQwV1AzYktvRHhlSA?oc=5",
+      "copy_text": "中国-中亚国家摔跤精英赛：男子自由式摔跤赛况\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPSnVDbHRQMzdMUGFlMmRxX0RYbks1bm83dkEzNXZGOHg5aGJJQTAySTU5UjVoY0k2OGdkLUtHSVU5QWNQa1VnY0R3VHowS1cxM3hKenNnSG4yY0tQYnliaWZRRjZNdW8wRWJ4TnJza3VxSXFVSkM4V3RQNlZqdnlleDQwV1AzYktvRHhlSA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "曹永强接受西安市灞桥区纪委监委纪律审查和监察调查",
+      "summary": "曹永强接受西安市灞桥区纪委监委纪律审查和监察调查",
+      "time": "08-10 09:58",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0tzdFNSZzNKOWI2cGFiakhDalJsN1JlUjJTaGZHWWs4WUtzMkgwbzU3cXdDQ1ZLRXVZMENJVEJORUlpaS1SSTZzTmJSZlhqVXNxYjNLOHZDcmFEeWFBRmRZVHQ0TDdaMGdFWTgwTkktWDNDajZFUGZaaDlQR1BOdUxCLVJ1N1Zr?oc=5",
+      "copy_text": "曹永强接受西安市灞桥区纪委监委纪律审查和监察调查\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0tzdFNSZzNKOWI2cGFiakhDalJsN1JlUjJTaGZHWWs4WUtzMkgwbzU3cXdDQ1ZLRXVZMENJVEJORUlpaS1SSTZzTmJSZlhqVXNxYjNLOHZDcmFEeWFBRmRZVHQ0TDdaMGdFWTgwTkktWDNDajZFUGZaaDlQR1BOdUxCLVJ1N1Zr?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "送别抗洪牺牲英雄 李杨同志遗体告别仪式举行",
+      "summary": "送别抗洪牺牲英雄 李杨同志遗体告别仪式举行",
+      "time": "08-10 13:55",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tNEZxNDdCVlJmWjNaUnNTZ3ZYdTVJdjdBVVh4WlJ5bkRrVnJPX0x5YV9nUUxBSHU2MnhmeWpENERrX3QwMzZ2TWEzaENJV3BfeGc?oc=5",
+      "copy_text": "送别抗洪牺牲英雄 李杨同志遗体告别仪式举行\nhttps://news.google.com/rss/articles/CBMiUkFVX3lxTE9tNEZxNDdCVlJmWjNaUnNTZ3ZYdTVJdjdBVVh4WlJ5bkRrVnJPX0x5YV9nUUxBSHU2MnhmeWpENERrX3QwMzZ2TWEzaENJV3BfeGc?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西集中发布三项考古研究成果",
+      "summary": "陕西集中发布三项考古研究成果",
+      "time": "08-09 19:27",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFpaRWlPbk94aEFnWE13SGI5UTkxY2luS0tqRW90U1FLLVhUTW9XMDdOdUdkODYtNHRXU0hPT3VHX2lJWHU5bDUwaGNyUnRiNnNiRU52emFId2VoczJQS3hwQkJmWTJzODNBU0lRRm0tM0tKU2psWmJuTHRzNzBfVFdYVV83NDgzUGdJbmlqaVVkdko4MGRDbzM0UFRyYlJlcFJNWlRKX0hKT2FCNVJISy14UzFGUUpjajU1cTdxcElrbUZpWWNkZ0ZyMGVrUQ?oc=5",
+      "copy_text": "陕西集中发布三项考古研究成果\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxQeFpaRWlPbk94aEFnWE13SGI5UTkxY2luS0tqRW90U1FLLVhUTW9XMDdOdUdkODYtNHRXU0hPT3VHX2lJWHU5bDUwaGNyUnRiNnNiRU52emFId2VoczJQS3hwQkJmWTJzODNBU0lRRm0tM0tKU2psWmJuTHRzNzBfVFdYVV83NDgzUGdJbmlqaVVkdko4MGRDbzM0UFRyYlJlcFJNWlRKX0hKT2FCNVJISy14UzFGUUpjajU1cTdxcElrbUZpWWNkZ0ZyMGVrUQ?oc=5",
+      "verified": false
     },
     {
       "media": "人民日报",
@@ -178,49 +477,12 @@
     },
     {
       "media": "人民日报",
-      "title": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动",
-      "summary": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动",
-      "time": "08-08 22:03",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZUd2VWRiTS11LXVOU3BrS3huQ1J5YV9nSzlnNUpKa1ZKQkhHOXdsblhuelIxa3hteEd5RkZQU09OUDh6VDRkY0laWnY0aTgwbkNpYnJhcUZXVjVYZEd0MHZqQ0MzRjdGOUtoTFVlcDlWSFJlS3MxOA?oc=5",
-      "copy_text": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTFBtZUd2VWRiTS11LXVOU3BrS3huQ1J5YV9nSzlnNUpKa1ZKQkhHOXdsblhuelIxa3hteEd5RkZQU09OUDh6VDRkY0laWnY0aTgwbkNpYnJhcUZXVjVYZEd0MHZqQ0MzRjdGOUtoTFVlcDlWSFJlS3MxOA?oc=5",
+      "title": "“金石学在陕西”特展：从“追金”寻古到物我同春",
+      "summary": "“金石学在陕西”特展：从“追金”寻古到物我同春",
+      "time": "08-09 16:18",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXhYcjJYd3lCdk1kLW5HSTJwNVNnMFZVOWdsRDJtUWNVWS11OXJhWEczVGRKaml1MDh0eEVnS2I0QzRVUHdFZk0yMDZNUUZQbXBkS2YzN21RNEpwOEkzVmN6NHNFcl8tOG5BRWEtazI2QXZGYmhwM00xd1NNTkRxMi1RRDl2LUtqU285aQ?oc=5",
+      "copy_text": "“金石学在陕西”特展：从“追金”寻古到物我同春\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPLXhYcjJYd3lCdk1kLW5HSTJwNVNnMFZVOWdsRDJtUWNVWS11OXJhWEczVGRKaml1MDh0eEVnS2I0QzRVUHdFZk0yMDZNUUZQbXBkS2YzN21RNEpwOEkzVmN6NHNFcl8tOG5BRWEtazI2QXZGYmhwM00xd1NNTkRxMi1RRDl2LUtqU285aQ?oc=5",
       "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "省十八运会火炬传递收官",
-      "summary": "省十八运会火炬传递收官",
-      "time": "08-09 23:01",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDlnZmpjb0oxdDB4R2Q5ak9ibnFydDRLU1dWLU4tZk1DSUFXZUtQZDAwWTZhSkVMWFVuSkdaeVBHWnl0NUdpemdZVkpaSXd4VmxvSGUxQU5aMmpDODZjWXVrZzlEeW1fbkJjQlMxTVhtVGJGNDVLNFdmamZqSmc1a3NRcEdyR3NpZXlHeg?oc=5",
-      "copy_text": "省十八运会火炬传递收官\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxOSDlnZmpjb0oxdDB4R2Q5ak9ibnFydDRLU1dWLU4tZk1DSUFXZUtQZDAwWTZhSkVMWFVuSkdaeVBHWnl0NUdpemdZVkpaSXd4VmxvSGUxQU5aMmpDODZjWXVrZzlEeW1fbkJjQlMxTVhtVGJGNDVLNFdmamZqSmc1a3NRcEdyR3NpZXlHeg?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "赵一德到西安市、咸阳市调研",
-      "summary": "赵一德到西安市、咸阳市调研",
-      "time": "08-08 22:09",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOalBCb044ODJMVHp3MWxrQzY3Z3hDbVBsZ1NPMUdVX2pkOFlZUl93bVdHemREV3c5Z2Zwc2lWOFAtck5oVHk5QkJZa3JpZG1aZW44cHE0LWZVeExidDlRT2V4a05hZnJTd0hxeWN0TzN5Q1kyOUFGaVVYcGpzUmg1bjI3Zk9JYTJpZnliQ2Rzc2FBQmJrTHZpMzN4ZDlCSGtDMzNXTkd1VnhBRkZnaWY2bTdoS0c2STRLQ0xBeXNWSTJIWVBQeC1RWkVlMUpadGE5eHFGN3g3OW0tN2VLcWh4NXhBMGt0cWhoSVJmVmJpbHVCX1AwSnUybVhMU1RlckxTV3BEMVFPbFBCZENGZVpSM2l3Y0YtZGZnRjJJaG4zVjRhYjMyQ2JTWmVmc0xMT2xlaVpTUGlENENDOFA3cnI0ZUhQQ216NHRlVXFR?oc=5",
-      "copy_text": "赵一德到西安市、咸阳市调研\nhttps://news.google.com/rss/articles/CBMiywJBVV95cUxOalBCb044ODJMVHp3MWxrQzY3Z3hDbVBsZ1NPMUdVX2pkOFlZUl93bVdHemREV3c5Z2Zwc2lWOFAtck5oVHk5QkJZa3JpZG1aZW44cHE0LWZVeExidDlRT2V4a05hZnJTd0hxeWN0TzN5Q1kyOUFGaVVYcGpzUmg1bjI3Zk9JYTJpZnliQ2Rzc2FBQmJrTHZpMzN4ZDlCSGtDMzNXTkd1VnhBRkZnaWY2bTdoS0c2STRLQ0xBeXNWSTJIWVBQeC1RWkVlMUpadGE5eHFGN3g3OW0tN2VLcWh4NXhBMGt0cWhoSVJmVmJpbHVCX1AwSnUybVhMU1RlckxTV3BEMVFPbFBCZENGZVpSM2l3Y0YtZGZnRjJJaG4zVjRhYjMyQ2JTWmVmc0xMT2xlaVpTUGlENENDOFA3cnI0ZUhQQ216NHRlVXFR?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "西安市拳击协会成功举办公益体验活动",
-      "summary": "西安市拳击协会成功举办公益体验活动",
-      "time": "08-08 22:36",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYmRZV29YVUdDVUcwcFZuMkdzTExkaWdUSEUxdnlEYk5iV3FMYjlyLWVHRzIxdXFCX1J4aC1rZjNfVlJaUEdTMjRqQUdpNHVGSlB5RFJB?oc=5",
-      "copy_text": "西安市拳击协会成功举办公益体验活动\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYmRZV29YVUdDVUcwcFZuMkdzTExkaWdUSEUxdnlEYk5iV3FMYjlyLWVHRzIxdXFCX1J4aC1rZjNfVlJaUEdTMjRqQUdpNHVGSlB5RFJB?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展",
-      "summary": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展",
-      "time": "08-08 20:57",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-08/10674405.shtml",
-      "copy_text": "俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展\nhttps://www.chinanews.com.cn/gn/2026/08-08/10674405.shtml",
-      "excerpt": "中新网 西安8月8日电 (记者 阿琳娜)俄罗斯沃洛格达州非物质文化遗产交流展7日在陕西省文化馆曲江馆区开幕。本次展览甄选了一批特色非遗展品亮相陕西，集中展示沃洛格达特色木雕、民族乐器、彩绘瓷器等经典民俗艺术。 俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展。陕西省文化馆供图 今年6月，一批三秦非遗精品作为中国文化的代表，在沃洛格达州进行常态化海外展陈。凤翔泥塑、木版年画、民间剪纸、关中皮影等特色作品集中亮相，生动诠释了三秦文脉底蕴与民俗风情。作为交换展，俄罗斯沃洛格达州非物质文化遗产交流展也将以长期展览的形式免费向公众开放，旨在打通两地文化互通的双向通道，持续夯实友好省州交流合作基础。 俄罗斯沃洛格达州非物质文化遗产交流展在陕西开展。陕西省文化馆供图 陕西省与沃洛格达州于2025年11月正式缔结友好省州关系，并签署了文旅、体育领域合作谅解备忘录。 据悉，陕西省文化馆将以此次非遗交流展为契机，充分发挥公共文化阵地优势，持续放大对外交流效能，常态化组织公益观展、文化宣讲、非遗体验、青少年美育研学等公共文化活动，为拓展陕西对外人文交往、讲好陕西故事贡献文化力量。(完) 【",
-      "verified": true
     },
     {
       "media": "人民日报",
@@ -233,74 +495,20 @@
     },
     {
       "media": "人民日报",
-      "title": "2026年西安市全民健身月系列活动启动仪式举行",
-      "summary": "2026年西安市全民健身月系列活动启动仪式举行",
-      "time": "08-08 09:24",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRG5wbW1DR0IweENacHNzWU45dzc3Q0NDaVZJZWpiZWZkalp4YTZRWF9IRDZ1WUxueFNERkd5ZndiVXVRNmtjamx1RU8tMTRFeUl2R0dXUVpCSGFpR0pudlZFdkQwcW80WGpqX2gtdkQ?oc=5",
-      "copy_text": "2026年西安市全民健身月系列活动启动仪式举行\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1MRG5wbW1DR0IweENacHNzWU45dzc3Q0NDaVZJZWpiZWZkalp4YTZRWF9IRDZ1WUxueFNERkd5ZndiVXVRNmtjamx1RU8tMTRFeUl2R0dXUVpCSGFpR0pudlZFdkQwcW80WGpqX2gtdkQ?oc=5",
+      "title": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动",
+      "summary": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动",
+      "time": "08-09 18:40",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XbV82QS1uSG9RTkZfejROclVlMFR6aldPb3hvMi03N0Mzb3pYUTV3SGJpaDBzZF9nMk1haTBvQXFzOWJoQjBZQi1rd0JTRHY2eldBcmJ6WFFuUWNfOTAyakZB?oc=5",
+      "copy_text": "2026年陕西省“全民健身日”主题活动暨陕西省体育宣传周系列活动在汉中启动\nhttps://news.google.com/rss/articles/CBMiYkFVX3lxTE9XbV82QS1uSG9RTkZfejROclVlMFR6aldPb3hvMi03N0Mzb3pYUTV3SGJpaDBzZF9nMk1haTBvQXFzOWJoQjBZQi1rd0JTRHY2eldBcmJ6WFFuUWNfOTAyakZB?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "陕西省委书记观摩直播带货，与董宇辉深入交流",
-      "summary": "陕西省委书记观摩直播带货，与董宇辉深入交流",
-      "time": "08-08 22:21",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0F3TlViS29McjQ5ZEhlNEM0Q0UtTDlNR3pybU5PTF8tVVZwdFdJeTVVa2NibDJjRUMySXlXQV9qSUZ6TFdkZVF0d1VBOU1fV0tXYlRqdTdLSVRWWWhvZ05PXy1sbmhyYXN6NkpOTkRObjgtT2ZldFZITHlUV25PSElvbFRYWGRwa3ZV?oc=5",
-      "copy_text": "陕西省委书记观摩直播带货，与董宇辉深入交流\nhttps://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0F3TlViS29McjQ5ZEhlNEM0Q0UtTDlNR3pybU5PTF8tVVZwdFdJeTVVa2NibDJjRUMySXlXQV9qSUZ6TFdkZVF0d1VBOU1fV0tXYlRqdTdLSVRWWWhvZ05PXy1sbmhyYXN6NkpOTkRObjgtT2ZldFZITHlUV25PSElvbFRYWGRwa3ZV?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "全民健身日燃动塞上驼城陕西群众体育五级联赛榆林赛区开赛- 新体育网",
-      "summary": "全民健身日燃动塞上驼城陕西群众体育五级联赛榆林赛区开赛- 新体育网",
-      "time": "08-08 16:48",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Y3hsbHNKTFFXMlA5dFA5ZllNLVZGUGtQbGk2Z3ltem5vejI0aDNUQWpIeHJnZGRTd09JTmx0MHFrdXd2UnpYZmg1OW5OSEtyYzdjaTZlUi1WOGE5UDVOY2oyanlHeEt0dkVDNTJsTQ?oc=5",
-      "copy_text": "全民健身日燃动塞上驼城陕西群众体育五级联赛榆林赛区开赛- 新体育网\nhttps://news.google.com/rss/articles/CBMib0FVX3lxTFB6Y3hsbHNKTFFXMlA5dFA5ZllNLVZGUGtQbGk2Z3ltem5vejI0aDNUQWpIeHJnZGRTd09JTmx0MHFrdXd2UnpYZmg1OW5OSEtyYzdjaTZlUi1WOGE5UDVOY2oyanlHeEt0dkVDNTJsTQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "全城热“练” 西安市全民健身月系列活动启动",
-      "summary": "全城热“练” 西安市全民健身月系列活动启动",
-      "time": "08-08 17:10",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEpydlZyXzI1RHZVelJkdE4wLVJqcFlaekhTZnhTVGk4RnRJQnNuem9KbTFoVmIzbkNXVmxvUWhoV1NQaWs3MUo2bmcwZHFnZ3FVTTlkRnNyczhhRHF3T05uek5EVVA1ZUU4VEpmUVNSYlQybU1DZzlzQVdOMzBRX0hYZHB1VkZ0ZHVQTw?oc=5",
-      "copy_text": "全城热“练” 西安市全民健身月系列活动启动\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNeEpydlZyXzI1RHZVelJkdE4wLVJqcFlaekhTZnhTVGk4RnRJQnNuem9KbTFoVmIzbkNXVmxvUWhoV1NQaWs3MUo2bmcwZHFnZ3FVTTlkRnNyczhhRHF3T05uek5EVVA1ZUU4VEpmUVNSYlQybU1DZzlzQVdOMzBRX0hYZHB1VkZ0ZHVQTw?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西省委书记观摩直播带货，同董宇辉交流",
-      "summary": "陕西省委书记观摩直播带货，同董宇辉交流",
-      "time": "08-09 10:13",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcU9NeW5FeU1qdE5oMnl6amlMX2hCR3lTb0QzLXFDenloRkVhLS1LNzVaS1JXOXZMdWpZazU0QWE1ajlLaGpTS2VUMmdGN1loT1pLdzhla0w5QmkyV0RzN2FaTEtoaG8?oc=5",
-      "copy_text": "陕西省委书记观摩直播带货，同董宇辉交流\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcU9NeW5FeU1qdE5oMnl6amlMX2hCR3lTb0QzLXFDenloRkVhLS1LNzVaS1JXOXZMdWpZazU0QWE1ajlLaGpTS2VUMmdGN1loT1pLdzhla0w5QmkyV0RzN2FaTEtoaG8?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西省第四期一级社会体育指导员培训班举行",
-      "summary": "陕西省第四期一级社会体育指导员培训班举行",
-      "time": "08-08 22:36",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DOXFVYWdaNHVQRm5TSU9CR1hWcmY5eEt0ZDFyR21TbGg4OEZLRTEzNmZGeEEyV2hEYzJ4dE94QjhwSnROcnJmcmFvcEUwQ0k0ZjNTakRn?oc=5",
-      "copy_text": "陕西省第四期一级社会体育指导员培训班举行\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTE5DOXFVYWdaNHVQRm5TSU9CR1hWcmY5eEt0ZDFyR21TbGg4OEZLRTEzNmZGeEEyV2hEYzJ4dE94QjhwSnROcnJmcmFvcEUwQ0k0ZjNTakRn?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西第三届魅力休闲乡村、特色魅力田园推荐名单公示，汉中四地入选！",
-      "summary": "陕西第三届魅力休闲乡村、特色魅力田园推荐名单公示，汉中四地入选！",
-      "time": "08-08 13:54",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVaUFPR1RFX0dkSGNBeDFFVl9vbjZrNEhDT24xY1VRZlFwN01pY0VvMlRhLTR4bTBTaXd0WGdqU2FORFB2WWdnU2tJS09vMlJoM1VsUWRFMTRkXzU2VGJSYjNB?oc=5",
-      "copy_text": "陕西第三届魅力休闲乡村、特色魅力田园推荐名单公示，汉中四地入选！\nhttps://news.google.com/rss/articles/CBMiYkFVX3lxTFBVaUFPR1RFX0dkSGNBeDFFVl9vbjZrNEhDT24xY1VRZlFwN01pY0VvMlRhLTR4bTBTaXd0WGdqU2FORFB2WWdnU2tJS09vMlJoM1VsUWRFMTRkXzU2VGJSYjNB?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "西安市全民健身技能大赛碑林赛区火热举行",
-      "summary": "西安市全民健身技能大赛碑林赛区火热举行",
-      "time": "08-08 22:36",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjN5ek5xNi1tT01SNnFVVDJZV3hCRGJxbjFESWhpaVJRMmFCWmM1RGtseVd5bExKdlc2dllnZm1Cc0NOQ2dkUm5tZlhyZThqVkN1d1NhZVZQWjJkdmstel9ZRngxVmtGTmhodTNmQU94aDB6UGI5UDZYUE5ZYW1OdWRWbkVSNnVYaXkweA?oc=5",
-      "copy_text": "西安市全民健身技能大赛碑林赛区火热举行\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxObjN5ek5xNi1tT01SNnFVVDJZV3hCRGJxbjFESWhpaVJRMmFCWmM1RGtseVd5bExKdlc2dllnZm1Cc0NOQ2dkUm5tZlhyZThqVkN1d1NhZVZQWjJkdmstel9ZRngxVmtGTmhodTNmQU94aDB6UGI5UDZYUE5ZYW1OdWRWbkVSNnVYaXkweA?oc=5",
+      "title": "陕西省政府如何支持董宇辉的助农直播活动？",
+      "summary": "陕西省政府如何支持董宇辉的助农直播活动？",
+      "time": "08-09 08:10",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0ZZUkVHdkh0Q3RJUGNJdXlJQnR4d0FWcGRZQ3pwVnVwMGlyMlpzMEY0N1N5VnBtYWhfU2ZpODFiYWlSak5TTnhQT0pzWS14eW5wQzdfMnc2OXo4OXpUTWczTWVtYU1XNTVkN0t4YV9GSEVaOTB4SlhOSmJuSzJBQWdRblE?oc=5",
+      "copy_text": "陕西省政府如何支持董宇辉的助农直播活动？\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPT0ZZUkVHdkh0Q3RJUGNJdXlJQnR4d0FWcGRZQ3pwVnVwMGlyMlpzMEY0N1N5VnBtYWhfU2ZpODFiYWlSak5TTnhQT0pzWS14eW5wQzdfMnc2OXo4OXpUTWczTWVtYU1XNTVkN0t4YV9GSEVaOTB4SlhOSmJuSzJBQWdRblE?oc=5",
       "verified": false
     },
     {
@@ -314,29 +522,20 @@
     },
     {
       "media": "人民日报",
-      "title": "打造黄河沿线“行走课堂” 渭南研学旅游交流大会成果丰硕",
-      "summary": "打造黄河沿线“行走课堂” 渭南研学旅游交流大会成果丰硕",
-      "time": "08-08 15:29",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jY05KaDE5YUJhdjgtVU5UcW9SOVI4OUZJQnBBOG9hYmkxOGpqYVR5cDhsYkktSDVCUV83THZteHNrWEF5ZHkwRzZwZG80b3pMYklJR2R1M0RKRVUxd1ZkQUdTZW9UNWU1a3dsOVZrdGFWV3NuNWdRMA?oc=5",
-      "copy_text": "打造黄河沿线“行走课堂” 渭南研学旅游交流大会成果丰硕\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE1jY05KaDE5YUJhdjgtVU5UcW9SOVI4OUZJQnBBOG9hYmkxOGpqYVR5cDhsYkktSDVCUV83THZteHNrWEF5ZHkwRzZwZG80b3pMYklJR2R1M0RKRVUxd1ZkQUdTZW9UNWU1a3dsOVZrdGFWV3NuNWdRMA?oc=5",
+      "title": "省十八运会火炬传递收官",
+      "summary": "省十八运会火炬传递收官",
+      "time": "08-09 23:01",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDlnZmpjb0oxdDB4R2Q5ak9ibnFydDRLU1dWLU4tZk1DSUFXZUtQZDAwWTZhSkVMWFVuSkdaeVBHWnl0NUdpemdZVkpaSXd4VmxvSGUxQU5aMmpDODZjWXVrZzlEeW1fbkJjQlMxTVhtVGJGNDVLNFdmamZqSmc1a3NRcEdyR3NpZXlHeg?oc=5",
+      "copy_text": "省十八运会火炬传递收官\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxOSDlnZmpjb0oxdDB4R2Q5ak9ibnFydDRLU1dWLU4tZk1DSUFXZUtQZDAwWTZhSkVMWFVuSkdaeVBHWnl0NUdpemdZVkpaSXd4VmxvSGUxQU5aMmpDODZjWXVrZzlEeW1fbkJjQlMxTVhtVGJGNDVLNFdmamZqSmc1a3NRcEdyR3NpZXlHeg?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "西安市公安局临潼分局发布关于刑事侦查大队办公地址变更的通告",
-      "summary": "西安市公安局临潼分局发布关于刑事侦查大队办公地址变更的通告",
-      "time": "08-08 12:03",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTlQdmtxcndfQmlCUUd4RzNudTZHRmNuZ01PR05wTXAwdUowS3R6VVhmeFV3c0hueENJckFJaDM3QTF6c0FzdTBKYVNERU53RWtVNjBRNmtMa0RVUDRmR3k4TGNtUUdGTy1GWVZWOVBVTXl0djZrVzJyYlN0WWRYVjF1V2E5M1dtakVaMA?oc=5",
-      "copy_text": "西安市公安局临潼分局发布关于刑事侦查大队办公地址变更的通告\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNZTlQdmtxcndfQmlCUUd4RzNudTZHRmNuZ01PR05wTXAwdUowS3R6VVhmeFV3c0hueENJckFJaDM3QTF6c0FzdTBKYVNERU53RWtVNjBRNmtMa0RVUDRmR3k4TGNtUUdGTy1GWVZWOVBVTXl0djZrVzJyYlN0WWRYVjF1V2E5M1dtakVaMA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "全城热“练” 悦动身心",
-      "summary": "全城热“练” 悦动身心",
-      "time": "08-09 07:01",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVkc25QekxCZklrU21pNWdPdkFFUndzcTFVVFZiQkNiYXJMWm1tZWx0LVBwazVDTkdNTVFFMkZQVUtiSjk4S09pcjlRbWhCT2RHS3ZQYU9WVC1yak14Z0F0bng5N2x1b1pWMFUzYjZCT3h1OHZnVUhmbjRzY2JsMGJGY2VtV211MGdRdQ?oc=5",
-      "copy_text": "全城热“练” 悦动身心\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVkc25QekxCZklrU21pNWdPdkFFUndzcTFVVFZiQkNiYXJMWm1tZWx0LVBwazVDTkdNTVFFMkZQVUtiSjk4S09pcjlRbWhCT2RHS3ZQYU9WVC1yak14Z0F0bng5N2x1b1pWMFUzYjZCT3h1OHZnVUhmbjRzY2JsMGJGY2VtV211MGdRdQ?oc=5",
+      "title": "陕西省委书记观摩直播带货，同董宇辉交流",
+      "summary": "陕西省委书记观摩直播带货，同董宇辉交流",
+      "time": "08-09 10:13",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcU9NeW5FeU1qdE5oMnl6amlMX2hCR3lTb0QzLXFDenloRkVhLS1LNzVaS1JXOXZMdWpZazU0QWE1ajlLaGpTS2VUMmdGN1loT1pLdzhla0w5QmkyV0RzN2FaTEtoaG8?oc=5",
+      "copy_text": "陕西省委书记观摩直播带货，同董宇辉交流\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcU9NeW5FeU1qdE5oMnl6amlMX2hCR3lTb0QzLXFDenloRkVhLS1LNzVaS1JXOXZMdWpZazU0QWE1ajlLaGpTS2VUMmdGN1loT1pLdzhla0w5QmkyV0RzN2FaTEtoaG8?oc=5",
       "verified": false
     },
     {
@@ -359,101 +558,47 @@
     },
     {
       "media": "人民日报",
-      "title": "2026年陕西省第四期一级社会体育指导员培训班在咸阳开班",
-      "summary": "2026年陕西省第四期一级社会体育指导员培训班在咸阳开班",
-      "time": "08-08 19:32",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByODI5UmRBWEJqRUxGbHdoMmtQbzhadk9NaXRnd0NVU2lUdVZHT1NyTDhJRWRJaE9lSVcyQ2hGQl9QeW1KYkh1RkFfcHZfcEtFMTFSV3AzQjBoLVY0blZoS1I4Z2NTVUs1S1VfSVJPM2c?oc=5",
-      "copy_text": "2026年陕西省第四期一级社会体育指导员培训班在咸阳开班\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTFByODI5UmRBWEJqRUxGbHdoMmtQbzhadk9NaXRnd0NVU2lUdVZHT1NyTDhJRWRJaE9lSVcyQ2hGQl9QeW1KYkh1RkFfcHZfcEtFMTFSV3AzQjBoLVY0blZoS1I4Z2NTVUs1S1VfSVJPM2c?oc=5",
+      "title": "董宇辉在陕西农高会直播助农取得了哪些成果？",
+      "summary": "董宇辉在陕西农高会直播助农取得了哪些成果？",
+      "time": "08-09 08:10",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlI5RklVc3pJQ0VtQmtfUHh5ajNxbEQ3Y2JxZUVyRHI1anRnUHAzeXBlbXJjNFpGR19Pb3ZMOHFOdlVQMFUzRWJvYUwyN3VDQmJ0RFNBekhIVjVoZmlHMDNDQjAwY0wxanNrTnFHMHhjbFBORUpyUmtuX3A1R2lxUzY4UjM?oc=5",
+      "copy_text": "董宇辉在陕西农高会直播助农取得了哪些成果？\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxQSlI5RklVc3pJQ0VtQmtfUHh5ajNxbEQ3Y2JxZUVyRHI1anRnUHAzeXBlbXJjNFpGR19Pb3ZMOHFOdlVQMFUzRWJvYUwyN3VDQmJ0RFNBekhIVjVoZmlHMDNDQjAwY0wxanNrTnFHMHhjbFBORUpyUmtuX3A1R2lxUzY4UjM?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "万里丝路见证“中国制造”的千年之变",
-      "summary": "万里丝路见证“中国制造”的千年之变",
-      "time": "08-08 13:01",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0Vua282TWtWcjVEYWh6dlp4RHF2dkF5WUtvNzFHbE9kWU5aMy1TSFg4d1BaOGNpeGFjNVI1ZFNqbXVIQW0wX0huSUZ0OWotTnJuNVlTYkdVRDQ5MVZUd2FyT3lRUHlxNVQ4NkFVa3pyYy03NGZBb0ZzbWJSUkFOTDNPSzNValhxeFMyc1Vn?oc=5",
-      "copy_text": "万里丝路见证“中国制造”的千年之变\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxNT0Vua282TWtWcjVEYWh6dlp4RHF2dkF5WUtvNzFHbE9kWU5aMy1TSFg4d1BaOGNpeGFjNVI1ZFNqbXVIQW0wX0huSUZ0OWotTnJuNVlTYkdVRDQ5MVZUd2FyT3lRUHlxNVQ4NkFVa3pyYy03NGZBb0ZzbWJSUkFOTDNPSzNValhxeFMyc1Vn?oc=5",
+      "title": "立秋云淡天高远 不负耕耘瓜果香",
+      "summary": "立秋云淡天高远 不负耕耘瓜果香",
+      "time": "08-10 07:22",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVY1MkRTNklKOW9pVGo4TnBkVVJUTFhHd1JYVHdGVGN2dkNYT1VpUFZsb3ZYMEZ1MVNWS1NHSkJGQXcwS1VPV3ZwSXlrVGtORXdZb2VjQTZKWkRLc2FPcFFMUXJRYm1rUmU1dXRrVjFsOTlwUU94NHJJY2V3ZFJSWXM1MFhmMWVTT2stTg?oc=5",
+      "copy_text": "立秋云淡天高远 不负耕耘瓜果香\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQWVY1MkRTNklKOW9pVGo4TnBkVVJUTFhHd1JYVHdGVGN2dkNYT1VpUFZsb3ZYMEZ1MVNWS1NHSkJGQXcwS1VPV3ZwSXlrVGtORXdZb2VjQTZKWkRLc2FPcFFMUXJRYm1rUmU1dXRrVjFsOTlwUU94NHJJY2V3ZFJSWXM1MFhmMWVTT2stTg?oc=5",
       "verified": false
     },
     {
-      "media": "人民日报",
-      "title": "#西安发布厅#【西安市发布第一批应用场景机会清单 “人工智能+制造”场景需求 重点聚焦商用车等产业链群】",
-      "summary": "#西安发布厅#【西安市发布第一批应用场景机会清单 “人工智能+制造”场景需求 重点聚焦商用车等产业链群】",
-      "time": "08-08 09:39",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tb29TcENZOHg3LVR1ckxtN3FBa2JuWGZISmtlQlU4NjVWelM1b3JxNmFrRFZQT2JXTS10WXlnTWxPRXk3RkJNZUpZT2FOOEQ1UmVuU2g5eldzYXoxUVJPZnJPWm5MUU9GVVc4?oc=5",
-      "copy_text": "#西安发布厅#【西安市发布第一批应用场景机会清单 “人工智能+制造”场景需求 重点聚焦商用车等产业链群】\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTE8tb29TcENZOHg3LVR1ckxtN3FBa2JuWGZISmtlQlU4NjVWelM1b3JxNmFrRFZQT2JXTS10WXlnTWxPRXk3RkJNZUpZT2FOOEQ1UmVuU2g5eldzYXoxUVJPZnJPWm5MUU9GVVc4?oc=5",
+      "media": "人民网",
+      "title": "延安火车站旅客发送量同比增长32.1%",
+      "summary": "延安火车站旅客发送量同比增长32.1%",
+      "time": "08-10 08:59",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUVU0SDVRWlJPWVA2WmNaalM2WW5KdjdrZjRHb0VBWTdBZHJTUTZhNnBVNXczdTVWZjhIOEd4dzYzN0toUnpWWWs3MUhCbllWOWg0dzA4WHhEbjg3NmItcWFCM3lwRjZYcGc?oc=5",
+      "copy_text": "延安火车站旅客发送量同比增长32.1%\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE8tUVU0SDVRWlJPWVA2WmNaalM2WW5KdjdrZjRHb0VBWTdBZHJTUTZhNnBVNXczdTVWZjhIOEd4dzYzN0toUnpWWWs3MUhCbllWOWg0dzA4WHhEbjg3NmItcWFCM3lwRjZYcGc?oc=5",
       "verified": false
     },
     {
-      "media": "人民日报",
-      "title": "丈夫坠亡后百万赔偿款被婆家转移，妻女仅得3万元",
-      "summary": "丈夫坠亡后百万赔偿款被婆家转移，妻女仅得3万元",
-      "time": "08-08 23:05",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmV0Uk4zbkc3Rl9FbENiOWg3RnpRSlQyajgwcTU4SDBmd3VrZjY0NjR2aUhTdVJkRnkwYkR6eGZvcHZJYlMyTFZaMmFKLVE3SmplTkctelM0bGhGYzJtUThHVWdyUnhXSGc2MExWZkVjdDhtQ3l2akQ4YURNSnl2OEw1R1JUNUxfLUJGRklzVlBKem5OeVZhNA?oc=5",
-      "copy_text": "丈夫坠亡后百万赔偿款被婆家转移，妻女仅得3万元\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPUmV0Uk4zbkc3Rl9FbENiOWg3RnpRSlQyajgwcTU4SDBmd3VrZjY0NjR2aUhTdVJkRnkwYkR6eGZvcHZJYlMyTFZaMmFKLVE3SmplTkctelM0bGhGYzJtUThHVWdyUnhXSGc2MExWZkVjdDhtQ3l2akQ4YURNSnl2OEw1R1JUNUxfLUJGRklzVlBKem5OeVZhNA?oc=5",
+      "media": "人民网",
+      "title": "陕西成立低空经济领域“一院、一中心”",
+      "summary": "陕西成立低空经济领域“一院、一中心”",
+      "time": "08-10 08:56",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IOFoxVUN1VF90WHdWUjh6SlBPUTFseWRWekhRdDBMMF9rOWk1d1k4SnF6N1pDdEE3MmpETFpfcVU5LVlGTFpodDd3LVdMOUpldEpSczl4M0hrbUVmZEdOYXlWZXFfZGlSX1E?oc=5",
+      "copy_text": "陕西成立低空经济领域“一院、一中心”\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE5IOFoxVUN1VF90WHdWUjh6SlBPUTFseWRWekhRdDBMMF9rOWk1d1k4SnF6N1pDdEE3MmpETFpfcVU5LVlGTFpodDd3LVdMOUpldEpSczl4M0hrbUVmZEdOYXlWZXFfZGlSX1E?oc=5",
       "verified": false
     },
     {
-      "media": "人民日报",
-      "title": "以绳逐梦 为国争光——西安市新城区昆仑小学南若添同学为国摘金夺银载誉归来",
-      "summary": "以绳逐梦 为国争光——西安市新城区昆仑小学南若添同学为国摘金夺银载誉归来",
-      "time": "08-08 16:56",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10bjVPMWhVU3IxMlEtTGhhbkRuOE5SLWM5MGhjY2xvdFh0blJPVWNwYmUyMVBTQXg4bkk4T19oakllZkJ0UGZ1eTQ1dm53enNuY20wSnNJU2ZES2dvZC1KQTVjMVpBRVd4Wk5lcFczYmQ?oc=5",
-      "copy_text": "以绳逐梦 为国争光——西安市新城区昆仑小学南若添同学为国摘金夺银载誉归来\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE10bjVPMWhVU3IxMlEtTGhhbkRuOE5SLWM5MGhjY2xvdFh0blJPVWNwYmUyMVBTQXg4bkk4T19oakllZkJ0UGZ1eTQ1dm53enNuY20wSnNJU2ZES2dvZC1KQTVjMVpBRVd4Wk5lcFczYmQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "榆林骑警攒水瓶送拾荒老人超暖心",
-      "summary": "榆林骑警攒水瓶送拾荒老人超暖心",
-      "time": "08-08 11:38",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SSmRYdkozQ3A2TVo4UTkxVEtfWkl5dzl0SEo4SWpmWld6MlplOENXWlBCSktoYmw4dUFpVWJsQzJuUmIzaVNZdlUwYW5vWDJrRFRLaERCdGJseWdUa3RMX3Vn?oc=5",
-      "copy_text": "榆林骑警攒水瓶送拾荒老人超暖心\nhttps://news.google.com/rss/articles/CBMiYkFVX3lxTE9SSmRYdkozQ3A2TVo4UTkxVEtfWkl5dzl0SEo4SWpmWld6MlplOENXWlBCSktoYmw4dUFpVWJsQzJuUmIzaVNZdlUwYW5vWDJrRFRLaERCdGJseWdUa3RMX3Vn?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "西安市陕西鹰之杰实业一汽：探岳X最低售20.89万",
-      "summary": "西安市陕西鹰之杰实业一汽：探岳X最低售20.89万",
-      "time": "08-09 00:13",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RUWtyZ2UyY21YVFdOTHBWNGdxU011S1hoenhIWnBRaU9hOGdESTIyZHB2NWxsMkxFTTJDZTA4MzgwTHlSaDNUcDl3ZFg3SUg5Y3RvdllwcExHX1NJbGtNWmxldWNyOUpN?oc=5",
-      "copy_text": "西安市陕西鹰之杰实业一汽：探岳X最低售20.89万\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE1RUWtyZ2UyY21YVFdOTHBWNGdxU011S1hoenhIWnBRaU9hOGdESTIyZHB2NWxsMkxFTTJDZTA4MzgwTHlSaDNUcDl3ZFg3SUg5Y3RvdllwcExHX1NJbGtNWmxldWNyOUpN?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "火炬手渭南市骨科医院李博手持“华耀”传省运圣火，医体融合护百姓健康",
-      "summary": "火炬手渭南市骨科医院李博手持“华耀”传省运圣火，医体融合护百姓健康",
-      "time": "08-08 17:17",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ITVV0SE5ocF9ZbDBjQTdvYVhxai1ZdVpaTUJDWXlYdzZoenVvSnI2RnM0VGY1ZXIzQVZIWncteHl4eUU5bkp6TnZlX1ZDOUgybE5fcDFB?oc=5",
-      "copy_text": "火炬手渭南市骨科医院李博手持“华耀”传省运圣火，医体融合护百姓健康\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTE5ITVV0SE5ocF9ZbDBjQTdvYVhxai1ZdVpaTUJDWXlYdzZoenVvSnI2RnM0VGY1ZXIzQVZIWncteHl4eUU5bkp6TnZlX1ZDOUgybE5fcDFB?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "临渭姑娘世界冠军白雨露领跑首棒火炬陕西省第十八届运动会火炬传递临渭区站",
-      "summary": "临渭姑娘世界冠军白雨露领跑首棒火炬陕西省第十八届运动会火炬传递临渭区站",
-      "time": "08-08 10:57",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTHhpS1k5LVhNS21jUHJoVW1DVFRnd0N1VnR0WURtVkpNSlJCaWVFQzBqdWxYNzBNNlZqMTZ4UGRjdE1vOGw4dkNMb2FaR2FKcHdhRDJB?oc=5",
-      "copy_text": "临渭姑娘世界冠军白雨露领跑首棒火炬陕西省第十八届运动会火炬传递临渭区站\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTHhpS1k5LVhNS21jUHJoVW1DVFRnd0N1VnR0WURtVkpNSlJCaWVFQzBqdWxYNzBNNlZqMTZ4UGRjdE1vOGw4dkNMb2FaR2FKcHdhRDJB?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "kaiyn体育官网登录入口下载客服反馈渠道指南：遇到问题时通过哪里提交反馈更有效",
-      "summary": "kaiyn体育官网登录入口下载客服反馈渠道指南：遇到问题时通过哪里提交反馈更有效",
-      "time": "08-08 09:45",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDRTQ2WVJ6ZHczUnlpckE4eGlVblZIeXlWMzVtVjlLQ2hVQ2M4RFJIbVpiS0hndVFBd0JNV1g3SkVaN2MxYmVGdjU2UXphVHV6UHc?oc=5",
-      "copy_text": "kaiyn体育官网登录入口下载客服反馈渠道指南：遇到问题时通过哪里提交反馈更有效\nhttps://news.google.com/rss/articles/CBMiUkFVX3lxTFBDRTQ2WVJ6ZHczUnlpckE4eGlVblZIeXlWMzVtVjlLQ2hVQ2M4RFJIbVpiS0hndVFBd0JNV1g3SkVaN2MxYmVGdjU2UXphVHV6UHc?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "场面骇人！三峡大坝开13孔排洪 下游惨遭殃",
-      "summary": "场面骇人！三峡大坝开13孔排洪 下游惨遭殃",
-      "time": "08-08 11:25",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UZmZIcTBHS0lGNS15TWFuZjBkTHloMUhYWGFRN1VPcUNwVW1GMDZnT0l6ZG9jWURpLWtoclpyMG9JVWhOSC1vVDdlRzNLdmxyMWQ2SkxpZkJZMXB4NTNYaGNlZ9IBY0FVX3lxTE1UZmZIcTBHS0lGNS15TWFuZjBkTHloMUhYWGFRN1VPcUNwVW1GMDZnT0l6ZG9jWURpLWtoclpyMG9JVWhOSC1vVDdlRzNLdmxyMWQ2SkxpZkJZMXB4NTNYaGNlZw?oc=5",
-      "copy_text": "场面骇人！三峡大坝开13孔排洪 下游惨遭殃\nhttps://news.google.com/rss/articles/CBMiY0FVX3lxTE1UZmZIcTBHS0lGNS15TWFuZjBkTHloMUhYWGFRN1VPcUNwVW1GMDZnT0l6ZG9jWURpLWtoclpyMG9JVWhOSC1vVDdlRzNLdmxyMWQ2SkxpZkJZMXB4NTNYaGNlZ9IBY0FVX3lxTE1UZmZIcTBHS0lGNS15TWFuZjBkTHloMUhYWGFRN1VPcUNwVW1GMDZnT0l6ZG9jWURpLWtoclpyMG9JVWhOSC1vVDdlRzNLdmxyMWQ2SkxpZkJZMXB4NTNYaGNlZw?oc=5",
+      "media": "人民网",
+      "title": "“劳动防暑节”走进西安国际港站 为中欧班列（西安）一线职工送清凉护健康",
+      "summary": "“劳动防暑节”走进西安国际港站 为中欧班列（西安）一线职工送清凉护健康",
+      "time": "08-10 09:44",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KSHhqMzRISzJvS0pJQUFtdFRYamstNDNDbFZULXhtd1lYbFJuN0U3RnJucmVJSU0tbFVhNmpuWEpQbU1iQ2N1STQwUE9QZGVWdFRqNlM5R1V6RDVBMTNlNy15empfODVFVkpKalpR?oc=5",
+      "copy_text": "“劳动防暑节”走进西安国际港站 为中欧班列（西安）一线职工送清凉护健康\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE9KSHhqMzRISzJvS0pJQUFtdFRYamstNDNDbFZULXhtd1lYbFJuN0U3RnJucmVJSU0tbFVhNmpuWEpQbU1iQ2N1STQwUE9QZGVWdFRqNlM5R1V6RDVBMTNlNy15empfODVFVkpKalpR?oc=5",
       "verified": false
     },
     {
@@ -484,49 +629,34 @@
       "verified": false
     },
     {
-      "media": "人民网",
-      "title": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
-      "summary": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布",
-      "time": "08-10 05:55",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80TFJfdU9QWklxcmhBU1RnOTQyT3ozcEpDcVBXcUhkbXVjMFo0YVlmM3plUXVQekYyb2dGTWNDdXhUcWYweDJsYUNKdHRqcjlGR3hSX2VtQlJEU3hNYTRwZGM5d1c2dlRsUTlNS2RB?oc=5",
-      "copy_text": "《榆林能源革命创新示范区创新实践研究报告（2026）》发布\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE80TFJfdU9QWklxcmhBU1RnOTQyT3ozcEpDcVBXcUhkbXVjMFo0YVlmM3plUXVQekYyb2dGTWNDdXhUcWYweDJsYUNKdHRqcjlGR3hSX2VtQlJEU3hNYTRwZGM5d1c2dlRsUTlNS2RB?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "“秀我中国”年度秀在陕西咸阳举办",
+      "summary": "“秀我中国”年度秀在陕西咸阳举办",
+      "time": "08-10 00:00",
+      "link": "https://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html",
+      "copy_text": "“秀我中国”年度秀在陕西咸阳举办\nhttps://www.news.cn/local/20260810/ed8993cb50984e9bb365fa73c545115c/c.html",
+      "excerpt": "“秀我中国”年度秀在陕西咸阳举办-新华网 新华网 > 时政 > 正文 2026 08 / 10 22:37:25 来源：新华网 “秀我中国”年度秀在陕西咸阳举办 字体： 小 中 大 分享到： “秀我中国”年度秀在陕西咸阳举办 2026-08-10 22:37:25 来源：新华网 新华社西安8月10日电（记者李华）8月10日，“秀我中国”年度秀（2026·咸阳）在陕西省咸阳市举行。活动吸引来自全国各地的专家学者、媒体记者、网络达人等150余人参加，他们将把镜头对准街头巷尾、奋斗一线，以咸阳实践为窗口，向世界展示真实、立体、全面的中国。新华社党组成员、副社长霍小光和陕西省委常委、常务副省长王晓出席启动仪式。 咸阳市委副书记、市长贾珉亮表示，近年来咸阳市以加快西安-咸阳一体化为总牵引，推动咸阳各项事业迈上新的台阶。“秀我中国”年度秀落地咸阳，将为城市文化传播搭建更广阔的平台，也将成为讲好咸阳故事的重要窗口。 新华社陕西分社分党组书记、社长冯冰在致辞中说，咸阳承载着中华文明的厚重记忆，本次采风团走进咸阳，将深入探寻千年文脉的传承创新、发展一线的澎湃动能、烟火日常的人间温情、奋斗者的鲜活身影，透过古都咸阳讲好中国故事、增强文化自信。 “秀我中国”栏目于2023年9月上线，是新华社发挥国家通讯社引领优势、深化媒体融合的探索，与正能量网络达人共创优质内容，展示全国各地的文化底蕴、创新实践和群众生活方式。 本次“秀我中国”年度秀由中共咸阳市委、新华社陕西分社主办，中共咸阳市委宣传部、中国经济信息社陕西分公司承办。 【纠错】 【",
+      "verified": true
     },
     {
-      "media": "人民网",
-      "title": "陕西黄河古贤水资源配置工程项目建议书通过技术审查",
-      "summary": "陕西黄河古贤水资源配置工程项目建议书通过技术审查",
-      "time": "08-08 08:48",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdzlOb1JobzBXYWJ0NG9abGx6azB4UU92azFQOUlDREJ6VGtCOXVGY3JGM0RRcWk5UjR1TGRGZFlBdTQ0VHV2SkRaYW05blVIakFCRGhTc2ZjQUdmNG94ejQyQk1TVzZJV2c?oc=5",
-      "copy_text": "陕西黄河古贤水资源配置工程项目建议书通过技术审查\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE1sdzlOb1JobzBXYWJ0NG9abGx6azB4UU92azFQOUlDREJ6VGtCOXVGY3JGM0RRcWk5UjR1TGRGZFlBdTQ0VHV2SkRaYW05blVIakFCRGhTc2ZjQUdmNG94ejQyQk1TVzZJV2c?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "中甲：石家庄功夫胜陕西联合",
+      "summary": "中甲：石家庄功夫胜陕西联合",
+      "time": "08-10 00:00",
+      "link": "http://www.news.cn/sports/20260810/90bc19a93e4d413d8cb341ad3ef0ca77/c.html",
+      "copy_text": "中甲：石家庄功夫胜陕西联合\nhttp://www.news.cn/sports/20260810/90bc19a93e4d413d8cb341ad3ef0ca77/c.html",
+      "excerpt": "中甲：石家庄功夫胜陕西联合-新华网 新华网 > > 正文 2026 08 / 10 16:56:02 来源：新华网 中甲：石家庄功夫胜陕西联合 字体： 小 中 大 分享到： 中甲：石家庄功夫胜陕西联合 2026-08-10 16:56:02 来源：新华网 8月8日，石家庄功夫队球员比达尔在比赛中庆祝进球。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（梁子栋摄） 8月8日，石家庄功夫队球员比达尔（左）与队友庆祝进球。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（梁子栋摄） 8月8日，石家庄功夫队球员多米尼克（左二）在比赛中争抢头球。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 8月8日，石家庄功夫队球员多米尼克（前右）与陕西联合队球员曹康（前左）在比赛中拼抢。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 8月8日，石家庄功夫队球员郑致云（右）与陕西联合队球员金文旭在比赛中拼抢。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 8月8日，石家庄功夫队球员比达尔（左二）在比赛中射门得分。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 8月8日，石家庄功夫队守门员李亚楠（上）在比赛中扑救。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 8月8日，石家庄功夫队球迷在比赛中为球队加油助威。 8月8日，在2026赛季中国足球甲级联赛第18轮比赛中，石家庄功夫队主场2比1战胜陕西联合队。 新华社发（张晓峰摄） 【纠错】 【",
+      "verified": true
     },
     {
-      "media": "新华每日电讯",
-      "title": "陕西集中发布三项考古研究成果",
-      "summary": "陕西集中发布三项考古研究成果",
-      "time": "08-09 19:27",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFpaRWlPbk94aEFnWE13SGI5UTkxY2luS0tqRW90U1FLLVhUTW9XMDdOdUdkODYtNHRXU0hPT3VHX2lJWHU5bDUwaGNyUnRiNnNiRU52emFId2VoczJQS3hwQkJmWTJzODNBU0lRRm0tM0tKU2psWmJuTHRzNzBfVFdYVV83NDgzUGdJbmlqaVVkdko4MGRDbzM0UFRyYlJlcFJNWlRKX0hKT2FCNVJISy14UzFGUUpjajU1cTdxcElrbUZpWWNkZ0ZyMGVrUQ?oc=5",
-      "copy_text": "陕西集中发布三项考古研究成果\nhttps://news.google.com/rss/articles/CBMizgFBVV95cUxQeFpaRWlPbk94aEFnWE13SGI5UTkxY2luS0tqRW90U1FLLVhUTW9XMDdOdUdkODYtNHRXU0hPT3VHX2lJWHU5bDUwaGNyUnRiNnNiRU52emFId2VoczJQS3hwQkJmWTJzODNBU0lRRm0tM0tKU2psWmJuTHRzNzBfVFdYVV83NDgzUGdJbmlqaVVkdko4MGRDbzM0UFRyYlJlcFJNWlRKX0hKT2FCNVJISy14UzFGUUpjajU1cTdxcElrbUZpWWNkZ0ZyMGVrUQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "新华每日电讯",
-      "title": "董宇辉在陕西农高会直播助农取得了哪些成果？",
-      "summary": "董宇辉在陕西农高会直播助农取得了哪些成果？",
-      "time": "08-09 08:10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlI5RklVc3pJQ0VtQmtfUHh5ajNxbEQ3Y2JxZUVyRHI1anRnUHAzeXBlbXJjNFpGR19Pb3ZMOHFOdlVQMFUzRWJvYUwyN3VDQmJ0RFNBekhIVjVoZmlHMDNDQjAwY0wxanNrTnFHMHhjbFBORUpyUmtuX3A1R2lxUzY4UjM?oc=5",
-      "copy_text": "董宇辉在陕西农高会直播助农取得了哪些成果？\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxQSlI5RklVc3pJQ0VtQmtfUHh5ajNxbEQ3Y2JxZUVyRHI1anRnUHAzeXBlbXJjNFpGR19Pb3ZMOHFOdlVQMFUzRWJvYUwyN3VDQmJ0RFNBekhIVjVoZmlHMDNDQjAwY0wxanNrTnFHMHhjbFBORUpyUmtuX3A1R2lxUzY4UjM?oc=5",
-      "verified": false
-    },
-    {
-      "media": "新华每日电讯",
-      "title": "西安交通大学在陕西到底有多权威？",
-      "summary": "西安交通大学在陕西到底有多权威？",
-      "time": "08-08 17:15",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBibDZycDdqOXBXbVVyUGVLSklRbGZrbXFNUmxuaXlKeld5ZV9VdENkNmNTQWJIYXNUdmhMMmh0V1dRQTV1N3ROTW1lN0Q3X3hZdlVPTkFn?oc=5",
-      "copy_text": "西安交通大学在陕西到底有多权威？\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTFBibDZycDdqOXBXbVVyUGVLSklRbGZrbXFNUmxuaXlKeld5ZV9VdENkNmNTQWJIYXNUdmhMMmh0V1dRQTV1N3ROTW1lN0Q3X3hZdlVPTkFn?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "无锡向延安市民发放10000张重点景区门票",
+      "summary": "无锡向延安市民发放10000张重点景区门票",
+      "time": "08-10 00:00",
+      "link": "http://js.news.cn/20260810/017d4e8384454c89b79518268c6812b4/c.html",
+      "copy_text": "无锡向延安市民发放10000张重点景区门票\nhttp://js.news.cn/20260810/017d4e8384454c89b79518268c6812b4/c.html",
+      "excerpt": "8月8日晚间，“苏超燃情·锡延同心”2026无锡文旅（延安）协作交流活动在延安举办。无锡、延安两地依托“苏超”体育赛事平台搭建跨区域交流纽带，共探文体旅深度融合、协同共赢的发展新路径。 延安与无锡开展对口协作近30年，文旅产业一直是合作核心板块。本次活动设置了文艺展演、文旅推介、产业签约、赛事联动、文创市集等多个板块，全方位展示锡延两地独特文旅资源与东西部协作丰硕成果。无锡文旅推介官生动展示太湖山水风韵、江南非遗底蕴与都市休闲风情，全方位呈现无锡独特的江南文旅气质与全域资源魅力。无锡文旅集团聚焦锡延两地优势互补、资源共享，分享了多元文旅业态与创新发展理念。活动面向延安市民重磅推出无锡文旅专属惠民福利，发放10000张无锡重点景区免费门票，切实拉动双向客源互通，便利群众双向出游。 本次活动创新赋能文体融合发展，同步开设“苏超”赛事延安第二现场，实时转播“苏超”赛事，借体育流量赋能两地文旅双向推广。现场同时设置锡延非遗文创市集，汇聚江南非遗手作、创意文创与延安红色文创、陕北民俗技艺、特色农产品，推动两地文创互通、产业互促。 值得一提的是，8月7日晚间，西宁市、海东市联合来锡，在清名桥历史文化街区举办“品味千年河湟文化·畅游19℃避暑天境”文旅推介活动。活动现场，西宁、海东两地整合优质生态、人文、康养资源，集精品线路发布、非遗展演、文艺会演、政策推介、产业签约、农产展销于一体，全方位展现“夏都西宁·最美海东”独特魅力。海东市面向无锡市民推出七重专属惠民政策，2026年8月5日至12月31日，无锡市民凭身份证可享受海东市A级旅游景区首道门票免费，星级酒店、特色民宿专属折扣，各类游乐项目、特色美食、青绣文创定向优惠，还可领取云闪付文旅消费券，叠加租车、旅行报名等出行福利。（施剑平）",
+      "verified": true
     },
     {
       "media": "新华网",
@@ -538,62 +668,51 @@
       "verified": false
     },
     {
+      "media": "新华网",
+      "title": "【成绩公告】8月8日男子组第五轮 甘肃省青训中心VS陕西省西安秦英足球俱乐部",
+      "summary": "【成绩公告】8月8日男子组第五轮 甘肃省青训中心VS陕西省西安秦英足球俱乐部",
+      "time": "08-09 11:13",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PYUR3TkdpN3cwbWRKVEpwWldKb2syMXp6em5uRGc1Tkd1WVJiVFBCMTg5ZzBRdFFjdGZJMnRNMC0ySU9HOUtTWHNhLUdSbGNEYkJobHAwTXNxOVJhT2pvOW43YWQ0NHJudUt5dlNuQUJFR1Rx?oc=5",
+      "copy_text": "【成绩公告】8月8日男子组第五轮 甘肃省青训中心VS陕西省西安秦英足球俱乐部\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTE1PYUR3TkdpN3cwbWRKVEpwWldKb2syMXp6em5uRGc1Tkd1WVJiVFBCMTg5ZzBRdFFjdGZJMnRNMC0ySU9HOUtTWHNhLUdSbGNEYkJobHAwTXNxOVJhT2pvOW43YWQ0NHJudUt5dlNuQUJFR1Rx?oc=5",
+      "verified": false
+    },
+    {
       "media": "央视网",
-      "title": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！",
-      "summary": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！",
-      "time": "08-08 22:55",
-      "link": "https://news.cctv.com/2026/08/08/ARTIaSD68zThDmUWiijVN3VU260808.shtml",
-      "copy_text": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！\nhttps://news.cctv.com/2026/08/08/ARTIaSD68zThDmUWiijVN3VU260808.shtml",
-      "excerpt": "欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！ 欢歌一夏！《CMG夏日歌会》（榆林站）如约而至！ 央视文艺 2026年08月08日 22:55 正在加载 夏风轻扬 乐音如潮 好歌相伴 唱过夏天 乐享夏日的安宁 拥抱塞上的晚风 用欢唱定格属于你我的快乐时光 中央广播电视总台《 CMG夏日歌会》 （榆林站）热力来袭 ！ 节目落地陕西榆林 深受青年朋友喜爱的音乐人 选取节奏明快、情绪热烈 传唱度高的歌曲 彰显青春活力、释放城市激情 打造2026年专属夏日记忆 节目 将于 8 月 9 日 19:30 在央视综艺频道（CCTV-3） 音乐频道（CCTV-15） 央视频、央视文艺、央视网 以及音乐之声等平台同步播出 敬请期待！ 扫二维码 访问央视网 分享至：",
+      "title": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多",
+      "summary": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多",
+      "time": "08-11 06:54",
+      "link": "https://news.cctv.com/2026/08/11/ARTIFafvC2oc72g6hiL9Pkqm260811.shtml",
+      "copy_text": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多\nhttps://news.cctv.com/2026/08/11/ARTIFafvC2oc72g6hiL9Pkqm260811.shtml",
+      "excerpt": "女子花3万购宝鸡40平住房引关注 本人：装修花4万多_新闻频道_央视网(cctv.com) --> 新闻 新闻频道 > 社会新闻 女子花3万购宝鸡40平住房引关注 本人：装修花4万多 来源： 红星新闻 | 2026年08月11日 06:54:17 红星新闻 | 2026年08月11日 06:54:17 原标题：女子花3万购宝鸡40平米住房引关注 本人：已过户超一年，装修花4万多 中介称确有外地人来买“万元房” 正在加载",
       "verified": true
     },
     {
       "media": "央视网",
-      "title": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入",
-      "summary": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入",
-      "time": "08-08 18:11",
-      "link": "https://tv.cctv.com/2026/08/08/VIDEdaSejhYqwtSEiAyYy9hN260808.shtml",
-      "copy_text": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入\nhttps://tv.cctv.com/2026/08/08/VIDEdaSejhYqwtSEiAyYy9hN260808.shtml",
-      "excerpt": "[新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入 来源 : 央视网 2026-08-08 18:11 内容简介 关注 视频简介 陕西商洛：米粮镇中断道路正陆续抢通，物资进入。 栏目信息 栏目名称： 栏目介绍： [新闻直播间]陕西商洛 米粮镇中断道路正陆续抢通 物资进入 简介 来源：央视网 更新时间：2026年08月08日 18:11 视频简介 陕西商洛：米粮镇中断道路正陆续抢通，物资进入。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "title": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余",
+      "summary": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余",
+      "time": "08-09 21:01",
+      "link": "https://tv.cctv.com/2026/08/09/VIDEirEzFzmaNKIdqG9pATEL260809.shtml",
+      "copy_text": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余\nhttps://tv.cctv.com/2026/08/09/VIDEirEzFzmaNKIdqG9pATEL260809.shtml",
+      "excerpt": "[CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余 节目官网 CMG夏日歌会 收藏 加载中... 正在播放 倒立跳舞、喝水……奇人挑战重力，牛顿看了要怀疑人生 节目看点 热播榜 [CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余 来源 : 央视网 2026-08-09 21:01 内容简介 --> 关注 --> 视频简介 《歌从陕北来》，演唱：樊峥嵘、刘春余。 栏目信息 栏目名称： 栏目介绍： [CMG夏日歌会]《歌从陕北来》 演唱：樊峥嵘 刘春余 简介 来源：央视网 更新时间：2026年08月09日 21:01 视频简介 《歌从陕北来》，演唱：樊峥嵘、刘春余。 栏目信息 收藏成功！ 选集 更多 > 往期查询> 节目看点 更多 > 选集 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 节目看点 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
       "verified": true
     },
     {
       "media": "央视网",
-      "title": "[中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入",
-      "summary": "[中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入",
-      "time": "08-08 21:33",
-      "link": "https://tv.cctv.com/2026/08/08/VIDEjK9eorSBtbnm9kSeAUcN260808.shtml",
-      "copy_text": "[中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入\nhttps://tv.cctv.com/2026/08/08/VIDEjK9eorSBtbnm9kSeAUcN260808.shtml",
-      "excerpt": "[中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入 来源 : 央视网 2026-08-08 21:33 内容简介 关注 视频简介 陕西商洛：米粮镇中断道路正陆续抢通，物资进入。 栏目信息 栏目名称： 栏目介绍： [中国新闻]陕西商洛：米粮镇中断道路正陆续抢通 物资进入 简介 来源：央视网 更新时间：2026年08月08日 21:33 视频简介 陕西商洛：米粮镇中断道路正陆续抢通，物资进入。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
-      "verified": true
-    },
-    {
-      "media": "央视网",
-      "title": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇",
-      "summary": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇",
-      "time": "08-08 21:01",
-      "link": "https://tv.cctv.com/2026/08/08/VIDEMHgw1tnGt81mz6t7scLg260808.shtml",
-      "copy_text": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇\nhttps://tv.cctv.com/2026/08/08/VIDEMHgw1tnGt81mz6t7scLg260808.shtml",
-      "excerpt": "[民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇 来源 : 央视网 2026-08-08 21:01 内容简介 关注 视频简介 陕北民歌《这么好的妹子见不上个面》，演唱：雒振宇。 栏目信息 栏目名称： 栏目介绍： [民歌中国]陕北民歌《这么好的妹子见不上个面》 演唱：雒振宇 简介 来源：央视网 更新时间：2026年08月08日 21:01 视频简介 陕北民歌《这么好的妹子见不上个面》，演唱：雒振宇。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "title": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕",
+      "summary": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕",
+      "time": "08-10 08:23",
+      "link": "https://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml",
+      "copy_text": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕\nhttps://tv.cctv.com/2026/08/10/VIDEPJY187DEkVzwvKeP75dm260810.shtml",
+      "excerpt": "[新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕 来源 : 央视网 2026-08-10 08:23 内容简介 关注 视频简介 第40届全国青少年科技创新大赛在陕西落下帷幕。 栏目信息 栏目名称： 栏目介绍： [新闻袋袋裤]第40届全国青少年科技创新大赛在陕西落下帷幕 简介 来源：央视网 更新时间：2026年08月10日 08:23 视频简介 第40届全国青少年科技创新大赛在陕西落下帷幕。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
       "verified": true
     },
     {
       "media": "央广网",
       "title": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级",
       "summary": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级",
-      "time": "08-09 00:00",
-      "link": "https://news.cnr.cn/native/gd/20260809/t20260809_527755151.shtml",
-      "copy_text": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级\nhttps://news.cnr.cn/native/gd/20260809/t20260809_527755151.shtml",
-      "excerpt": "白水县振华苹果专业合作社理事长王振华（左一）正与西北农林科技大学白水苹果试验站站长高华（右一）交流。 7月17日，白水县振华苹果专业合作社的果园里，理事长王振华正仔细查看苹果长势。“我这果园基本都换成了‘瑞雪’和‘瑞香红’，品质好，产量也比老品种高，亩产能达到五六千斤，管理好了能卖到7万元。”他笑着说。 这是近年来，陕西推动苹果从“种得好”迈向“卖得好”的一个缩影。陕西近年来依托西北农林科技大学等科研力量，研发出多个品质好、效益优、市场竞争力强国育新品种，培育并整县试点推广国育新品种，打破富士“一家独大”格局，苹果全产业链韧性与品牌溢价能力持续增强。2025年陕西苹果全产业链产值超过1470亿元。 打破“富士独大” 20年前，陕西已是苹果大省，但受困于“品种瓶颈”。“当时主栽品种富士，是国外引进的品种。”西北农林科技大学白水苹果试验站首席专家赵政阳教授团队成员高华说。 主栽品种单一、品种更新缓慢，且依赖国外引进，制约陕西从苹果种植大省向苹果产业大省跃进。 资料照片 “要本土培育出好吃、好看、好管、耐储的品种，就像大海捞针。”高华说。为了这极低的概率，2005年以来，赵政阳教授团队培育了4万棵杂交苗。 功夫不负有心人。2017年至2021年，该团队成功培育的“瑞阳”“瑞雪”“瑞香红”三个品种连续通过国家审定，成为拥有自主知识产权的苹果品种。 在陕西苹果主产区之一的延安市洛川县，同样有一批专家多年来专注于培育一颗好果苗。 资料照片 7月10日，西北农林科技大学延安市洛川苹果试验站内，园艺学院二级教授马锋旺正在查看新品种生长情况。“这是由团队杂交选育出的新品种L19-4，花期比常规种植的富士晚10至15天。一旦发生花期冻害，普通苹果已经开花，而L19-4尚未开花，可以最大程度避开冻害。”他说。 马锋旺近年来带领试验站科研团队，收集保存苹果种质资源4000余份，创新建立优质抗逆高效育种技术体系，将育种周期缩短30％；示范站创制杂交后代8万余株，选育出“秦脆”“秦蜜”“秦霞”等13个苹果新品种。 对于苹果新品种的培育，陕西下的功夫远不止于此。陕西持续强化科技支撑，不断加强砧穗组合试验示范，加大水肥一体、设施栽培、防灾减灾能力建设，推进技术、数智、设施等科技赋能产业，不断厚植果业产业链韧性。截至2025年，陕西苹果种植面积913.94万亩，居全国第一。其中，富士占比下降至77%，新品种比重提升至16%。 淳化润祥现代农业有限责任公司的苹果种植基地。 新品种成新宠儿 “2025年卖了1250吨‘瑞雪’苹果，12天就断货了，现在新客户上门都不敢接单！”淳化润祥现代农业有限责任公司经理李序站在千亩基地里感慨。该公司近年通过高接换优基本完成品种更替，市场反响远超预期。这一变化，正是淳化县2024年12月被确定为全省首个苹果国育新品全链开发整县推进试点县的生动缩影。 10年前，淳化苹果产业正面临“三老”困境——果农老龄化、果树树龄老、品种老化。传统富士、秦冠等品种市场竞争力逐渐下滑。 “我们与西北农林科技大学等科研院所深度合作，经过反复试验筛选，最终采取高接换优的方式栽种瑞雪、秦脆这两个苹果新品种。瑞雪是黄绿色晚熟品种，市场稀缺；秦脆是中晚熟品种，口感脆甜。”李序说，园区还嫁接了维纳斯黄金等新优品种，实现了早、中、晚熟合理搭配。 “好果子不但卖价高、卖得快，客商还会主动上门收购。”李序说。 2025年，陕西出台《全省果业生产布局优化指导意见》，提出“到2030年，全省苹果早中晚熟比例调整到13:22:65，富士系比例调减到65%以下，红色系品种比例优化到85%以下”的目标，加快推广红思尼克、鲁丽等早熟新品种和秦脆、瑞雪等自主培育的晚熟新优品种。 淳化城关街道冯家咀村村民陈有国正在自家果园里修剪枝条。 “论斤卖”到“论个卖” “以前种富士、秦冠，苹果论斤卖，一斤两三块钱，赶上行情波动可能还会赔钱；现在种瑞雪，苹果论个卖，一个品质好的果子能卖到十块钱以上。”淳化城关街道冯家咀村村民陈有国给记者算了一笔账。 陈有国种了30多年苹果。前些年，眼看着老品种价格越来越低，他一咬牙，把自家15亩果园陆续改成了瑞雪、瑞香红两个新品种。 “瑞雪不用取袋子、不用铺反光膜，省工省力，客商还抢着要。”陈有国说，换了品种，管理方式也得跟着变。“新品种对水肥管理、树形修剪等要求更高。” 为此，陈有国经常向县果业中心的技术专家请教，同时找各种机会参加相关培训，硬把自己逼成了一名新品种管理的行家。 陈有国管好了自家果园，名声也传了出去了，附近一家果业示范园的负责人找到他，请他来帮忙管理。就这样，陈有国成了示范园的技术负责人。 如今，陈有国白天在示范园忙活，带着工人们搞水肥管理、病虫害防治；老伴儿管理自家15亩果园。两口子一年能挣二三十万元。“日子越过越有奔头了。”陈有国说。 省果业中心相关负责人表示，陕西正深入实施陕果品牌“十百千”行动，同步推进“五百”“五进”市场营销体系建设，持续拓展线上销售与外贸出口渠道。如今，陕西苹果品牌总价值已突破千亿元，位居全国前列。“洛川苹果”品牌价值居全国第一，“咸阳马栏红”品牌价值突破100亿元，位列全国第4位。以国育新品为代表的陕西苹果正加快走向全球餐桌。（群众新闻记者 许奥博 实习生 谢华龙）",
-      "verified": true
-    },
-    {
-      "media": "央广网",
-      "title": "科技织就新图景 西安浐灞国际港XR产业掀起新热潮",
-      "summary": "科技织就新图景 西安浐灞国际港XR产业掀起新热潮",
-      "time": "08-08 08:10",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1dm5TcnhJSUljZTRYWXU3enFaYmxwc1dvN29ldnE3ZUFTc1VfOEFIOFRFSGU1UEVBUmJvWld1Vzd5TWJaQmhhVm9oenpDLTcyMF9EcDNSMXZUVnkyU3dLVElNaWppLWZzVnpsMHQzQ0w?oc=5",
-      "copy_text": "科技织就新图景 西安浐灞国际港XR产业掀起新热潮\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTFA1dm5TcnhJSUljZTRYWXU3enFaYmxwc1dvN29ldnE3ZUFTc1VfOEFIOFRFSGU1UEVBUmJvWld1Vzd5TWJaQmhhVm9oenpDLTcyMF9EcDNSMXZUVnkyU3dLVElNaWppLWZzVnpsMHQzQ0w?oc=5",
+      "time": "08-09 17:16",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvbWtXZDRBaXZwdU5aNFBnTVdCSmZaM1NNUjVqb0c0NHJweVVyVTM3bVlJVzBjTWVPZVpfSXlCWDd6WWJXSU1vemhxbHp3aU8xbExTLWpXNnJJNzZ6U0h1YU90MGMtMmVVMkxGckg0VGw1dw?oc=5",
+      "copy_text": "“种得好”才能“卖得好”——陕西全链条推动苹果产业转型升级\nhttps://news.google.com/rss/articles/CBMickFVX3lxTFBvbWtXZDRBaXZwdU5aNFBnTVdCSmZaM1NNUjVqb0c0NHJweVVyVTM3bVlJVzBjTWVPZVpfSXlCWDd6WWJXSU1vemhxbHp3aU8xbExTLWpXNnJJNzZ6U0h1YU90MGMtMmVVMkxGckg0VGw1dw?oc=5",
       "verified": false
     },
     {
@@ -607,48 +726,114 @@
     },
     {
       "media": "央广网",
-      "title": "清洁能源点亮汉中发展新图景",
-      "summary": "清洁能源点亮汉中发展新图景",
-      "time": "08-08 08:08",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByYUpZMGQ1dkpWdTgzeVFLR1RZRXQ0V3phMlJ3SkEzYjNqaXlGSlNqWXpSVHl0NUpxWWVDaDZjQXBBaC1jM0lDODlxOE9UM0ZuTDBycnNzMS0ydHZCZUc0Ujl2N1I0TjQxVUdFV3Rn?oc=5",
-      "copy_text": "清洁能源点亮汉中发展新图景\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTFByYUpZMGQ1dkpWdTgzeVFLR1RZRXQ0V3phMlJ3SkEzYjNqaXlGSlNqWXpSVHl0NUpxWWVDaDZjQXBBaC1jM0lDODlxOE9UM0ZuTDBycnNzMS0ydHZCZUc0Ujl2N1I0TjQxVUdFV3Rn?oc=5",
-      "verified": false
-    },
-    {
-      "media": "中国经济网",
-      "title": "陕西省政府如何支持董宇辉的助农直播活动？",
-      "summary": "陕西省政府如何支持董宇辉的助农直播活动？",
-      "time": "08-09 08:10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0ZZUkVHdkh0Q3RJUGNJdXlJQnR4d0FWcGRZQ3pwVnVwMGlyMlpzMEY0N1N5VnBtYWhfU2ZpODFiYWlSak5TTnhQT0pzWS14eW5wQzdfMnc2OXo4OXpUTWczTWVtYU1XNTVkN0t4YV9GSEVaOTB4SlhOSmJuSzJBQWdRblE?oc=5",
-      "copy_text": "陕西省政府如何支持董宇辉的助农直播活动？\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPT0ZZUkVHdkh0Q3RJUGNJdXlJQnR4d0FWcGRZQ3pwVnVwMGlyMlpzMEY0N1N5VnBtYWhfU2ZpODFiYWlSak5TTnhQT0pzWS14eW5wQzdfMnc2OXo4OXpUTWczTWVtYU1XNTVkN0t4YV9GSEVaOTB4SlhOSmJuSzJBQWdRblE?oc=5",
-      "verified": false
-    },
-    {
-      "media": "中国经济网",
-      "title": "陕西省委书记赵一德在调研乡村振兴工作时强调以钉钉子精神扎实推进乡村全面振兴努力让农民群众过上更加美好的生活",
-      "summary": "陕西省委书记赵一德在调研乡村振兴工作时强调以钉钉子精神扎实推进乡村全面振兴努力让农民群众过上更加美好的生活",
-      "time": "08-08 09:34",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNi1CckRNY3lfN211SXk0TDIzWHBFTjhmbHdmOGM2UUVsOHM1UmJaZERoVG51alRHY2EwQzBrV19wZjVIM1V6MUs1OERxNHhkSV9wYVpB?oc=5",
-      "copy_text": "陕西省委书记赵一德在调研乡村振兴工作时强调以钉钉子精神扎实推进乡村全面振兴努力让农民群众过上更加美好的生活\nhttps://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNi1CckRNY3lfN211SXk0TDIzWHBFTjhmbHdmOGM2UUVsOHM1UmJaZERoVG51alRHY2EwQzBrV19wZjVIM1V6MUs1OERxNHhkSV9wYVpB?oc=5",
+      "title": "陕西2027年将形成3个千亿级消费领域",
+      "summary": "陕西2027年将形成3个千亿级消费领域",
+      "time": "08-10 08:13",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZMnNWTmUyd002eEpISlVTLVk3SUptS0RacHhrVkZVdG11S0t4aXdpYmFQb2tocGpNSktacDd2eVdzaTJDMjhiV1dJRHhia1EzSWdpcnhmM2FWS0JabFJ0ZS1FVk9iR1ozR2NUTHpR?oc=5",
+      "copy_text": "陕西2027年将形成3个千亿级消费领域\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE5ZMnNWTmUyd002eEpISlVTLVk3SUptS0RacHhrVkZVdG11S0t4aXdpYmFQb2tocGpNSktacDd2eVdzaTJDMjhiV1dJRHhia1EzSWdpcnhmM2FWS0JabFJ0ZS1FVk9iR1ozR2NUTHpR?oc=5",
       "verified": false
     },
     {
       "media": "光明日报",
-      "title": "陕西平利：暑期小课堂里的关爱秘方",
-      "summary": "陕西平利：暑期小课堂里的关爱秘方",
-      "time": "08-09 00:00",
-      "link": "https://news.gmw.cn/2026-08/09/content_38933588.htm",
-      "copy_text": "陕西平利：暑期小课堂里的关爱秘方\nhttps://news.gmw.cn/2026-08/09/content_38933588.htm",
-      "excerpt": "\b\u0000\u0000\u0000\u0000\u0000\u0002\u0003}isFgM\u0007 3s#ߘ\"\u00002Innys'w﫩)\u0015HB\u0012bn% WQekDjIdk͖,R~ʄ \u0017i4\u0000\u0002$! >E@9~\u001aݍ}+'\u0015 w7 QAhSl>\u001bRq;#-ܼf /bT\"\u0016QAGSmkUxp ј=Yuv\\HIC\u000f\u0013(\u0017\u0012|4'->p]HC\u0014\u0017 /X$n+ySoc\u0010J\\ 7 oW~\\\u0012=\u00195JEZ$ 1]n\u001b.9tO(\u0000\\lTQ\u0003;#q.%@C\u00035|u\u0006{\u00121 z |͖L \u0011 l'wy\u001bh\u0000J\u0016?:\u000194C^p\u001b\u0004; pa#P rE\u0005|FOܱM`\u0017xnabX~5-!\u0013\b\u0014Ip. ǸT+\u0015Rm] +{Ro\u0018Wv[ hw+E+Y\u001a\u00030\u000e N{JH)_\u001227C|\u000f/ J3oFdݡAiwhQ5\u0010 ݡa.fGb\u0001\u00016-ܢܛb~FZAs\u0014v\u0014!&\u0007F\u0017K rd,NmX?0\u0010 {i\u000f}\u0004[\u0018,\u0006L)f\u0007mL\u0014\"-' x\u0013\u0013gf^ P|\u0019d`PMXb:?r79޴ތ fJ\u001b4nE8/2cJ\u0007Bà/fr\u0000\u000f8a1\u0019_ \u0003o \u0000 \u000e4(U{:l\u0014\u0016:\u0019I \\ \u00075@L1H-\u0001Jc\u000f\\ \u0000p* ƚDD>s\u000eP\u0006p|(}\u000eqw@\u0003Ec`>+\u00001,t=ibQ\u001bW\u0002wCAh=|-rϵ⋙Zx\u0017\u0006՟]\u0006`4֍6IK\u0004{r.D锽;\u0011K+BrOk\u0004 ÎT8ۨ\\8\u00042pC2 SXH\u0003\u0011!E|'=F\u0000#d\u001b=W,z&\u0007\u0001j\u0002c$W \u0006H\u0016\u0018a]7^\u0004\u0006x\u0011{Ë \u0006/$\"8t|\u0015`@*@]]De݅p.\b S\u0012 t\u0013% I_oG9E\u0019\u0016\u00057Ř \u0019Gz9ٗY7_Fc06/zKK\u0016Lq9R[O+i:* V^AI_ _;\u0001\u0014p\u0019 nD\u001bř~y;bijR\u0002&宩\u0002VTj\u0005 L#dE- ԴQ\\\u001aLxr_Sm@{K\u0003 Ty\u0002bPĲo$繈rSB1 h )\u0005c\u0013ĥ#YS-0,zkZX }A!P_&v~l(\" 9Ӌ/a\"L@S8 * S`Q^ lղ \u0001a!=fŭ}p'\u00050&y` Y.Wh\u0013H_{G\u0006n y{}Y!Ft@Ё\u0001iq~IӅY`\u0000fa\u000e ~Uq \u0019\u0007bဠ\u0014Pn $m4QnG\u00164\u0003\u00174\u0019\u0005ʉYۿ\u0001\u0018O5\u0001i\u0014=r 9^4w$o{aX`v\u0019 #އ1J'[ɈG8M($tf\u0014\u0007`F CËlZ|p\u0006©JK\u0007j#u'̏2X 週, \u0004ic\u0010\\8[(>\u0010W;\u0006ր8o=Fw\u0003\u0000\u0002#N\u000ek\u000fj\u000e \u0007La5\u0015W;|[G# Z\u0019!\u0007-않of a5\u0018&8\u0002 X$5C\u00194+|\u000eQȯ{y,\u000eT>qKmGk\u0018.|\u0005>+m}\u0013^u\u0010\u0007k2p\u0000m B\u000ft:\u0000#3c \u0002u\u0003Th\u000eʳ\u0015b!b\u0019lI\u0017h\u0017mN\u0017!\u0004_~Uqr\\\u0001dnOOS'p\u0011\u0019\u001a= T%VCx\u0004Dn\"K'1X-6x E\u0007{ޜŷs=30^\b\u00108+-d. b\u0003\u0002kY\u0014hx\u0010ت\u0014Oc-/N*6CW\\^a\u00118I45OYM+gu \u0015\u0015XC]]\u0000\u0014F\\QRV{/㩪yeSX,L\u0005. r\u001bUuJn\u0000JhD\\_=mKF,RLW` =\u00180QC C}Q\"OبPv8@'hd8\u00017⼉\u0015L&P\u0019[~f2\u00189di\u0015\u0013@\u0015 LL\u0005c ȷB\u0004 ?J믪-Bߓzk}VQY>\u000fc\u0003x? Kwɿyoi,gJ\u0013m\u0015SpK(%0\u0015ٿӗO7i{|./+oB@6lnu_/b \u000f[ϺD)U @* \u000e l#x;\u0013 (&ىYW\u0007Q]\u0006V5RN\u0010J \b ¥S1itR& K 7p_-JpQ3\u0017\u000eSt/Fݣwo\u0001 ~R\u000efSBPڨHLR\u0001 \u0003\u0016~JR4\u0015 \u0010UC(U4%Pt9_ R\u0006\u000fot,h$݉\u0000j|\\Q5I_C\u0011҆G~]8 K \u0005\u0017w t{{`:̎\u0004\"##iDYj\u00170-xaR$DCN2ѩ,ci\\J \u00116\u000e\"ΏRc\\-R0䛺 ' \u0010ajn'\u000e\u0004h4T5D\u0003 k\u001a\\S7\u0005S4ty\u0003[ iPerڟDT +a*rO Ԍ Jm t\u0011 L;QfY\u0015\u0005p-d\u0002 \u0019\bNESռ]Џ=w)`\u001a\\r?pU\u0017f *ۦmve$EO{\u000e9b&\u000f%8!;2N&}]b 6c\u0010\u0007Z̄u]Uט6 ڠTF'\u001a\u001a( ϊOO#v/~݆ I\u0004j5Ri3\u00137\u00119=\u0017\u0010i,P )D bC+Yh\u000f GRnM%zh\u0002z/ \u0003p>GfIf\u000e)q,#H\u0013qy8Z\\Xb\u0005Itͤ]$(iY Uu\u001aQ(:n*u\u001bYE{rB\u0000`\u0014\u0007 Z\u0017\u000e o^Ŭ|v,ebi\u0017Z\u0006t W=X\u0015\u000fRt .ř}q\u000e8ݴk\u0011hsL:]Wa` Z,]e>`*n/Ulr\u0007At),:\u0001\u0018U(f\u0016ɷ`e!g-\u0011Mťq\u0018Uu{V\u0000Z\u0017 ׮0\u0010S\u0006ź&X!7 q\u0001j]X\u0001 L Khg.,N\u0013\u0016\u001a \u0018 UN\u0001\bϨM(p(c4 $\u0005\u0001\u0014\u0003ڱx̂\u0000G \\\\\u0010=nk ^[>\u0006\u0012g ͅڱx͆r^XOgz fi\u0003g}\u0006cq`lΈb \u0014 \u0007Q ҩ,\u0012ntP k9 $܅ayC{\u0013ho+.ۏN ΢|u\u0001q):X zrX8+ā=qwpWܕ6\u00117_ʙG]zzP\\*A%Vw7\u0018f nnM T^bm\u00030 ͭnuX^6\bj6|5Z\\fO\u0012Dh4\u0007 %OgNqur y\u000fZ\u0018]\u00167t\\\u000e Α'C= \u0019uܠ\u001a>C9\u001a \u0016NL\u0017 Z*\u000fgꉸ;6\u0001\u00103(4x\u0016sT;6vSy 0r:ʁ)e\u0002>\u000eAMd\u0011 \u0013w\"b&ߋ}W([O ;_Y>/哷h>\b,\u001a\u00164F=Gja\u0001ɏ?`\\ \u0014\u0016QU _ >0aaq!\u0019[ȭ\u001434\u000eěI7PeCV{ \"N9& OOV/>jp\u0014M>\u0014\u000fv6G@>қ\u001a_ Uu\u0015D\u0000n>{T\u001a|dǧ ި@vh% IB\u0013p #s\u000fAq |A\u0006B \u0006.7\u0007L\u0004\u000f) \u0017JG\u0007F/:d?h' FŅU\u00158. *+ WȮ7g\u0017Kٮw6ߵN\u001bڔ\u0003]i3\u000eZA SjQfh3ދx5RM7\u0004ՙNk\u00187]\u000e\u0018Aȉf\u001bME\u0002@mظhj\u001b5_\u0011d\u0005Ir`3r | NXA\u00177p\u00155 \u001a4=Ʀ{a+\u0005Bm\u0014\u0007\u0006ٖwn\u0013#\ba8X-\u00101mF6yFW\u0010 n|\u0019+UlIOc2[\u0012FPM]D3 \u0000 6]\u0019\u0013gf ɀ :#\u0007\u0014Pe(\u0003ȅB爮ɨ3e?\u0014]\u0006K,#(J\u0010-Z/W\u0017]\u00155qa>jٞ\u0011\u0007bys,de(w >Y\u0013\b[\u0017P\u000e(J8m&ղ\u0014jF)W?{%/hSOk\u0001Pr۫;.'rh͔s*O_Z\\6(0 imǱuۻb\u0010\u0012U^uLnh\u001airT Q LB >iv~P?p8bz\u0015\u0002L} Y\u0013y˝IN&.\u0010KL/6e\u0019QQ\u0014ʩv =7Lh\b.ƤH'м/F o߮\u00032\u0014ji* 8>6[?|#N@NU\b6:'0z\u0003L*G`\" Kgy[nM+\u0012e^,߁ \u0012^Vy{ wI}RJ!3\u0005ǯO\u000fpU\u0012\u0007'-\u001257|2f _oW\u000ez\u0014{'G+*\u0019\u000e\u0002@.ʅ$G=9;mgw\\%A\u0010@\u0019e\u000fί\u0000\u00076/7%U6.c, gntS d\\\u0003q1\u00142~eb\u0004%D2`P\u0000#\u0002\u0003\u0013-Xāa:`hBvOE9!T g/ĥo[L W\\?] z@۴ɞfP Eb+mJ\u0010SZ}cӫ\u0014\u0014Eԗ Q\u0017J74\u0012Fr?ō \u0014\u0016)/N urp'}.TZ;K?ytL\u0015fxW6Q%#m\u0015 R@,v]\u0016\u0016ք0>E#B;\u0016X\u0019(\u0015k/n\u0004 '\u0000S>8׽n )-UT*ؾְu~ \u000eΥɮ\u0005\u0005Ŧm||6枓7\\,\u0019ޘ\u0005 T;\u0002 ~\u0015|\u00110\u0000\u0000",
+      "title": "只因女儿一句话，陕西44岁父亲考上985硕士",
+      "summary": "只因女儿一句话，陕西44岁父亲考上985硕士",
+      "time": "08-09 13:22",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1adldoTkU1bGFjZWg4NEpCZU9oNTEyZWlXQldPcUdpSWZmeHk3Snp3SUtiQ2VpQ1h3TGZ0TGwzT1hoVDBjNjlBTVoyaDdBV2dkcEROanVrT2NMeXFIX3Jj?oc=5",
+      "copy_text": "只因女儿一句话，陕西44岁父亲考上985硕士\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTE1adldoTkU1bGFjZWg4NEpCZU9oNTEyZWlXQldPcUdpSWZmeHk3Snp3SUtiQ2VpQ1h3TGZ0TGwzT1hoVDBjNjlBTVoyaDdBV2dkcEROanVrT2NMeXFIX3Jj?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学",
+      "summary": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学",
+      "time": "08-10 10:14",
+      "link": "http://www.xj.chinanews.com.cn/xinjiang/2026-08-10/detail-ihfhytzk9168376.shtml",
+      "copy_text": "2026年“同心筑梦科普行”陕西班开营 新疆西藏106名师生参加研学\nhttp://www.xj.chinanews.com.cn/xinjiang/2026-08-10/detail-ihfhytzk9168376.shtml",
+      "excerpt": "中新网 北京8月7日电 由中国科协白家庄办公区、中国科技发展基金会、陕西省科学技术协会联合主办的2026年“同心筑梦科普行”陕西班，近日在西安交通大学兴庆校区举行开营仪式。 本期“同心筑梦科普行”陕西班共有来自新疆维吾尔自治区、西藏自治区的106名师生，参加为期6天的科普研学活动。陕西省科协党组书记、常务副主席李豫琦宣布开营并授旗。 开营授旗仪式。主办方 供图 这次科普研学期间，营员们通过参观科技馆、博物馆，探访科创企业、文化遗迹，聆听科技讲座，参加民族联谊等活动，品读中华历史文明，感受前沿科技成果，感悟科技工作者奋斗奉献精神，在研学过程中互学互鉴、增进情谊，拓宽科学视野、厚植家国情怀。 活动中，作为活动承办单位，陕西科技报社有限责任公司与新疆博乐市汉博中学、西藏拉萨市曲水县中学三方共同签署《科普宣讲回访计划》合作备忘录，成立“同心筑梦科普行科普通讯站”，观看由陕西科技馆表演的《疯狂实验室》科普剧并投递研学心愿卡。 据介绍，“同心筑梦科普行”活动的开展，是科协组织发挥桥梁纽带作用，深化青少年科普教育的重要举措，旨在进一步推动优质科普资源共建共享，引导广大青少年永葆爱国初心、树立科学理想，为铸牢中华民族共同体意识凝聚青春力量。(完) 【",
       "verified": true
     },
     {
-      "media": "光明日报",
-      "title": "2026年陕西省普通高校招生高职（专科）批次录取征集志愿",
-      "summary": "2026年陕西省普通高校招生高职（专科）批次录取征集志愿",
-      "time": "08-08 14:19",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkMtOXhPZFhRZFdUMTBLWlhjcDZ4NEMyZDNDbW1Dc0FWYVVCdHVEYXV6d1I5YUJONUZ0ejR1cU44bk5zelJ4enZkVUdKMUpFelkwRVNWSEN2VW9oN05z?oc=5",
-      "copy_text": "2026年陕西省普通高校招生高职（专科）批次录取征集志愿\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkMtOXhPZFhRZFdUMTBLWlhjcDZ4NEMyZDNDbW1Dc0FWYVVCdHVEYXV6d1I5YUJONUZ0ejR1cU44bk5zelJ4enZkVUdKMUpFelkwRVNWSEN2VW9oN05z?oc=5",
+      "media": "中国新闻网",
+      "title": "【四时映画】陕西汉阴：雨中凤堰梯田 绿意盎然",
+      "summary": "【四时映画】陕西汉阴：雨中凤堰梯田 绿意盎然",
+      "time": "08-10 13:58",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wX1RlTHpXMXR0VU9BY3Vza1lBMnZfVW5RS3BzQjV5SUhkNS0tLWN5UzMyVHdYeEVRU1VDdHlEaG4xMkNmU1ZkWVRKNG9uOU9CS2JZYmF5dnlnRVVXRDk3M2tvTmx0Z0NhRmM4YjNpOXE?oc=5",
+      "copy_text": "【四时映画】陕西汉阴：雨中凤堰梯田 绿意盎然\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE4wX1RlTHpXMXR0VU9BY3Vza1lBMnZfVW5RS3BzQjV5SUhkNS0tLWN5UzMyVHdYeEVRU1VDdHlEaG4xMkNmU1ZkWVRKNG9uOU9CS2JZYmF5dnlnRVVXRDk3M2tvTmx0Z0NhRmM4YjNpOXE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "陕西携近300个高端岗位赴港揽才",
+      "summary": "陕西携近300个高端岗位赴港揽才",
+      "time": "08-10 09:47",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml",
+      "copy_text": "陕西携近300个高端岗位赴港揽才\nhttps://www.chinanews.com.cn/cj/2026/08-10/10674943.shtml",
+      "excerpt": "中新网 香港8月10日电 由西安人才集团主办、香港高才通人才服务协会等机构协办的“港通未来·才聚三秦”陕西—香港人才交流推介会8日于香港故宫文化博物馆举行，活动吸引逾百名香港高校学者、青年科学家、在港人才及学生代表到场参与。 据介绍，陕西重点用人单位本次携近300个高端岗位赴港揽才，涵盖人工智能、航空航天、生物医药、新材料、能源化工、半导体及金融服务等多个热门领域。西安人才集团及随行陕西重点企业讲解当地产业布局、配套人才扶持政策，并与到场香港人才开展对话。 现场还围绕“香港青年人才把握陕西产业发展机遇”展开交流。香港陕西青年会副主席、在港陕西籍人才代表、陕西重点企业负责人同台分享，分别从科研合作、青年就业、企业用人等多维度剖析陕西创新产业潜力与发展空间。 香港特区政府劳工及福利局副局长何启明致辞时表示，特区政府关注到近期外媒报道人才纷纷“回流”香港的新闻，香港多举办类似人才服务活动，得到各人才需求方和内地更多省份的关注，是以实际行动做好人才工作。 西安人才集团表示，后续两地机构将建立长效合作机制，持续开展人才对接、产业交流活动，推动香港优质人才资源与陕西重点产业需求深度融合。(完) 【",
+      "verified": true
+    },
+    {
+      "media": "中国新闻网",
+      "title": "西安咸阳国际机场智能巡检机器人上线",
+      "summary": "西安咸阳国际机场智能巡检机器人上线",
+      "time": "08-10 12:05",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhUFl0NDAyNFpRMXVsdUF4cnlxdU9xM2NVUUxocWkzUUFoeWhpaVB5WnExbk1DbEY0d3FTZlAwUTFzNEx0cEhnMk1fMWNPOTlJMkpWT2dZaXFNTlg2a1BUbGpCYlZlOHFyMkVN?oc=5",
+      "copy_text": "西安咸阳国际机场智能巡检机器人上线\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFBhUFl0NDAyNFpRMXVsdUF4cnlxdU9xM2NVUUxocWkzUUFoeWhpaVB5WnExbk1DbEY0d3FTZlAwUTFzNEx0cEhnMk1fMWNPOTlJMkpWT2dZaXFNTlg2a1BUbGpCYlZlOHFyMkVN?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "汉中南郑举行立峰村党总支书记、村委会主任李杨遗体告别仪式",
+      "summary": "汉中南郑举行立峰村党总支书记、村委会主任李杨遗体告别仪式",
+      "time": "08-10 16:02",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzamNKN0xOOGhNVlJVS0Q0NkZ5YVQ4Ri03MExmMm5MTWR2SnZROEo2Tl9WSUtIeF82OGNHV1dFMy13bVdoY0R0WlZpSjVFX1VWc09fYmVfdjdrbDMyQkNuazZpdUZpcENv?oc=5",
+      "copy_text": "汉中南郑举行立峰村党总支书记、村委会主任李杨遗体告别仪式\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTFBzamNKN0xOOGhNVlJVS0Q0NkZ5YVQ4Ri03MExmMm5MTWR2SnZROEo2Tl9WSUtIeF82OGNHV1dFMy13bVdoY0R0WlZpSjVFX1VWc09fYmVfdjdrbDMyQkNuazZpdUZpcENv?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会",
+      "summary": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会",
+      "time": "08-10 13:44",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-10/10675128.shtml",
+      "copy_text": "民盟陕西宝鸡市委会召开“参政为公、实干为民”主题教育座谈会\nhttps://www.chinanews.com.cn/txy/2026/08-10/10675128.shtml",
+      "excerpt": "对标检视补短板 笃行实干促履职——民盟宝鸡市委会召开“参政为公、实干为民”主题教育座谈会 8月7日，民盟宝鸡市委会召开“参政为公、实干为民”主题教育座谈会，系统总结阶段性工作成效，深入查摆存在问题，安排部署下一阶段重点任务。市政协副主席、民盟市委会主委李小红出席会议并讲话，市委会副主委董薇主持会议，副主委王建宁、秘书长白宗武参加会议，各基层组织负责人、市委会机关全体干部参会。 座谈会上，各基层组织负责人紧密结合支部工作实际，交流主题教育开展特色做法、实践成效与心得体会。发言立足基层履职一线，内容务实、思考深入，充分体现基层盟组织班子带头学习、带头实践的示范引领作用。 会议全面梳理全市主题教育推进情况，客观肯定阶段性成果。自主题教育开展以来，全市各级民盟组织严格对标目标任务，扎实开展理论学习、基层调研、履职实践等各项工作，整体推进有序、落实成效显现。同时，会议坚持问题导向，实事求是剖析当前工作短板：理论学习存在学用脱节、教条化、形式化问题；参政议政调研深度不足，对群众急难愁盼掌握不够精准；部分工作重部署、轻督办，缺少闭环式成效检验；少数干部、骨干盟员进取意识不强，存在安于现状、懈怠松懈思想，基层骨干队伍常态化教育管理仍需持续强化。会议要求全市各级盟组织高度重视上述问题，逐项细化举措、从严抓好整改。 会议就持续深化主题教育作出四项工作部署。一是持续强化理论武装，筑牢共同思想政治根基。把思想政治建设摆在首位，发挥基层支部班子“头雁效应”，持续深学细悟习近平新时代中国特色社会主义思想、习近平总书记关于做好新时代党的统一战线工作的重要思想和多党合作重要论述，坚决杜绝浅尝辄止、教条式学习，推动理论学习走深走实、见行见效。二是聚焦中心履职尽责，提升参政议政工作质效。立足民盟教育、文化、科技界别优势，紧扣市委、市政府中心工作，围绕渭河生态保护、民生保障、基层治理等重点领域开展深度调研，健全调研、建言、督办全链条闭环机制，推动履职成果转化落地。三是从严抓实自身建设，持续转变工作作风。破除“以会议落实会议、以文件落实文件”的惯性思维，引导机关干部、基层骨干提振干事精气神，主动创新工作思路、增强履职主动性。四是坚持统筹融合推进，健全长效整改机制。将主题教育与组织建设、民主监督、社会服务等重点盟务一体谋划、同步落实，建立问题清单、整改台账，逐项销号补齐工作短板。 李小红作总结讲话。她强调，“参政为公、实干为民”主题教育不是阶段性专项工作，而是加强参政党自身建设的长期性、常态化任务。全市各级盟组织和全体盟员要持续拧紧思想“总开关”，坚持求真务实、担当实干，牢牢坚守“参政为公、实干为民”初心使命，做到本职岗位建功、党派履职尽责，切实把主题教育成效转化为服务宝鸡经济社会高质量发展的实际行动，奋力推动全市民盟工作迈上新台阶。 供稿：吕继东",
+      "verified": true
+    },
+    {
+      "media": "中国新闻网",
+      "title": "通关提速，西安芯片锂电池高效出海",
+      "summary": "通关提速，西安芯片锂电池高效出海",
+      "time": "08-10 12:07",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyd01fZ05xbnB3Z1otaXJSVGpGemo3aXhQQWtkTXlGRW8yUzVPb0NJaEQwUDVENnFkVzdXQ1FHNklwbnd4RnktYjk4Mm0zRnd3TGhPenFmN3djSTNsX0hjMGR5V1VNdlJMR2tN?oc=5",
+      "copy_text": "通关提速，西安芯片锂电池高效出海\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFAyd01fZ05xbnB3Z1otaXJSVGpGemo3aXhQQWtkTXlGRW8yUzVPb0NJaEQwUDVENnFkVzdXQ1FHNklwbnd4RnktYjk4Mm0zRnd3TGhPenFmN3djSTNsX0hjMGR5V1VNdlJMR2tN?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金",
+      "summary": "2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金",
+      "time": "08-10 12:04",
+      "link": "https://www.shx.chinanews.com.cn/news/2026/0810/111467.html",
+      "copy_text": "2026中国-中亚国家摔跤精英赛西安收官 中国队共获12金\nhttps://www.shx.chinanews.com.cn/news/2026/0810/111467.html",
+      "excerpt": "中新网西安8月10日电 (记者 张一辰)2026中国-中亚国家摔跤精英赛9日晚在西安落下帷幕。来自哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、乌兹别克斯坦、约旦、蒙古国、韩国、加拿大、白俄罗斯、中国等10个国家的摔跤健儿赛场争锋。经过三天角逐，中国队在本次赛事共获得12枚金牌。 本届赛事汇集众多跤坛名将与青年新锐，不同国家的技战术风格在赛场碰撞。首个比赛日古典式摔跤的6个级别比拼当中，中国队斩获5枚金牌，胡云龙、严名强、塔里木别克、郝厚智、江文豪先后站上最高领奖台，韩国选手卢荣勋摘得77公斤级金牌。 “能够在家门口的国际赛场夺金，既是对平日训练的检验，也让我看到国外选手值得学习的地方。”夺冠后的严名强坦言，这次赛事对青年选手而言，是难得的练兵舞台。 第二比赛日，进行了女子自由式摔跤各级别的角逐，中国选手冯泳欣、洪静、李雨萱等年轻选手发挥出色，为中国队再添6枚金牌，乌兹别克斯坦、白俄罗斯选手也各自斩获金牌。 “亚洲选手的整体水平还是很高的，来之前我没有给自己制定什么目标，所以我在比赛中没有太多压力。”女子57公斤级冠军得主、白俄罗斯名将伊琳娜·库罗奇金娜说，在西安赢得这枚金牌后，她的下个目标是在今年的摔跤世锦赛上冲击金牌。 图为中国选手佈和额尔敦(红衣)在比赛中。(赛事组委会供图) 最后一个比赛日，男子自由式摔跤上演多场精彩对决，最终6枚金牌各有归属。中国选手佈和额尔敦勇夺125公斤级金牌，赛后他表示：“西安是我求学成长的地方，能在这里站上国际赛事的最高领奖台，内心充满激动。这份荣誉离不开教练团队的助力，也感谢现场观众的呐喊助威。我希望接下来能在今年亚运会的赛场上再次为国争光。” 不止于赛场之上的胜负比拼，本次赛事活动更搭建起了多边体育务实交流的重要平台。赛事创新“竞赛比拼+跨国联合集训”赛训一体化模式，打破短期赛事交流的局限。竞赛结束之后，国际训练营接续开启(8月10日‑16日)，各国青年摔跤后备人才、海内外高水平教练员将汇聚一堂，开展联合集训。 赛事主办方相关负责人表示，陕西今后将持续夯实重竞技项目人才梯队建设，持续用好赛训一体化创新模式，不断打造常态化国际体育交流平台，以体育为媒介，持续拓展对外务实体育合作，推动竞技体育强基固本、群众体育蓬勃发展，为体育强省建设注入源源不断的动力，让更多群众共享体育事业发展成果。 本次赛事由世界摔跤联合会指导，国家体育总局举重摔跤柔道运动管理中心、中国摔跤协会、陕西省体育局联合主办。(完)",
+      "verified": true
+    },
+    {
+      "media": "中国新闻网",
+      "title": "上半年延安火车站旅客发送量同比增长32.1%",
+      "summary": "上半年延安火车站旅客发送量同比增长32.1%",
+      "time": "08-10 12:03",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xOFpWZUZUTDFrVVJpQnl6MWtNb1UzaG51Z01Pd1Y3Q0lMckFjOV93UU10clBuZ05GSjZGTEZaR2tUSm0yMWhBc3AzQUdnOElybk0xdEF1Mjd0TUs5dFM4ZWx2N01mSVhZV3Q4?oc=5",
+      "copy_text": "上半年延安火车站旅客发送量同比增长32.1%\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTE0xOFpWZUZUTDFrVVJpQnl6MWtNb1UzaG51Z01Pd1Y3Q0lMckFjOV93UU10clBuZ05GSjZGTEZaR2tUSm0yMWhBc3AzQUdnOElybk0xdEF1Mjd0TUs5dFM4ZWx2N01mSVhZV3Q4?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "陕西持续织密就业保障网",
+      "summary": "陕西持续织密就业保障网",
+      "time": "08-10 12:09",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzY1I1TjBaV1J5VS1zOFNOSllvWlZ4MElhWG5HNEV0d3NkOElZTGhKUmt3aHdLQVY0dl83Q25kREd6dlhIV1duemdOOEExM0ZocTU3UVJHMW05MUthdld5S0swaHhoMU9pRmow?oc=5",
+      "copy_text": "陕西持续织密就业保障网\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFBzY1I1TjBaV1J5VS1zOFNOSllvWlZ4MElhWG5HNEV0d3NkOElZTGhKUmt3aHdLQVY0dl83Q25kREd6dlhIV1duemdOOEExM0ZocTU3UVJHMW05MUthdld5S0swaHhoMU9pRmow?oc=5",
       "verified": false
     }
   ]
