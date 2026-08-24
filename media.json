@@ -1,44 +1,117 @@
 {
   "source": "media",
-  "updated_at": "2026-08-24 08:00",
+  "updated_at": "2026-08-25 00:17",
   "period": "最近 48 小时",
   "stats": {
-    "rss_candidates": 63,
-    "verified": 8,
-    "summary_candidates": 5
+    "rss_candidates": 80,
+    "newspaper_candidates": 8,
+    "verified": 22,
+    "summary_candidates": 10
   },
   "items": [
     {
-      "media": "人民日报",
-      "title": "2026年“奔跑吧·少年”陕西省青少年体育夏令营结营",
-      "summary": "人民日报指出陕西省体育局主办、200余家俱乐部参与的青少年体育夏令营在三大片区及12市（区）同步结营，见证了体教融合与竞技后备人才选拔培养的宏观主题。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“活动采用‘省级主导、市级参与、集中培训、社会协办’模式，累计吸引10万余名青少年，开展超千场理论实践教学，遴选150名重点学员实行‘一人一策’封闭集训，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了体教融合根基，为陕西青少年体育长远发展积蓄了动力。”",
-      "time": "08-23 20:59",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml",
-      "copy_text": "人民日报指出陕西省体育局主办、200余家俱乐部参与的青少年体育夏令营在三大片区及12市（区）同步结营，见证了体教融合与竞技后备人才选拔培养的宏观主题。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“活动采用‘省级主导、市级参与、集中培训、社会协办’模式，累计吸引10万余名青少年，开展超千场理论实践教学，遴选150名重点学员实行‘一人一策’封闭集训，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了体教融合根基，为陕西青少年体育长远发展积蓄了动力。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml"
+      "media": "经济日报",
+      "title": "多样文旅选择给足情绪价值",
+      "summary": "经济日报指出陕西“小七”智能体在文旅场景中的落地应用，见证了科技赋能正从概念走向实践，推动文旅产业供给侧的创新变革。 8月24日，经济日报报道《多样文旅选择给足情绪价值》指出，“陕西以‘司机秦始皇’等沉浸式体验项目实现硬核出圈，通过将历史文化资源转化为互动场景，为游客提供充足的情绪价值和认知价值，反映出县域旅游正从资源依赖型向产品业态创新型转变，带动了当地文旅消费的提质升级和全域消费链条的延伸拓展。”",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/content/202608/24/content_337752.html",
+      "copy_text": "经济日报指出陕西“小七”智能体在文旅场景中的落地应用，见证了科技赋能正从概念走向实践，推动文旅产业供给侧的创新变革。 8月24日，经济日报报道《多样文旅选择给足情绪价值》指出，“陕西以‘司机秦始皇’等沉浸式体验项目实现硬核出圈，通过将历史文化资源转化为互动场景，为游客提供充足的情绪价值和认知价值，反映出县域旅游正从资源依赖型向产品业态创新型转变，带动了当地文旅消费的提质升级和全域消费链条的延伸拓展。”\nhttp://paper.ce.cn/pc/content/202608/24/content_337752.html"
     },
     {
-      "media": "中国新闻网",
-      "title": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花",
-      "summary": "中国新闻网指出西安承办世界青年花滑大奖赛并助力中国新锐多点开花，反映了中国花滑梯队建设与竞技水平提升的积极态势。 8月22日，中国新闻网报道《世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花》指出，“本站赛事为期三日，中国青年选手在女单、双人滑等项目上稳扎稳打，13岁新秀刘玉萱首登国际赛场以189.57分摘银，金书贤逆风翻盘以188.80分夺铜，两对双人滑组合分获银铜牌，女单集体跻身四强并包揽二至四名；通过以赛促练、积累实战经验，中国队展现出扎实技术储备与昂扬竞技风貌，为后续冲击更高水平奠定基础。”",
-      "time": "08-22 19:50",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
-      "copy_text": "中国新闻网指出西安承办世界青年花滑大奖赛并助力中国新锐多点开花，反映了中国花滑梯队建设与竞技水平提升的积极态势。 8月22日，中国新闻网报道《世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花》指出，“本站赛事为期三日，中国青年选手在女单、双人滑等项目上稳扎稳打，13岁新秀刘玉萱首登国际赛场以189.57分摘银，金书贤逆风翻盘以188.80分夺铜，两对双人滑组合分获银铜牌，女单集体跻身四强并包揽二至四名；通过以赛促练、积累实战经验，中国队展现出扎实技术储备与昂扬竞技风貌，为后续冲击更高水平奠定基础。”\nhttps://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml"
+      "media": "人民日报",
+      "title": "2026年“奔跑吧·少年”陕西省青少年体育夏令营结营",
+      "summary": "人民日报指出陕西省体育局主办的2026年“奔跑吧·少年”青少年体育夏令营，通过“省级主导、市级参与、集中培训、社会协办”模式，推动标准化课程与专业教练团队下沉至全省12个市（区），见证了体教融合与竞技体育后备人才培养的深度实践。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“该夏令营历时40天，联合200余家俱乐部吸引超10万名青少年参与，遴选150名重点学员实行“吃住训”一体化管理，推行“一人一策”训练方案，累计开展理论实践教学超千场，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了青少年体育服务网络与竞技人才储备基础。”",
+      "time": "08-23 20:59",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml",
+      "copy_text": "人民日报指出陕西省体育局主办的2026年“奔跑吧·少年”青少年体育夏令营，通过“省级主导、市级参与、集中培训、社会协办”模式，推动标准化课程与专业教练团队下沉至全省12个市（区），见证了体教融合与竞技体育后备人才培养的深度实践。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“该夏令营历时40天，联合200余家俱乐部吸引超10万名青少年参与，遴选150名重点学员实行“吃住训”一体化管理，推行“一人一策”训练方案，累计开展理论实践教学超千场，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了青少年体育服务网络与竞技人才储备基础。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml"
+    },
+    {
+      "media": "中国新闻报",
+      "title": "从西安到阿拉木图 中欧班列向西再提速",
+      "summary": "中国新闻报指出陕西康佳智能家电有限公司依托毗邻中欧班列西安集结中心的地理优势，推动“当天生产、当天发运”的跨境物流实践，反映了中欧班列带动西部产业高效联通国际市场的宏观主题。 8月24日中国新闻报报道《从西安到阿拉木图 中欧班列向西再提速》指出，“西安已累计开通18条国际运输干线及26条‘+西欧’线路，成为全国首个中欧班列开行突破3万列的城市；通过‘班列+跨境电商’等模式吸引企业落户，并建成西安与阿拉木图双码头联动枢纽，将西安至阿拉木图运输时间从15天压缩至4至7天，口岸换装缩短至几小时，带动本土企业业务量增长2至3倍，同时吸引长三角、珠三角货源加速向西安集结。”",
+      "time": "08-24 00:00",
+      "link": "http://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html",
+      "copy_text": "中国新闻报指出陕西康佳智能家电有限公司依托毗邻中欧班列西安集结中心的地理优势，推动“当天生产、当天发运”的跨境物流实践，反映了中欧班列带动西部产业高效联通国际市场的宏观主题。 8月24日中国新闻报报道《从西安到阿拉木图 中欧班列向西再提速》指出，“西安已累计开通18条国际运输干线及26条‘+西欧’线路，成为全国首个中欧班列开行突破3万列的城市；通过‘班列+跨境电商’等模式吸引企业落户，并建成西安与阿拉木图双码头联动枢纽，将西安至阿拉木图运输时间从15天压缩至4至7天，口岸换装缩短至几小时，带动本土企业业务量增长2至3倍，同时吸引长三角、珠三角货源加速向西安集结。”\nhttp://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html"
+    },
+    {
+      "media": "人民日报",
+      "title": "阿拉山口市召开陕西省首批援疆教师欢迎座谈会",
+      "summary": "人民日报指出陕西省首批9名援疆教师赴阿拉山口市投身口岸教育事业，见证推动陕阿教育协作与边疆教育提质增效的宏观主题。 8月24日人民日报报道《阿拉山口市召开陕西省首批援疆教师欢迎座谈会》指出，“陕西省选派9名教育人才赴阿拉山口市中学任教，涵盖物理、化学等学科，通过课堂实践、教研提升、师徒结对等方式融入当地教学，并承诺扎根一线促进民族团结，当地政府同步压实服务保障责任，健全联系机制，为援疆教师营造安心干事环境，助力边疆教育质量提升。”",
+      "time": "08-24 17:52",
+      "link": "http://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml",
+      "copy_text": "人民日报指出陕西省首批9名援疆教师赴阿拉山口市投身口岸教育事业，见证推动陕阿教育协作与边疆教育提质增效的宏观主题。 8月24日人民日报报道《阿拉山口市召开陕西省首批援疆教师欢迎座谈会》指出，“陕西省选派9名教育人才赴阿拉山口市中学任教，涵盖物理、化学等学科，通过课堂实践、教研提升、师徒结对等方式融入当地教学，并承诺扎根一线促进民族团结，当地政府同步压实服务保障责任，健全联系机制，为援疆教师营造安心干事环境，助力边疆教育质量提升。”\nhttp://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml"
     },
     {
       "media": "中国新闻网",
       "title": "陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动",
-      "summary": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，邀请30组亲子家庭走进专业场馆与冠军互动，见证了体育精神在青少年群体中的生动传承。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动通过参观陕西体育博物馆、观摩室内田径训练馆及冠军王卓越、高瑾尧现场演示三级跳远、链球等专项动作，并指导亲子家庭体验跳远、竞走、跨栏等项目，下午设置亲子竞走接力、跳跳乐挑战赛等四大趣味游戏，吸引30组家庭参与，孩子们在沉浸式互动中掌握运动技巧，家长表示活动既普及体育知识又增进亲子协作，有效传递了拼搏进取的中华体育精神。”",
+      "summary": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，推动30组亲子家庭通过冠军互动、项目体验与体育史学习感受田径魅力。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动组织30组家庭参观陕西体育博物馆及训练馆，王卓越、高瑾尧等冠军运动员现场演示三级跳远、链球等专项动作并指导亲子体验跳远、竞走、跨栏等项目，下午设置竞走接力、跳跳乐等四项趣味游戏，吸引孩子与家长协作参与，既普及了体育专业知识，也通过沉浸式互动让青少年体会运动乐趣，传递了拼搏向上的体育精神。”",
       "time": "08-23 13:19",
       "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml",
-      "copy_text": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，邀请30组亲子家庭走进专业场馆与冠军互动，见证了体育精神在青少年群体中的生动传承。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动通过参观陕西体育博物馆、观摩室内田径训练馆及冠军王卓越、高瑾尧现场演示三级跳远、链球等专项动作，并指导亲子家庭体验跳远、竞走、跨栏等项目，下午设置亲子竞走接力、跳跳乐挑战赛等四大趣味游戏，吸引30组家庭参与，孩子们在沉浸式互动中掌握运动技巧，家长表示活动既普及体育知识又增进亲子协作，有效传递了拼搏进取的中华体育精神。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml"
+      "copy_text": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，推动30组亲子家庭通过冠军互动、项目体验与体育史学习感受田径魅力。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动组织30组家庭参观陕西体育博物馆及训练馆，王卓越、高瑾尧等冠军运动员现场演示三级跳远、链球等专项动作并指导亲子体验跳远、竞走、跨栏等项目，下午设置竞走接力、跳跳乐等四项趣味游戏，吸引孩子与家长协作参与，既普及了体育专业知识，也通过沉浸式互动让青少年体会运动乐趣，传递了拼搏向上的体育精神。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml"
+    },
+    {
+      "media": "央视网",
+      "title": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量",
+      "summary": "央视网指出陕西西安落地2026-27赛季国际滑联世界青年花滑大奖赛首站，以赛事流量撬动文旅体消费增量，反映了赛事经济正成为城市消费升级的新引擎。 8月24日，央视网报道《[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量》指出，“西安依托票根经济，将观赛凭证与餐饮、住宿、游览等消费场景串联，形成‘一场赛事带动多业态联动’的闭环模式；通过赛事引流吸引观众延长停留时间，促进本地文旅体消费规模扩大，实现赛事流量向经济增量的有效转化。”",
+      "time": "08-24 11:08",
+      "link": "https://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml",
+      "copy_text": "央视网指出陕西西安落地2026-27赛季国际滑联世界青年花滑大奖赛首站，以赛事流量撬动文旅体消费增量，反映了赛事经济正成为城市消费升级的新引擎。 8月24日，央视网报道《[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量》指出，“西安依托票根经济，将观赛凭证与餐饮、住宿、游览等消费场景串联，形成‘一场赛事带动多业态联动’的闭环模式；通过赛事引流吸引观众延长停留时间，促进本地文旅体消费规模扩大，实现赛事流量向经济增量的有效转化。”\nhttps://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "中欧班列（西安）向欧洲输送制冷家电累计超34000台",
+      "summary": "中国新闻网指出中欧班列（西安）通过常态化开行X8151次班列，向欧洲输送国产制冷家电，推动了“中国智造”加速出海并贯通亚欧物流通道。 8月24日，中国新闻网报道《中欧班列（西安）向欧洲输送制冷家电累计超34000台》指出，“今年以来，班列从西安国际港站满载国产空调等货物出发，经阿拉山口口岸出境，最快12天抵达德国曼海姆，已累计向欧洲15国输送空调、风扇等制冷家电超34000台，搭建起贯通亚欧的‘清凉通道’，有力助力中国智造拓展欧洲市场。”",
+      "time": "08-24 19:40",
+      "link": "https://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml",
+      "copy_text": "中国新闻网指出中欧班列（西安）通过常态化开行X8151次班列，向欧洲输送国产制冷家电，推动了“中国智造”加速出海并贯通亚欧物流通道。 8月24日，中国新闻网报道《中欧班列（西安）向欧洲输送制冷家电累计超34000台》指出，“今年以来，班列从西安国际港站满载国产空调等货物出发，经阿拉山口口岸出境，最快12天抵达德国曼海姆，已累计向欧洲15国输送空调、风扇等制冷家电超34000台，搭建起贯通亚欧的‘清凉通道’，有力助力中国智造拓展欧洲市场。”\nhttps://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世",
+      "summary": "中国新闻网指出中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世，见证了中国航空工业从仿制到自主研制的跨越式发展历程。 8月24日，中国新闻网报道《中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世》指出，“陈一坚从事飞机设计研究40余年，先后参与歼教1、初教6、强5、运7等型号研制，主持歼轰7飞机设计填补了空海军航空装备机种空白，其成功研制为部队提供新型对地对海攻击武器，满足国防现代化急需，并促进提升中国飞机设计、试验、制造水平，同时作为大飞机论证组成员为国家重点型号立项做出积极贡献，荣获国家科技进步奖特等奖等多项荣誉。”",
+      "time": "08-24 21:23",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml",
+      "copy_text": "中国新闻网指出中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世，见证了中国航空工业从仿制到自主研制的跨越式发展历程。 8月24日，中国新闻网报道《中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世》指出，“陈一坚从事飞机设计研究40余年，先后参与歼教1、初教6、强5、运7等型号研制，主持歼轰7飞机设计填补了空海军航空装备机种空白，其成功研制为部队提供新型对地对海攻击武器，满足国防现代化急需，并促进提升中国飞机设计、试验、制造水平，同时作为大飞机论证组成员为国家重点型号立项做出积极贡献，荣获国家科技进步奖特等奖等多项荣誉。”\nhttps://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml"
+    },
+    {
+      "media": "央广网",
+      "title": "世界青年花样滑冰大奖赛西安站开幕",
+      "summary": "央广网指出西安曲江竞技中心承办世界青年花样滑冰大奖赛西安站，填补了西北高端国际冰上赛事的空白，推动了西北冰雪运动发展迈向全新里程碑。 8月24日央广网报道《世界青年花样滑冰大奖赛西安站开幕》指出，“赛事为期3天，设男单、女单、双人滑、冰上舞蹈四个竞赛大项，中国花滑青年队派出16名选手满额出战，全面参与四个项目角逐；作为国际滑联顶级赛事首次落户西北，此次西安站不仅让市民在家门口领略国际冰雪赛事魅力，更有效盘活陕西冰雪体育资源，完善体育赛事体系，推动优质冰雪赛事、专业人才和产业资源向西部集聚。”",
+      "time": "08-24 00:00",
+      "link": "https://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml",
+      "copy_text": "央广网指出西安曲江竞技中心承办世界青年花样滑冰大奖赛西安站，填补了西北高端国际冰上赛事的空白，推动了西北冰雪运动发展迈向全新里程碑。 8月24日央广网报道《世界青年花样滑冰大奖赛西安站开幕》指出，“赛事为期3天，设男单、女单、双人滑、冰上舞蹈四个竞赛大项，中国花滑青年队派出16名选手满额出战，全面参与四个项目角逐；作为国际滑联顶级赛事首次落户西北，此次西安站不仅让市民在家门口领略国际冰雪赛事魅力，更有效盘活陕西冰雪体育资源，完善体育赛事体系，推动优质冰雪赛事、专业人才和产业资源向西部集聚。”\nhttps://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml"
     },
     {
       "media": "新华网",
-      "title": "秀我中国｜在咸阳，“碳水快乐”也很讲究",
-      "summary": "新华网指出陕西咸阳三原县流传的贵妃饺、疙瘩面、泡泡油糕等特色面食见证了汉唐京畿饮食文化中“讲究”的地域民俗传承。 8月23日，新华网报道《秀我中国｜在咸阳，“碳水快乐”也很讲究》指出，“三原县作为汉唐京畿要地，保留贵妃饺、疙瘩面、泡泡油糕等风味独特且吃法讲究的传统面食，通过镜头展示其制作与食用细节，体现面食文化源远流长，并传递美味背后的地域民俗与历史底蕴。”",
-      "time": "08-23 00:00",
-      "link": "https://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html",
-      "copy_text": "新华网指出陕西咸阳三原县流传的贵妃饺、疙瘩面、泡泡油糕等特色面食见证了汉唐京畿饮食文化中“讲究”的地域民俗传承。 8月23日，新华网报道《秀我中国｜在咸阳，“碳水快乐”也很讲究》指出，“三原县作为汉唐京畿要地，保留贵妃饺、疙瘩面、泡泡油糕等风味独特且吃法讲究的传统面食，通过镜头展示其制作与食用细节，体现面食文化源远流长，并传递美味背后的地域民俗与历史底蕴。”\nhttps://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html"
+      "title": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存",
+      "summary": "新华网指出中国花滑青年队在西安站以2银2铜的实战表现，见证了青年选手在国际赛场初露锋芒的成长轨迹。 8月24日，新华网报道《花滑青年大奖赛西安站：中国队亮点频现、压力尚存》指出，“女单刘玉萱、金辰熹等三名选手位列第二至第四名，金书贤以188.80分摘铜，双人滑陈雨萱/董胤博、王晨凌/陈永正分获银铜，但男单、冰舞排名靠后，且俄罗斯中立选手包揽4金，凸显中国队技术稳定性与顶尖水平尚有差距，后续6站分站赛及重庆总决赛席位争夺仍面临挑战。”",
+      "time": "08-24 00:00",
+      "link": "https://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html",
+      "copy_text": "新华网指出中国花滑青年队在西安站以2银2铜的实战表现，见证了青年选手在国际赛场初露锋芒的成长轨迹。 8月24日，新华网报道《花滑青年大奖赛西安站：中国队亮点频现、压力尚存》指出，“女单刘玉萱、金辰熹等三名选手位列第二至第四名，金书贤以188.80分摘铜，双人滑陈雨萱/董胤博、王晨凌/陈永正分获银铜，但男单、冰舞排名靠后，且俄罗斯中立选手包揽4金，凸显中国队技术稳定性与顶尖水平尚有差距，后续6站分站赛及重庆总决赛席位争夺仍面临挑战。”\nhttps://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html"
+    },
+    {
+      "media": "光明日报",
+      "title": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升",
+      "summary": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升",
+      "time": "08-24 00:00",
+      "link": "https://tech.gmw.cn/2026-08/24/content_38960175.htm",
+      "copy_text": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升\nhttps://tech.gmw.cn/2026-08/24/content_38960175.htm"
+    },
+    {
+      "media": "央视网",
+      "title": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神",
+      "summary": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神",
+      "time": "08-24 07:42",
+      "link": "https://tv.cctv.com/2026/08/24/VIDEBjQtvOLb9DNfwPNHLuTu260824.shtml",
+      "copy_text": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神\nhttps://tv.cctv.com/2026/08/24/VIDEBjQtvOLb9DNfwPNHLuTu260824.shtml"
+    },
+    {
+      "media": "央视网",
+      "title": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济",
+      "summary": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济",
+      "time": "08-23 19:42",
+      "link": "https://tv.cctv.com/2026/08/23/VIDELYC6fM3OWmLH2n7Y27wd260823.shtml",
+      "copy_text": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济\nhttps://tv.cctv.com/2026/08/23/VIDELYC6fM3OWmLH2n7Y27wd260823.shtml"
     },
     {
       "media": "央视网",
@@ -49,20 +122,60 @@
       "copy_text": "[民歌中国]陕北民歌《一对对鸳鸯水上漂》 演唱：王欢 柳强强\nhttps://tv.cctv.com/2026/08/23/VIDEeLpxWJgY2KNrTvMJbrMp260823.shtml"
     },
     {
-      "media": "央视网",
-      "title": "[花滑]世界青年花样滑冰大奖赛在西安落幕",
-      "summary": "[花滑]世界青年花样滑冰大奖赛在西安落幕",
-      "time": "08-23 08:40",
-      "link": "https://tv.cctv.com/2026/08/23/VIDEPDW2ujiZhGhx0guZbCmP260823.shtml",
-      "copy_text": "[花滑]世界青年花样滑冰大奖赛在西安落幕\nhttps://tv.cctv.com/2026/08/23/VIDEPDW2ujiZhGhx0guZbCmP260823.shtml"
+      "media": "经济日报",
+      "title": "前7月网上商品和服务零售额增长4.8%",
+      "summary": "前7月网上商品和服务零售额增长4.8%",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/content/202608/24/content_337740.html",
+      "copy_text": "前7月网上商品和服务零售额增长4.8%\nhttp://paper.ce.cn/pc/content/202608/24/content_337740.html"
     },
     {
-      "media": "央广网",
-      "title": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌",
-      "summary": "央广网指出西安曲江竞技中心承办国际滑联花样滑冰青年大奖赛揭幕战，见证了中国队在新赛季青年大奖赛首站中展现出的竞技实力与人才储备。 8月23日央广网报道《花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌》指出，“西安站作为新赛季揭幕战，吸引32个国家和地区116名运动员参赛，中国队16名选手全项目出击，最终刘玉萱、金书贤分获女单银铜牌，陈雨萱/董胤博、王晨凌/陈永正包揽双人滑银铜牌，男单和冰舞选手亦完成练兵，整体成绩为队伍新周期备战积累了实战经验并提振了信心。”",
-      "time": "08-23 00:00",
-      "link": "https://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml",
-      "copy_text": "央广网指出西安曲江竞技中心承办国际滑联花样滑冰青年大奖赛揭幕战，见证了中国队在新赛季青年大奖赛首站中展现出的竞技实力与人才储备。 8月23日央广网报道《花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌》指出，“西安站作为新赛季揭幕战，吸引32个国家和地区116名运动员参赛，中国队16名选手全项目出击，最终刘玉萱、金书贤分获女单银铜牌，陈雨萱/董胤博、王晨凌/陈永正包揽双人滑银铜牌，男单和冰舞选手亦完成练兵，整体成绩为队伍新周期备战积累了实战经验并提振了信心。”\nhttps://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml"
+      "media": "光明日报",
+      "title": "职业本科如何守住“职业”本色",
+      "summary": "职业本科如何守住“职业”本色",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23104.html",
+      "copy_text": "职业本科如何守住“职业”本色\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23104.html"
+    },
+    {
+      "media": "光明日报",
+      "title": "理解中晚明诗学的三重视域",
+      "summary": "理解中晚明诗学的三重视域",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23067.html",
+      "copy_text": "理解中晚明诗学的三重视域\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23067.html"
+    },
+    {
+      "media": "光明日报",
+      "title": "马克思伦敦居所变迁的微历史",
+      "summary": "马克思伦敦居所变迁的微历史",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23062.html",
+      "copy_text": "马克思伦敦居所变迁的微历史\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23062.html"
+    },
+    {
+      "media": "光明日报",
+      "title": "公告（10-11版中缝）",
+      "summary": "公告（10-11版中缝）",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23068.html",
+      "copy_text": "公告（10-11版中缝）\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23068.html"
+    },
+    {
+      "media": "中国青年报",
+      "title": "山海有约 热力四射",
+      "summary": "山海有约 热力四射",
+      "time": "08-24 00:00",
+      "link": "https://zqb.cyol.com/pc/content/202608/24/content_429790.html",
+      "copy_text": "山海有约 热力四射\nhttps://zqb.cyol.com/pc/content/202608/24/content_429790.html"
+    },
+    {
+      "media": "经济日报",
+      "title": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”",
+      "summary": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/attachment/202608/24/a91542ad-9210-43d1-8042-4f0a914ad5fd.pdf",
+      "copy_text": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”\nhttp://paper.ce.cn/pc/attachment/202608/24/a91542ad-9210-43d1-8042-4f0a914ad5fd.pdf"
     },
     {
       "media": "央广网",
@@ -75,54 +188,185 @@
   ],
   "top10": [
     {
-      "media": "人民日报",
-      "title": "2026年“奔跑吧·少年”陕西省青少年体育夏令营结营",
-      "summary": "人民日报指出陕西省体育局主办、200余家俱乐部参与的青少年体育夏令营在三大片区及12市（区）同步结营，见证了体教融合与竞技后备人才选拔培养的宏观主题。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“活动采用‘省级主导、市级参与、集中培训、社会协办’模式，累计吸引10万余名青少年，开展超千场理论实践教学，遴选150名重点学员实行‘一人一策’封闭集训，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了体教融合根基，为陕西青少年体育长远发展积蓄了动力。”",
-      "time": "08-23 20:59",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml",
-      "copy_text": "人民日报指出陕西省体育局主办、200余家俱乐部参与的青少年体育夏令营在三大片区及12市（区）同步结营，见证了体教融合与竞技后备人才选拔培养的宏观主题。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“活动采用‘省级主导、市级参与、集中培训、社会协办’模式，累计吸引10万余名青少年，开展超千场理论实践教学，遴选150名重点学员实行‘一人一策’封闭集训，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了体教融合根基，为陕西青少年体育长远发展积蓄了动力。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml"
+      "media": "经济日报",
+      "title": "多样文旅选择给足情绪价值",
+      "summary": "经济日报指出陕西“小七”智能体在文旅场景中的落地应用，见证了科技赋能正从概念走向实践，推动文旅产业供给侧的创新变革。 8月24日，经济日报报道《多样文旅选择给足情绪价值》指出，“陕西以‘司机秦始皇’等沉浸式体验项目实现硬核出圈，通过将历史文化资源转化为互动场景，为游客提供充足的情绪价值和认知价值，反映出县域旅游正从资源依赖型向产品业态创新型转变，带动了当地文旅消费的提质升级和全域消费链条的延伸拓展。”",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/content/202608/24/content_337752.html",
+      "copy_text": "经济日报指出陕西“小七”智能体在文旅场景中的落地应用，见证了科技赋能正从概念走向实践，推动文旅产业供给侧的创新变革。 8月24日，经济日报报道《多样文旅选择给足情绪价值》指出，“陕西以‘司机秦始皇’等沉浸式体验项目实现硬核出圈，通过将历史文化资源转化为互动场景，为游客提供充足的情绪价值和认知价值，反映出县域旅游正从资源依赖型向产品业态创新型转变，带动了当地文旅消费的提质升级和全域消费链条的延伸拓展。”\nhttp://paper.ce.cn/pc/content/202608/24/content_337752.html"
     },
     {
-      "media": "中国新闻网",
-      "title": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花",
-      "summary": "中国新闻网指出西安承办世界青年花滑大奖赛并助力中国新锐多点开花，反映了中国花滑梯队建设与竞技水平提升的积极态势。 8月22日，中国新闻网报道《世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花》指出，“本站赛事为期三日，中国青年选手在女单、双人滑等项目上稳扎稳打，13岁新秀刘玉萱首登国际赛场以189.57分摘银，金书贤逆风翻盘以188.80分夺铜，两对双人滑组合分获银铜牌，女单集体跻身四强并包揽二至四名；通过以赛促练、积累实战经验，中国队展现出扎实技术储备与昂扬竞技风貌，为后续冲击更高水平奠定基础。”",
-      "time": "08-22 19:50",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
-      "copy_text": "中国新闻网指出西安承办世界青年花滑大奖赛并助力中国新锐多点开花，反映了中国花滑梯队建设与竞技水平提升的积极态势。 8月22日，中国新闻网报道《世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花》指出，“本站赛事为期三日，中国青年选手在女单、双人滑等项目上稳扎稳打，13岁新秀刘玉萱首登国际赛场以189.57分摘银，金书贤逆风翻盘以188.80分夺铜，两对双人滑组合分获银铜牌，女单集体跻身四强并包揽二至四名；通过以赛促练、积累实战经验，中国队展现出扎实技术储备与昂扬竞技风貌，为后续冲击更高水平奠定基础。”\nhttps://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml"
+      "media": "人民日报",
+      "title": "2026年“奔跑吧·少年”陕西省青少年体育夏令营结营",
+      "summary": "人民日报指出陕西省体育局主办的2026年“奔跑吧·少年”青少年体育夏令营，通过“省级主导、市级参与、集中培训、社会协办”模式，推动标准化课程与专业教练团队下沉至全省12个市（区），见证了体教融合与竞技体育后备人才培养的深度实践。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“该夏令营历时40天，联合200余家俱乐部吸引超10万名青少年参与，遴选150名重点学员实行“吃住训”一体化管理，推行“一人一策”训练方案，累计开展理论实践教学超千场，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了青少年体育服务网络与竞技人才储备基础。”",
+      "time": "08-23 20:59",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml",
+      "copy_text": "人民日报指出陕西省体育局主办的2026年“奔跑吧·少年”青少年体育夏令营，通过“省级主导、市级参与、集中培训、社会协办”模式，推动标准化课程与专业教练团队下沉至全省12个市（区），见证了体教融合与竞技体育后备人才培养的深度实践。 8月23日人民日报报道《2026年“奔跑吧·少年”陕西省青少年体育夏令营结营》指出，“该夏令营历时40天，联合200余家俱乐部吸引超10万名青少年参与，遴选150名重点学员实行“吃住训”一体化管理，推行“一人一策”训练方案，累计开展理论实践教学超千场，95%学员掌握至少1项运动技能，并融合博物馆研学与红色教育，有效夯实了青少年体育服务网络与竞技人才储备基础。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682827.shtml"
+    },
+    {
+      "media": "中国新闻报",
+      "title": "从西安到阿拉木图 中欧班列向西再提速",
+      "summary": "中国新闻报指出陕西康佳智能家电有限公司依托毗邻中欧班列西安集结中心的地理优势，推动“当天生产、当天发运”的跨境物流实践，反映了中欧班列带动西部产业高效联通国际市场的宏观主题。 8月24日中国新闻报报道《从西安到阿拉木图 中欧班列向西再提速》指出，“西安已累计开通18条国际运输干线及26条‘+西欧’线路，成为全国首个中欧班列开行突破3万列的城市；通过‘班列+跨境电商’等模式吸引企业落户，并建成西安与阿拉木图双码头联动枢纽，将西安至阿拉木图运输时间从15天压缩至4至7天，口岸换装缩短至几小时，带动本土企业业务量增长2至3倍，同时吸引长三角、珠三角货源加速向西安集结。”",
+      "time": "08-24 00:00",
+      "link": "http://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html",
+      "copy_text": "中国新闻报指出陕西康佳智能家电有限公司依托毗邻中欧班列西安集结中心的地理优势，推动“当天生产、当天发运”的跨境物流实践，反映了中欧班列带动西部产业高效联通国际市场的宏观主题。 8月24日中国新闻报报道《从西安到阿拉木图 中欧班列向西再提速》指出，“西安已累计开通18条国际运输干线及26条‘+西欧’线路，成为全国首个中欧班列开行突破3万列的城市；通过‘班列+跨境电商’等模式吸引企业落户，并建成西安与阿拉木图双码头联动枢纽，将西安至阿拉木图运输时间从15天压缩至4至7天，口岸换装缩短至几小时，带动本土企业业务量增长2至3倍，同时吸引长三角、珠三角货源加速向西安集结。”\nhttp://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html"
+    },
+    {
+      "media": "人民日报",
+      "title": "阿拉山口市召开陕西省首批援疆教师欢迎座谈会",
+      "summary": "人民日报指出陕西省首批9名援疆教师赴阿拉山口市投身口岸教育事业，见证推动陕阿教育协作与边疆教育提质增效的宏观主题。 8月24日人民日报报道《阿拉山口市召开陕西省首批援疆教师欢迎座谈会》指出，“陕西省选派9名教育人才赴阿拉山口市中学任教，涵盖物理、化学等学科，通过课堂实践、教研提升、师徒结对等方式融入当地教学，并承诺扎根一线促进民族团结，当地政府同步压实服务保障责任，健全联系机制，为援疆教师营造安心干事环境，助力边疆教育质量提升。”",
+      "time": "08-24 17:52",
+      "link": "http://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml",
+      "copy_text": "人民日报指出陕西省首批9名援疆教师赴阿拉山口市投身口岸教育事业，见证推动陕阿教育协作与边疆教育提质增效的宏观主题。 8月24日人民日报报道《阿拉山口市召开陕西省首批援疆教师欢迎座谈会》指出，“陕西省选派9名教育人才赴阿拉山口市中学任教，涵盖物理、化学等学科，通过课堂实践、教研提升、师徒结对等方式融入当地教学，并承诺扎根一线促进民族团结，当地政府同步压实服务保障责任，健全联系机制，为援疆教师营造安心干事环境，助力边疆教育质量提升。”\nhttp://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml"
     },
     {
       "media": "中国新闻网",
       "title": "陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动",
-      "summary": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，邀请30组亲子家庭走进专业场馆与冠军互动，见证了体育精神在青少年群体中的生动传承。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动通过参观陕西体育博物馆、观摩室内田径训练馆及冠军王卓越、高瑾尧现场演示三级跳远、链球等专项动作，并指导亲子家庭体验跳远、竞走、跨栏等项目，下午设置亲子竞走接力、跳跳乐挑战赛等四大趣味游戏，吸引30组家庭参与，孩子们在沉浸式互动中掌握运动技巧，家长表示活动既普及体育知识又增进亲子协作，有效传递了拼搏进取的中华体育精神。”",
+      "summary": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，推动30组亲子家庭通过冠军互动、项目体验与体育史学习感受田径魅力。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动组织30组家庭参观陕西体育博物馆及训练馆，王卓越、高瑾尧等冠军运动员现场演示三级跳远、链球等专项动作并指导亲子体验跳远、竞走、跨栏等项目，下午设置竞走接力、跳跳乐等四项趣味游戏，吸引孩子与家长协作参与，既普及了体育专业知识，也通过沉浸式互动让青少年体会运动乐趣，传递了拼搏向上的体育精神。”",
       "time": "08-23 13:19",
       "link": "https://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml",
-      "copy_text": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，邀请30组亲子家庭走进专业场馆与冠军互动，见证了体育精神在青少年群体中的生动传承。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动通过参观陕西体育博物馆、观摩室内田径训练馆及冠军王卓越、高瑾尧现场演示三级跳远、链球等专项动作，并指导亲子家庭体验跳远、竞走、跨栏等项目，下午设置亲子竞走接力、跳跳乐挑战赛等四大趣味游戏，吸引30组家庭参与，孩子们在沉浸式互动中掌握运动技巧，家长表示活动既普及体育知识又增进亲子协作，有效传递了拼搏进取的中华体育精神。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml"
+      "copy_text": "中国新闻网指出陕西省田径运动管理中心举办“训练园区开放日”活动，推动30组亲子家庭通过冠军互动、项目体验与体育史学习感受田径魅力。 8月23日，中国新闻网报道《陕西：亲子家庭解锁别样体育课堂 走进训练场与田径冠军互动》指出，“活动组织30组家庭参观陕西体育博物馆及训练馆，王卓越、高瑾尧等冠军运动员现场演示三级跳远、链球等专项动作并指导亲子体验跳远、竞走、跨栏等项目，下午设置竞走接力、跳跳乐等四项趣味游戏，吸引孩子与家长协作参与，既普及了体育专业知识，也通过沉浸式互动让青少年体会运动乐趣，传递了拼搏向上的体育精神。”\nhttps://www.chinanews.com.cn/ty/2026/08-23/10682642.shtml"
     },
     {
-      "media": "新华网",
-      "title": "秀我中国｜在咸阳，“碳水快乐”也很讲究",
-      "summary": "新华网指出陕西咸阳三原县流传的贵妃饺、疙瘩面、泡泡油糕等特色面食见证了汉唐京畿饮食文化中“讲究”的地域民俗传承。 8月23日，新华网报道《秀我中国｜在咸阳，“碳水快乐”也很讲究》指出，“三原县作为汉唐京畿要地，保留贵妃饺、疙瘩面、泡泡油糕等风味独特且吃法讲究的传统面食，通过镜头展示其制作与食用细节，体现面食文化源远流长，并传递美味背后的地域民俗与历史底蕴。”",
-      "time": "08-23 00:00",
-      "link": "https://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html",
-      "copy_text": "新华网指出陕西咸阳三原县流传的贵妃饺、疙瘩面、泡泡油糕等特色面食见证了汉唐京畿饮食文化中“讲究”的地域民俗传承。 8月23日，新华网报道《秀我中国｜在咸阳，“碳水快乐”也很讲究》指出，“三原县作为汉唐京畿要地，保留贵妃饺、疙瘩面、泡泡油糕等风味独特且吃法讲究的传统面食，通过镜头展示其制作与食用细节，体现面食文化源远流长，并传递美味背后的地域民俗与历史底蕴。”\nhttps://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html"
+      "media": "央视网",
+      "title": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量",
+      "summary": "央视网指出陕西西安落地2026-27赛季国际滑联世界青年花滑大奖赛首站，以赛事流量撬动文旅体消费增量，反映了赛事经济正成为城市消费升级的新引擎。 8月24日，央视网报道《[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量》指出，“西安依托票根经济，将观赛凭证与餐饮、住宿、游览等消费场景串联，形成‘一场赛事带动多业态联动’的闭环模式；通过赛事引流吸引观众延长停留时间，促进本地文旅体消费规模扩大，实现赛事流量向经济增量的有效转化。”",
+      "time": "08-24 11:08",
+      "link": "https://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml",
+      "copy_text": "央视网指出陕西西安落地2026-27赛季国际滑联世界青年花滑大奖赛首站，以赛事流量撬动文旅体消费增量，反映了赛事经济正成为城市消费升级的新引擎。 8月24日，央视网报道《[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量》指出，“西安依托票根经济，将观赛凭证与餐饮、住宿、游览等消费场景串联，形成‘一场赛事带动多业态联动’的闭环模式；通过赛事引流吸引观众延长停留时间，促进本地文旅体消费规模扩大，实现赛事流量向经济增量的有效转化。”\nhttps://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "中欧班列（西安）向欧洲输送制冷家电累计超34000台",
+      "summary": "中国新闻网指出中欧班列（西安）通过常态化开行X8151次班列，向欧洲输送国产制冷家电，推动了“中国智造”加速出海并贯通亚欧物流通道。 8月24日，中国新闻网报道《中欧班列（西安）向欧洲输送制冷家电累计超34000台》指出，“今年以来，班列从西安国际港站满载国产空调等货物出发，经阿拉山口口岸出境，最快12天抵达德国曼海姆，已累计向欧洲15国输送空调、风扇等制冷家电超34000台，搭建起贯通亚欧的‘清凉通道’，有力助力中国智造拓展欧洲市场。”",
+      "time": "08-24 19:40",
+      "link": "https://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml",
+      "copy_text": "中国新闻网指出中欧班列（西安）通过常态化开行X8151次班列，向欧洲输送国产制冷家电，推动了“中国智造”加速出海并贯通亚欧物流通道。 8月24日，中国新闻网报道《中欧班列（西安）向欧洲输送制冷家电累计超34000台》指出，“今年以来，班列从西安国际港站满载国产空调等货物出发，经阿拉山口口岸出境，最快12天抵达德国曼海姆，已累计向欧洲15国输送空调、风扇等制冷家电超34000台，搭建起贯通亚欧的‘清凉通道’，有力助力中国智造拓展欧洲市场。”\nhttps://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml"
+    },
+    {
+      "media": "中国新闻网",
+      "title": "中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世",
+      "summary": "中国新闻网指出中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世，见证了中国航空工业从仿制到自主研制的跨越式发展历程。 8月24日，中国新闻网报道《中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世》指出，“陈一坚从事飞机设计研究40余年，先后参与歼教1、初教6、强5、运7等型号研制，主持歼轰7飞机设计填补了空海军航空装备机种空白，其成功研制为部队提供新型对地对海攻击武器，满足国防现代化急需，并促进提升中国飞机设计、试验、制造水平，同时作为大飞机论证组成员为国家重点型号立项做出积极贡献，荣获国家科技进步奖特等奖等多项荣誉。”",
+      "time": "08-24 21:23",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml",
+      "copy_text": "中国新闻网指出中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世，见证了中国航空工业从仿制到自主研制的跨越式发展历程。 8月24日，中国新闻网报道《中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世》指出，“陈一坚从事飞机设计研究40余年，先后参与歼教1、初教6、强5、运7等型号研制，主持歼轰7飞机设计填补了空海军航空装备机种空白，其成功研制为部队提供新型对地对海攻击武器，满足国防现代化急需，并促进提升中国飞机设计、试验、制造水平，同时作为大飞机论证组成员为国家重点型号立项做出积极贡献，荣获国家科技进步奖特等奖等多项荣誉。”\nhttps://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml"
     },
     {
       "media": "央广网",
-      "title": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌",
-      "summary": "央广网指出西安曲江竞技中心承办国际滑联花样滑冰青年大奖赛揭幕战，见证了中国队在新赛季青年大奖赛首站中展现出的竞技实力与人才储备。 8月23日央广网报道《花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌》指出，“西安站作为新赛季揭幕战，吸引32个国家和地区116名运动员参赛，中国队16名选手全项目出击，最终刘玉萱、金书贤分获女单银铜牌，陈雨萱/董胤博、王晨凌/陈永正包揽双人滑银铜牌，男单和冰舞选手亦完成练兵，整体成绩为队伍新周期备战积累了实战经验并提振了信心。”",
-      "time": "08-23 00:00",
-      "link": "https://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml",
-      "copy_text": "央广网指出西安曲江竞技中心承办国际滑联花样滑冰青年大奖赛揭幕战，见证了中国队在新赛季青年大奖赛首站中展现出的竞技实力与人才储备。 8月23日央广网报道《花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌》指出，“西安站作为新赛季揭幕战，吸引32个国家和地区116名运动员参赛，中国队16名选手全项目出击，最终刘玉萱、金书贤分获女单银铜牌，陈雨萱/董胤博、王晨凌/陈永正包揽双人滑银铜牌，男单和冰舞选手亦完成练兵，整体成绩为队伍新周期备战积累了实战经验并提振了信心。”\nhttps://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml"
+      "title": "世界青年花样滑冰大奖赛西安站开幕",
+      "summary": "央广网指出西安曲江竞技中心承办世界青年花样滑冰大奖赛西安站，填补了西北高端国际冰上赛事的空白，推动了西北冰雪运动发展迈向全新里程碑。 8月24日央广网报道《世界青年花样滑冰大奖赛西安站开幕》指出，“赛事为期3天，设男单、女单、双人滑、冰上舞蹈四个竞赛大项，中国花滑青年队派出16名选手满额出战，全面参与四个项目角逐；作为国际滑联顶级赛事首次落户西北，此次西安站不仅让市民在家门口领略国际冰雪赛事魅力，更有效盘活陕西冰雪体育资源，完善体育赛事体系，推动优质冰雪赛事、专业人才和产业资源向西部集聚。”",
+      "time": "08-24 00:00",
+      "link": "https://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml",
+      "copy_text": "央广网指出西安曲江竞技中心承办世界青年花样滑冰大奖赛西安站，填补了西北高端国际冰上赛事的空白，推动了西北冰雪运动发展迈向全新里程碑。 8月24日央广网报道《世界青年花样滑冰大奖赛西安站开幕》指出，“赛事为期3天，设男单、女单、双人滑、冰上舞蹈四个竞赛大项，中国花滑青年队派出16名选手满额出战，全面参与四个项目角逐；作为国际滑联顶级赛事首次落户西北，此次西安站不仅让市民在家门口领略国际冰雪赛事魅力，更有效盘活陕西冰雪体育资源，完善体育赛事体系，推动优质冰雪赛事、专业人才和产业资源向西部集聚。”\nhttps://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml"
+    },
+    {
+      "media": "新华网",
+      "title": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存",
+      "summary": "新华网指出中国花滑青年队在西安站以2银2铜的实战表现，见证了青年选手在国际赛场初露锋芒的成长轨迹。 8月24日，新华网报道《花滑青年大奖赛西安站：中国队亮点频现、压力尚存》指出，“女单刘玉萱、金辰熹等三名选手位列第二至第四名，金书贤以188.80分摘铜，双人滑陈雨萱/董胤博、王晨凌/陈永正分获银铜，但男单、冰舞排名靠后，且俄罗斯中立选手包揽4金，凸显中国队技术稳定性与顶尖水平尚有差距，后续6站分站赛及重庆总决赛席位争夺仍面临挑战。”",
+      "time": "08-24 00:00",
+      "link": "https://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html",
+      "copy_text": "新华网指出中国花滑青年队在西安站以2银2铜的实战表现，见证了青年选手在国际赛场初露锋芒的成长轨迹。 8月24日，新华网报道《花滑青年大奖赛西安站：中国队亮点频现、压力尚存》指出，“女单刘玉萱、金辰熹等三名选手位列第二至第四名，金书贤以188.80分摘铜，双人滑陈雨萱/董胤博、王晨凌/陈永正分获银铜，但男单、冰舞排名靠后，且俄罗斯中立选手包揽4金，凸显中国队技术稳定性与顶尖水平尚有差距，后续6站分站赛及重庆总决赛席位争夺仍面临挑战。”\nhttps://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html"
     }
   ],
   "rss_candidates": [
     {
       "media": "人民日报",
-      "title": "联合国人工智能与人类发展全球对话在西安举办",
-      "summary": "联合国人工智能与人类发展全球对话在西安举办",
-      "time": "08-22 15:00",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3pJdG9hSUVWWkphYzFfcFVZWjJxdEMtQ3F3YUFURjhNTUpIOVJCYVRuMFo4a2FTLWl5STZQWlB5bnN0aUUteFFWTzNGOExRaEVFcm9OSDBLVVVmUXZzUnhBRXRFUkdBNnlha3NKbG9ZeDNKdUdibS1qVWZ4aEdCXw?oc=5",
-      "copy_text": "联合国人工智能与人类发展全球对话在西安举办\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3pJdG9hSUVWWkphYzFfcFVZWjJxdEMtQ3F3YUFURjhNTUpIOVJCYVRuMFo4a2FTLWl5STZQWlB5bnN0aUUteFFWTzNGOExRaEVFcm9OSDBLVVVmUXZzUnhBRXRFUkdBNnlha3NKbG9ZeDNKdUdibS1qVWZ4aEdCXw?oc=5",
+      "title": "西安市雁塔区开展人工智能训练师技能提升活动",
+      "summary": "西安市雁塔区开展人工智能训练师技能提升活动",
+      "time": "08-24 17:13",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40eUtndUlZTnNWSVVOV1lmYWhZc0lFX0FYUHNZT2JVMVJjLXB2Z2w3dkFxYm53QlFaR1FoTHZkQlVFdUNxQWpiVldrMnoyTldjNG9vVGRKSUI3QmtKMUtZRGhBeFo?oc=5",
+      "copy_text": "西安市雁塔区开展人工智能训练师技能提升活动\nhttps://news.google.com/rss/articles/CBMiZEFVX3lxTE40eUtndUlZTnNWSVVOV1lmYWhZc0lFX0FYUHNZT2JVMVJjLXB2Z2w3dkFxYm53QlFaR1FoTHZkQlVFdUNxQWpiVldrMnoyTldjNG9vVGRKSUI3QmtKMUtZRGhBeFo?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "阿拉山口市召开陕西省首批援疆教师欢迎座谈会",
+      "summary": "阿拉山口市召开陕西省首批援疆教师欢迎座谈会",
+      "time": "08-24 17:52",
+      "link": "http://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml",
+      "copy_text": "阿拉山口市召开陕西省首批援疆教师欢迎座谈会\nhttp://www.xj.chinanews.com.cn/dizhou/2026-08-24/detail-ihfirmti5849429.shtml",
+      "excerpt": "8月21日，阿拉山口市召开陕西省首批援疆教师欢迎座谈会，热烈欢迎9名来自三秦大地的教育人才投身口岸教育事业。 市委常委、组织部部长、党校校长侯阿伟出席会议并讲话。市教育局负责同志、市中学领导班子、教师代表及全体陕西援疆教师参加座谈。 侯阿伟代表市委、市政府向援疆教师致以热烈欢迎，向陕西省委、省政府及各派出单位的鼎力支持表示诚挚感谢。他指出，援疆教师是陕阿教育协作的桥梁和纽带，希望大家尽快融入新环境，充分发挥专业优势，将先进理念和成熟经验带到阿拉山口，助力本地教育提质增效。同时，他要求市教育局和市中学压实服务保障责任，健全联系服务机制，在工作上充分信任、放手使用，在生活上细致关怀、排忧解难，切实为援疆教师营造安心、舒心、顺心的干事创业环境。 会上，9名援疆教师还围绕任教学科、教学经历和专业特长畅谈初到阿拉山口的感受，并结合课堂实践、教研提升、师徒结对、民族团结等角度，分享了各自援疆工作设想。大家言语恳切，饱含投身边疆教育的热情，表达了扎根口岸、倾力奉献的坚定决心。 “能够响应号召来到阿拉山口参与教育援疆，我既感到光荣，也深知责任重大。”阿拉山口市中学物理教师（援疆） 刘建忠说，“接下来，我会快速调整状态，主动了解学情，把多年积累的教学经验运用到实际课堂当中，积极参与教研、做好师徒结对，尽自己所能助力当地教师队伍成长，当好陕阿两地教育交流的纽带。” “从三秦故土来到国门边城，对我来说是一次全新的历练。在接下来的援疆工作中，我会扎根教学一线，和本地教师并肩奋斗，既要把教学工作做实做细，也会主动促进各民族的交流交融，用心对待每一名边疆学子，交出一份无愧于时代的援疆答卷。”阿拉山口市中学化学老师（援疆）蒋荣权说。（格日乐图） 【",
+      "verified": true
+    },
+    {
+      "media": "人民日报",
+      "title": "赞！莲湖区一集体获评“陕西省民族团结进步模范集体”",
+      "summary": "赞！莲湖区一集体获评“陕西省民族团结进步模范集体”",
+      "time": "08-24 13:34",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4YVJmc2JkME9yOWVLMXg3UjJ6Y2JRLVUtekQxeG5MT2kzeVZCRm5vMHpoN19McDcydndWcXlHOG5iR1BqNXlCWDFsd0d0d1RhQ1N1TUtRYWN1cmlRYU1F?oc=5",
+      "copy_text": "赞！莲湖区一集体获评“陕西省民族团结进步模范集体”\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTFB4YVJmc2JkME9yOWVLMXg3UjJ6Y2JRLVUtekQxeG5MT2kzeVZCRm5vMHpoN19McDcydndWcXlHOG5iR1BqNXlCWDFsd0d0d1RhQ1N1TUtRYWN1cmlRYU1F?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西铜川市耀州区：春风化雨润乡土 移风易俗入民心",
+      "summary": "陕西铜川市耀州区：春风化雨润乡土 移风易俗入民心",
+      "time": "08-24 16:03",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlUxTzVvWm9uek9uLV9lbnRFeG9nZDVQQ0lZSGpUSnpoVVJMQ09FUGRmRlFnWVhvWkprdGNqbl91djUxbFd5bjJVOTR0S1Q4UlRQemp2eVVnM0N3UzQ4MVA4emt2QXRjVWhNcUE0ajZvQWRpbHdJanRXT2s4U09qUGNXQ0lpdEFsQWI2YURMcGstS2tqYi1fYw?oc=5",
+      "copy_text": "陕西铜川市耀州区：春风化雨润乡土 移风易俗入民心\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOZlUxTzVvWm9uek9uLV9lbnRFeG9nZDVQQ0lZSGpUSnpoVVJMQ09FUGRmRlFnWVhvWkprdGNqbl91djUxbFd5bjJVOTR0S1Q4UlRQemp2eVVnM0N3UzQ4MVA4emt2QXRjVWhNcUE0ajZvQWRpbHdJanRXT2s4U09qUGNXQ0lpdEFsQWI2YURMcGstS2tqYi1fYw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "处暑至 凉意生",
+      "summary": "处暑至 凉意生",
+      "time": "08-24 09:18",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SMTNneTEwZEFtUURGbGdmcm83dUd1N1lVWV9hWXhvcVRrWW5BLWZOdzJDSEhiVmxjbVpDUHlxNDd3SlprVDdDZmtIQVFFc1h5aklJOHV4V2k5RDBWNFV1a2dXb3VRZzZlZlJoeGxNOW5pOEcz?oc=5",
+      "copy_text": "处暑至 凉意生\nhttps://news.google.com/rss/articles/CBMidEFVX3lxTE9SMTNneTEwZEFtUURGbGdmcm83dUd1N1lVWV9hWXhvcVRrWW5BLWZOdzJDSEhiVmxjbVpDUHlxNDd3SlprVDdDZmtIQVFFc1h5aklJOHV4V2k5RDBWNFV1a2dXb3VRZzZlZlJoeGxNOW5pOEcz?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省2026职业技能大赛主题宣传片发布",
+      "summary": "陕西省2026职业技能大赛主题宣传片发布",
+      "time": "08-24 22:13",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3NLWlljZGZvMmt3d2xQazJhVmhEVzdTTlBFeFBmcEZFT2tsRVBIVFRMb2l0aVBPRVVNUGV6SFFVM2hlSWRHalFfRTdnYlM3UVdZbHhMQzZpT0VQT1p0b1F1V3VvRDhVMHZjMGpzQzdmdklQdUFTNktpQ1BfdGlsSUVMTTYtblRjRy1WYQ?oc=5",
+      "copy_text": "陕西省2026职业技能大赛主题宣传片发布\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3NLWlljZGZvMmt3d2xQazJhVmhEVzdTTlBFeFBmcEZFT2tsRVBIVFRMb2l0aVBPRVVNUGV6SFFVM2hlSWRHalFfRTdnYlM3UVdZbHhMQzZpT0VQT1p0b1F1V3VvRDhVMHZjMGpzQzdmdklQdUFTNktpQ1BfdGlsSUVMTTYtblRjRy1WYQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省第四届武林功夫大会盛大开幕",
+      "summary": "陕西省第四届武林功夫大会盛大开幕",
+      "time": "08-24 23:56",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGNSczFjR3FIMXpHRUkyeGpDYXl1ZllmQjNMWXdrQTZHYVFWZjlzZnpQV1lCTFhpYUZNZ3hMLXZrdTB1ZFlkR0FUOEQyLVZFbTNuMENzN0pCdlJJZVhDUFZtVVBMZw?oc=5",
+      "copy_text": "陕西省第四届武林功夫大会盛大开幕\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGNSczFjR3FIMXpHRUkyeGpDYXl1ZllmQjNMWXdrQTZHYVFWZjlzZnpQV1lCTFhpYUZNZ3hMLXZrdTB1ZFlkR0FUOEQyLVZFbTNuMENzN0pCdlJJZVhDUFZtVVBMZw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "新石器无人车等在陕西成立新公司 注册资本500万",
+      "summary": "新石器无人车等在陕西成立新公司 注册资本500万",
+      "time": "08-24 11:55",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91a2VhSzdaV1dnZ0NEczltNWRUVlhQOGI0NTFzZGNNd0wzcmtyRmVUTko5Y0RyZ3gzN2xWNi1Ock1mMk9acVNhX3lhSlJxRTRCQ1hoZzlMUVBfVmMyVjBtUEdoTWl2dw?oc=5",
+      "copy_text": "新石器无人车等在陕西成立新公司 注册资本500万\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE91a2VhSzdaV1dnZ0NEczltNWRUVlhQOGI0NTFzZGNNd0wzcmtyRmVUTko5Y0RyZ3gzN2xWNi1Ock1mMk9acVNhX3lhSlJxRTRCQ1hoZzlMUVBfVmMyVjBtUEdoTWl2dw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "商洛市市场监管局在“秦质享”陕西质量基础信息服务平台建设应用推进活动上交流发言",
+      "summary": "商洛市市场监管局在“秦质享”陕西质量基础信息服务平台建设应用推进活动上交流发言",
+      "time": "08-24 11:05",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SVE1JRVBac2tpT1NVMkZhSlZXNzJuNDRFWGNIQ1dDcGF5ZlhjZmZoYURTV0UteDJ3QlpnVGdYbTBtR25ENHZFVktoZEpXU0sxWlVSLUZlTi1kcVhtQUE?oc=5",
+      "copy_text": "商洛市市场监管局在“秦质享”陕西质量基础信息服务平台建设应用推进活动上交流发言\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE1SVE1JRVBac2tpT1NVMkZhSlZXNzJuNDRFWGNIQ1dDcGF5ZlhjZmZoYURTV0UteDJ3QlpnVGdYbTBtR25ENHZFVktoZEpXU0sxWlVSLUZlTi1kcVhtQUE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "西安市莲湖区全民健身操舞协会第三届会员大会暨换届大会举行",
+      "summary": "西安市莲湖区全民健身操舞协会第三届会员大会暨换届大会举行",
+      "time": "08-24 22:08",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRl9ieWVleWFMNEtHWlpjb1ZFR2RtdFB5RU5TYXl1bTBGMWZmbTZVMVVUcWVYNWx0SEhzVWJUVlVJRmhYUERMWjRoR21WdmdOV0ZOOER1UWJvMHNaV2tiYWI0bUNGVTlvVUQzUWk4MHFiZzhzWUx2ZU9VS092RVI1MjFIOFJCdFRreWZHdw?oc=5",
+      "copy_text": "西安市莲湖区全民健身操舞协会第三届会员大会暨换届大会举行\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNRl9ieWVleWFMNEtHWlpjb1ZFR2RtdFB5RU5TYXl1bTBGMWZmbTZVMVVUcWVYNWx0SEhzVWJUVlVJRmhYUERMWjRoR21WdmdOV0ZOOER1UWJvMHNaV2tiYWI0bUNGVTlvVUQzUWk4MHFiZzhzWUx2ZU9VS092RVI1MjFIOFJCdFRreWZHdw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省纪委办公厅公开通报3起整治形式主义为基层减负典型问题",
+      "summary": "陕西省纪委办公厅公开通报3起整治形式主义为基层减负典型问题",
+      "time": "08-24 14:35",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVlsMkJib2d4OG5lV1c5ZWNkYzFDRUhCbGhFdGxycDh1QXh4U3E1cVlYOGdtd2RmWnVhcEFuWXFkN2dTZmlkeXlTUEdPUVItaTM5SzFRaXpfRVRNTUQ2eGdzTFFTa3NqWmNrMklaRVBKVWxFZEg5a1pFQXBaSE12YkRlZlhra2dOdkhOWHpUVm56ZTBFTVkxMA?oc=5",
+      "copy_text": "陕西省纪委办公厅公开通报3起整治形式主义为基层减负典型问题\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPWVlsMkJib2d4OG5lV1c5ZWNkYzFDRUhCbGhFdGxycDh1QXh4U3E1cVlYOGdtd2RmWnVhcEFuWXFkN2dTZmlkeXlTUEdPUVItaTM5SzFRaXpfRVRNTUQ2eGdzTFFTa3NqWmNrMklaRVBKVWxFZEg5a1pFQXBaSE12YkRlZlhra2dOdkhOWHpUVm56ZTBFTVkxMA?oc=5",
       "verified": false
     },
     {
@@ -137,74 +381,146 @@
     },
     {
       "media": "人民日报",
-      "title": "西安中小学开学通知！",
-      "summary": "西安中小学开学通知！",
-      "time": "08-23 22:54",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa243cmlveUljcXprWDJrbHJ0RGVkbXRTWmE3UlVnSmIwV2cwSktNb0JMaFFEYUNvdnJLWWVZbWZBeXdJWVdBV1h0RUZZZG1wQk5pZzVyc3IxSzlnem5GM1JTb181U29iMFpYZkxnV29nS2JvdkNiMnVYMG5rOWF6RG5DbWtSWjBzbWJxX2NzS0pkOWFzSE43OQ?oc=5",
-      "copy_text": "西安中小学开学通知！\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOa243cmlveUljcXprWDJrbHJ0RGVkbXRTWmE3UlVnSmIwV2cwSktNb0JMaFFEYUNvdnJLWWVZbWZBeXdJWVdBV1h0RUZZZG1wQk5pZzVyc3IxSzlnem5GM1JTb181U29iMFpYZkxnV29nS2JvdkNiMnVYMG5rOWF6RG5DbWtSWjBzbWJxX2NzS0pkOWFzSE43OQ?oc=5",
+      "title": "巧打“组合拳”破解“千家结”",
+      "summary": "巧打“组合拳”破解“千家结”",
+      "time": "08-24 16:23",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UWt3NWdGX0N3S2hkSVZBeHQ4VVJudFh5cmtGNXlOYWY5Q3FqQm4zeUc4RndmSXhIWVhILW92TUlHZXdRWWwycHdvejVWa1Jyd05fU256NEZFZ296bkNVcXdEOTJWdw?oc=5",
+      "copy_text": "巧打“组合拳”破解“千家结”\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UWt3NWdGX0N3S2hkSVZBeHQ4VVJudFh5cmtGNXlOYWY5Q3FqQm4zeUc4RndmSXhIWVhILW92TUlHZXdRWWwycHdvejVWa1Jyd05fU256NEZFZ296bkNVcXdEOTJWdw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "新石器无人车等在陕西成立新公司# 注册资本500万",
-      "summary": "新石器无人车等在陕西成立新公司# 注册资本500万",
-      "time": "08-24 01:52",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2djN5THhCLWZGQ1hXNVdLWVZKRjRFYmlyRjJnYmViVUJLYkJzeEdHZ0ZsM0s4TjJWU1Y5bW54V2lSa0I5SWcxOFRNUlFzczV5dUpCckFoUHo5aHQzVVgtRFlZS1BhSnNfUktZ?oc=5",
-      "copy_text": "新石器无人车等在陕西成立新公司# 注册资本500万\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFA2djN5THhCLWZGQ1hXNVdLWVZKRjRFYmlyRjJnYmViVUJLYkJzeEdHZ0ZsM0s4TjJWU1Y5bW54V2lSa0I5SWcxOFRNUlFzczV5dUpCckFoUHo5aHQzVVgtRFlZS1BhSnNfUktZ?oc=5",
+      "title": "陕西省出台十五条措施推进服务业扩能提质",
+      "summary": "陕西省出台十五条措施推进服务业扩能提质",
+      "time": "08-24 14:35",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdRU0Z0LWxIY0lTMEtWODYzU1V2blMxbkFOS0h0cDlqcDBMSnFoMDRvUnNOZkVfUFVCZnk0V1RHbHhOemdqQ0F1OUhxcUE2Y3IyLUJDUTR6Y29Rd3FJRFlOd3lFV1U3cXJ2WkVoTUd3UGduV2kxaEtnbEo4YUFrZnducFJpUmNxVjlHRk9YUF9oVGVuTS1Qcw?oc=5",
+      "copy_text": "陕西省出台十五条措施推进服务业扩能提质\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdRU0Z0LWxIY0lTMEtWODYzU1V2blMxbkFOS0h0cDlqcDBMSnFoMDRvUnNOZkVfUFVCZnk0V1RHbHhOemdqQ0F1OUhxcUE2Y3IyLUJDUTR6Y29Rd3FJRFlOd3lFV1U3cXJ2WkVoTUd3UGduV2kxaEtnbEo4YUFrZnducFJpUmNxVjlHRk9YUF9oVGVuTS1Qcw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕",
-      "summary": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕",
-      "time": "08-23 20:44",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbU9tMmdjVjlvaHdOUEQ1a2lXc0RzVERQMnZENEx3Qk51aW5YM04tWWdadDZIWVFMT3RTQ2RnbG4xSWN5aXlsUGRlNnlQUklFbF95U2pQdVZ2NEswRllnYmVERTJPNHJRWEVzTjVUSEJhQXA4Y1dSYzZpbnFaYTEzdmNEWjRIanlKaFdiNg?oc=5",
-      "copy_text": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQbU9tMmdjVjlvaHdOUEQ1a2lXc0RzVERQMnZENEx3Qk51aW5YM04tWWdadDZIWVFMT3RTQ2RnbG4xSWN5aXlsUGRlNnlQUklFbF95U2pQdVZ2NEswRllnYmVERTJPNHJRWEVzTjVUSEJhQXA4Y1dSYzZpbnFaYTEzdmNEWjRIanlKaFdiNg?oc=5",
+      "title": "聚焦生殖医学前沿 赋能临床诊疗提质 2026年陕西省生殖医学学术年会在西安落幕",
+      "summary": "聚焦生殖医学前沿 赋能临床诊疗提质 2026年陕西省生殖医学学术年会在西安落幕",
+      "time": "08-24 22:08",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazc1VEdteXNPR3BnMmRYczFwUEU0UnBPYS10QkxpWFo0SUprRmdINWNHMWFDMU1FYVI0aTNGdE5JQ2VNa1JnRzhONkZ4YkRPZXZpWkFRZzlOTTNFdjlfRWRHX1ZHa1RBd0FmNVQwSEpfTk5CY0xmU2s3eklSbDlNTEtpSXR1cGJjUWZkYw?oc=5",
+      "copy_text": "聚焦生殖医学前沿 赋能临床诊疗提质 2026年陕西省生殖医学学术年会在西安落幕\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQazc1VEdteXNPR3BnMmRYczFwUEU0UnBPYS10QkxpWFo0SUprRmdINWNHMWFDMU1FYVI0aTNGdE5JQ2VNa1JnRzhONkZ4YkRPZXZpWkFRZzlOTTNFdjlfRWRHX1ZHa1RBd0FmNVQwSEpfTk5CY0xmU2s3eklSbDlNTEtpSXR1cGJjUWZkYw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "西安智造乘风远航联通世界",
-      "summary": "西安智造乘风远航联通世界",
-      "time": "08-24 01:56",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DeDYybjBqa1k2cXZBdGh4SjA2QzNmZms3QTNnUFRzVENHYXhyRHlLaFVrMDZKS2dHMTBqY3RzU3dmenhRclBPX2xlZHhrTzRLeUVYZ1czQ3h3UEQwdkc3TlBDM3hFZw?oc=5",
-      "copy_text": "西安智造乘风远航联通世界\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE5DeDYybjBqa1k2cXZBdGh4SjA2QzNmZms3QTNnUFRzVENHYXhyRHlLaFVrMDZKS2dHMTBqY3RzU3dmenhRclBPX2xlZHhrTzRLeUVYZ1czQ3h3UEQwdkc3TlBDM3hFZw?oc=5",
+      "title": "稳中有进，榆林上半年规上工业增加值同比增长7.7%",
+      "summary": "稳中有进，榆林上半年规上工业增加值同比增长7.7%",
+      "time": "08-24 15:03",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalprU3Q1UVNKSzdoeFQ2ZGJTeU9JTHpQMVluRzI2THY5anp3dFhXYW1KdkJiU1Q5cnhMb1Atd1JrdTI2d055ZUZ1TXk4eS03UDVma3M4VGY1SG9FdTF5TkFPT1VVTEU0MjdCTXp4Ty1SWFZLemctOHFiNXdoY09kVE1XMUhPXzlfSmQyZUtMd1NIZ1ZlakJKVw?oc=5",
+      "copy_text": "稳中有进，榆林上半年规上工业增加值同比增长7.7%\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxPalprU3Q1UVNKSzdoeFQ2ZGJTeU9JTHpQMVluRzI2THY5anp3dFhXYW1KdkJiU1Q5cnhMb1Atd1JrdTI2d055ZUZ1TXk4eS03UDVma3M4VGY1SG9FdTF5TkFPT1VVTEU0MjdCTXp4Ty1SWFZLemctOHFiNXdoY09kVE1XMUhPXzlfSmQyZUtMd1NIZ1ZlakJKVw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "2026年陕西省图书馆“春雨工程”伊犁行活动开启",
-      "summary": "2026年陕西省图书馆“春雨工程”伊犁行活动开启",
-      "time": "08-22 15:56",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc0d1d2MzSk9acm1nczBFVVZLRWp2VXZhdHAwV2I5S3JyWmx1bEVMQk9XNzBDbndBSGVqbUtGUDlsTzhYaTh4VEJobXFYNkJPeFF0aE52Y2wzN2JLaXZQRDZTR3VqUDRvSnZVVQ?oc=5",
-      "copy_text": "2026年陕西省图书馆“春雨工程”伊犁行活动开启\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc0d1d2MzSk9acm1nczBFVVZLRWp2VXZhdHAwV2I5S3JyWmx1bEVMQk9XNzBDbndBSGVqbUtGUDlsTzhYaTh4VEJobXFYNkJPeFF0aE52Y2wzN2JLaXZQRDZTR3VqUDRvSnZVVQ?oc=5",
+      "title": "西安市2026-2027学年学平险工作的重要提示",
+      "summary": "西安市2026-2027学年学平险工作的重要提示",
+      "time": "08-24 14:47",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVFwQU5tZkhqZHZqdDJhWFFnOVAyN0VoNXVVcFo3eFd3eG9MTWkzOXFPSlJiaEZOY19FSmM1VXZjMmR0WGh6aHNDdXZBd3JZSXVCMmVJLWktWlNzV3haXzRjVHgyOTFsZlQ1bzFwYzNDMEgtbzJZMVN2MjdnMlN6VV9jZkVrdF9EeDM2ZQ?oc=5",
+      "copy_text": "西安市2026-2027学年学平险工作的重要提示\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQeVFwQU5tZkhqZHZqdDJhWFFnOVAyN0VoNXVVcFo3eFd3eG9MTWkzOXFPSlJiaEZOY19FSmM1VXZjMmR0WGh6aHNDdXZBd3JZSXVCMmVJLWktWlNzV3haXzRjVHgyOTFsZlQ1bzFwYzNDMEgtbzJZMVN2MjdnMlN6VV9jZkVrdF9EeDM2ZQ?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "蔡达峰在陕西开展主题教育联系点工作",
-      "summary": "蔡达峰在陕西开展主题教育联系点工作",
-      "time": "08-22 10:09",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2VkJwbmJBM2ZOUjFIV05qa1hDMl9ieEFJZHVZc0daNGZtYlNIV2pHQjJoTEsyNXJDbTdVdElFdjR2M1d5aVM4VjAwUXpienZ4aUV5aVdqMnFCTnhhcFNDSVdKVlI1c28?oc=5",
-      "copy_text": "蔡达峰在陕西开展主题教育联系点工作\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2VkJwbmJBM2ZOUjFIV05qa1hDMl9ieEFJZHVZc0daNGZtYlNIV2pHQjJoTEsyNXJDbTdVdElFdjR2M1d5aVM4VjAwUXpienZ4aUV5aVdqMnFCTnhhcFNDSVdKVlI1c28?oc=5",
+      "title": "陕西省教育厅最新公示：拟推荐西安戏剧学院新增硕士学位授予单位和新增戏剧与影视硕士专业学位授予点",
+      "summary": "陕西省教育厅最新公示：拟推荐西安戏剧学院新增硕士学位授予单位和新增戏剧与影视硕士专业学位授予点",
+      "time": "08-24 11:38",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXA0UW1wdmY1RGFhZ2JIVF8weFBYOHJpZUJWTHNZU1BTSXk3LVJCN0JWT1ZlU0JjbjFVcHBOaDdNUlp0dkJ5S1JSTEN0SVVuT0tOblBhZ1V2MWdEdTNIN3BERzdVRTlHZTJNcnN6cGl6cFFUSDJNZEJIRnN1ZHJZSHg1QkY4MGdOWHRxeA?oc=5",
+      "copy_text": "陕西省教育厅最新公示：拟推荐西安戏剧学院新增硕士学位授予单位和新增戏剧与影视硕士专业学位授予点\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQYXA0UW1wdmY1RGFhZ2JIVF8weFBYOHJpZUJWTHNZU1BTSXk3LVJCN0JWT1ZlU0JjbjFVcHBOaDdNUlp0dkJ5S1JSTEN0SVVuT0tOblBhZ1V2MWdEdTNIN3BERzdVRTlHZTJNcnN6cGl6cFFUSDJNZEJIRnN1ZHJZSHg1QkY4MGdOWHRxeA?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会",
-      "summary": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会",
-      "time": "08-23 09:32",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYVRCZjZoaEVuWmVrWm04WGRsazdqOHhfSFROUkdrQlNUWjlhYWt6Z3JuaWFVUVdFemN4aDJLdDJ1ZVl5WlI0ZXN6dzBRV0dVdzI3b0xqNVlpX21X?oc=5",
-      "copy_text": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYVRCZjZoaEVuWmVrWm04WGRsazdqOHhfSFROUkdrQlNUWjlhYWt6Z3JuaWFVUVdFemN4aDJLdDJ1ZVl5WlI0ZXN6dzBRV0dVdzI3b0xqNVlpX21X?oc=5",
+      "title": "“声”动青春！一群学生在陕西北路放声歌唱",
+      "summary": "“声”动青春！一群学生在陕西北路放声歌唱",
+      "time": "08-24 11:37",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQei1pb0NRN0F2a2M1dXo2MGhYaHY0VHQ0MXRGV0ktdThiRTV5N0x2OFZOMTdqRkxzTExFXzZmS09zRmw2aEVYdGJicG1EeTU5bE5hM2d0WTJWM3NiMEJ3bU5VXzBDTWF6S3lFMTl3NTRYUF80WGJySVNjbFJ4ZzlSNlRjYWlVR3Q1ZW0tdGo5MmctUURIRUJxMEtUV1NsaWJzNUY1dWxCVE0xdTdnZnJzLUk3VWRZTTJuYkEwRTBVa0huVWppT1JyUm1KMnZPVVVkYWxNWjk0S24?oc=5",
+      "copy_text": "“声”动青春！一群学生在陕西北路放声歌唱\nhttps://news.google.com/rss/articles/CBMi2AFBVV95cUxQei1pb0NRN0F2a2M1dXo2MGhYaHY0VHQ0MXRGV0ktdThiRTV5N0x2OFZOMTdqRkxzTExFXzZmS09zRmw2aEVYdGJicG1EeTU5bE5hM2d0WTJWM3NiMEJ3bU5VXzBDTWF6S3lFMTl3NTRYUF80WGJySVNjbFJ4ZzlSNlRjYWlVR3Q1ZW0tdGo5MmctUURIRUJxMEtUV1NsaWJzNUY1dWxCVE0xdTdnZnJzLUk3VWRZTTJuYkEwRTBVa0huVWppT1JyUm1KMnZPVVVkYWxNWjk0S24?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官",
-      "summary": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官",
-      "time": "08-23 06:33",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3lhRk9xdzFSTUtXNElvQ0JMcDFkYmNoOThMTVFDQkl2WS1uR3EzN1VTdlFLUVQxdFZJQ0hjSWI1Y3lkcGV3WnVYSzVCUjR1YThkMFNSV0VSU19JLWtWN3lzV1BxMTQ?oc=5",
-      "copy_text": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3lhRk9xdzFSTUtXNElvQ0JMcDFkYmNoOThMTVFDQkl2WS1uR3EzN1VTdlFLUVQxdFZJQ0hjSWI1Y3lkcGV3WnVYSzVCUjR1YThkMFNSV0VSU19JLWtWN3lzV1BxMTQ?oc=5",
+      "title": "联合国人工智能与人类发展对话会在陕西西安举行",
+      "summary": "联合国人工智能与人类发展对话会在陕西西安举行",
+      "time": "08-24 10:13",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeFluTDNjMkVkSlFidW9BQU9uckxsak5JQmMwbDZQdWJRMnh2Y2pQSVFVTmxqelBGNC1qdC1ZS0J2dXAtNkE0YnNPNA?oc=5",
+      "copy_text": "联合国人工智能与人类发展对话会在陕西西安举行\nhttps://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeFluTDNjMkVkSlFidW9BQU9uckxsak5JQmMwbDZQdWJRMnh2Y2pQSVFVTmxqelBGNC1qdC1ZS0J2dXAtNkE0YnNPNA?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕西省镇巴县人武部扎实开展学生军训工作",
+      "summary": "陕西省镇巴县人武部扎实开展学生军训工作",
+      "time": "08-24 09:26",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3lrcERZeWlLUkRXRlpHb2JrZTBaRnJRNnE1dExTMEg1Z1ljQUhpN0pBMTllMUVud1pwdXdneHhUWkRnLWQyU1puZmxQMDAyUVcwOTRmdWRUS3UwMUZmUG9UWmI0Z3FTakVSVEJoU0RkM1Z2RkQ3WGlNVlVZVFA2S0dVNklTZU5uVDZHSg?oc=5",
+      "copy_text": "陕西省镇巴县人武部扎实开展学生军训工作\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQM3lrcERZeWlLUkRXRlpHb2JrZTBaRnJRNnE1dExTMEg1Z1ljQUhpN0pBMTllMUVud1pwdXdneHhUWkRnLWQyU1puZmxQMDAyUVcwOTRmdWRUS3UwMUZmUG9UWmI0Z3FTakVSVEJoU0RkM1Z2RkQ3WGlNVlVZVFA2S0dVNklTZU5uVDZHSg?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "陕北纸面服刑案二审宣判 维持死刑 驳回上诉维持原判",
+      "summary": "陕北纸面服刑案二审宣判 维持死刑 驳回上诉维持原判",
+      "time": "08-24 20:24",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vdnRuTHJuRENBamFrak5zbjQyOXk3cWJ0RnJWbWFFN1h0LU1XN0p5eEVvNWVYaEhiOTVORFZ6R3RTYU0zZy0tdHpNbS1oV1BmeFMxNUFCQW1OM2R6Y1VuZ1I4cWNDclgwQ0FWU3E0Uy0?oc=5",
+      "copy_text": "陕北纸面服刑案二审宣判 维持死刑 驳回上诉维持原判\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE5vdnRuTHJuRENBamFrak5zbjQyOXk3cWJ0RnJWbWFFN1h0LU1XN0p5eEVvNWVYaEhiOTVORFZ6R3RTYU0zZy0tdHpNbS1oV1BmeFMxNUFCQW1OM2R6Y1VuZ1I4cWNDclgwQ0FWU3E0Uy0?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "李嘉辉获任长安银行行长，毕业于中央财经大学",
+      "summary": "李嘉辉获任长安银行行长，毕业于中央财经大学",
+      "time": "08-24 10:17",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByR2ZKdHp4YjMxUm83UXF1NS1yY2lNbHEzZ2JPYk9PUHNoTFdWSWU3dzFTZFF0QXdoYUdGT3FYaDJHOGk3elpCQU5LSE1zSUNnX2VUZk50UTg4ZDIta0ZsT2JYcGY5Y1E?oc=5",
+      "copy_text": "李嘉辉获任长安银行行长，毕业于中央财经大学\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTFByR2ZKdHp4YjMxUm83UXF1NS1yY2lNbHEzZ2JPYk9PUHNoTFdWSWU3dzFTZFF0QXdoYUdGT3FYaDJHOGk3elpCQU5LSE1zSUNnX2VUZk50UTg4ZDIta0ZsT2JYcGY5Y1E?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“公益小课桌”让孩子乐享多彩暑假",
+      "summary": "“公益小课桌”让孩子乐享多彩暑假",
+      "time": "08-24 10:30",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wN3JVN1pmaWFDc1NSWktSbENwNFVxTUl1OWVkN3hMRGxZQ2Nfd29tRXBVXzZtQjRPSHJtbzh2WFN3V0pGS2x4Q0VvR0JZcWxXXzIwekVDWlg3cjAxcWRoTWIyTEZBY1Zid3lhUmNWWnU5UQ?oc=5",
+      "copy_text": "“公益小课桌”让孩子乐享多彩暑假\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE0wN3JVN1pmaWFDc1NSWktSbENwNFVxTUl1OWVkN3hMRGxZQ2Nfd29tRXBVXzZtQjRPSHJtbzh2WFN3V0pGS2x4Q0VvR0JZcWxXXzIwekVDWlg3cjAxcWRoTWIyTEZBY1Zid3lhUmNWWnU5UQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "寻找乡土表达 记录时代乡村——袁国燕分享“村色”三部曲创作经验",
+      "summary": "寻找乡土表达 记录时代乡村——袁国燕分享“村色”三部曲创作经验",
+      "time": "08-24 16:18",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xak9mdzVCZGk1dHdQRU9HSDloMGhPbWJReVQycEY5dnozUGhrX1o1SS1DYi1zMHVrY2VXb25KSmVsR3ZUOHhnelZ3MkZkZFlFcGs5aC1iemxuUS1pMkVHQXpueUY1dw?oc=5",
+      "copy_text": "寻找乡土表达 记录时代乡村——袁国燕分享“村色”三部曲创作经验\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE5xak9mdzVCZGk1dHdQRU9HSDloMGhPbWJReVQycEY5dnozUGhrX1o1SS1DYi1zMHVrY2VXb25KSmVsR3ZUOHhnelZ3MkZkZFlFcGs5aC1iemxuUS1pMkVHQXpueUY1dw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "西康高铁进入开通倒计时",
+      "summary": "西康高铁进入开通倒计时",
+      "time": "08-24 05:42",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVC1XUWZCYzZUTHYtSXZNbUpNWFpaLXQtSTU0Q2diTU5qcElseHRvV2VJUHd1QVdIbUxlOGRHcTU2UUhCak1zeW4wY0J4U0VEckFTd1d3eVVvNVo3QjBwckd0Tzg1OFZLSEtld1pLSGQ4aHF2c1dLVXZ3aTV5TW5QQnRSYkxqRGd3eGJ1b2pReEtqaXNxWlY0Qm1vSmxHNmpZZktFSUczRy1Cc3FLdUVOYTNqOFJGU2gxTXlmeTdTeEZ0OERDd3NnSC1Dc0Y2elFXSHEzcnhWTjZnQQ?oc=5",
+      "copy_text": "西康高铁进入开通倒计时\nhttps://news.google.com/rss/articles/CBMi2gFBVV95cUxPVC1XUWZCYzZUTHYtSXZNbUpNWFpaLXQtSTU0Q2diTU5qcElseHRvV2VJUHd1QVdIbUxlOGRHcTU2UUhCak1zeW4wY0J4U0VEckFTd1d3eVVvNVo3QjBwckd0Tzg1OFZLSEtld1pLSGQ4aHF2c1dLVXZ3aTV5TW5QQnRSYkxqRGd3eGJ1b2pReEtqaXNxWlY0Qm1vSmxHNmpZZktFSUczRy1Cc3FLdUVOYTNqOFJGU2gxTXlmeTdTeEZ0OERDd3NnSC1Dc0Y2elFXSHEzcnhWTjZnQQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "西安市阎良区农业农村和林业局原副局长陈良龙接受纪律审查和监察调查",
+      "summary": "西安市阎良区农业农村和林业局原副局长陈良龙接受纪律审查和监察调查",
+      "time": "08-24 09:04",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHVhcmlYMUhSNHlIWGdVYlE4QXM1RHA1VURnTWhmMlg0VkFuV2pkWHRIaVI3dnYxUnFscmZBTGlNcFpEdXpmc2oxVmFaM2lmNjdoX1ZhQU41Rk92WjNIX2lmaGpSX1Z6dHNkbW1IeFdMRW9wN0k2SkRuVUFfUGc1bmZZVmRiZENi?oc=5",
+      "copy_text": "西安市阎良区农业农村和林业局原副局长陈良龙接受纪律审查和监察调查\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHVhcmlYMUhSNHlIWGdVYlE4QXM1RHA1VURnTWhmMlg0VkFuV2pkWHRIaVI3dnYxUnFscmZBTGlNcFpEdXpmc2oxVmFaM2lmNjdoX1ZhQU41Rk92WjNIX2lmaGpSX1Z6dHNkbW1IeFdMRW9wN0k2SkRuVUFfUGc1bmZZVmRiZENi?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“麦田院士”康振生-三秦网-陕西省重点新闻网站",
+      "summary": "“麦田院士”康振生-三秦网-陕西省重点新闻网站",
+      "time": "08-24 17:23",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96UjUxWVdLTVlIRFBMaG1aLUFGR3VENl9oUklfbThkM2dGazNXTHB0QWM3Y0tGMGZCVFJLYXl1VHFEbVoxa2FERlNqQ1gyRTBObUtBdlpFUHhnSE9OT0E1dGM1aVV1UQ?oc=5",
+      "copy_text": "“麦田院士”康振生-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE96UjUxWVdLTVlIRFBMaG1aLUFGR3VENl9oUklfbThkM2dGazNXTHB0QWM3Y0tGMGZCVFJLYXl1VHFEbVoxa2FERlNqQ1gyRTBObUtBdlpFUHhnSE9OT0E1dGM1aVV1UQ?oc=5",
       "verified": false
     },
     {
@@ -218,6 +534,33 @@
     },
     {
       "media": "人民日报",
+      "title": "西安中小学开学通知！",
+      "summary": "西安中小学开学通知！",
+      "time": "08-23 22:54",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa243cmlveUljcXprWDJrbHJ0RGVkbXRTWmE3UlVnSmIwV2cwSktNb0JMaFFEYUNvdnJLWWVZbWZBeXdJWVdBV1h0RUZZZG1wQk5pZzVyc3IxSzlnem5GM1JTb181U29iMFpYZkxnV29nS2JvdkNiMnVYMG5rOWF6RG5DbWtSWjBzbWJxX2NzS0pkOWFzSE43OQ?oc=5",
+      "copy_text": "西安中小学开学通知！\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxOa243cmlveUljcXprWDJrbHJ0RGVkbXRTWmE3UlVnSmIwV2cwSktNb0JMaFFEYUNvdnJLWWVZbWZBeXdJWVdBV1h0RUZZZG1wQk5pZzVyc3IxSzlnem5GM1JTb181U29iMFpYZkxnV29nS2JvdkNiMnVYMG5rOWF6RG5DbWtSWjBzbWJxX2NzS0pkOWFzSE43OQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "是什么在给“生命通道”添堵？-三秦网-陕西省重点新闻网站",
+      "summary": "是什么在给“生命通道”添堵？-三秦网-陕西省重点新闻网站",
+      "time": "08-24 10:51",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Fd2hmYlM0MFh4M2pad3p0bzZzaVlCWXZpUXNJTGN0M256NEpJX3hlZF9PNmpJNENQZzNiaFVkejZib0poNmFYU2M1eDdKYk9tVVBDdTFnQldBTGc4SWlPbjhRNzZ5Zw?oc=5",
+      "copy_text": "是什么在给“生命通道”添堵？-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE9Fd2hmYlM0MFh4M2pad3p0bzZzaVlCWXZpUXNJTGN0M256NEpJX3hlZF9PNmpJNENQZzNiaFVkejZib0poNmFYU2M1eDdKYk9tVVBDdTFnQldBTGc4SWlPbjhRNzZ5Zw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "焦点访谈丨秦声未歇 主角常在",
+      "summary": "焦点访谈丨秦声未歇 主角常在",
+      "time": "08-23 22:13",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEdKRWxQUklMa2lnMkhnM2pFY0xMYXIzR0o1Z0ZJYm9HYnZXQUU4dXhTN0tnb2l0YTVEOVRaeDhOckNLTHNrUlZBMkltY1dBMDdiLUFlVDJjUjc0MndudEtNd3Z6YXNvNk44UnJ5UENIb0txVTY4eG9qS2lrSDRZWEFkX0plZ1VBRXg3MjlRVnhVV1BfbU9jaw?oc=5",
+      "copy_text": "焦点访谈丨秦声未歇 主角常在\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxQbEdKRWxQUklMa2lnMkhnM2pFY0xMYXIzR0o1Z0ZJYm9HYnZXQUU4dXhTN0tnb2l0YTVEOVRaeDhOckNLTHNrUlZBMkltY1dBMDdiLUFlVDJjUjc0MndudEtNd3Z6YXNvNk44UnJ5UENIb0txVTY4eG9qS2lrSDRZWEFkX0plZ1VBRXg3MjlRVnhVV1BfbU9jaw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
       "title": "“绳”采飞扬",
       "summary": "“绳”采飞扬",
       "time": "08-24 01:03",
@@ -227,11 +570,20 @@
     },
     {
       "media": "人民日报",
-      "title": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站",
-      "summary": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站",
-      "time": "08-24 02:01",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GYWxSNGFfQlhOLU1hUEZzTHhnUHdsYWJ3cjNtNTVKUmxmVWRmM0Z4MFBsU3RxSkhSOTVCcmg2aGhNTVlheHZ5LUk1eWl3R3hlU1hWb2xwY1JXZk1PMUMtdWNtNzRPZw?oc=5",
-      "copy_text": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE9GYWxSNGFfQlhOLU1hUEZzTHhnUHdsYWJ3cjNtNTVKUmxmVWRmM0Z4MFBsU3RxSkhSOTVCcmg2aGhNTVlheHZ5LUk1eWl3R3hlU1hWb2xwY1JXZk1PMUMtdWNtNzRPZw?oc=5",
+      "title": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会",
+      "summary": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会",
+      "time": "08-23 09:32",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYVRCZjZoaEVuWmVrWm04WGRsazdqOHhfSFROUkdrQlNUWjlhYWt6Z3JuaWFVUVdFemN4aDJLdDJ1ZVl5WlI0ZXN6dzBRV0dVdzI3b0xqNVlpX21X?oc=5",
+      "copy_text": "构建“七位一体”艺体教育智库平台赋能艺体教育，西安市教育学会成立艺体教育专业委员会\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYVRCZjZoaEVuWmVrWm04WGRsazdqOHhfSFROUkdrQlNUWjlhYWt6Z3JuaWFVUVdFemN4aDJLdDJ1ZVl5WlI0ZXN6dzBRV0dVdzI3b0xqNVlpX21X?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕",
+      "summary": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕",
+      "time": "08-23 20:44",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbU9tMmdjVjlvaHdOUEQ1a2lXc0RzVERQMnZENEx3Qk51aW5YM04tWWdadDZIWVFMT3RTQ2RnbG4xSWN5aXlsUGRlNnlQUklFbF95U2pQdVZ2NEswRllnYmVERTJPNHJRWEVzTjVUSEJhQXA4Y1dSYzZpbnFaYTEzdmNEWjRIanlKaFdiNg?oc=5",
+      "copy_text": "第五届全国听力残疾人朗诵比赛陕西省选拔赛圆满落幕\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQbU9tMmdjVjlvaHdOUEQ1a2lXc0RzVERQMnZENEx3Qk51aW5YM04tWWdadDZIWVFMT3RTQ2RnbG4xSWN5aXlsUGRlNnlQUklFbF95U2pQdVZ2NEswRllnYmVERTJPNHJRWEVzTjVUSEJhQXA4Y1dSYzZpbnFaYTEzdmNEWjRIanlKaFdiNg?oc=5",
       "verified": false
     },
     {
@@ -245,56 +597,47 @@
     },
     {
       "media": "人民日报",
+      "title": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站",
+      "summary": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站",
+      "time": "08-24 02:01",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GYWxSNGFfQlhOLU1hUEZzTHhnUHdsYWJ3cjNtNTVKUmxmVWRmM0Z4MFBsU3RxSkhSOTVCcmg2aGhNTVlheHZ5LUk1eWl3R3hlU1hWb2xwY1JXZk1PMUMtdWNtNzRPZw?oc=5",
+      "copy_text": "西安城市污水治理迈向精细化-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE9GYWxSNGFfQlhOLU1hUEZzTHhnUHdsYWJ3cjNtNTVKUmxmVWRmM0Z4MFBsU3RxSkhSOTVCcmg2aGhNTVlheHZ5LUk1eWl3R3hlU1hWb2xwY1JXZk1PMUMtdWNtNzRPZw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官",
+      "summary": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官",
+      "time": "08-23 06:33",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3lhRk9xdzFSTUtXNElvQ0JMcDFkYmNoOThMTVFDQkl2WS1uR3EzN1VTdlFLUVQxdFZJQ0hjSWI1Y3lkcGV3WnVYSzVCUjR1YThkMFNSV0VSU19JLWtWN3lzV1BxMTQ?oc=5",
+      "copy_text": "“舞动长安”2026西安市M6CC下载健身技能大赛高新赛区收官\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sb3lhRk9xdzFSTUtXNElvQ0JMcDFkYmNoOThMTVFDQkl2WS1uR3EzN1VTdlFLUVQxdFZJQ0hjSWI1Y3lkcGV3WnVYSzVCUjR1YThkMFNSV0VSU19JLWtWN3lzV1BxMTQ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "“舞动长安”2026西安市亿游娱乐体育APP健身技能大赛高新赛区精彩收官",
+      "summary": "“舞动长安”2026西安市亿游娱乐体育APP健身技能大赛高新赛区精彩收官",
+      "time": "08-23 03:25",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JS1JiRkFyNGJERmlKV3FVWWdNS1ZHelNRN19HX1NhV0ZDdWNQbUZvVS1tbmRUM3hrNE0zbDIxSUhuX0NLa3BCRXllTGZBd3MtMDhQMEptSlBCcXM?oc=5",
+      "copy_text": "“舞动长安”2026西安市亿游娱乐体育APP健身技能大赛高新赛区精彩收官\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE9JS1JiRkFyNGJERmlKV3FVWWdNS1ZHelNRN19HX1NhV0ZDdWNQbUZvVS1tbmRUM3hrNE0zbDIxSUhuX0NLa3BCRXllTGZBd3MtMDhQMEptSlBCcXM?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
+      "title": "西安智造乘风远航联通世界",
+      "summary": "西安智造乘风远航联通世界",
+      "time": "08-24 01:56",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DeDYybjBqa1k2cXZBdGh4SjA2QzNmZms3QTNnUFRzVENHYXhyRHlLaFVrMDZKS2dHMTBqY3RzU3dmenhRclBPX2xlZHhrTzRLeUVYZ1czQ3h3UEQwdkc3TlBDM3hFZw?oc=5",
+      "copy_text": "西安智造乘风远航联通世界\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE5DeDYybjBqa1k2cXZBdGh4SjA2QzNmZms3QTNnUFRzVENHYXhyRHlLaFVrMDZKS2dHMTBqY3RzU3dmenhRclBPX2xlZHhrTzRLeUVYZ1czQ3h3UEQwdkc3TlBDM3hFZw?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民日报",
       "title": "机甲集结 竞速未来",
       "summary": "机甲集结 竞速未来",
       "time": "08-24 01:56",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hM0p4eEM0TzlYOHQwWDhBVUk5dGhaU1NWNGh5RUtrVVFFNkpYQUJGc1dxdnBUWG5tMWFmYmkzV2dLbkJKN3JPVjBIblVmRnpiTFlRMERkYU5fc1REVzRJR0VhaVltQQ?oc=5",
       "copy_text": "机甲集结 竞速未来\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE5hM0p4eEM0TzlYOHQwWDhBVUk5dGhaU1NWNGh5RUtrVVFFNkpYQUJGc1dxdnBUWG5tMWFmYmkzV2dLbkJKN3JPVjBIblVmRnpiTFlRMERkYU5fc1REVzRJR0VhaVltQQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西省人民政府最新通知",
-      "summary": "陕西省人民政府最新通知",
-      "time": "08-23 10:49",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3ZKV3F6bW1MLXlOcVhrWXl2SG5VWlBvekdvMzEydTN2NlNmSWRGcm11ak1CekprdWFkQlRRSDk0M1VwQzM4ZV8walJYdFVvNXNDTTdmVEhaMmY1VU5Ndmd0MDZDVmtQajE2c053TU5lQjVKbk5YTG1SSUYwcWxBRmJQemNMOHlUUmJrbA?oc=5",
-      "copy_text": "陕西省人民政府最新通知\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxQc3ZKV3F6bW1MLXlOcVhrWXl2SG5VWlBvekdvMzEydTN2NlNmSWRGcm11ak1CekprdWFkQlRRSDk0M1VwQzM4ZV8walJYdFVvNXNDTTdmVEhaMmY1VU5Ndmd0MDZDVmtQajE2c053TU5lQjVKbk5YTG1SSUYwcWxBRmJQemNMOHlUUmJrbA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站",
-      "summary": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站",
-      "time": "08-23 16:03",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTU9YcldhOS12MllhT3FGSW5aakRGT1Q4Y2tnVXB1OERRTGhfZ3NxcW5TR0lIcHFldjE0Y1ZXRi0xWktuMWJmdDkxcnI0WGxZV1k2MFZzNmxEZDEwYnpUT0YwQU9fdw?oc=5",
-      "copy_text": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTU9YcldhOS12MllhT3FGSW5aakRGT1Q4Y2tnVXB1OERRTGhfZ3NxcW5TR0lIcHFldjE0Y1ZXRi0xWktuMWJmdDkxcnI0WGxZV1k2MFZzNmxEZDEwYnpUT0YwQU9fdw?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "“声”动青春！一群学生在陕西北路放声歌唱",
-      "summary": "“声”动青春！一群学生在陕西北路放声歌唱",
-      "time": "08-23 10:01",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpQktRN0Z0cFJMS2w1R1Z5NER6TXVqY0p4ZmJJbnhhX0pNR1ViZ1d6OTZOdklzR1hLSWRncWtXTWIzSjF0a1J5eU5LeTk2Z01oVlFNY0VLUVFfUDY2cTRCdEN2QmlWTDB1cFlwSF9pXzlKNV9oN0RyeA?oc=5",
-      "copy_text": "“声”动青春！一群学生在陕西北路放声歌唱\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTFBpQktRN0Z0cFJMS2w1R1Z5NER6TXVqY0p4ZmJJbnhhX0pNR1ViZ1d6OTZOdklzR1hLSWRncWtXTWIzSjF0a1J5eU5LeTk2Z01oVlFNY0VLUVFfUDY2cTRCdEN2QmlWTDB1cFlwSF9pXzlKNV9oN0RyeA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "铜川市环境空气质量预报",
-      "summary": "铜川市环境空气质量预报",
-      "time": "08-22 10:25",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWdKRWJDRTJieHA3UHVNLUZJUjQxTlZqclhhZEw1WlFLYjlJd2hELVUxV2l0ZnJfdFlIN0oyMmlOT1RPUjM3VnhKSGtiZVItTzJiV1NLb09NODhlT1d5QXhkRUVEaFRZR1djZ2V5ckhHMlF2dXJ4U1Rob29CMW5TVGF3ZTd1U3FpdDJpZUI4ZWYzTzZ1UHgyWDhOTUw1TVNU?oc=5",
-      "copy_text": "铜川市环境空气质量预报\nhttps://news.google.com/rss/articles/CBMioAFBVV95cUxPLWdKRWJDRTJieHA3UHVNLUZJUjQxTlZqclhhZEw1WlFLYjlJd2hELVUxV2l0ZnJfdFlIN0oyMmlOT1RPUjM3VnhKSGtiZVItTzJiV1NLb09NODhlT1d5QXhkRUVEaFRZR1djZ2V5ckhHMlF2dXJ4U1Rob29CMW5TVGF3ZTd1U3FpdDJpZUI4ZWYzTzZ1UHgyWDhOTUw1TVNU?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "西安市音乐家协会严正声明",
-      "summary": "西安市音乐家协会严正声明",
-      "time": "08-22 11:49",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblNOREVmUUxSdjQxaExtLVNXa0ZLRlVDSUlXUXpsLWZDeElyRXZEckgyNlA2bTRhY3RkSlVKVWJaN0kxSTNfMUNEVlozS29NQk9vYUdvRjhOS3llbFBna0ZUelpsSS1Zek9MLVRQUlJyRm0zNTdRdDBXY0E3elYxcnY5aWtJcndK?oc=5",
-      "copy_text": "西安市音乐家协会严正声明\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPblNOREVmUUxSdjQxaExtLVNXa0ZLRlVDSUlXUXpsLWZDeElyRXZEckgyNlA2bTRhY3RkSlVKVWJaN0kxSTNfMUNEVlozS29NQk9vYUdvRjhOS3llbFBna0ZUelpsSS1Zek9MLVRQUlJyRm0zNTdRdDBXY0E3elYxcnY5aWtJcndK?oc=5",
       "verified": false
     },
     {
@@ -308,209 +651,65 @@
     },
     {
       "media": "人民日报",
-      "title": "奚家米已任延安大学党委书记",
-      "summary": "奚家米已任延安大学党委书记",
-      "time": "08-22 22:30",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmw2b2tCQzdnemdiX1ZFN21rN0Z5ZmpGOFljTTctX293WC1HdV9xeklxY01MVFNWNUIxYmd2bjFtYWJYNHR4c0Z1LVN6U0cxYUM2bzZmVDljU1F1NFFqU1VjMXp1NGp3X1FQaktTQzNLRnBBbjlabzdsMXpYaFpWNlJpX3BTNWtBZGdYbTRaUkpOT3RfTkNITA?oc=5",
-      "copy_text": "奚家米已任延安大学党委书记\nhttps://news.google.com/rss/articles/CBMimAFBVV95cUxNdmw2b2tCQzdnemdiX1ZFN21rN0Z5ZmpGOFljTTctX293WC1HdV9xeklxY01MVFNWNUIxYmd2bjFtYWJYNHR4c0Z1LVN6U0cxYUM2bzZmVDljU1F1NFFqU1VjMXp1NGp3X1FQaktTQzNLRnBBbjlabzdsMXpYaFpWNlJpX3BTNWtBZGdYbTRaUkpOT3RfTkNITA?oc=5",
+      "title": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站",
+      "summary": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站",
+      "time": "08-23 16:03",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTU9YcldhOS12MllhT3FGSW5aakRGT1Q4Y2tnVXB1OERRTGhfZ3NxcW5TR0lIcHFldjE0Y1ZXRi0xWktuMWJmdDkxcnI0WGxZV1k2MFZzNmxEZDEwYnpUT0YwQU9fdw?oc=5",
+      "copy_text": "纪录片 | 赋能者-三秦网-陕西省重点新闻网站\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE9PTU9YcldhOS12MllhT3FGSW5aakRGT1Q4Y2tnVXB1OERRTGhfZ3NxcW5TR0lIcHFldjE0Y1ZXRi0xWktuMWJmdDkxcnI0WGxZV1k2MFZzNmxEZDEwYnpUT0YwQU9fdw?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "陕西省第十八届运动会闭幕",
-      "summary": "陕西省第十八届运动会闭幕",
-      "time": "08-22 08:59",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTFPMnJJSzliMUNtNFVCS3F4VXp0Ym9YS092SkxMbHducWtxOEw3QUFWS3hTaXU5X0tWT0NLVXp2WUMtV1RLRWtxZktEVWNPTTcxMk5hUzRRdFBza2ZwNmJPQUFzYWo2TGdIejJZMEpiVzJJU2pEUHRySmNEMzU5a3ZVajV1cGxl?oc=5",
-      "copy_text": "陕西省第十八届运动会闭幕\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTFPMnJJSzliMUNtNFVCS3F4VXp0Ym9YS092SkxMbHducWtxOEw3QUFWS3hTaXU5X0tWT0NLVXp2WUMtV1RLRWtxZktEVWNPTTcxMk5hUzRRdFBza2ZwNmJPQUFzYWo2TGdIejJZMEpiVzJJU2pEUHRySmNEMzU5a3ZVajV1cGxl?oc=5",
+      "title": "全国归侨侨眷先进个人——陈岳明",
+      "summary": "全国归侨侨眷先进个人——陈岳明",
+      "time": "08-23 18:39",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnJyZGVmMjRWRTd2TTdveU12cUlIaUZTRzZGS3pyQXRjTmpnaklaTmNCdTV1QWw1MjFCbkpGcndIYzFLeHFiUW1JMEdpdG16aHdIRVd0RFdqTk1mdWYwaFlNX2pLSnotM1A0Y0tWTUFOc24xc1FxMXVNOUE2ZGw0RWZVQWRyaXZ6elVqbGFB?oc=5",
+      "copy_text": "全国归侨侨眷先进个人——陈岳明\nhttps://news.google.com/rss/articles/CBMijgFBVV95cUxQZnJyZGVmMjRWRTd2TTdveU12cUlIaUZTRzZGS3pyQXRjTmpnaklaTmNCdTV1QWw1MjFCbkpGcndIYzFLeHFiUW1JMEdpdG16aHdIRVd0RFdqTk1mdWYwaFlNX2pLSnotM1A0Y0tWTUFOc24xc1FxMXVNOUE2ZGw0RWZVQWRyaXZ6elVqbGFB?oc=5",
       "verified": false
     },
     {
       "media": "人民日报",
-      "title": "西安市社区运动会市级决赛正式开赛",
-      "summary": "西安市社区运动会市级决赛正式开赛",
-      "time": "08-22 21:34",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEV3VF9JNUVFSEJ2ZjN3VzRhX2gtWTRfRmFUZkRwb1F4dGdXdjRLVHVadm8wRWVsVHVGWTFyb3NQdFlqQkdHa3FaZGc5RU0yYkF3U3lJRFNYZlZ2NlpCRE1BZnMyY3pDaDNqWklFZXZwMDZ6NHowNmJOY3QzVmFOZW9LOVkxbV8wVS1OTg?oc=5",
-      "copy_text": "西安市社区运动会市级决赛正式开赛\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNbEV3VF9JNUVFSEJ2ZjN3VzRhX2gtWTRfRmFUZkRwb1F4dGdXdjRLVHVadm8wRWVsVHVGWTFyb3NQdFlqQkdHa3FaZGc5RU0yYkF3U3lJRFNYZlZ2NlpCRE1BZnMyY3pDaDNqWklFZXZwMDZ6NHowNmJOY3QzVmFOZW9LOVkxbV8wVS1OTg?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "2026年西安市彩票平台注册网站公开赛开赛",
-      "summary": "2026年西安市彩票平台注册网站公开赛开赛",
-      "time": "08-22 09:02",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlNXNlM1VQOU9YTk5MUWlGNEZLN0ZPaWlva1hWQlJ6MHQzSmU3ZmdQQkxVb29tRUZjSGtfMU1HZmU5RGpBQlg4N1F1dWx3dnlFaVg3bFlWckZKbVgxM05v?oc=5",
-      "copy_text": "2026年西安市彩票平台注册网站公开赛开赛\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTFBlNXNlM1VQOU9YTk5MUWlGNEZLN0ZPaWlva1hWQlJ6MHQzSmU3ZmdQQkxVb29tRUZjSGtfMU1HZmU5RGpBQlg4N1F1dWx3dnlFaVg3bFlWckZKbVgxM05v?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "西安市莲湖区青少年乒乓球公开赛收拍",
-      "summary": "西安市莲湖区青少年乒乓球公开赛收拍",
-      "time": "08-22 23:40",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNTNQT2NXdUgzWWlEX2FfR012c2VXTmZkT3llUnBRMnZCQnBMZUxIc3VEUVBHYWdDOWpSRTJCaDdFN3pCc19Tc2hkUUJtb0ZyNThlakllVFNqNE1jR1NOY0tFUkpTRE5RRXpiSklWTGZxS3N0SEtVQVphZUlFWnlrZjkydHh0bWh4WEl2Zg?oc=5",
-      "copy_text": "西安市莲湖区青少年乒乓球公开赛收拍\nhttps://news.google.com/rss/articles/CBMijAFBVV95cUxNNTNQT2NXdUgzWWlEX2FfR012c2VXTmZkT3llUnBRMnZCQnBMZUxIc3VEUVBHYWdDOWpSRTJCaDdFN3pCc19Tc2hkUUJtb0ZyNThlakllVFNqNE1jR1NOY0tFUkpTRE5RRXpiSklWTGZxS3N0SEtVQVphZUlFWnlrZjkydHh0bWh4WEl2Zg?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "春风巡航CLC系列西安交付第10万台",
-      "summary": "春风巡航CLC系列西安交付第10万台",
-      "time": "08-22 22:07",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RE41b19GbnE1NnRrWmNsbEZmYUpabE1OQXZDdlotLTdsUU00a1hpVmF2OVpSQ2h0Y1EyRG1rNFBkWWhCN3pjZHVsR0dBU2UxRFZ0bzlGYjVoeDVvcjVUVFNNZHVqNE9pbDZvMzdpZFRtOG8?oc=5",
-      "copy_text": "春风巡航CLC系列西安交付第10万台\nhttps://news.google.com/rss/articles/CBMic0FVX3lxTE54RE41b19GbnE1NnRrWmNsbEZmYUpabE1OQXZDdlotLTdsUU00a1hpVmF2OVpSQ2h0Y1EyRG1rNFBkWWhCN3pjZHVsR0dBU2UxRFZ0bzlGYjVoeDVvcjVUVFNNZHVqNE9pbDZvMzdpZFRtOG8?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西安康：呵护“一老一小” 提升居民幸福感",
-      "summary": "陕西安康：呵护“一老一小” 提升居民幸福感",
-      "time": "08-22 09:26",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQzF4VDhvNERJeV9tbHpqME03ME1XZGJjYzlSRVhjbFU1YXlfeWtVNzdJRktyX1FDNGJ5NnVyWVBvVFU4VWQzVEpqOHJhMjV1TU9JV3dWYzhVVEk?oc=5",
-      "copy_text": "陕西安康：呵护“一老一小” 提升居民幸福感\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQzF4VDhvNERJeV9tbHpqME03ME1XZGJjYzlSRVhjbFU1YXlfeWtVNzdJRktyX1FDNGJ5NnVyWVBvVFU4VWQzVEpqOHJhMjV1TU9JV3dWYzhVVEk?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "【26-27JGP①】知白Lev LAZAREV(163.45) 西安站自由滑",
-      "summary": "【26-27JGP①】知白Lev LAZAREV(163.45) 西安站自由滑",
-      "time": "08-22 23:24",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFFBZUhEVkVIOXpVTDY2ZzB6LUx0d05zQ09oUTBUbnNlTlVGR1NIaTIxMFRTbzJYSXVmVHd6RzlLUEtzMTMtU3RQUDlJd0xfV2hfaGpsZmQ1QzhGaFphb3Izek5QZmhkaUx3Rk16cjRQNWpfQmRKVTkzS2hyWGM0dWZILUJ3NlRmN3ZURXRhWk50VS1XMmYyR0V5ZmE0Uk16czJuODRDZ1F5VDBLeGRScVpCQ3dydzNoQ05aMlhPa09ZS3pVQU5PMkhMM0JTQjkxN2lJT01NSTBqTk1kcnZVSUF0cUoydVlWMXNFVmZxQQ?oc=5",
-      "copy_text": "【26-27JGP①】知白Lev LAZAREV(163.45) 西安站自由滑\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFFBZUhEVkVIOXpVTDY2ZzB6LUx0d05zQ09oUTBUbnNlTlVGR1NIaTIxMFRTbzJYSXVmVHd6RzlLUEtzMTMtU3RQUDlJd0xfV2hfaGpsZmQ1QzhGaFphb3Izek5QZmhkaUx3Rk16cjRQNWpfQmRKVTkzS2hyWGM0dWZILUJ3NlRmN3ZURXRhWk50VS1XMmYyR0V5ZmE0Uk16czJuODRDZ1F5VDBLeGRScVpCQ3dydzNoQ05aMlhPa09ZS3pVQU5PMkhMM0JTQjkxN2lJT01NSTBqTk1kcnZVSUF0cUoydVlWMXNFVmZxQQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "眉县开展入户捐资助学活动",
-      "summary": "眉县开展入户捐资助学活动",
-      "time": "08-22 16:20",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNVFJZlVWTVI0ZlptMVlrWGtvV1VPbjhtUUZjd3hjR2UzVXp6eFZuVDlmeTVGMk8wd2tFY1Z0cTg0RlhJM0RwV2VSaldTV2Y5UVNya1NydnB1NFpvd1ZlcXU1QldHT3JGdmpodHVwa3BEZzdZRkxiZ1psTnhURjg?oc=5",
-      "copy_text": "眉县开展入户捐资助学活动\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE5wNVFJZlVWTVI0ZlptMVlrWGtvV1VPbjhtUUZjd3hjR2UzVXp6eFZuVDlmeTVGMk8wd2tFY1Z0cTg0RlhJM0RwV2VSaldTV2Y5UVNya1NydnB1NFpvd1ZlcXU1QldHT3JGdmpodHVwa3BEZzdZRkxiZ1psTnhURjg?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "【26-27JGP①】陈雨萱/董胤博(103.64) 西安站自由滑",
-      "summary": "【26-27JGP①】陈雨萱/董胤博(103.64) 西安站自由滑",
-      "time": "08-22 22:42",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmVuSWhBZkNLOW8teFhtM0VyMjZ0aEF6ODBGSGx1UXVwVEV0eF9Kb3Vvc2g1T3Z0ZmFRT1NKWFF4NVBsLWcxM3lDejI1M2U3RmYxMWk2WS1wV1Y3cGlMOERRVTJDcFdabjgwVmZxYjNPS2w5enZTZ1JpYm9GTHVpaVBVMGVWWW9oQmo3ZmVYRDlwOFV1WnlGbGxIRGNMU01uZ0VxajFBRTJNWGctdklqQnE3aFNtR1h0M1pLNGFHN1UwMzRzcEQ5VElud2lOanduYnFQZFVjbXBzQWF2d3BfLWJaTHlNb0NLQndQYTdUQQ?oc=5",
-      "copy_text": "【26-27JGP①】陈雨萱/董胤博(103.64) 西安站自由滑\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmVuSWhBZkNLOW8teFhtM0VyMjZ0aEF6ODBGSGx1UXVwVEV0eF9Kb3Vvc2g1T3Z0ZmFRT1NKWFF4NVBsLWcxM3lDejI1M2U3RmYxMWk2WS1wV1Y3cGlMOERRVTJDcFdabjgwVmZxYjNPS2w5enZTZ1JpYm9GTHVpaVBVMGVWWW9oQmo3ZmVYRDlwOFV1WnlGbGxIRGNMU01uZ0VxajFBRTJNWGctdklqQnE3aFNtR1h0M1pLNGFHN1UwMzRzcEQ5VElud2lOanduYnFQZFVjbXBzQWF2d3BfLWJaTHlNb0NLQndQYTdUQQ?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "运动赋能成长 少年逐梦未来——2026年“奔跑吧·少年”陕西省青少年体育夏令营圆满结营",
-      "summary": "运动赋能成长 少年逐梦未来——2026年“奔跑吧·少年”陕西省青少年体育夏令营圆满结营",
-      "time": "08-22 13:55",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tamhnUG9UWEVYNzNrei1FXzQ5N0dXczJhbFhjUHVTLWxmeG1jZEk4bzBGU0NSTHVxY09ZYjlyRHBTR3JXQ0diZ1dBNFhEcjE5U2pmNTVJTDBVbkRE?oc=5",
-      "copy_text": "运动赋能成长 少年逐梦未来——2026年“奔跑吧·少年”陕西省青少年体育夏令营圆满结营\nhttps://news.google.com/rss/articles/CBMiXEFVX3lxTE4tamhnUG9UWEVYNzNrei1FXzQ5N0dXczJhbFhjUHVTLWxmeG1jZEk4bzBGU0NSTHVxY09ZYjlyRHBTR3JXQ0diZ1dBNFhEcjE5U2pmNTVJTDBVbkRE?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "新编秦腔神话剧《沉香》在西安正式启动全面创排",
-      "summary": "新编秦腔神话剧《沉香》在西安正式启动全面创排",
-      "time": "08-22 13:00",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0dMSnJKeDVlM2Nac3E4aHJ3bXJiOENKMmdNSkRhSHhwUGQ4ellOcExLeUZrOElDaEZsb2xSVF9jWF9CSUtpajBzbTNheWMyLUl6ZVJMMmRVQjlPM3ByWTBlMG4xVUJveDNsbGNfdUhYSVg3MjhaejdGbXFQd3J6Rk83TGg3Wnpm?oc=5",
-      "copy_text": "新编秦腔神话剧《沉香》在西安正式启动全面创排\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0dMSnJKeDVlM2Nac3E4aHJ3bXJiOENKMmdNSkRhSHhwUGQ4ellOcExLeUZrOElDaEZsb2xSVF9jWF9CSUtpajBzbTNheWMyLUl6ZVJMMmRVQjlPM3ByWTBlMG4xVUJveDNsbGNfdUhYSVg3MjhaejdGbXFQd3J6Rk83TGg3Wnpm?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西四地政府主要领导调整",
-      "summary": "陕西四地政府主要领导调整",
-      "time": "08-22 15:33",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnd3QTJhNmRETF92RGNJTkxER1J3RWhKM2dVanhYQzZmUFJ0aWt4NExOSFg4dEkyZmxhQUlFTDRUSHF4a3hMNzNaOUdINzZDSVNUeGdiSVdVU3AxeDlHVHozRUhETVkxSTRkQW95VDlFaGZVRUNXbTNHcVhDRERRTm1iUlU?oc=5",
-      "copy_text": "陕西四地政府主要领导调整\nhttps://news.google.com/rss/articles/CBMihAFBVV95cUxPdnd3QTJhNmRETF92RGNJTkxER1J3RWhKM2dVanhYQzZmUFJ0aWt4NExOSFg4dEkyZmxhQUlFTDRUSHF4a3hMNzNaOUdINzZDSVNUeGdiSVdVU3AxeDlHVHozRUhETVkxSTRkQW95VDlFaGZVRUNXbTNHcVhDRERRTm1iUlU?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "公示！陕西一高校拟变更地址",
-      "summary": "公示！陕西一高校拟变更地址",
-      "time": "08-22 16:55",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWxzX1JxVmoxczBCM2VfWnpCcG5UbFVsVXdQSnFWMjVNOS00aEI1WGRNN2FQaExINlRwM1V1OFhrcW5kV0ppSkZJUGhNUFNuZTVEczMtdV8xOElJa2hNMVlsQlo1ZE8yYnp1WjJUc3hwaDRUT2d6TGl6Q2pfeHpJVHlhZmhhTWpN?oc=5",
-      "copy_text": "公示！陕西一高校拟变更地址\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWxzX1JxVmoxczBCM2VfWnpCcG5UbFVsVXdQSnFWMjVNOS00aEI1WGRNN2FQaExINlRwM1V1OFhrcW5kV0ppSkZJUGhNUFNuZTVEczMtdV8xOElJa2hNMVlsQlo1ZE8yYnp1WjJUc3hwaDRUT2d6TGl6Q2pfeHpJVHlhZmhhTWpN?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "【26-27JGP①】陆铂壬(70.75) 西安站短节目",
-      "summary": "【26-27JGP①】陆铂壬(70.75) 西安站短节目",
-      "time": "08-22 11:28",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUEZFM1Z3Z0toNGIxbFBSZE5wT0tjQUlUb3dqMUVza2U1c0lUQ3JTbDN5Zld5TTY3dm5yRHJ5bkhRWnVRazFCRnFWRU85RTZET2xNYUpueU45NU9FN0c0U0JFbF92TkoybU1ibGI2R0Q3UHVUblBxdnpqMjFTUDBjWmRRSWxiUnhRYnMwMk94UE5VZjdhUTRZRExibU1aVm9NbldTa2xSOFlqNmhOT0E3UGFiZ0RIQjVHZFhYU2hvZnFXSFFhRnRKSWJET1dnZGNVVVBtU3E0c0IyZW9nQklWMWQ4dHpUSTVqZlR3VkFWVnI?oc=5",
-      "copy_text": "【26-27JGP①】陆铂壬(70.75) 西安站短节目\nhttps://news.google.com/rss/articles/CBMi8AFBVV95cUxPUEZFM1Z3Z0toNGIxbFBSZE5wT0tjQUlUb3dqMUVza2U1c0lUQ3JTbDN5Zld5TTY3dm5yRHJ5bkhRWnVRazFCRnFWRU85RTZET2xNYUpueU45NU9FN0c0U0JFbF92TkoybU1ibGI2R0Q3UHVUblBxdnpqMjFTUDBjWmRRSWxiUnhRYnMwMk94UE5VZjdhUTRZRExibU1aVm9NbldTa2xSOFlqNmhOT0E3UGFiZ0RIQjVHZFhYU2hvZnFXSFFhRnRKSWJET1dnZGNVVVBtU3E0c0IyZW9nQklWMWQ4dHpUSTVqZlR3VkFWVnI?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "【26-27JGP①】知白Lev LAZAREV(86.76) 西安站短节目",
-      "summary": "【26-27JGP①】知白Lev LAZAREV(86.76) 西安站短节目",
-      "time": "08-22 10:55",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORlpTeXJGWkZYaDhnYWxSSTlTblFhQWdURzVUQ3VrUXZpbldWME1ZZmxkcThmLXlpTlZ2NW1uZVR6NUQzODB4VzVGM2hNczlSYmZQSkctNktTRVVKakstbVVSSi11NkZYY0hBeTRDaFNXX2EwRGl1TWVuQXJWSEtvSE9iUjFoOG9XeU84bHFpUUFPWnpsczVyQVJoaU9WRWQ3QnFka3hKUElqLU5yRENwMDNJX25VNjFNaTRDSWlLWDN1RWt0enpTa0IydW93bVBaYUFWRWdyaEF2VVlPQ0QydUJLc29BelBlMERLSzM1MA?oc=5",
-      "copy_text": "【26-27JGP①】知白Lev LAZAREV(86.76) 西安站短节目\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxORlpTeXJGWkZYaDhnYWxSSTlTblFhQWdURzVUQ3VrUXZpbldWME1ZZmxkcThmLXlpTlZ2NW1uZVR6NUQzODB4VzVGM2hNczlSYmZQSkctNktTRVVKakstbVVSSi11NkZYY0hBeTRDaFNXX2EwRGl1TWVuQXJWSEtvSE9iUjFoOG9XeU84bHFpUUFPWnpsczVyQVJoaU9WRWQ3QnFka3hKUElqLU5yRENwMDNJX25VNjFNaTRDSWlLWDN1RWt0enpTa0IydW93bVBaYUFWRWdyaEF2VVlPQ0QydUJLc29BelBlMERLSzM1MA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "【26-27JGP①】康馨月/郝诗博(72.46) 西安站自由舞",
-      "summary": "【26-27JGP①】康馨月/郝诗博(72.46) 西安站自由舞",
-      "time": "08-22 10:55",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVG1NNzgtRVF0MFpZbzJKclhwOFVqbkxBcG1CQ3VUWmhLYzl5SzJyRXRjN2VYMnJPUlhoc1BycTM4MWF1LVItUUxRZmVNUjBid1RqZFlHVWNPdnFfY2pXMExUUFJseFBoLW1yOTdlbk94N2Y0c0djLVhYVlJUbTVDcXFuVVhIcUo2VW05OERJM2tKcFVLX0M3emxZSHMxVDd0ejlSVlFGeVRieGdCb09RUHVjUnBsTUZLUXVuT3hPV1pXeV9CSHIzcUxfZC1GbzZ0N1RuZXRDaVJlRzgxbjZEWFBEREF0bHpid01BdWFMOA?oc=5",
-      "copy_text": "【26-27JGP①】康馨月/郝诗博(72.46) 西安站自由舞\nhttps://news.google.com/rss/articles/CBMi7wFBVV95cUxNVG1NNzgtRVF0MFpZbzJKclhwOFVqbkxBcG1CQ3VUWmhLYzl5SzJyRXRjN2VYMnJPUlhoc1BycTM4MWF1LVItUUxRZmVNUjBid1RqZFlHVWNPdnFfY2pXMExUUFJseFBoLW1yOTdlbk94N2Y0c0djLVhYVlJUbTVDcXFuVVhIcUo2VW05OERJM2tKcFVLX0M3emxZSHMxVDd0ejlSVlFGeVRieGdCb09RUHVjUnBsTUZLUXVuT3hPV1pXeV9CSHIzcUxfZC1GbzZ0N1RuZXRDaVJlRzgxbjZEWFBEREF0bHpid01BdWFMOA?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "秦陵博物院讲解机器人与联合国嘉宾互动",
-      "summary": "秦陵博物院讲解机器人与联合国嘉宾互动",
-      "time": "08-22 18:21",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQy1wRGZhSFMwTUNQVGcyV3NNX01Fc1I3T3dMMk5fM04zeWhicDZJa0NqeVZDN1hyOHFiamF6VFlJZE11WkhtWnBKSjIxNmQ4NWlSMVNlUVk2bEF6bEhoTTNVQzFlN1FFNm05cURlVHVGT0RxamdZYjhsTTBsaW9pal9B?oc=5",
-      "copy_text": "秦陵博物院讲解机器人与联合国嘉宾互动\nhttps://news.google.com/rss/articles/CBMiggFBVV95cUxQQy1wRGZhSFMwTUNQVGcyV3NNX01Fc1I3T3dMMk5fM04zeWhicDZJa0NqeVZDN1hyOHFiamF6VFlJZE11WkhtWnBKSjIxNmQ4NWlSMVNlUVk2bEF6bEhoTTNVQzFlN1FFNm05cURlVHVGT0RxamdZYjhsTTBsaW9pal9B?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "曹宏岗当选当代艺术家俱乐部会员",
-      "summary": "曹宏岗当选当代艺术家俱乐部会员",
-      "time": "08-22 20:09",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mVVlQUjZQOHFLem1xUnk0Wlp0Y0JXTnFXU2dweVdWTU1RSjlmMXZINXVCdXZDcDl5QTNZaUJpcDFMcEg0dmh3TllmYzlFNnFKdUstbnBNc3VvR1pHZEE?oc=5",
-      "copy_text": "曹宏岗当选当代艺术家俱乐部会员\nhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE9mVVlQUjZQOHFLem1xUnk0Wlp0Y0JXTnFXU2dweVdWTU1RSjlmMXZINXVCdXZDcDl5QTNZaUJpcDFMcEg0dmh3TllmYzlFNnFKdUstbnBNc3VvR1pHZEE?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "陕西省政府最新人事任免",
-      "summary": "陕西省政府最新人事任免",
-      "time": "08-22 14:20",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZE9fWTI2NWlZakV5T1dNX29ESmg1NmhvdFlfSXE1bDVaY0VSQ2ttT3VxOVB4X09xUUpQMmtHWW1Db0x5ZDloVmJEMmpCMUN2T29FTVRvbmhtR2dLYXlhU1ZDT0IxQ1hwanc2Smc4VVdoUUY5RkZ5a3NDTFZWWWsyd1BFUUxVSWRk?oc=5",
-      "copy_text": "陕西省政府最新人事任免\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxNZE9fWTI2NWlZakV5T1dNX29ESmg1NmhvdFlfSXE1bDVaY0VSQ2ttT3VxOVB4X09xUUpQMmtHWW1Db0x5ZDloVmJEMmpCMUN2T29FTVRvbmhtR2dLYXlhU1ZDT0IxQ1hwanc2Smc4VVdoUUY5RkZ5a3NDTFZWWWsyd1BFUUxVSWRk?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "深耕千村宣教 守护乡村平安——咸阳市乾县公安交警走进梁东村开展交通安全宣传活动",
-      "summary": "深耕千村宣教 守护乡村平安——咸阳市乾县公安交警走进梁东村开展交通安全宣传活动",
-      "time": "08-22 10:06",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVI5NUUwcm9mcnRfUVg0elFVTVlvblZPR3ZzcV9NZlVzZmRzejV1cHFCMURKSDRrZmR3MlM2SVBtWVJSRlRBX3VDRFgzb3NyWFRVdlFmMTVuUFpsSWxyaU5fYlZ5VkxJSzFvRjhzTnlBVEJCaUY5bGJoQnpramZXME9KT1BtMms2UXc?oc=5",
-      "copy_text": "深耕千村宣教 守护乡村平安——咸阳市乾县公安交警走进梁东村开展交通安全宣传活动\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxOLVI5NUUwcm9mcnRfUVg0elFVTVlvblZPR3ZzcV9NZlVzZmRzejV1cHFCMURKSDRrZmR3MlM2SVBtWVJSRlRBX3VDRFgzb3NyWFRVdlFmMTVuUFpsSWxyaU5fYlZ5VkxJSzFvRjhzTnlBVEJCaUY5bGJoQnpramZXME9KT1BtMms2UXc?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民日报",
-      "title": "圣蓝新澳集团爱心助学延安 助力奋进学子圆梦大学",
-      "summary": "圣蓝新澳集团爱心助学延安 助力奋进学子圆梦大学",
-      "time": "08-22 10:16",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zNS1WMzJRN08wUmI1dnVEOTdxOGQtLXRqelhleVNXVjVPR0pCeG9EWnAxbXo2MzVwMnBMcy1UdUI3MFRzai15UU9QMWtzUHpZbjRQOGdYYkFWaEpoV0w0bGM2bjFoM3VNcUp5cnpB?oc=5",
-      "copy_text": "圣蓝新澳集团爱心助学延安 助力奋进学子圆梦大学\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE1zNS1WMzJRN08wUmI1dnVEOTdxOGQtLXRqelhleVNXVjVPR0pCeG9EWnAxbXo2MzVwMnBMcy1UdUI3MFRzai15UU9QMWtzUHpZbjRQOGdYYkFWaEpoV0w0bGM2bjFoM3VNcUp5cnpB?oc=5",
+      "title": "激情夏夜·嗨聚临渭”2026年渭南市临渭区特色美食大集暨夏日啤酒音乐狂欢季活动即将闭幕_苏里南_新闻",
+      "summary": "激情夏夜·嗨聚临渭”2026年渭南市临渭区特色美食大集暨夏日啤酒音乐狂欢季活动即将闭幕_苏里南_新闻",
+      "time": "08-23 14:45",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsTWJpM29iOWNYQmUtYzlWX1JpRVhRbjJiLU5XLVhKN2k4WWZsUkNwUzJSemFpQmJTNDF0TkNIN0taNUk0V01WX0tWTmxKQ29rQ1hST1dodEZfbS1iZm44?oc=5",
+      "copy_text": "激情夏夜·嗨聚临渭”2026年渭南市临渭区特色美食大集暨夏日啤酒音乐狂欢季活动即将闭幕_苏里南_新闻\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTFBsTWJpM29iOWNYQmUtYzlWX1JpRVhRbjJiLU5XLVhKN2k4WWZsUkNwUzJSemFpQmJTNDF0TkNIN0taNUk0V01WX0tWTmxKQ29rQ1hST1dodEZfbS1iZm44?oc=5",
       "verified": false
     },
     {
       "media": "人民网",
-      "title": "陕西公开遴选“秦科贷”合作银行",
-      "summary": "陕西公开遴选“秦科贷”合作银行",
-      "time": "08-23 09:05",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUThUdXZLdFJuMjBPM1haZkNVOGp5YlhYTXhVWVRTeURUcmRCZkd0S212ZklJVWNWc01rVm03S2x4RWpLWDlaeG14RFZsYkg4aThLTlZjWGZDY2k5anUySWNsZTBoQjlxRXc?oc=5",
-      "copy_text": "陕西公开遴选“秦科贷”合作银行\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE4zUThUdXZLdFJuMjBPM1haZkNVOGp5YlhYTXhVWVRTeURUcmRCZkd0S212ZklJVWNWc01rVm03S2x4RWpLWDlaeG14RFZsYkg4aThLTlZjWGZDY2k5anUySWNsZTBoQjlxRXc?oc=5",
+      "title": "陕西开展“药品安全 你点我检”活动",
+      "summary": "陕西开展“药品安全 你点我检”活动",
+      "time": "08-24 09:01",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CNUxQZ0tYUzFNM2ZDUlZtN2l1YmZkQ3cyR0RrcDdDMTlsWkRqaXhldndWc1lJNVp6YlFtNnVBUlpxOG9iYl9IWnoyVWp1eEwwN2c5d1N3c293cWtYTXlVVXVaeHcwQ0tCTEE?oc=5",
+      "copy_text": "陕西开展“药品安全 你点我检”活动\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE1CNUxQZ0tYUzFNM2ZDUlZtN2l1YmZkQ3cyR0RrcDdDMTlsWkRqaXhldndWc1lJNVp6YlFtNnVBUlpxOG9iYl9IWnoyVWp1eEwwN2c5d1N3c293cWtYTXlVVXVaeHcwQ0tCTEE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民网",
+      "title": "陕西出台若干措施推进服务业扩能提质",
+      "summary": "陕西出台若干措施推进服务业扩能提质",
+      "time": "08-24 09:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZ1MtRzZzdGdBWF8xUHVaQWc1d3N4ek1UUkVQRWR3eUxwQlBOYjBFdHRlY194SDhpOEYweGFnajZSNjJTdzdtU2gxRFg4czduaDVfdGctSS1mTXN6RE1sQUtZVEtnazFzS1E?oc=5",
+      "copy_text": "陕西出台若干措施推进服务业扩能提质\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9jZ1MtRzZzdGdBWF8xUHVaQWc1d3N4ek1UUkVQRWR3eUxwQlBOYjBFdHRlY194SDhpOEYweGFnajZSNjJTdzdtU2gxRFg4czduaDVfdGctSS1mTXN6RE1sQUtZVEtnazFzS1E?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民网",
+      "title": "陕西印发《指导意见》支持一人公司业态创业发展",
+      "summary": "陕西印发《指导意见》支持一人公司业态创业发展",
+      "time": "08-24 09:01",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaVVVwcGctVFBDUnN3UmxKVFVocEx5YkpveEt6bk54WlVkdnIzQTlCT2V2dFAxWkNDdkJOUWRNdXZxLTFLMDk5MXpaYmZOWmRITFRVTVdyeHJIem13a0ZsRktpUmVzMjllbFE?oc=5",
+      "copy_text": "陕西印发《指导意见》支持一人公司业态创业发展\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBaVVVwcGctVFBDUnN3UmxKVFVocEx5YkpveEt6bk54WlVkdnIzQTlCT2V2dFAxWkNDdkJOUWRNdXZxLTFLMDk5MXpaYmZOWmRITFRVTVdyeHJIem13a0ZsRktpUmVzMjllbFE?oc=5",
+      "verified": false
+    },
+    {
+      "media": "人民网",
+      "title": "西安城墙有了“数字医生”",
+      "summary": "西安城墙有了“数字医生”",
+      "time": "08-24 07:31",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTkltWGUtMHo2V0RVS0c3bzNuZURHT0V3amNzTmc4VXZ2cl8yT1dtMnNHSXprQWp2aUlZclRFQ0NUWkE5aU5ZaEI3MXJRQTcyd2o2M1NlNHQzWXBRRmhfTGJTcGx6aUhx?oc=5",
+      "copy_text": "西安城墙有了“数字医生”\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTkltWGUtMHo2V0RVS0c3bzNuZURHT0V3amNzTmc4VXZ2cl8yT1dtMnNHSXprQWp2aUlZclRFQ0NUWkE5aU5ZaEI3MXJRQTcyd2o2M1NlNHQzWXBRRmhfTGJTcGx6aUhx?oc=5",
       "verified": false
     },
     {
@@ -524,75 +723,109 @@
     },
     {
       "media": "人民网",
-      "title": "行进中国丨在延安，翻开一本“活”起来的历史书",
-      "summary": "行进中国丨在延安，翻开一本“活”起来的历史书",
-      "time": "08-22 10:43",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lamxFZWozaXdqRFlRLXpJZlpFaGVmMXpMWm1LcGpKOXFNaW1kQ0RkZGk3eUEwQjZDcENVc0NJbU9KVUE3NTd3eXREZzBoNDh6SXVKVlBmR1hDcTNqRXVNcGtXLVFrZFlVTHc?oc=5",
-      "copy_text": "行进中国丨在延安，翻开一本“活”起来的历史书\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE5lamxFZWozaXdqRFlRLXpJZlpFaGVmMXpMWm1LcGpKOXFNaW1kQ0RkZGk3eUEwQjZDcENVc0NJbU9KVUE3NTd3eXREZzBoNDh6SXVKVlBmR1hDcTNqRXVNcGtXLVFrZFlVTHc?oc=5",
+      "title": "陕西公开遴选“秦科贷”合作银行",
+      "summary": "陕西公开遴选“秦科贷”合作银行",
+      "time": "08-23 09:05",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUThUdXZLdFJuMjBPM1haZkNVOGp5YlhYTXhVWVRTeURUcmRCZkd0S212ZklJVWNWc01rVm03S2x4RWpLWDlaeG14RFZsYkg4aThLTlZjWGZDY2k5anUySWNsZTBoQjlxRXc?oc=5",
+      "copy_text": "陕西公开遴选“秦科贷”合作银行\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE4zUThUdXZLdFJuMjBPM1haZkNVOGp5YlhYTXhVWVRTeURUcmRCZkd0S212ZklJVWNWc01rVm03S2x4RWpLWDlaeG14RFZsYkg4aThLTlZjWGZDY2k5anUySWNsZTBoQjlxRXc?oc=5",
       "verified": false
     },
     {
-      "media": "人民网",
-      "title": "陕西省统一设置的1310个医疗服务项目9月1日正式落地",
-      "summary": "陕西省统一设置的1310个医疗服务项目9月1日正式落地",
-      "time": "08-22 09:08",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnVFJfcHlaTWgwLXlScnRXU2xNc2tXVnlHdUdCNUlSX1NRazQ5SjlXM2ZhMU9ILXdHdFV1UzM5Wk5ydjZXT2NXakZIS2RTeF8xaEtxRTFGN2tfNVpQbUE5NmtkWmphNUIwX2c?oc=5",
-      "copy_text": "陕西省统一设置的1310个医疗服务项目9月1日正式落地\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBnVFJfcHlaTWgwLXlScnRXU2xNc2tXVnlHdUdCNUlSX1NRazQ5SjlXM2ZhMU9ILXdHdFV1UzM5Wk5ydjZXT2NXakZIS2RTeF8xaEtxRTFGN2tfNVpQbUE5NmtkWmphNUIwX2c?oc=5",
+      "media": "新华每日电讯",
+      "title": "榆林市公安局交管支队召开全市道路交通安全警示会",
+      "summary": "榆林市公安局交管支队召开全市道路交通安全警示会",
+      "time": "08-23 01:05",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0ItVm8yMm5IUXZnNmRKdGlwQUpkSWNaSHBCRU5OUS1kYU5vWTYtUFdjb3JnbUlSaVFLSHotQWlGSEVQQ2dzVmVxQUdUODR1MG5rMnEtTmE1MkZKSExpTjJ3VjhsZjhGV0puS25MQTY3NlE1eHBMckJwTzhMZGN5U2NuRkhhZEk?oc=5",
+      "copy_text": "榆林市公安局交管支队召开全市道路交通安全警示会\nhttps://news.google.com/rss/articles/CBMihwFBVV95cUxQN0ItVm8yMm5IUXZnNmRKdGlwQUpkSWNaSHBCRU5OUS1kYU5vWTYtUFdjb3JnbUlSaVFLSHotQWlGSEVQQ2dzVmVxQUdUODR1MG5rMnEtTmE1MkZKSExpTjJ3VjhsZjhGV0puS25MQTY3NlE1eHBMckJwTzhMZGN5U2NuRkhhZEk?oc=5",
       "verified": false
     },
     {
-      "media": "人民网",
-      "title": "“十五五”末陕西县域经济总量将突破2.2万亿元",
-      "summary": "“十五五”末陕西县域经济总量将突破2.2万亿元",
-      "time": "08-22 09:00",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POWVDaXd3bVBHZXFDYzcxR1NJVjl6YXZYeWRab2diZk9LazJxY3F5M0xJOEp3bjVWd212N1lvelhGUWppTURoaDMwZHhLUlM0aGFNOXNWT29vek95a3c3MjR5LVV3VU9zdWc?oc=5",
-      "copy_text": "“十五五”末陕西县域经济总量将突破2.2万亿元\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9POWVDaXd3bVBHZXFDYzcxR1NJVjl6YXZYeWRab2diZk9LazJxY3F5M0xJOEp3bjVWd212N1lvelhGUWppTURoaDMwZHhLUlM0aGFNOXNWT29vek95a3c3MjR5LVV3VU9zdWc?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "花样滑冰世界青年大奖赛西安站：双人滑赛况",
+      "summary": "花样滑冰世界青年大奖赛西安站：双人滑赛况",
+      "time": "08-24 00:00",
+      "link": "http://www.news.cn/sports/20260824/5bc9196dfad74075b423a5fea7d395aa/c.html",
+      "copy_text": "花样滑冰世界青年大奖赛西安站：双人滑赛况\nhttp://www.news.cn/sports/20260824/5bc9196dfad74075b423a5fea7d395aa/c.html",
+      "excerpt": "花样滑冰世界青年大奖赛西安站：双人滑赛况-新华网 新华网 > > 正文 2026 08 / 24 11:45:28 来源：新华网 花样滑冰世界青年大奖赛西安站：双人滑赛况 字体： 小 中 大 分享到： 花样滑冰世界青年大奖赛西安站：双人滑赛况 2026-08-24 11:45:28 来源：新华网 8月22日，亚军中国组合陈雨萱（前左）/董胤博、季军中国组合王晨凌（后左）/陈永正在颁奖仪式后与观众互动。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，冠军来自俄罗斯的中立运动员组合波琳娜·谢舍列娃（左三）/叶戈尔·卡尔瑙霍夫、亚军中国组合陈雨萱（左一）/董胤博、季军中国组合王晨凌（右二）/陈永正在颁奖仪式后合影。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，冠军来自俄罗斯的中立运动员组合波琳娜·谢舍列娃（前中）/叶戈尔·卡尔瑙霍夫、亚军中国组合陈雨萱（前左）/董胤博、季军中国组合王晨凌（前右）/陈永正在颁奖仪式上合影。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，来自俄罗斯的中立运动员组合波琳娜·谢舍列娃（上）/叶戈尔·卡尔瑙霍夫在自由滑比赛中。最终，他们获得双人滑冠军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，来自俄罗斯的中立运动员组合波琳娜·谢舍列娃/叶戈尔·卡尔瑙霍夫（下）在自由滑比赛中。最终，他们获得双人滑冠军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，中国组合陈雨萱（前）/董胤博在自由滑比赛中。最终，他们获得双人滑亚军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，中国组合王晨凌（左）/陈永正在自由滑比赛中。最终，他们获得双人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，中国组合王晨凌（上）/陈永正在自由滑比赛中。最终，他们获得双人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，中国组合王晨凌（左）/陈永正在自由滑比赛中。最终，他们获得双人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月22日，中国组合王晨凌（左）/陈永正在自由滑比赛中。最终，他们获得双人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站双人滑比赛在西安完赛。 新华社记者 邹竞一 摄 【纠错】 【",
+      "verified": true
     },
     {
-      "media": "人民网",
-      "title": "陕西“三项改革”推动5.56万项科技成果走向市场",
-      "summary": "陕西“三项改革”推动5.56万项科技成果走向市场",
-      "time": "08-22 09:00",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zOFRjOGZvVXpvUzlpV3NRUnFMUWtTcFJRYjNGU25KZmozX1I1UW5HS2dpcVB0Y0hNQ0FoUlNBenpzV3RtYlhhZ0RscVpnRjR2YXNsVFNJRUtGNWU5NDdKY1Ixci03Y0ViVlE?oc=5",
-      "copy_text": "陕西“三项改革”推动5.56万项科技成果走向市场\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE8zOFRjOGZvVXpvUzlpV3NRUnFMUWtTcFJRYjNGU25KZmozX1I1UW5HS2dpcVB0Y0hNQ0FoUlNBenpzV3RtYlhhZ0RscVpnRjR2YXNsVFNJRUtGNWU5NDdKY1Ixci03Y0ViVlE?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "花样滑冰世界青年大奖赛西安站：男单赛况",
+      "summary": "花样滑冰世界青年大奖赛西安站：男单赛况",
+      "time": "08-24 00:00",
+      "link": "http://www.news.cn/sports/20260824/47d699bee9f443b0979389385d046300/c.html",
+      "copy_text": "花样滑冰世界青年大奖赛西安站：男单赛况\nhttp://www.news.cn/sports/20260824/47d699bee9f443b0979389385d046300/c.html",
+      "excerpt": "花样滑冰世界青年大奖赛西安站：男单赛况-新华网 新华网 > > 正文 2026 08 / 24 11:45:26 来源：新华网 花样滑冰世界青年大奖赛西安站：男单赛况 字体： 小 中 大 分享到： 花样滑冰世界青年大奖赛西安站：男单赛况 2026-08-24 11:45:26 来源：新华网 8月22日，来自俄罗斯的中立选手拉扎列夫在自由滑比赛中。最终，他获得男子单人滑冠军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，来自俄罗斯的中立选手拉扎列夫在自由滑比赛中。最终，他获得男子单人滑冠军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，新西兰选手李彦皞在自由滑比赛中。最终，他获得男子单人滑亚军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，新西兰选手李彦皞在自由滑比赛中。最终，他获得男子单人滑亚军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，日本选手蛯原大弥在自由滑比赛中。最终，他获得男子单人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，日本选手蛯原大弥在自由滑比赛中。最终，他获得男子单人滑季军。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，中国选手陆铂壬在自由滑比赛中。最终，他获得男子单人滑第九名。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，中国选手李卓朗在自由滑比赛中。最终，他获得男子单人滑第十名。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，中国选手徐铭涵在自由滑比赛中。最终，他获得男子单人滑第12名。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 8月22日，中国香港选手李嘉锐在自由滑比赛中。最终，他获得男子单人滑第六名。 8月22日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站男子单人滑比赛在西安完赛。 新华社记者 李一博 摄 【纠错】 【",
+      "verified": true
     },
     {
-      "media": "人民网",
-      "title": "陕西绥德：一顿饭里的民生温度",
-      "summary": "陕西绥德：一顿饭里的民生温度",
-      "time": "08-22 08:40",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fbkh6WlA0NXdybTZuMTlacjh4ODEzV1FkX0RrMktZRVVMU0EyVFhjX2NkZGlFZXNJRVV4U190bnBua1E3U3l3YW1aX2lzaXZ0Nm9DRG5ndkRJRUwtbkgzLWNVVUlzRGdtOEoxcl93?oc=5",
-      "copy_text": "陕西绥德：一顿饭里的民生温度\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE5fbkh6WlA0NXdybTZuMTlacjh4ODEzV1FkX0RrMktZRVVMU0EyVFhjX2NkZGlFZXNJRVV4U190bnBua1E3U3l3YW1aX2lzaXZ0Nm9DRG5ndkRJRUwtbkgzLWNVVUlzRGdtOEoxcl93?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民网",
-      "title": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
-      "summary": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
-      "time": "08-22 08:39",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJYVZpcms0bEdYbS1pX21hY19rbUJHX3dDUTNUcnNtcC1OdDZuZ3pwQWZoX0pjS1V2YzJPR2RuamZTbXhWZi03MFdtV082eW01dFV1TnNPTWJDRjZZR2dZR0hkYk1rdFJE?oc=5",
-      "copy_text": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTFBJYVZpcms0bEdYbS1pX21hY19rbUJHX3dDUTNUcnNtcC1OdDZuZ3pwQWZoX0pjS1V2YzJPR2RuamZTbXhWZi03MFdtV082eW01dFV1TnNPTWJDRjZZR2dZR0hkYk1rdFJE?oc=5",
-      "verified": false
-    },
-    {
-      "media": "人民网",
-      "title": "全民健康燃动古城 赛事赋能幸福西安！",
-      "summary": "全民健康燃动古城 赛事赋能幸福西安！",
-      "time": "08-22 17:47",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NYjRVbTlNM0taMW4yOEotV0tETlM4MmZOY21mWVNEQWxMY1JNWEp1ZTQ0Y0VBOEdzVmhHdFdIcXMtM0M1OVl2YUk1NGY2MF8wZ0lmNDRiMkZMenV4QmdDeWhxU3ZwZw?oc=5",
-      "copy_text": "全民健康燃动古城 赛事赋能幸福西安！\nhttps://news.google.com/rss/articles/CBMiZkFVX3lxTE1NYjRVbTlNM0taMW4yOEotV0tETlM4MmZOY21mWVNEQWxMY1JNWEp1ZTQ0Y0VBOEdzVmhHdFdIcXMtM0M1OVl2YUk1NGY2MF8wZ0lmNDRiMkZMenV4QmdDeWhxU3ZwZw?oc=5",
-      "verified": false
+      "media": "新华网",
+      "title": "花样滑冰世界青年大奖赛西安站：女单赛况",
+      "summary": "花样滑冰世界青年大奖赛西安站：女单赛况",
+      "time": "08-24 00:00",
+      "link": "http://www.news.cn/sports/20260824/0274efffede44071addb06fe5b3bf644/c.html",
+      "copy_text": "花样滑冰世界青年大奖赛西安站：女单赛况\nhttp://www.news.cn/sports/20260824/0274efffede44071addb06fe5b3bf644/c.html",
+      "excerpt": "花样滑冰世界青年大奖赛西安站：女单赛况-新华网 新华网 > > 正文 2026 08 / 24 11:44:20 来源：新华网 花样滑冰世界青年大奖赛西安站：女单赛况 字体： 小 中 大 分享到： 花样滑冰世界青年大奖赛西安站：女单赛况 2026-08-24 11:44:20 来源：新华网 8月21日，冠军中立选手索菲亚·泽普卡（中）、亚军中国选手刘玉萱（左）和季军中国选手金书贤在女子单人滑颁奖仪式上合影。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手刘玉萱在自由滑比赛中。最终，她获得女子单人滑亚军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手刘玉萱在自由滑比赛中。最终，她获得女子单人滑亚军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手金书贤在颁奖仪式后与观众互动。她获得女子单人滑季军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手金书贤在比赛后庆祝。她获得女子单人滑季军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手金书贤在自由滑比赛中。最终，她获得女子单人滑季军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手金书贤（中）在比赛后等待成绩。她获得女子单人滑季军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手刘玉萱在自由滑比赛中。最终，她获得女子单人滑亚军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 8月21日，中国选手金书贤在自由滑比赛中。最终，她获得女子单人滑季军。 8月21日，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站女子单人滑比赛在西安完赛。 新华社记者 邹竞一 摄 【纠错】 【",
+      "verified": true
     },
     {
       "media": "新华网",
       "title": "秀我中国｜在咸阳，“碳水快乐”也很讲究",
       "summary": "秀我中国｜在咸阳，“碳水快乐”也很讲究",
-      "time": "08-23 00:00",
-      "link": "https://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html",
-      "copy_text": "秀我中国｜在咸阳，“碳水快乐”也很讲究\nhttps://www.news.cn/local/20260823/f83f4ba3e420459091b07d2229636057/c.html",
-      "excerpt": "秀我中国｜在咸阳，“碳水快乐”也很讲究-新华网 新华网 > > 正文 2026 08 / 23 20:17:04 来源：新华社 秀我中国｜在咸阳，“碳水快乐”也很讲究 字体： 小 中 大 分享到： 秀我中国｜在咸阳，“碳水快乐”也很讲究 2026-08-23 20:17:04 来源：新华社 陕西咸阳的面食文化源远流长，作为汉唐京畿要地的三原县，更是流传了许多风味独特且吃法讲究的特色面食。一起跟随镜头“打卡”贵妃饺、疙瘩面、泡泡油糕等传统小吃，感受美味背后的地域民俗。 作者：吴斯洋、周季、刘子康 新华社音视频部制作 【纠错】 【",
+      "time": "08-23 20:17",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TT2pvZHFvNGJwZnVWWWF1NDY2cjdwcU9UbHQ0V2o0RGZ6VzRiRkhQNzJGWWRrWDBmR2kxQVlnOFNBVTVBU2IxY3BLWVBGQkV1QzFiamVlSUdNMEVsU2ljWGxERTI0bUFYZlBzMUp3TU45UkdPcEdKd3d1X1VkdTg?oc=5",
+      "copy_text": "秀我中国｜在咸阳，“碳水快乐”也很讲究\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE5TT2pvZHFvNGJwZnVWWWF1NDY2cjdwcU9UbHQ0V2o0RGZ6VzRiRkhQNzJGWWRrWDBmR2kxQVlnOFNBVTVBU2IxY3BLWVBGQkV1QzFiamVlSUdNMEVsU2ljWGxERTI0bUFYZlBzMUp3TU45UkdPcEdKd3d1X1VkdTg?oc=5",
+      "verified": false
+    },
+    {
+      "media": "新华网",
+      "title": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存",
+      "summary": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存",
+      "time": "08-24 00:00",
+      "link": "https://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html",
+      "copy_text": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存\nhttps://www.news.cn/sports/20260824/12defd4d6ca645019ee0377968566ab2/c.html",
+      "excerpt": "花滑青年大奖赛西安站：中国队亮点频现、压力尚存-新华网 新华网 > > 正文 2026 08 / 24 09:38:09 来源：新华网 花滑青年大奖赛西安站：中国队亮点频现、压力尚存 字体： 小 中 大 分享到： 花滑青年大奖赛西安站：中国队亮点频现、压力尚存 2026-08-24 09:38:09 来源：新华网 新华社西安8月23日电（记者高萌、牛梦彤、姚友明）2026-2027赛季国际滑联花样滑冰青年大奖赛西安站22日落下帷幕，中国队收获2银2铜。这是本赛季首站青年大奖赛，也是许多中国队选手的国际赛首秀，其中女单、双人滑皆有惊喜表现。 女单方面，中国队的青年组人才厚度尚可，“集团优势”初显。三名中国选手位列第二至第四名。尽管未能站上最高领奖台，但中国女单在本次比赛中显示出较好的整体竞争力，在本赛季青年大奖赛总决赛席位的竞争中占得先机。不过，从比赛过程来看，选手们的技术稳定性仍有提升空间。 8月21日，中国选手刘玉萱在自由滑比赛中。新华社记者 邹竞一 摄 13岁的刘玉萱在短节目中以零失误完赛，并最终以总分189.57分获得亚军。初登国际赛场，刘玉萱已拥有一定技术储备，去年她曾在国内比赛中完成过后内结环四周跳（4S）。她表示，比起紧张，自己更多感受到的是“澎湃”。“以前都是看着偶像，现在我也站在这里了。有很多地方需要向国际上的优秀选手学习，我也希望自己能多多进步。” 同样是首次参加国际赛事的13岁选手金辰熹获得第四名。而对于第三次参加青年大奖赛的金书贤来说，这次比赛的意义不只名次。短节目失误后，她在自由滑发挥出色位列第二，最终以188.80分获得铜牌。赛后她表示，自己过去不能接受比赛中出现任何问题，如今开始把失误视作比赛的一部分。 8月21日，中国选手金书贤在自由滑比赛中。最终，她获得女子单人滑季军。新华社记者 邹竞一 摄 “这次的表现有一点点失误，算一点遗憾。我希望自己接下来把重心放在滑行表演上，我想精益求精，做到最好。”她说。 根据国际滑联相关规则，凭借王一涵上赛季在世青赛女单项目中获得的第五名，中国女单在本赛季青年大奖赛获得了7个分站赛席位，每站可派出1名选手参赛（东道主最多可派3人参赛）。接下来的6站比赛，中国“小花”的表现仍值得期待。 双人滑方面，中国队陈雨萱/董胤博、王晨凌/陈永正分获银牌和铜牌。陈雨萱/董胤博从上赛季开始搭档，并在上赛季世青赛中获得第四名，为中国队争取到了青年大奖赛的满额参赛机会。 8月22日，冠军来自俄罗斯的中立运动员组合波琳娜·谢舍列娃（左三）/叶戈尔·卡尔瑙霍夫、亚军中国组合陈雨萱（左一）/董胤博、季军中国组合王晨凌（右二）/陈永正在颁奖仪式后合影。新华社记者 邹竞一 摄 本站比赛，两人在节目中加入了新练成的技术动作“抛跳三周”，尽管在短节目中出现失误，但总体表现较好。“‘抛三’毕竟还属于比较新的动作，成功率还没有那么高。”陈雨萱说，“接下来我们也会好好总结，看是哪里出了问题，争取在后面的比赛中展示我们的风采。” 面对接下来的国际赛事，董胤博表示，想在目前基础上，利用国际大赛积累经验，在实力范围内好好打磨动作质量。 王晨凌/陈永正是首次登上国际赛场。赛后，王晨凌提到了自己收获的大赛经验：“经历过大赛了，下次肯定就不会这么紧张了。”陈永正则表示，比赛让他意识到自己还需要提升耐力和体能，增强比赛后半段的“续航”能力。 8月22日，中国组合王晨凌（左）/陈永正在自由滑比赛中。最终，他们获得双人滑季军。新华社记者 邹竞一 摄 双人滑一直是我国花样滑冰的优势项目。本赛季尚未在国际赛场亮相的郭蕊/张益文、张轩绮/丰闻强，也具备较强竞争力。从年龄上来看，这些年轻组合有望成为中国双人滑下一个冬奥周期的重要后备力量。 与女单、双人滑的亮眼表现相比，中国队男单、冰舞项目的青年选手距离世界顶尖水平仍有明显差距。陆铂壬、李卓朗和徐铭涵总成绩分列男单第九、第十和第十二名；李祉璇/葛全朔在冰舞项目中获得第七名，殷善洁/杨士锐、康馨月/郝诗博分获总成绩第八名和第十四名。 值得一提的是，来自俄罗斯的中立运动员在本站比赛重返国际赛场，他们包揽了4枚金牌，在部分项目中展现出明显的领先优势。 根据国际滑联相关规则，每位（对）选手单赛季最多参加两站青年大奖赛，最终积分前六名的选手（组合）将获得今年12月在重庆进行的青年大奖赛总决赛参赛资格。 【纠错】 【",
+      "verified": true
+    },
+    {
+      "media": "新华网",
+      "title": "世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌",
+      "summary": "世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌",
+      "time": "08-24 00:00",
+      "link": "http://www.news.cn/sports/20260824/36319b1995d94f3baad8b27653b5266f/c.html",
+      "copy_text": "世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌\nhttp://www.news.cn/sports/20260824/36319b1995d94f3baad8b27653b5266f/c.html",
+      "excerpt": "世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌-新华网 新华网 > > 正文 2026 08 / 24 11:13:12 来源：新华网 世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌 字体： 小 中 大 分享到： 世界青年花滑大奖赛西安站：中国队收获女子单人滑银、铜牌 2026-08-24 11:13:12 来源：新华网 新华社西安8月21日电（记者姚友明、高萌）国际滑联世界青年花样滑冰大奖赛西安站21日继续进行。在女子单人滑比赛中，中国队选手刘玉萱、金书贤分别获得亚军和季军。 8月21日，冠军索菲娅·捷普卡（中）、亚军刘玉萱（左）、季军金书贤在颁奖仪式上。新华社记者 邹竞一 摄 当日的自由滑比赛中，20日短节目出现失误的金书贤背水一战，收获128.72分的全场第二高分，从而以总成绩188.80分获得铜牌。初次登上国际赛场的13岁小将刘玉萱尽管在做勾手三周跳动作时摔倒，仍以189.57分的总成绩获得银牌。 该项目冠军属于来自俄罗斯的中立运动员索菲娅·捷普卡，她的总成绩为213.28分。 刘玉萱赛后说：“今天想表演（动作）大一些，但发现速度不够，所以出了一点小瑕疵。整体来说，我为自己的表现感到开心，下一步我会着重打磨整套动作的细节。” 8月21日，中国组合李祉璇（左）/ 葛全朔在冰舞比赛中。最终，他们获得第7名。新华社记者 邹竞一 摄 冰舞项目中，来自俄罗斯的中立运动员组合费费洛娃/瓦洛夫在自由舞比赛中获得99.06分，最终以总分162.16分登上最高领奖台。中国队组合中排名最高的是李祉璇/葛全朔，他们以138.10分获得第七名。 瓦洛夫说：“我对整套动作的高完成度感到满意。刚开始我们有些紧张，但及时调整，克服了心理压力。其实这次比赛我们没有将夺金作为硬性目标，只希望能在场上展现出自身的技术特点。” 男子单人滑短节目比赛中，来自俄罗斯的中立运动员拉扎列夫以86.76分的成绩排名第一，中国队选手陆铂壬、李卓朗和徐铭涵分列第六、第九和第十。 22日，本次大奖赛将迎来最后一个比赛日，男单和双人滑项目的金牌将各有归属。 【纠错】 【",
+      "verified": true
+    },
+    {
+      "media": "央视网",
+      "title": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量",
+      "summary": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量",
+      "time": "08-24 11:08",
+      "link": "https://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml",
+      "copy_text": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量\nhttps://tv.cctv.com/2026/08/24/VIDER1vGwGy3TCWC7vHI8c1t260824.shtml",
+      "excerpt": "[中国舆论场]陕西西安：赛事经济撬动文旅体消费增量 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [中国舆论场]陕西西安：赛事经济撬动文旅体消费增量 来源 : 央视网 2026-08-24 11:08 内容简介 关注 视频简介 2026-27赛季国际滑联世界青年花滑大奖赛首站落地西安。赛事依托票根经济串联观赛、餐饮、住宿、游览等消费场景，以赛事流量带动当地文旅体消费增长。戳视频，观看具体内容。 栏目信息 栏目名称： 栏目介绍： [中国舆论场]陕西西安：赛事经济撬动文旅体消费增量 简介 来源：央视网 更新时间：2026年08月24日 11:08 视频简介 2026-27赛季国际滑联世界青年花滑大奖赛首站落地西安。赛事依托票根经济串联观赛、餐饮、住宿、游览等消费场景，以赛事流量带动当地文旅体消费增长。戳视频，观看具体内容。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "verified": true
+    },
+    {
+      "media": "央视网",
+      "title": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神",
+      "summary": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神",
+      "time": "08-24 07:42",
+      "link": "https://tv.cctv.com/2026/08/24/VIDEBjQtvOLb9DNfwPNHLuTu260824.shtml",
+      "copy_text": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神\nhttps://tv.cctv.com/2026/08/24/VIDEBjQtvOLb9DNfwPNHLuTu260824.shtml",
+      "excerpt": "[朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神 来源 : 央视网 2026-08-24 07:42 内容简介 关注 视频简介 陕西延安：红色游升温，研学行走感悟革命精神。 栏目信息 栏目名称： 栏目介绍： [朝闻天下]陕西延安 红色游升温 研学行走感悟革命精神 简介 来源：央视网 更新时间：2026年08月24日 07:42 视频简介 陕西延安：红色游升温，研学行走感悟革命精神。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
+      "verified": true
+    },
+    {
+      "media": "央视网",
+      "title": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济",
+      "summary": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济",
+      "time": "08-23 19:42",
+      "link": "https://tv.cctv.com/2026/08/23/VIDELYC6fM3OWmLH2n7Y27wd260823.shtml",
+      "copy_text": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济\nhttps://tv.cctv.com/2026/08/23/VIDELYC6fM3OWmLH2n7Y27wd260823.shtml",
+      "excerpt": "[中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济 节目官网 收藏 播放列表 正在播放 热播榜 正在播放 正在播放 正在播放 [中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济 来源 : 央视网 2026-08-23 19:42 内容简介 关注 视频简介 乡游·陕西汉中：向日葵花海拉动乡村夜经济。 栏目信息 栏目名称： 栏目介绍： [中国三农报道]乡游·陕西汉中 向日葵花海拉动乡村夜经济 简介 来源：央视网 更新时间：2026年08月23日 19:42 视频简介 乡游·陕西汉中：向日葵花海拉动乡村夜经济。 栏目信息 播放列表 更多 > 往期查询> 精彩看点 更多 > 往期节目 更多 > 播放列表 关闭 5月 4月 3月 2月 更多 正在加载... 关闭 播放列表 关闭 正在加载... 播放列表 关闭 正在加载... 主要内容",
       "verified": true
     },
     {
@@ -617,22 +850,40 @@
     },
     {
       "media": "央广网",
-      "title": "前7月陕西人民币贷款增加1609.44亿元",
-      "summary": "前7月陕西人民币贷款增加1609.44亿元",
-      "time": "08-23 08:16",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41UC1Bdk5GN1RIVEk1UElnTkpjeDBxR0pSMXd4SngzWk92UVphcERISjdxTVlkakVYYmVlYXNmemRWSTJKRE9ReDVWbE90eC11TWNVeGFGMXpvSkNrM0lyMkpHdERTa1RJY3RtQ3Jn?oc=5",
-      "copy_text": "前7月陕西人民币贷款增加1609.44亿元\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTE41UC1Bdk5GN1RIVEk1UElnTkpjeDBxR0pSMXd4SngzWk92UVphcERISjdxTVlkakVYYmVlYXNmemRWSTJKRE9ReDVWbE90eC11TWNVeGFGMXpvSkNrM0lyMkpHdERTa1RJY3RtQ3Jn?oc=5",
+      "title": "陕西“三项改革”推动5.56万项科技成果走向市场",
+      "summary": "陕西“三项改革”推动5.56万项科技成果走向市场",
+      "time": "08-24 08:16",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMEF6UXduLTc5UGxKcnFoVGVGTzl5ZWFwVUp6UmN2SjJuUy0zTG9wYU8xaWJEaG1tZmVmREZ2aXU0bExlSWhUbXBxb0ZzZGNaUlYydkR1S0w1NDdQLTQ4WTR5RTdiU3IyeGhHUkJ3?oc=5",
+      "copy_text": "陕西“三项改革”推动5.56万项科技成果走向市场\nhttps://news.google.com/rss/articles/CBMibkFVX3lxTFBCMEF6UXduLTc5UGxKcnFoVGVGTzl5ZWFwVUp6UmN2SjJuUy0zTG9wYU8xaWJEaG1tZmVmREZ2aXU0bExlSWhUbXBxb0ZzZGNaUlYydkR1S0w1NDdQLTQ4WTR5RTdiU3IyeGhHUkJ3?oc=5",
       "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "世界青年花样滑冰大奖赛西安站开幕",
+      "summary": "世界青年花样滑冰大奖赛西安站开幕",
+      "time": "08-24 00:00",
+      "link": "https://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml",
+      "copy_text": "世界青年花样滑冰大奖赛西安站开幕\nhttps://www.cnr.cn/sxpd/c/20260824/t20260824_527788788.shtml",
+      "excerpt": "中国香港花样滑冰运动员郭幸儀在比赛中。记者 马昭 摄 8月20日，西安曲江竞技中心化身梦幻冰上舞台，2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站正式启幕。来自全球多个国家和地区的青年花滑健儿齐聚古都，以冰为媒、逐梦赛场，上演一场兼具竞技张力与艺术美感的冰雪盛宴。 本次赛事是新赛季国际滑联世界青年花样滑冰大奖赛的首站对决，也是国际滑联顶级花滑赛事首次落户西北地区，填补了西北高端国际冰上赛事的空白，标志着西北冰雪运动发展迎来全新里程碑。赛事为期3天，设男单、女单、双人滑、冰上舞蹈四个竞赛大项，汇聚全球青年花滑新锐力量同场竞技、交流互鉴。 创办于1997年的世界青年花样滑冰大奖赛，是全球青年花滑最高级别赛事，被誉为世界花滑冠军的摇篮。此次西安站赛事，是国内第三次承办该系列分站赛，本站赛事成绩将直接关联今年12月重庆总决赛的晋级资格，各国青年选手全力冲刺，赛场竞争激烈、看点十足。 为冲击总决赛席位，中国花滑青年队派出16名选手满额出战，全面参与四个项目角逐，新生代小将在主场蓄力绽放、积累国际大赛经验。 此次顶级冰雪赛事落地西安，不仅让市民在家门口领略国际冰雪赛事魅力，更有效盘活陕西冰雪体育资源，完善体育赛事体系，推动优质冰雪赛事、专业人才、产业资源向西部集聚。（记者 王战荣）",
+      "verified": true
     },
     {
       "media": "央广网",
       "title": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌",
       "summary": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌",
-      "time": "08-23 00:00",
-      "link": "https://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml",
-      "copy_text": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌\nhttps://news.cnr.cn/native/gd/20260823/t20260823_527787983.shtml",
-      "excerpt": "2026年8月20日至22日，2026至2027赛季国际滑联花样滑冰青年大奖赛西安站在西安曲江竞技中心举办，本站为新赛季青年大奖赛揭幕战，共有来自32个国家和地区的116名运动员参赛。国家花样滑冰队共派出16名运动员，参加男单、女单、双人滑、冰上舞蹈全部四个项目角逐。 参赛成绩如下： 女子单人滑： 刘玉萱获得第二名、金书贤获得第三名、金辰熹获得第四名； 男子单人滑： 陆铂壬获得第九名、李卓朗获得第十名、徐铭涵获得第十二名； 双人滑： 陈雨萱/董胤博获得第二名、王晨凌/陈永正获得第三名； 冰上舞蹈： 李祉璇/葛全朔获得第七名、殷善洁/杨士锐获得第八名、康馨月/郝诗博获得第十四名。 （来源：中国冰雪）",
-      "verified": true
+      "time": "08-23 14:35",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NzlCcURyVnNJTXg2SUxodHhxZzdmOVZTdWZtSzZtaGI5TVJRQWFIcDRGN3dwZ2hyY3NWOXZWQVpQWl90UWlJRGZEOUJhTmZ2ZmhDWWpLYUNjNXNnamtYdjZld1NCa1kxUTJyME5GWFRVSWhaSDh1ZU45N1dxcWM?oc=5",
+      "copy_text": "花滑青年大奖赛西安站收官！中国队拿下女单、双人滑项目奖牌\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE84NzlCcURyVnNJTXg2SUxodHhxZzdmOVZTdWZtSzZtaGI5TVJRQWFIcDRGN3dwZ2hyY3NWOXZWQVpQWl90UWlJRGZEOUJhTmZ2ZmhDWWpLYUNjNXNnamtYdjZld1NCa1kxUTJyME5GWFRVSWhaSDh1ZU45N1dxcWM?oc=5",
+      "verified": false
+    },
+    {
+      "media": "央广网",
+      "title": "前7月陕西人民币贷款增加1609.44亿元",
+      "summary": "前7月陕西人民币贷款增加1609.44亿元",
+      "time": "08-23 08:16",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcHRWTWY2ZkhUaEpIQ2ZvckNXcG4wRnZXQkhPYWVWbEYyckkzZVZNVlFXVmRvUHd4dXE2NVZlU1BrZE81OFpHbDhTOENFc2o5OUM0a1k0dVhfOTFVMkpvdk9QUW4yNGdVd0tQLVJTbmRpSmRCMXc?oc=5",
+      "copy_text": "前7月陕西人民币贷款增加1609.44亿元\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE8xcHRWTWY2ZkhUaEpIQ2ZvckNXcG4wRnZXQkhPYWVWbEYyckkzZVZNVlFXVmRvUHd4dXE2NVZlU1BrZE81OFpHbDhTOENFc2o5OUM0a1k0dVhfOTFVMkpvdk9QUW4yNGdVd0tQLVJTbmRpSmRCMXc?oc=5",
+      "verified": false
     },
     {
       "media": "央广网",
@@ -645,12 +896,50 @@
       "verified": true
     },
     {
-      "media": "中国经济网",
-      "title": "西安城墙有了“数字医生”",
-      "summary": "西安城墙有了“数字医生”",
-      "time": "08-24 06:36",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QZkpNQjQ4ZWswQzJ3Ulk1NGdaTkpVMW1pT3JXdVZwS0lFU2E3VHlBNWt3d3NTQkF2dzMzTmdkSUdhQmNtTmszd1FLWnZtSjNabXlKN1VxalVKLVhOb0hIU19OOE5GM05lTzB6QkV2RQ?oc=5",
-      "copy_text": "西安城墙有了“数字医生”\nhttps://news.google.com/rss/articles/CBMib0FVX3lxTE5QZkpNQjQ4ZWswQzJ3Ulk1NGdaTkpVMW1pT3JXdVZwS0lFU2E3VHlBNWt3d3NTQkF2dzMzTmdkSUdhQmNtTmszd1FLWnZtSjNabXlKN1VxalVKLVhOb0hIU19OOE5GM05lTzB6QkV2RQ?oc=5",
+      "media": "经济日报",
+      "title": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”",
+      "summary": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/attachment/202608/24/a91542ad-9210-43d1-8042-4f0a914ad5fd.pdf",
+      "copy_text": "西安城墙有了“ 数字医生” 西安城墙有了“ 数字医生”\nhttp://paper.ce.cn/pc/attachment/202608/24/a91542ad-9210-43d1-8042-4f0a914ad5fd.pdf",
+      "excerpt": "%PDF-1.7 % 1 0 obj > endobj 2 0 obj > endobj 3 0 obj > endobj 4 0 obj [/DeviceCMYK] endobj 5 0 obj > endobj 6 0 obj >>>stream xe\u000eP\bE&\u0003\u0003޶nb \u0000\u0007 | ,\u0003B Bi5ѥ 2)2*\u00134\u0002M+\u001bu\bls\\\u0006*\u0007~̐\u0011Z0C`㌝Pןݾ\u0007\u0012* endstream endobj 7 0 obj 126 endobj 8 0 obj > endobj 9 0 obj > endobj 10 0 obj > endobj 11 0 obj >stream \u0000\u0010JFIF\u0000\u0001\u0002\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u000eAdobe\u0000d\u0000\u0000\u0000\u0002\u0000\u0000 \u0006\u0007\u0007\u0007\u0006 \u000e \u000e\u0011\u000f\u000e\u000e \u0012\u001a\u001a\u0015\u0010\u0015\u0018\u0019 \"#()%$%%!'+,,-/4443.4444444444\u0001 \u0019\u000f\u000f\u0019## ##44,,444444444444444444444444444444444444444444444\u0001\u0000\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0001\u0002\u0004\u0005\u0006\u0007\b \u0001\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0002\u0003\u0004\u0005\u0006\u0007\b \u0010\u0000\u0001\u0004\u0002\u0000\u0004\u0004\u0003\u0002\u0006 \u0006 \u0004\u000e[\u0001\u0000\u0002\u0011\u0003\u0004!\u00121A\u0005Qa\u0013\"q2\u0006\u0014B#R3\u0015br$4CS%\u0007DT5c\u0016s&\b \u0017\u0018E6UF\u0019\u001a'dteuV7􅕥fv(G)Wg89*wHXhxIYiy:JZjz\u0011\u0000\u0001\u0004\u0000\u0005\u0001\u0005\u0003\u0006\u0007 \u0003\u0003\u0013 S\u0001\u0000\u0011\u0002\u0003!1\u0012\u0004AQ\u0005a\u0013q\"2BR#\u00143br$CS4\u0015c\u0006s\u0007DT%5\u0016&\b \u0017\u0018E6UF\u0019\u001a'dteuV7􅕥fv(G)Wg89*wHXhxIYiy:JZjz\u0000\u0014\b \u0018\b!\u0004\u0001\u0011\u0000\u0002\u0011\u0001\u0003\u0011\u0001\u0004\u0011\u0000\u0000\u000e\u0004\u0001\u0000\u0002\u0011\u0003\u0011\u0004\u0000\u0000?\u0000\u0004^ I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$_?\u0000 \u0018\u0000\u0018k* 5c?+Y Ef$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I/ p\u00006\u0000|RI{ b\u00001;\u0006н$$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I&I$ w~8xx=Tx:66E\u0000M TI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$K{?M\u0014^ؿN\u0000A/bI%$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$K\u0000\u0013\u0000\u0000_\u000e?g\u0011Zh?3~RVbI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$m\u000f\u0013o$/\u0013\u0000j ؒIxI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$dIe}8gp l&&`\u000ex+;̷2% \u0014F>fKx\u0000\u001aZʲ\u0001$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Ix}\u00006 K\u0017\u00005_ޅI$q$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Iq3/;edY kp3jv# oJ V|41r٬}g$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I/ p\u00006\u0000|RI{ b\u00001;\u0006н$$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I.o a;m}o{uҘ\u0016x+ݡQ0.tf]\u0004CckTUM$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Ix}\u00006 K\u0017\u00005_ޅI$q$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Is`g.nVS+c{\u00101 -=IWCm cU+]UK\u0018L\u0016HJI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$m\u000f\u0013o$/\u0013\u0000j ؒIxI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$^ f\u000fysmii\u0006xNײ3\u0018P5z c-ic\u0000+YjI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$^;;\u0000Bm>bv\u0000 W{\u0012I/ I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$LI,}\u000f\u0016\u0013Yc\u0018 \u0002f\u0001OKm-2P|nb\u0012\u0007I\u0013)\u0012I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$oЛ)$U^ĒK\u0012I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$ '\u0000㵓\u0000C \u0016m~ ~Yݙ#LgXwK!hĒI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I% &I/c_'o\u0000z\u0017$ĒI$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$$\u0000y޿z {\u000f\u000f\u0014\u0007\u0015߽G_Fȹ 鸸 $I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Ix}\u00006 K\u0017\u00005_ޅI$q$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$Ip;Y?1\u00001kUٟ>kO\u0007Wr\u0016I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$^;;\u0000Bm>bv\u0000 W{\u0012I/ I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$LI,}\u0013\u0013q_c \"f\u0000\u0007s-RPDid.7\b\u0011)\u0012I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$oЛ)$U^ĒK\u0012I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I$I",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升",
+      "summary": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升",
+      "time": "08-24 00:00",
+      "link": "https://tech.gmw.cn/2026-08/24/content_38960175.htm",
+      "copy_text": "刀刃向内破藩篱——陕西“三项改革”赋能新质生产力跃升\nhttps://tech.gmw.cn/2026-08/24/content_38960175.htm",
+      "excerpt": "\b\u0000\u0000\u0000\u0000\u0000\u0002\u0003}isbGgO\u000f\"fl4%@\u0012jD/~i=ˋ $Q\u0012$d@U\bX$T\u0005^\u0002#\u0010\u00101?M;'rT\\mf]Q\u0005ܼ'O=O|?~58ۥ\u000fVE7d\u0019>ir \u000f|:ޤ\u000fC' {a&ld0v\b>xS޺d\u0003v\u00136}7!\u0006Mk !\u000eq؆]:ISsmA\u0007=C_9G\u0007l=O\u0016W&\u000e]֮^W\u0011 h㴺4h5O]a\u0011'M&_ &~jƹ?*v3z\u0006ocO\u000eA˷zK\u000eKߠEƐ]߃{om\u000eSFYߴ,\u000ePauhZvmsͪw,C>8TsŰҾiu?>X/t!f\u0019;{,\u0003'\u0007_\u0006,j~jFV\u0007n醟rj_K@e\u001ah>~ 56UμJ4`\u000fi^W\u0016|! dWB4kTZ F1\u0016xʼ\u0001ayZ>n.+Im}\u00198On N\u0010>3R \u001a>s_\\~hOV[_?: _ /+th\u0010>7`TB\u0010 I\u0019mD7M]w, ~DL;=`wV;1_ 5TS\u000e\u000et%qeWEs D\u00003X#\u0003ڗ\u0006l]0A\u0015\" \u0007q a | x\u0017\u00023ar \u0007l x?EF\u0007 g\u0019c Yu\u000f Ԝ\bwOjoMUf֊gzoچG\\>}dJg\\Q/h}7[\u0006FN07 [j=ZY?2P&{*VN1-\u001a\u0011\u001aT޲M 5 \u0014zj@ \u0011{ʿ7sOW zj]_ 7s_iG ٖЗ\u0002v ,\u0017/\u000fZ \u0006\u0018o2AS3T+Z:\u0016f3oq/\u000ez/ZS6 S\u001bU´RxsFNP,C%~K\u0007, ׌G\u001a4`&\u000e ^)vv_9jM.s\u0015Ot8F\u0006U~\u0004n)9 1QS\b\u000e W>#xf&\u0006\"}\u0001:kk} ʾuܬ+Ϊ(də VzTOq]\u0003dn 8Iy)B\u0000P~\\2Z QB*SΡ䟨\u001b3\u0019P]Ua\u0007]E\u0014\\\u0004pvwۿm*w4! Qć\u0016\u0004W@Uft\u0012$3{\u0010x/d -;,QΞ4Vq\u0007 i q+ \u0019`;Jhґf Rk #_o]7a[k}W̦ U5=eXWB50iFHk\u0001M\\7\u000f\u0004 V'8H\u0017_e\u0001R\u0015xTL\u0003\\7H;`>QD\u0006=\u0018\u0002!_k\u0000n\u001bfVs}(밼v t+`L u_#\"ʻP@HC\u0013SSP\bM||')?Zkq\u00071ֶ\u0010a!TX,n\u0004ꆈd綞t \u000e\u0018~Y~]] \u0001i,BUI2\u0000 Y a\u0012xU1\u0000P{\u0005U\u0012\u0000ǔRl|wmsQ\\.z\u0017 qsc@(Տ6Lg*ⴹp&hL S\u0002W\u0017Z /G+ gހlt\\C\u0006Z(&W | \u001aql^\"RlN \u000fua#K\u001b?b$bat߃N\u00114X\u00103r3JvN4 0k\u0016NI=yBM+О\u0003tLv>;\u0013\u0003\u0007(ZX\u0011voyqͮw / $K ׅ[\u0016# h#L3\u0015; \u0017RAquG\u00109\u0013ܣ@ l\"\u0002!,\u000fOSރ 7 tQHVX\b|)8)`O\u0002B`NʾBfYnI2 A\u00112L_ \u0019xK e4\u0018\u00128ڌM4@ е\u0001 \b%1\u00029\u001a\u0010\u000f8k )q\u0001_{\u00051RȆ`2{A|RApS)eCA=66pܓ=ɍE\u00076KgY\u00162\u0005] \u0007 Ҳ@Bpg\u0000*\u0000h\u00017\u000fzuݱ\u0010 , 4tGp\b \" Wb=b}D\u0001 e\u00057e\u0006\u0015R ևA\u0010\u0006 (6\u0005\\\u001b\u0006\u0016[\u0015\u0002nJm \u0006ů(y NX ^`ȅ\u0015\\1)q@$'/膼]H]h)$,l\u0003d/~ g6-:0Y^́E6\"\u000fOλ?e #w\u0005\u0010g\u0016~\u0015y/B\u00070F|]N\u0002H)\u001a@\u0017m\u000fZ\u00178hHIbii4\u00009Ѥ\u00010` ,j d \u0004za'1v\u0016\u0001$\u0011=\bB.RHOpBȻu\u0012. M51هԱP\u0012*\u0011$d\u0001+l+m:7?\u0016q\u0004\u0010/9\u0014XU'KĊ(aPX/z\u0003Q@\u0017R'RX\u0003re`0s\"\u0007\u0016@ \u0002j JF̍c).v\u0014\u0010\u0007F\bfi\u0013i\u0003P6JޙW\u000e$%\u0006.\u0002ɠ3+q\u0013b1ihE\u00190(j^\u0003QK!`>\u0004\u0014; D\u0010\u000f\u0010\u0006w܊W&j\u0010{8ȼW4)F ⼐Fޚ^\b\u0010B C\u0001 'UAB_%`\u0014>gݲk^l{ \u001745\"Ga 03\u0003\u0010\u0011b\u0001 /5ߑBu\u0017\u0001{\u0001\u0014\u001a,:\u0013\u0006.OI6&]f\u0002 D#xZ\u0002\u0004؛l\u0019y\u0015\b T\u0010)]bY@8.MD!BX\u0018ߐ 1#KJ\u0017{aQ:[\u0013r\\& 3\u001b\u00107v\u0004\u0002B&\u0002ݕFP~&K\u000fKSb\u0001ar\u0011M\u000f3\u0014$F ,\u0013`\u0015(:\u0002YȁN\u0000\u0014 I1so`S\u0000\u0015#NLä\u0004>̮\u0000ķ2i@,n#- k[\"@ÔU \u001bGs 'Q F,\u00127RbW &O*ڡ]\u0003304a )/SP\u00010\u0004X\u0001VBzW\u00114:\u000e0KA\u0001- 8$ \u0017H=4B3'I\\l5\u000fuEߘʹ:9\u0013N1[r\u0005p\u0002\u0017CNH>L$ /ã2Q[\u0013ǯ*@R\u0004 \u0007T\b N@NB3\u0016F;!&⤎K6\u0016\bytkX\u000eF\u0012h mO\u0014tr~%D ! 6[\u0003UU\"\u0002\u0007F#\b\"w%|E8E{g Ȍ{q}&Ƹ0\u0013vW\u0007yd\u0006 |\u0003Z\u0002Y,\"\u00005\u0012\u0013\u0012( F\u0003a)q v\u0005٥T U\\8\u0010`k\u0017\bL^ .{\u0010 k\u0004;fڥ!I\u0007\\\u001bXA43\u0004\u0003\b\u0002\u000f\u0000\u0007Qp`|\u001ba=u\\\u000f]Ÿ՞ l\u0012%A7,\u00103> ܀Ζ@B`\u000e.Q@*R\u0000`\u0017nL,8\u0017nH\u0012\u0015R腃Tnf @ Mt]\u0012#Aq,i-.` i譐^@-?\u0001\u0013\u0017v$N$CK\u0010%~fAǈ{@\u0012lz\u0003 w\u000361U\bO|]XI\u0003T@ \u0003_޶ \u00009\u0002@T,eA 8 8H \u0007EH%\u0014\u0013Z\u0002\u0001\u0013ѷbAP\u0010LrJW^\u0016\u001a\u00037yǰ+;a --\u0010 +)D\u0004ը\u00106q Bz\u0012w97k]\u0001T\u000e7WH8 i=jZ͂\u001a ڐ98\u0016x\u0002\u001b9b 04; \u0015^o0H\bxK\u0011>`\u001bX2$F\u0001 bLѪ90`\u000e953\u000ejn4qC @s!=aAq>\u0003$&\\αm\u0010W!=xz]zR\u0004\\ nRA*$[ v\u0016\u0013ܸ\u0016n\u0010'cY02D#`e뛫']숷_K}@7`t\u0006lrJGUW3\u0019nukm~J\u0003\u0012$u7@lV HJ!\b\b b{\u0013\u0014GVG\u000fz/dcٿjboxQ^\u0019// .c6.O۳#kw4O\u0007a\u0019 Z\u000eۃQS^S\\ՠ @Ŀ\\jbo\u0007Lۮ\u001a@ ]\u0003Z\bMvSeg\u00008פ;z\u000e^M9f>*.w 75`p]OO7d@\u0018 \u0006G#S9mv : s G\u0016\u000f\u000e˻\u0018ZyyT쭥\u0003a[K,\u0005A\u0014Hv=|F\u0014 u/nFAt\u001bs\u0002Dgϼ\u0018u[lC:eVՏa\u001a\u0004\u000f5\u0006n\u0014@磊 >\u0010F\u000fSMc l60`q4uPsQeﷹ\u0000HCyo/jᘊ\u00050 `z 椼}_ q\u0001Z\u00027\u0000?\u0002c\u000eY~/9@14K T#C)qTcWc\u0015KG\u000e3q\u000fc \u0010\u0007n5\u001bM::\u0015\u001ajC\u000ev(\u0015/\u0003cq[ :)Q ?\u0003hwi{+Z\\X\u0015\u0014\u000fj=? V\u0017R6ZFKGg[gkK uk \u0016$\u0013m$ ?cm >X\u0013 \u0001\u0019- s\u0001>b4Y\u0006@K[aKɢ a\u000e \u0019K1e\u000faV r1xY;\u001aЏv\u0012R`\u0003jY\u001aQ*fi:QD%\u0003fS;;̝\u0014F;*r:#fYy&Ь\u0018mN\u001a_ g9qw\u0017Xz{ \u001bc !Q\u0011\\L,=\u0013oQ$sKAd6QTwQa'./k~\u0002t8I+\u0003 x&b{ lqVl2kfah߹g\u0014G,ř1,APg)lP\u001b[ )7#z\u0003L\u000fa+@ u#`Mo45\u001b5Xh0\u0001&jc ?9~V[B ,y,rgt~*G\u0010( q-\u0016@ٷ\u001av\u0017\u001b U(o0-YUΪU\u0000jk\u00041d_i\u0003m{;!jغ}z}9, \u0016\u0012TݒjLW*|\u00027kUw\u0016 b$ =%w i\u000ebfݦ] \u0010\u0010]XqQw4 gq;1z ,$\u0012)_\b N *t\u0012 R)Kx| i/z \u001b4O+#/Q輲 ѾE\u000f\"\u001b\u0010W%9\u001biJH\u0016Kʑq1:IP! /\u0003r{f*^.\u0016 !E,g!\u000f^9ϫpB>\u0018\u0006 9]݄y4˃ZzW\u0015_\u0012\u0017п{\u0015\u0013D$R3!v1\u0002\u00148d}\\\u0016O-?\u0014Tf\u0011 \bq\\ãI+9,\u000ew!}Hxl9\u0015 k +۴aK:/\u0013Q;\u0015Ӭ 4∝vq\";3 \u0019V O [\u0012\u0016\u0000-aMmP\u0013jQAh\u000fU jBf.. \u0018R )#bu\u0014nPaKjvz@ u ʒa9\u0002\u0015O\u0002.Id\u001bc\u000fCöڤ &\u0004ce\u0005 RgBX\u001b)gs4Cm?cS\u0016Avu3(V 2Q {\u0003R\u0012\u001b3Y&8˘ \u00166\u00163۟mK)`MRM|0\u0012b4/7Tiݡ 3~XQH05FO\u0013y\u0004+g$!1\u0017ò}jXgk\u0001}!)?/\\[jTk}rW\" `.0\b\u001bu&{A\u000f׃\u0015e|&+\u0013śaL\u0004\u001b hۅN&z\u0002\u0011,A)\u0005B )AF\u0001$,W /c8E-ށ\u0004&u\u0000\u0002J\u000e 3i \u00042c)x^ :, \bK\u0007RLJ5HȦ\u0011!\u001b많sjX|=[)Di䭌Y\u0015|\u001b\u0000WzG\u001b'kc!=&x̀\u0012TZJ,,\u0000\u00166~Yڊ\u001bʽmY0 Kip-7!G R'eʢ g0\u0002Z[1S%&~SN C4\u0000$\u0016G\u0004^s%G@\u0018q\u0001\u0000W=\u0003+ƹŀM྘ 9bQ G [\u0000\u0000/4 }c\u0007h{Mb \b0 i ^\u001b\u000f\u0011f1\u0006 k+\u0013h o@\u0013t\u0017^_d\u001b-3EF\u0004o%\u0001>\u000f^ާ7\u0018A^lyjRyޡoTEK`\u0005&TL\u0006@\u0006}\u0016~՗\u0011}Ĺ\bEݘ6ِ[x;^(.,dYj+[98\u00016Iu\u0002W ZU(3Q~\u0001KU6uJ \u0001ա5\u0018lvտ tB&+& h~y:y%OJq%#o]) b4 %Cx c\u0015y ؋$\b;Y sڋO oJY\u0011 )|aZz:\u0000\"Nӥ+аنn\u000f _(fA`X$;\u00070\u0017*!B1K.} \u0019\u000f/ZS \u0006\u000f pO0B&\b0\u0018 $߹фۆ\u0010(# Γ{'\u001aJ\u0011{X\u0016IxP\b=H FgJΌ g\u0018\u0019?c$|%\u0007$k&p\u0007\u00130}邮 [^{%E\u0016\u0001¯q`W2(: .\u0003tY4F\u0002v\u0001\u0000 ҋ9\u0004 g\u0000\u0016\b\u000f\u0007@ä( MB7\u0018cJ\u0015\u0010\u0015WYR _x. qՆ~0I{$u`miG9>AIaq(E7 ={\u000e%be\" F6\u001a u\u001aϮvvtbYWs (\u00103y$B%V)ݯ\u0016} \u0004&/ t֨x?F)[ͅXz ؁csO\u0003\u001b@\u00100L0\u0018 ,ԞOvI\u0004*$l \u0003Yب \u0018-\u000fֹBP J|c\u0001ګ'5xJB0\u0000:NӰ\u001am3\u000f0Ga4_?{l\u0005o@g\u0018\u0002\" [EbG\u0002\u0013\u0001٠B~+L=\u00152x\u00062\u0000O\">\u0011:@\u0016 -bE*GɆdsY\"~ d\u0015= 6[,A\u0003|e\u0001Zv6\u0000>[?֦o~\u0006+ $h\u0000ͽ \u0017q1z\u0014_W>v[G 5\u0006y;PM)cJbvڢ\u0013Ū\u0016Ū\u0017wԧ['F:7 ]zK^_!hYz;\b{m>|SCK[4\u0010ըQ\u0007KVqy_+M\u001bO\u000eh>\\F\u000f\u0002OxN \u0018^\u00066&\u0004jS2 eJw) Y7U1@s>*J!{Z/\u00006\u0014b,&.Ջ\u0019j\u0014L;\u001227 Sj\u0000>NS=\u001a&' /~Q\u0018iWg\u0004\u0010=x᰹ Y=aGMkjs >\u0010xsI\u0010 } ?4d [,\u0003/6+`ۤ\u001bg\u0016W\u0003e>ÿj\u0004FhK ?z|>ot\u0015/}\u0003Vq>\u001bX'%) \u0016cU\u0019\"t\u0016ˡM|xW Lxc l>aj 7W_\u000f?T\u0019t\u00176\u0007\u0016wVIO GP\u000f޸a>6\u000fG \u0001\u0015s~?9oW\u000f\u001b\u0002\b$}F\u000fA}<A\u000f~4\u0010)ұ <5|kPg ;m\bC^\u0019]zևG%UZ& n]\u0018.@ !~27h\u001b\u000f m%6rهK[3n\u0019 \u00176WQU\u000f<8߀yyo\u001b\u000eZI(o`p[x`~}jt[zk~m}?\\\u001b\u0011w~\u0000\u0000",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "榆林一中学老师报警，2名家长已受骗",
+      "summary": "榆林一中学老师报警，2名家长已受骗",
+      "time": "08-23 14:29",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc000WV9HWGNIUTRscEh6S3p4MzN0M3ZneThoeDcwZ2t6Y0FaYzlXY1pUSUw5eG9wdlBmNzNaWXZKaWlIa0xnaEZGWG1YSzFieXZsSkNxa0FRODJNcW93?oc=5",
+      "copy_text": "榆林一中学老师报警，2名家长已受骗\nhttps://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc000WV9HWGNIUTRscEh6S3p4MzN0M3ZneThoeDcwZ2t6Y0FaYzlXY1pUSUw5eG9wdlBmNzNaWXZKaWlIa0xnaEZGWG1YSzFieXZsSkNxa0FRODJNcW93?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国青年报",
+      "title": "新石器无人车等在陕西成立新公司# 注册资本500万",
+      "summary": "新石器无人车等在陕西成立新公司# 注册资本500万",
+      "time": "08-24 01:52",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2djN5THhCLWZGQ1hXNVdLWVZKRjRFYmlyRjJnYmViVUJLYkJzeEdHZ0ZsM0s4TjJWU1Y5bW54V2lSa0I5SWcxOFRNUlFzczV5dUpCckFoUHo5aHQzVVgtRFlZS1BhSnNfUktZ?oc=5",
+      "copy_text": "新石器无人车等在陕西成立新公司# 注册资本500万\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFA2djN5THhCLWZGQ1hXNVdLWVZKRjRFYmlyRjJnYmViVUJLYkJzeEdHZ0ZsM0s4TjJWU1Y5bW54V2lSa0I5SWcxOFRNUlFzczV5dUpCckFoUHo5aHQzVVgtRFlZS1BhSnNfUktZ?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "西安环岛改造助力城市“舒筋活络”",
+      "summary": "西安环岛改造助力城市“舒筋活络”",
+      "time": "08-24 11:03",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tTjVPQTV2QlBiRjFfaVNBUDR3eXROcVd1aHllZDFCXzdPUGpFcnBYZFkwdHVYOTRmVDZYamJOZ0J3T05MUFdLUnVIcVBrSW02WEZRMWhEbk10VUVRU1hSSzc4S2gtb1RSS21R?oc=5",
+      "copy_text": "西安环岛改造助力城市“舒筋活络”\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTE8tTjVPQTV2QlBiRjFfaVNBUDR3eXROcVd1aHllZDFCXzdPUGpFcnBYZFkwdHVYOTRmVDZYamJOZ0J3T05MUFdLUnVIcVBrSW02WEZRMWhEbk10VUVRU1hSSzc4S2gtb1RSS21R?oc=5",
       "verified": false
     },
     {
@@ -665,13 +954,40 @@
     },
     {
       "media": "中国新闻网",
-      "title": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花",
-      "summary": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花",
-      "time": "08-22 19:50",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
-      "copy_text": "世界青年花滑大奖赛西安站收官：中立选手领跑 中国新锐多点开花\nhttps://www.chinanews.com.cn/ty/2026/08-22/10682435.shtml",
-      "excerpt": "中新网 西安8月22日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站22日收官。当日决出双人滑、男子单人滑两枚金牌，两项冠军均由来自俄罗斯的中立运动员斩获。至此，本站四个竞赛项目的金牌全部被中立运动员包揽。 创办于1997年的世界青年花样滑冰大奖赛，被誉为花滑项目的“未来之星摇篮”。此次为期三日的赛事中，各国青年选手呈现了多场高质量冰上对决。 本站比赛，中国青年选手稳扎稳打、多点开花，在女单、双人滑等项目上均有亮眼发挥，展现出梯队建设的良好态势与发展潜力；来自俄罗斯的中立运动员则延续强劲竞技实力，包揽本站比赛全部项目的金牌，展现出俄罗斯花滑深厚的人才储备底蕴。 备受关注的女子单人滑赛场，中立选手索菲亚·杰普卡状态全程在线，短节目稳定发挥奠定基础，自由滑更是完美呈现全套高难度动作，节目衔接流畅、艺术表现力突出，最终以213.28分的高分摘金。本次西安之行的赛场氛围让杰普卡印象深刻：“西安观众的支持格外温暖。”同时她也清醒看待自身表现，直言赛季首秀虽顺利收官，但仍有不小提升空间，“自由滑还有诸多细节不够完美，后续会针对性优化两套节目，稳步前进。” 冰上舞蹈赛场，中立运动员组合玛丽娅·费费洛娃/阿尔乔姆·瓦洛夫配合默契、节奏精准，整套自由舞动作完成度极高，最终以162.16分稳稳斩获冰舞冠军。赛后瓦洛夫在采访中表示，六年的搭档，默契是制胜关键，也是稳定发挥的底气：“我们并没有把夺冠当作唯一目标，只想全力以赴展现训练成果。” 东道主中国队在本站赛事颇有收获，青年选手敢打敢拼、突破自我，创下多项亮眼成绩，其中女子单人滑赛场表现尤为惊艳，中国小将集体跻身四强，包揽二至四名，展现出中国女单新生代的潜力。 中国队13岁新秀刘玉萱首登世界青年花滑大奖赛舞台，虽在比赛中出现小幅失误，但她迅速调整状态，以流畅的节目演绎弥补瑕疵，最终以189.57分斩获银牌，沉稳的心态令人眼前一亮。另一位中国选手金书贤在短节目发挥欠佳的情况下背水一战，自由滑全力冲刺，交出128.72分的全场第二高分，凭借强劲的逆风翻盘表现，以188.80分的总成绩拿下铜牌。 图为中国队小将刘玉萱在比赛中。 (赛事组委会供图) “以前是看着自己的偶像站在国际赛场，如今我终于也站上了这个舞台，我会积累经验、打磨细节，让节目完成度越来越高。”刘玉萱表示。 22日进行的双人滑比赛，两对中国组合陈雨萱/董胤博、王晨凌/陈永正的表现亮点十足。他们力压一众好手，最终分别获得银牌与铜牌，中立运动员组合夺金。 赛后，董胤博表示，“我觉得我们今天发挥出色，整体表现很不错。比赛不一定要求每一个动作都做到完美或是超常发挥，能够达到现在这样的状态就已经很好了。” 被问及未来是否有望在队中挑大梁时，董胤博坦言：“如果这份重任能交到我们两个人手上，我会感到十分荣幸。可以代表国家出国参赛、为国争取荣誉，这带给我更多的是激动与自豪。” 纵观本站赛事，世界青年花滑新生代竞争格局愈发清晰，俄罗斯中立运动员依旧占据世界青年花滑顶尖梯队，技术全面、发挥稳定的优势显著。而中国青年军团以新人为主、以赛促练，在主场赛事中突破自我、积累经验，不仅收获奖牌，更展现出扎实的技术储备与昂扬的竞技风貌。 中国队选手杨士锐对此体会颇深，“我们经常会研究国外选手的视频，中外冰舞项目的差距在持续缩小，心态与细节把控是未来突破的关键，年轻组合在国际大赛中积累了宝贵的实战经验，也为我们后续冲击更高水平打下了基础。”(完) 【",
+      "title": "中欧班列（西安）向欧洲输送制冷家电累计超34000台",
+      "summary": "中欧班列（西安）向欧洲输送制冷家电累计超34000台",
+      "time": "08-24 19:40",
+      "link": "https://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml",
+      "copy_text": "中欧班列（西安）向欧洲输送制冷家电累计超34000台\nhttps://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-24/news1066402.shtml",
+      "excerpt": "中欧班列（西安）向欧洲输送制冷家电累计超34000台-中新网视频 即时 时政 财经 同心 东西问 国际 社会 理论·评论 中国侨网 大湾区 文娱 体育 教育 法治 健康 生活 铸牢中华民族共同体意识 宗教 一带一路 中国—东盟商贸资讯平台 中国新闻周刊 国是直通车 创意 直播 视频 图片 专栏 各地 安徽 | 北京 | 重庆 | 福建 | 甘肃 | 贵州 | 广东 | 广西 | 海南 | 河北 | 河南 | 湖北 | 湖南 | 黑龙江 | 江苏 | 江西 | 吉林 | 辽宁 | 内蒙古 | 宁夏 | 青海 | 山东 | 山西 | 陕西 | 上海 | 四川 | 天津 | 新疆 | 兵团 | 云南 | 浙江 --> 搜 索 即时 时政 高层 | 人事 | 反腐 | 深度 | 两岸 | 科教 | 军事 | 理论 --> 东西问 中外对话 | 世界观 | 广角镜 | Z世代 | 洋腔队 | 舆论场 | 新漫评 | 思享家 | 会客厅 | 研究院 | 问西东 财经 宏观 | 产经 | 中国新观察 | 三里河 | 民生调查局 | 中新财评 | 商业风云录 | 智库 | 公益 国际 世界观 | 国际识局 | 国际人物 | 国际热评 | 新漫评 | 国际视野 社会 热点追踪 | 中新真探 | 新闻浮世绘 | 中新法治 | 第一现场 大湾区 港澳 | 风向标 | 快车道 | 青年说 | 专家建言 | 湾得福 | Video | 湾区MAP 健康 大医生来了 | 医学的温度 | 医药新观察 教育 法治 生活 华人 领事之声 | 华媒报摘 | 华闻聚焦 | 出国风向 | 侨界动态 | 侨乡传真 | 视频 --> 同心 统战要闻 | 统战时讯 | 各地统战 铸牢中华民族共同体意识 民族传承 | 政策法规 | 学术动态 | 地方实践 | 国际传播 一带一路 热点聚焦 | 深度访谈 | 各方关注 | 海外视角 | 项目动态 | 丰硕成果 文娱 文化漫谈 | 艺苑大观 | 收藏考古 | 星闻联播 | 影音综艺 体育 独家视角 | 绿茵赛场 | 篮坛竞技 | 综合其他 | 视频播报 视频 热点 | 国内 | 社会 | 国际 | 军事 | 文娱 | 体育 | 财经 | 港澳台侨 | 微视界 | 洋腔队 | Z世代 | 澜湄印象 | 中国风 | 中国新视野 图片 中新画报 | 国内 | 社会 | 国际 | 娱乐 | 体育 | 军事 | 科技 | 港澳台侨 | 凡人歌 创意 理论 直播 专题 专栏 --> --> 最新 热点 国内 社会 国际 军事 文娱 体育 财经 港澳台侨 微视界 洋腔队 Z世代 澜湄印象 中国风 中国新视野 中欧班列（西安）向欧洲输送制冷家电累计超34000台 发布时间：2026年08月24日 19:40 来源：中国新闻网 分享到 --> 精彩视频 传统技艺里藏生活智慧 外国青年被中华文化“圈粉” 从捕鱼到护渔：长江入海口两代渔民的潮上转身 任达华谈AI：算法与实拍 各有优势 冯小刚谈“金鹿奖”评审标准：兼顾艺术与共情 张謇为何宁可卖字，也不用办厂筹到的钱作路费？ 中国机器人企业出海世界各地 美国参展商：中国具身智能遥遥领先 15个国家和地区的机器人在香港竞赛 现场大秀太极拳 “我回来了！”赛考斯参观康巴什夜景直呼太美了 传世名画《韩熙载夜宴图》宋摹本亮相浙江杭州 敦煌纹样走进日常 传统文化花式“出圈” 太梦幻了！多国留学生看冰雪之城的夏日答卷 当白鹤梁题刻遇上非遗彩灯 涪陵花海灯会开启千年“穿越”之旅 8月24日，陕西西安。西安国际港站内机车轰鸣、吊臂起落，一派繁忙作业景象。满载国产空调的X8151次班列缓缓驶出，经阿拉山口口岸出境，最快12天即可抵达德国曼海姆。 据了解，今年以来，中欧班列(西安)已累计向欧洲15个国家输送空调、风扇等制冷家电超34000台，搭建起贯通亚欧的“清凉通道”，助力中国智造扬帆出海。(记者 党田野 张远 视频来源 西安铁路局）",
       "verified": true
+    },
+    {
+      "media": "中国新闻网",
+      "title": "西安企业打造全国首个光伏设备回收再利用平台",
+      "summary": "西安企业打造全国首个光伏设备回收再利用平台",
+      "time": "08-24 11:14",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSM2twRFJvTEpFdFYtUGI1VTJ0TDBTZ3Z0TW5NZDR4S1laQTFqYUd4eDNndGdlcnczakhiNFRoNmJwSEs3bnBaVzZXLU5FNEV1SjJ4MHFNNDB3ejVKMDFjcjg1eWFkTkRKZW40?oc=5",
+      "copy_text": "西安企业打造全国首个光伏设备回收再利用平台\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFBSM2twRFJvTEpFdFYtUGI1VTJ0TDBTZ3Z0TW5NZDR4S1laQTFqYUd4eDNndGdlcnczakhiNFRoNmJwSEs3bnBaVzZXLU5FNEV1SjJ4MHFNNDB3ejVKMDFjcjg1eWFkTkRKZW40?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "母亲河的华丽蝶变——陕西持续推进渭河流域生态保护和高质量发展",
+      "summary": "母亲河的华丽蝶变——陕西持续推进渭河流域生态保护和高质量发展",
+      "time": "08-24 10:58",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1NTliODdmWi1nUzV4VGs0WUY1RGdBSVVyWmZaMGhlNEx1bXJ4bjdTTFdwamxIR1Q2Y0ZTU0oyYXFlaU12R0k0ZFVnak5fM19tb1dFMy0tVjZ5S09SandVYjdRRVJjd1hoUWRj?oc=5",
+      "copy_text": "母亲河的华丽蝶变——陕西持续推进渭河流域生态保护和高质量发展\nhttps://news.google.com/rss/articles/CBMia0FVX3lxTFA1NTliODdmWi1nUzV4VGs0WUY1RGdBSVVyWmZaMGhlNEx1bXJ4bjdTTFdwamxIR1Q2Y0ZTU0oyYXFlaU12R0k0ZFVnak5fM19tb1dFMy0tVjZ5S09SandVYjdRRVJjd1hoUWRj?oc=5",
+      "verified": false
+    },
+    {
+      "media": "中国新闻网",
+      "title": "中欧班列（西安）今年已向欧洲输送制冷家电超3.4万台",
+      "summary": "中欧班列（西安）今年已向欧洲输送制冷家电超3.4万台",
+      "time": "08-24 18:17",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWnRpX3AxZjR6Q2ZtU1A4MHRsR2VwYkhVN1hTXzVNUXhjUHBXNVF6eFZoUVJILXMxaktRT3Q1NWRTSFpPbTNQc1NLdXlWeGJacGJPeVlxakc0U1RKRUFuTmwwWENMNmc1?oc=5",
+      "copy_text": "中欧班列（西安）今年已向欧洲输送制冷家电超3.4万台\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWnRpX3AxZjR6Q2ZtU1A4MHRsR2VwYkhVN1hTXzVNUXhjUHBXNVF6eFZoUVJILXMxaktRT3Q1NWRTSFpPbTNQc1NLdXlWeGJacGJPeVlxakc0U1RKRUFuTmwwWENMNmc1?oc=5",
+      "verified": false
     },
     {
       "media": "中国新闻网",
@@ -684,12 +1000,93 @@
     },
     {
       "media": "中国新闻网",
-      "title": "（活力中国调研行）从“制造”到“智造” 西安高端装备跑出加速度",
-      "summary": "（活力中国调研行）从“制造”到“智造” 西安高端装备跑出加速度",
-      "time": "08-22 19:50",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDRWJsX0YwV2x0b2FjTmpJVXZtLThlMVc5cE5nTTVybDZPZnU1R2dxRnhacmpzVjFNWlM2VFhMZEtyMHM5cUkxaHZkTV93M2xPTXludnR0bkF6N2dTWlRleElzMTZILVBQ?oc=5",
-      "copy_text": "（活力中国调研行）从“制造”到“智造” 西安高端装备跑出加速度\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTFBDRWJsX0YwV2x0b2FjTmpJVXZtLThlMVc5cE5nTTVybDZPZnU1R2dxRnhacmpzVjFNWlM2VFhMZEtyMHM5cUkxaHZkTV93M2xPTXludnR0bkF6N2dTWlRleElzMTZILVBQ?oc=5",
-      "verified": false
+      "title": "中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世",
+      "summary": "中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世",
+      "time": "08-24 21:23",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml",
+      "copy_text": "中国工程院院士、歼轰7飞机总设计师陈一坚在西安逝世\nhttps://www.chinanews.com.cn/sh/2026/08-24/10683421.shtml",
+      "excerpt": "中新网 西安8月24日电 (记者 党田野)中国航空工业集团24日发布讣告，中国共产党党员、中国工程院院士、603所原总设计师、歼轰7飞机总设计师陈一坚，因病医治无效于2026年8月24日7时50分，在西安逝世，享年96岁。 陈一坚，男，汉族，福建省福州市人，1930年6月出生。1952年9月参加工作，1959年12月加入中国共产党。先后任国营122厂设计科设计组长，国营112厂飞机设计室设计组长，601所机身室主任，603所副所长、总设计师、歼轰7飞机总设计师，西安飞机工业公司常务副总经理。1999年12月当选为中国工程院院士。 陈一坚同志从事飞机设计研究工作40余年，为歼教1、初教6、强5、运7、歼轰7等多个飞机型号的设计研制倾注了满腔热忱与毕生心血。歼轰7飞机的成功研制，填补了中国空、海军航空兵装备机种的空白，为部队提供了一型对地对海攻击的新型武器，满足了国防现代化建设急需，促进提升了中国飞机设计、试验、制造水平。作为国家大飞机论证组成员，陈一坚同志还为大飞机等国家重点型号立项做出了积极而富有成效的努力。 陈一坚同志忠诚奉献、矢志报国，荣获国家科技进步奖特等奖1项、国家科技进步奖二等奖1项，部级科技进步奖一等奖4项、二等奖1项，荣立部级一等功2次。主编出版设计手册2套、译著3部。 陈一坚同志遗体告别仪式定于8月30日9时30分在西安市殡仪馆咸宁厅举行。(完) 【",
+      "verified": true
+    },
+    {
+      "media": "中国青年报",
+      "title": "山海有约 热力四射",
+      "summary": "山海有约 热力四射",
+      "time": "08-24 00:00",
+      "link": "https://zqb.cyol.com/pc/content/202608/24/content_429790.html",
+      "copy_text": "山海有约 热力四射\nhttps://zqb.cyol.com/pc/content/202608/24/content_429790.html",
+      "excerpt": "出发，不负美好时光；旅行，共赴心中山海。 这个暑期，游客热情高涨，文旅热力十足。从奔赴“宝藏小城”的“小确幸”，到流连沉浸式体验的氛围感；从上山下海避暑，到漫游栖居度假……人们饱览大好河山，“花样”文旅点亮夏日经济。 习近平总书记指出，文旅融合促进了经济发展，文旅产业要走一条持续、健康的发展之路。 细观今夏文旅图景，旅游向多样化、个性化、品质化发展趋势愈加明晰。在融合发展、守正创新中，旅游不断丰富人民美好生活的成色，绘就高质量发展的诗和远方。 “奔县游”受到青睐 夏日风情好，侗寨引客来。 寨门迎宾、鼓楼传歌、蓝靛染体验、稻田音乐会……贵州黎平县肇兴侗寨，游客穿梭在鳞次栉比的青瓦木屋间，用心感受侗族文化的独特魅力。 肇兴村党委书记陆卫敏始终牢记习近平总书记的嘱托——2025年3月，习近平总书记来到这里看望乡亲们，殷切寄语：“现在旅游是一个很大的产业，乡村旅游如火如荼。怎么抓好旅游呢？就是要保留自己的特色，抓好人无我有的东西。” 人无我有，故向往之。这个位于贵州省黔东南州的小县城，近年来因地制宜打造侗寨文化旅居、茶园生态旅居、田园休闲旅居三大特色业态，吸引游客纷纷“奔县”。2025年3月到2026年7月中旬，全县累计接待游客1014.33万人次，同比增长19.81%。 感受着暑期游客的热情，黎平县文体广电旅游局局长唐大才感慨地说：“小而美、小而精，把产品的价值做高，是乡村文旅该走的路。” 一个个“宝藏”县城，正以独好的风景，造就今夏文旅新“县”象。 安徽泾县，中国宣纸小镇内暑热渐消。游客们挽起衣袖、屏气凝神，体验宣纸制作古法工序。 依托优质山水与古村资源，泾县着力培育氛围感文旅，在暑期推出系列惠民举措。据统计，6月23日至7月底，泾县累计接待游客320.72万人次，同比增长84.6%；实现文旅综合收入16.57亿元，同比增长38.3%。 在地的体验、悠闲的节奏，令“奔县”蔚然成风。去哪儿旅行数据显示，今年暑假，酒店和民宿预订遍布全国千余个县城，连住3天以上游客同比增长两成。 山东青州，“一座博物馆带火一座城”。7月，青州博物馆接待游客超20万人次，其中外地游客占比过半。博物馆热度辐射全城，带动周边民宿、非遗工坊、特色餐饮。 “以前只知道青州是古城，没想到博物馆这么厉害。”北京游客王嘉宁意犹未尽地说，“看到了龙兴寺遗址出土造像上的‘青州微笑’，不虚此行！” 文博游、非遗游、古建游，骑行、徒步、研学……县城正成为承载新消费的重要场景。近日发布的《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》提出，培育“康养+、文旅+、农业+、民俗+、历史经典+”等特色消费场景，支持相邻县域连片打造跨区域消费经典路线。 “旅游消费的基础支撑正在向下沉市场延伸，推动旅游经济稳步进入宽基扩容的市场新格局。”中国旅游研究院院长戴斌分析，如今，游客更愿意体验美丽风景之上的美好生活，更加追求基于情绪价值的场景体验感。 江西资溪的清凉山风、山西应县的千年木塔、云南腾冲的火山热海……“奔县游”的千般变化，正是旅游更亲民、更有内涵的鲜活注脚。 消夏游火热出圈 八月的新疆那拉提旅游风景区，碧草连天，清风徐徐。 走进那拉提拈花湾·哈茵赛民俗风情度假村，非遗染布体验、民俗歌舞演绎、草原下午茶等轮番开展，处处升腾着游客的欢笑。 “早就听说那拉提暑期清爽宜人，这次专门过来住几天，欣赏北疆风光，感受‘慢生活’。”带着全家来度假的上海游客陈女士连连赞道。 暑期“经典项目”——避暑游在这个夏天热度不减。不少家庭选择用“草原旅居”的方式享受清凉暑假。 草原漫游，高山徒步，森林听风。游客将自然之旅视为暑期的“精神快充”，“China Cool”圈粉全球：绿水青山的浙江安吉7月游客接待量达346.5万人次；九寨沟景区8月12日至14日连续三天游客接待量达峰值；湖南张家界国家森林公园7月接待境外游客10.41万人次，同比增长46.78%…… 7月初，文化和旅游部启动2026年全国暑期文化和旅游消费季。消费季期间，各地围绕消夏避暑、滨海度假、夜间经济、游轮游艇、亲子游乐、研学旅行、非遗美食、博物馆游等热点需求，增加优质文旅产品供给，举办3万场次文旅消费活动，发放超4.5亿元消费券等消费补贴。 夜幕降临，厦门鹭江两岸华灯璀璨，不少游客此时开启浪漫之旅。他们结伴登上音乐餐船“屿见77”，在这里听音乐、吹海风，品闽味晚餐、看鼓浪屿夜景。 “7月以来，‘屿见·厦门海上游’项目累计接待游客约20万人次。”厦门湾海上旅游客运有限公司总经理沈家骏介绍，深耕当地文旅特色，项目旨在推动厦门滨海旅游从“观光看海”进阶“体验玩海”。 “夜游、夜演、夜市、灯光秀、音乐节和特色餐饮的发展，将游客活动时间由白天延伸至夜间，提升了住宿率和综合消费水平。低空光影秀、水上夜游、国风市集和沉浸式演艺等新场景，使夜间消费由简单餐饮购物向文化体验和社交休闲升级。”中国社会科学院旅游研究中心主任宋瑞说。 文化游涤荡心灵 今年是红军长征胜利90周年，不少人选择暑期来到江西于都、贵州遵义、陕西延安等地，在红色热土感悟初心。 “游客们白天访旧址、听宣讲，晚上看红色演艺。”延安文旅集团宝塔山景区宣教品牌部工作人员李惠楠说，暑期红色研学市场持续升温。截至目前，宝塔山景区游客接待量同比增长80%。 国风浸润、国潮奔涌。这个暑期，文化和旅游进一步融合，令游客不仅观景，更可入景。 湖南常德河街，实景演出《常德往事》以河道为舞台，水运历史与非遗故事在两岸光影间流转。看完演出，武汉游客李子维立马决定多待两天，“在这样的烟火气里多沉浸些时间”。 四川泸州，“泸县宋宴”将宋韵文化与餐饮、演艺、民俗体验融合，重现宋时风雅；辽宁沈阳，“东北有戏”日均上演200余场实景演艺，关东风情扑面而来；宁夏永宁，“看见闽宁·戏剧村落”汇聚36部剧目，串联起闽宁协作30年变迁……从南到北，游客在一场场文化盛宴中入景入情、厚植底蕴。 越中国，越潮流。暑期中，“景德镇手工瓷业遗存”成为我国第61项世界遗产，到景德镇体验手工制瓷迅速成为中外游客出游新选择。 “从早到晚，拉坯机没停过，游客一波又一波，甚至有外国游客专程来体验。”景德镇商户“言予窑陶艺”店主杨志江笑道。 平台数据显示，7月景德镇文旅预订量同比增长17%，“景德镇DIY陶艺体验”搜索量同比上涨31%。 行沧海之上，看蓬莱夜色。暑期档动画电影《八仙！》热映，带动故事取景地“热游”。八仙过海的传说，在山东烟台化作新奇可感的文旅场景。 “我们把游船变成了海上‘仙市’，增强八仙传统神话故事的体验感。”长岛海上旅游有限公司总经理孙钰杰说，他们推出的蓬莱湾“海上寻仙”夜航项目7月首航，已接待游客近6000人次。 “从关注知名景区、走遍名山大川，到钟情民俗游、非遗游、古建游，游客越来越想深度体验富有中国味的文化旅游。”中国游艺机游乐园协会顾问姚军说，消费需求的转变，推动行业摆脱粗放流量思维，深耕产品内容，打磨服务品质。 越来越“有品”的中国旅游，吸引着海外游客。 在江苏无锡惠山映月里街区，街巷灯火次第点亮，主题市集人声鼎沸。参加中欧青年夏令营的外国学员，被这条以《二泉映月》为灵感的江南街区深深打动。来自意大利的马泰奥惊叹：“这里的氛围古老又新潮，这真是了解中国文化的绝佳机会！” 人们发现，各大景区的外国面孔越来越多了。携程数据显示，暑期欧洲总体来华订单同比增长275%，门票订单增长超20倍。 从“China Travel”到“Chinamaxxing”，外国游客将对中式生活的期待拉满，传递着跨越国界的共情与认同。 绿树阴浓夏日长。生机盎然的时节里，“宝藏小城”更精彩、青山绿水更可亲、文化之旅更动人……市场热力四射，人们以竞相出游作答。 从暑期出发，山海抚慰人心，下一站风景更美。 新华社北京8月23日电 新华社记者 徐壮 杨湛菲 邢拓 来源：中国青年报 2026年08月24日 03版",
+      "verified": true
+    },
+    {
+      "media": "经济日报",
+      "title": "前7月网上商品和服务零售额增长4.8%",
+      "summary": "前7月网上商品和服务零售额增长4.8%",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/content/202608/24/content_337740.html",
+      "copy_text": "前7月网上商品和服务零售额增长4.8%\nhttp://paper.ce.cn/pc/content/202608/24/content_337740.html",
+      "excerpt": "前7月网上商品和服务零售额增长4.8% 对社会商品和服务零售额增长贡献率超五成 本报北京8月23日讯（记者冯其予）商务部最新数据显示，今年前7个月，我国电子商务稳定创新发展，线上线下融合激发消费潜能。前7个月，全国网上商品和服务零售额增长4.8%，对社会商品和服务零售额增长贡献率超五成。 线上渠道拓展商品消费范围，提升服务消费便利性。前7个月，限额以上单位通过互联网实现的商品零售额占比28.7%，比上年同期提高2.5个百分点；商务部重点监测电商平台上，前7个月，在线旅游、在线生活服务销售额分别增长24.9%、16.3%。 数智化赋能产业转型升级。“数商兴农”不断深入，推动数字技术与农业农村发展深度融合。前7个月，农产品和农村商品网上零售额分别增长12.8%和5%。指导各地培育“电商+产业带”，组织电商平台对接特色产业集聚区。前7个月，工业品和化工产品产业电商交易额分别增长1.4%和1.2%。 国际经贸合作广度深度不断拓展。“丝路电商惠全球”主题活动持续推进，云上大讲堂阿拉伯专场在埃及、摩洛哥首设两个海外分会场，吸引21个阿拉伯国家近千名电商从业者参与。新疆、河北、陕西、江苏等地举办“丝路云品”系列活动助力优质商品进口。前7个月商务大数据重点监测跨境电商进口平台上，塞尔维亚葡萄酒、孟加拉咖啡豆、新西兰黄油销售额分别增长122.5%、112.2%和69.4%。",
+      "verified": true
+    },
+    {
+      "media": "经济日报",
+      "title": "多样文旅选择给足情绪价值",
+      "summary": "多样文旅选择给足情绪价值",
+      "time": "08-24 00:00",
+      "link": "http://paper.ce.cn/pc/content/202608/24/content_337752.html",
+      "copy_text": "多样文旅选择给足情绪价值\nhttp://paper.ce.cn/pc/content/202608/24/content_337752.html",
+      "excerpt": "多样文旅选择给足情绪价值 □ 中国经济网记者 魏金金 8月19日，在四川乐山大佛景区，外国游客在凌云山佛头观景平台拍照。李华时摄（中经视觉） 2026年上半年，中国经济交出一份“稳中向新”的成绩单：国内生产总值69.6万亿元，同比增长4.7%；服务业增加值同比增长5.2%，对经济增长贡献率达66.1%；高技术制造业增加值同比增长13.3%，新动能贡献率超四成。亮眼的成绩引人关注，本版即日起推出“市场新看点”系列报道，梳理中国经济发展亮点，展望未来发展趋势。 2026年是“十五五”开局之年，上半年中国旅游市场展现出强劲的结构性变革力量：3.69亿人次出入境创历史新高，“China Travel”从网络热词变为口岸实流；国内游在规模稳步增长的同时，消费重心加速下沉，体验深度不断拓展。当下的文旅市场，已告别单纯拼客流，正式迈入提质增效、价值转化新阶段。中国旅游协会近日发布的《2026年上半年旅游市场洞察报告》显示，上半年国内旅游市场总体平稳，国内出游人次与总花费实现双增长，入境旅游实现跨越式增长，新业态新场景加速涌现，旅游消费对经济增长的拉动作用持续增强。 体验中式生活 近年来，免签、过境免签、口岸优化、支付便利化等政策利好持续释放，外国游客来华便利度不断提升。7月10日，国家移民管理局发布数据显示，今年上半年，全国移民管理机构累计查验出入境人员3.69亿人次，同比上升10.8%；入境外国人2291.4万人次，同比增长20.4%，其中免签入境1781.5万人次，占比达77.7%，同比上升30.6%。商务部数据显示，今年1月至5月，我国旅行服务出口额1885亿元，同比增长31.3%，增速在前五大服务出口领域中位居第一。 如今，对不少外国游客来说，中国作为旅游目的地的吸引力，已从长城、故宫、熊猫等传统符号扩展为城市便利、国潮消费、智慧生活等综合体验。他们的足迹不再局限于传统景点，而是深入义乌小商品城“进货”、在华强北选购电子产品。城市基建、交通效率和安全感，正在成为比传统景点更具吸引力的要素。城市“City Walk”之外，“Country Walk”也成为新风尚。这种深度化、下沉化的趋势，标志着入境游正从单纯的“看景”向体验中国生活方式跃迁。 “中国本土化的生活方式，已成为入境游最核心的吸引力。”中国旅游集团入境游研究院院长赵红宇表示，随着免签政策红利持续释放，入境游的“复游率”与“消费深度”显著提升。特别是日韩等近程客群，其消费偏好与国内游客高度趋同，在完成主流城市打卡后，正逐渐向县域目的地纵深探索。此外，东南亚游客已习惯于通过社交平台捕捉中国文旅新动态，这也为县域资源的国际化开辟了高效路径。 赵红宇认为，要将“China Travel”的澎湃流量进一步沉淀，转化为更长停留、更深消费和更强复游意愿，关键在于深耕差异化的中国特色。她将科技体验、非遗技艺与中医药服务视为“中国购”的三大支柱，这些“中国名片”，不仅是单纯的商品交易，更是文化体验的升级。“我们需要用国际化的商业语言重构中国生活方式，构建可感知、可触摸、可消费的落地场景，实现从‘围观’到‘消费’的价值跃迁。但同时也要看到，信息获取、支付结算、语言服务等环节的‘最后一公里’短板仍需加快补齐。”赵红宇说。 消费逻辑变革 入境游的火热折射出中国旅游的全球吸引力，国内游的结构性变化则更直观反映着大众消费倾向的变迁。文化和旅游部数据显示，2026年上半年，国内居民出游人次达34.63亿，同比增长5.4%，国内居民出游总花费3.21万亿元，同比增长2.0%。数据的背后，是游客对性价比与体验感的更加注重。当下，游客的消费逻辑正发生变革。 今年以来，“奔县游”尤其火爆。年初，重庆一博主求助帮忙按年猪的视频意外爆火，后演变成数千人参与的乡村大联欢。“五一”假期，县域高星酒店消费占比首次反超一线及新一线城市，反向旅游活力不断释放。从赏花踏青到龙舟赛事，从家庭游、避暑游再到慢旅行，越来越多的人为“松弛感”和“情绪价值”奔赴一座城。 “县域旅游有着丰富的历史遗存和特色民俗，又远离大城市喧嚣，更符合当下人们回归旅游本质的需求。”北京第二外国语学院首都文化和旅游发展研究院执行院长、教授厉新建认为，未来县域旅游要想获得持续发展，需打破原来唯顶级资源论的束缚，走从资源依赖型向产品业态创新型、消费场景创新型发展的路子，充分利用社交媒体来创造流量，将资源作为背景，将文化融入环境，通过服务质量提升、沉浸式体验打造，为游客提供充足的情绪价值和认知价值。 从西安“司机秦始皇”的硬核出圈，到杭州桐庐OMG心跳乐园“龟仙人”的意外走红，沉浸式体验正成为文旅市场的核心竞争力。长春动植物公园“雪饼猴”、唐山河头老街“李白”以及开封万岁山武侠城上千名NPC，持续带火各地旅游目的地。与此同时，“赛事+”“演艺+”成为拉动高质量消费的新引擎。苏超、赣超、宁超、粤超、闽超及“村超”等赛事，以惠民“小门票”引流，用“票根”串联起吃、住、行、游、购、娱的全域消费场景。 “当前旅游消费的核心逻辑是情绪价值，传统‘性价比’正在被重新定义，集体共鸣、仪式感、圈层认同等情绪维度，正成为消费决策的关键。”中国旅游研究院研究员杨劲松分析，如何通过精准的内容活动设计，打通业态壁垒，引导生态链各方协同共生，不仅有助于带动全链条消费，还将推动产生“削峰填谷”效应，平滑旅游淡旺季波动。 科技重塑生态 在需求侧变革的同时，供给侧的创新步伐亦明显加快。今年以来，科技赋能从概念走向落地，不断解锁文旅消费的新场景：上海“历小博”、陕西“小七”智能体、四川“AI乐小福”以及浙江杭州西湖AI卖花机器人等应用层出不穷。平台端亦动作频频，今年6月，携程、同程旅行成为首批接入微信AI智能体的在线旅游信息服务平台，实现从行程规划到票务预订的全流程操作。 杨劲松将此解读为AI对旅游信息生态的“双向重塑”。在需求侧，AI通过自动化攻略与行程规划，削平了信息不对称的壁垒，显著降低了交易成本；在供给侧，则通过毫秒级响应用户即时需求，有效提升了运营效能。但他同时提醒，技术红利背后潜藏挑战：AI端口已成新的流量入口，游客也需警惕AI精准推送带来的“信息茧房”，避免过度依赖导致体验同质化。 更为深刻的变化在于，“文旅+”融合的制度理念日趋成熟。政策层面，《旅游强国建设“十五五”规划》提出，要着眼于建设现代化产业体系，坚持智能化、绿色化、融合化方向，因地制宜发展新质生产力，塑造发展新优势，推动旅游业整体跃升；商务部等八部门发文加快“人工智能+消费”发展，广东、北京等地陆续推出“人工智能+文化和旅游”发展行动计划，以科技创新驱动文旅行业提质增效。 7月初，文化和旅游部启动2026年全国暑期文化和旅游消费季，至8月底各地将举办超3万场次文旅消费活动，发放超4.5亿元消费券，围绕消夏避暑、亲子游乐、博物馆游等热点需求，增加优质文旅产品供给，持续释放文旅消费潜力。 业内人士表示，下半年旅游市场有望延续高景气态势。一方面，2026年中秋国庆“请3休13”的拼假公式，让长线深度游具备与春节黄金周比肩的时间条件；另一方面，中小学秋假在江苏、广东、湖南、云南等多地密集落地，秋假与周末连休形成4天到5天的小长假，有望在11月前后释放一波错峰游，形成稳定的亲子研学增量窗口，破解文旅市场“淡旺季失衡”的结构性难题。而伴随签证便利、航线加密、文旅供给国际化改造等举措落地，入境游也有望继续保持高位增长。",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "职业本科如何守住“职业”本色",
+      "summary": "职业本科如何守住“职业”本色",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23104.html",
+      "copy_text": "职业本科如何守住“职业”本色\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23104.html",
+      "excerpt": "【记者观察】 8月，全国高招录取接近尾声。 多所职业本科院校投档最高分突破600分——深圳职业技术大学610分，深圳信息职业技术大学609分，浙江机电职业技术大学606分，武汉职业技术大学数字媒体艺术专业604.4分……职业本科录取线普遍走高，成为今年高招季绕不开的热门话题。 不止如此，金华职业技术大学已连续5年在一段线投档率100%，570分以上的人数较2025年增幅达15.9%；海南经贸职业大学的新能源汽车工程技术专业投档最高分为599分…… 分数何以走高？高分生源多了，职业本科该守住什么、改变什么？ 1、热度从何而来 职业本科的“热”，一面在于规模的持续扩容。 西南大学职业教育与成人教育研究所所长林克松介绍，自2019年国家启动本科层次职业教育试点以来，职业本科院校数量已达124所，招生人数（含专科起点本科招生）从2021年的5.65万人增长至2025年的20.07万人。“这种扩容并不是简单意义上的规模扩张，而是职业教育体系优化的重要表现。”林克松表示。 金华职业技术大学浙江省现代职业教育研究中心副研究员王亚南补充了一组更细的数据：2019年仅15所职业本科院校，2024年增至51所，2025年新增36所。截至2026年5月，全国124所职业本科大学中，80所入选国家第二期“双高计划”。 “但也要看到，体量依然不大。”上海交通大学教育学院副教授余天佐提醒，2025年职业本科在校生51.83万人，仅相当于普通本科在校生的2.4%左右、高职专科在校生的2.9%左右。 “热”的另一面，是高分考生用选择投出的信任票。长春汽车职业技术大学校长张存贵告诉记者，该校2026年面向全国26个省区市招录2000名本科生，目前24个省份录取工作已顺利收官。学校各地投档分数线全部高于所在省份本科控制线，辽宁、山西、陕西三省超线100分以上，高分生源占比大幅提升。 去年，黄俊汉以超河北省物理类本科控制线41分的成绩，考入这所学校新能源汽车工程技术专业。他表示：“我从小就对汽车感兴趣，也想好了往这个行业走。新能源汽车产业正处在高速发展期，到处都在招人。企业真实项目直接进课堂，学生在真实场景里练技术、解决问题，学到的东西能真用上。” 分数何以走高？林克松分析，企业对高层次技术技能人才的需求持续增强，是背后的重要拉力。“这类人才既要有扎实的专业基础理论，又要具备实践创新能力，职业本科的培养定位与之高度匹配。部分头部院校在专业建设、师资、校企合作等方面的深厚积累，逐渐建立起良好的社会声誉。职教发展通道不断完善，职业本科毕业生同样能拿到本科学历，学生和家长看到的，是相比普通本科更高的性价比。”林克松说。 “随着人工智能普及、高校毕业生规模持续走高等外部环境变化，考生择校的底层逻辑正发生根本性转变，从过去依靠普通本科学历追求阶层跃迁，转向优先换取就业确定性与长期职业稳定性。”王亚南坦陈，人工智能时代到来，一批流程标准化、任务重复性强的岗位正面临技术替代风险，而职业本科从专业设置之初就锚定智能制造、集成电路等国家紧缺产业赛道，凭借清晰、稳定的就业赛道，能一定程度上消解大家对就业不确定性的焦虑。 2、分数抬升会带来什么 “热度之下，分化已经显现。”王亚南指出，办学积淀深厚、产教融合成效扎实的头部公办职业本科连续多年投档线稳步抬升；而相当一部分民办职业本科、地方新升格的非“双高计划”院校，投档线低位徘徊，甚至常年缺额。 他梳理道，湖南省教育考试院公布的2026年本科批第一次征集志愿显示，物理类缺额11940个，其中湖南软件职业技术大学第103组空缺1140个招生计划；在江西，南昌职业大学合计缺额2446人，为省内缺额最多的本科院校。 “办学基础薄弱、产教融合不深的院校，依靠身份升格带来的关注难以长期维持。”林克松说。 余天佐则判断：“当前，职业本科仍处于发展初期，热度主要靠本科身份、政策支持和学位稀缺；中期，将更多依赖城市、专业和学校品牌；长期，必须依靠毕业生就业质量、技术能力和职业发展。” “录取线走高本身是积极信号，但还有一个问题需要学校警惕——学术漂移。”林克松说，“这种‘漂移’首先表现在人才培养目标上，部分职业本科将‘本科’等同于‘去职业化’，培养目标逐渐转向学术型人才。简单套用普通本科课程体系、增加理论教学比例，以‘本科化’表象模糊了其与普通本科的差异。评价体系同样出现偏差，教师考核过度看重论文、课题，学生评价过度重视课程成绩、学位获得，而对毕业生对口就业率、就业质量、企业满意度等关注不足。” 他还指出：“需要明确的是，‘本科’是层次提升，‘职业’是类型定位。职业本科不是低配版的普通本科，也不是高职专科的简单升级，而应在保持类型定位的基础上提升育人层次，实现‘职业性’与‘高等性’的统一。” “分数线走高未必直接导致‘学术漂移’，但职业本科若缺乏办学定力，也难逃趋同之虞。”王亚南把风险看得更具体：比如，课程体系照搬普通本科范式，扩充通识课时，压缩实训、顶岗实习比重；师资评价导向偏移，职称晋升、评优考核偏重论文和纵向科研课题，企业技术服务、实训教学成果权重低；学生评价泛学术化，毕业设计偏向理论综述，少有产线改造、产品研发等实践课题；专业设置热衷低成本专业，校企合作停留在挂牌签约，缺少共建产线、订单培养等深度融合机制。 余天佐也提醒，高分学生及家长可能更重视考研考公，而把企业实践、生产实习视为影响备考的负担；现有高校评价、教师职称和资源配置制度仍呈现出普通大学导向；校企合作不深入，学校退回最熟悉、最容易组织的课堂教学模式。“可以说，真正驱动‘漂移’的，是学校发展参照系从产业和职业，转向传统的学科与学术。” 3、从“学历吸引”转向“质量吸引” 那么，职业本科该守住什么、改变什么？ 在林克松看来，服务经济社会发展的办学定位必须守住，职业本科要侧重培养面向产业一线、解决复杂技术问题的高层次技术技能人才。产教融合的办学特色要守住，把产业真实需求、企业真实项目融入专业、课程、教材、师资、实习实训建设全过程。实践能力培养的办学优势要守住，通过更高水平的实践教学提升学生解决问题的能力。“同时也要主动求变——补足理论教学短板，打造‘双师型’教师队伍，将学生就业质量、企业满意度、职业发展质量作为核心办学绩效指标。”林克松表示。 余天佐认为，始终锚定高层次技术技能人才的培养定位，明晰毕业生所对应的职业岗位和能力层级是重中之重。每个专业都应明确服务的产业链、对应的技术岗位群，以及毕业后三至五年的职业晋升路径。 “更关键的是，实践教学的中心地位不能动摇，要凸显‘五真’——真实生产问题、真实设备技术环境、真实行业标准、真实成本质量安全约束、可被企业使用或评价的真实成果。”余天佐说，质量评价要守住产业标准，着重关注毕业生专业对口率和岗位技术含量、企业持续参与培养和录用毕业生的程度。 王亚南建议，职业本科应始终锚定“高层次技术技能人才”的核心培养目标，摒弃照搬普通本科学科体系、评价标尺、办学范式的路径依赖。守牢产教融合的办学逻辑主线，联动龙头企业、科研院所搭建实体化产教联合体、产业学院等。护住实践育人的底色，以刚性制度约束实训、企业顶岗实习学时配比，严禁压缩实操课时。 张存贵说，职业本科想要走出特色、规避“更名式办学”误区，核心是在坚守服务产业、赋能实操的核心定位基础上，借鉴普通本科理论育人优势，构建“应用理论+实践技能”双向赋能的培养体系，将企业真实项目、产业前沿场景融入课堂。 “这股‘热度’是机会，也是考验。”林克松强调，职业本科应为学生提供更高水平的学习成长平台、更丰富的创新实践机会、更清晰的职业发展路径，“让学生认识到，选择职业本科并不是‘退而求其次’，而是选择了一条更适合自己的成长路径。如此，职业本科才能真正实现从‘学历吸引’转向‘质量吸引’，而不是换了名称的本科。” （本报记者 晋浩天）",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "理解中晚明诗学的三重视域",
+      "summary": "理解中晚明诗学的三重视域",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23067.html",
+      "copy_text": "理解中晚明诗学的三重视域\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23067.html",
+      "excerpt": "中晚明因其思想的多元与光景的斑斓在中国历史上留下了浓墨重彩的一笔。至于其间诗学更是异彩纷呈，流派纷起，学说多歧，夹杂着特定的社会情状、学术思潮和文化观念，造就了纷繁复杂的文学面貌。概而言之，对中晚明诗学的研究主要形成了三种理解视域。 传统诗学的一环 中晚明最重要的文学群体有二，一以前后七子为代表，崇复古，尚格调，另一则以公安派、竟陵派为代表，大力倡导独抒性灵、不拘格套。复古潮流自明中叶就已主导文坛，经年发展，影响深远，但各种流弊也日益滋生，并成为文学发展的巨大障碍，于是乃有性灵派应运而生。“中郎（袁宏道，字中郎）之论出，王、李之云雾一扫，天下之文人才士始知疏瀹心灵，搜剔慧性，以荡涤摹拟涂泽之病”，其间发展据此多被描述为针锋相对、泾渭分明的对立姿态，延及今日，崇革新而抑复古已成为不言而明的前提。 但当革新论调全盛之日，复古余裔针对批评之辞，或辩驳，或反思，形成了另一波高潮；为矫正公安派的浅俗率易，袁中道与钟惺、谭元春等人都重提师古。对立双方虽有激烈攻讦，但也存在积极借鉴，特别是继起者中的超拔之辈，能够积极吸收对方的优点，合理改造和完善自身的不足，实现理论的更新与再造。 有鉴于此，彼时文人虽有情感偏好，却能意识到各流派作为传统诗学的一环，皆具特定的合理价值，不应一概抹杀。他们对相关主张虽有评判，却不会简单左袒某一方，反而基于文学史发展的宏观立场，辩证、客观地评价个中得失。譬如朱彝尊有明文“八变”之说，后七子、公安派、竟陵派便是后三变的主要代表。有学人据此提出了“矫弊循环论”说：每一流派的兴起总是出于特定的客观需要，但在其流布过程中，或由于后人的惰怠无能，或由于形势的改弦更张，难免流弊日多，这时便会有新的文学主张萌生，“递相盛衰”，实现文学的演进。公安派取代七子派自是如此，竟陵派的代兴亦然。 可惜的是，明清易代产生的巨大影响使得诸多诗学反思未能持续而深入地推进下去。甲申之后，诸多遗民在反思亡国原因时，不约而同关注到了文学的“影响”，当然主要是负面的。最受口诛笔伐的便是公安派和竟陵派，他们的创作被视为灭裂风雅的“亡国之音”。其后，出于学术理念差别等因素的考量，经四库馆臣的有意“经营”，整个明代文学都遭到严厉批评。至此，无论是复古派还是革新派，其价值已基本是负面的，中晚明诗学的基本面貌长期被人歪曲或遮蔽。 新文学的源头 二十世纪初，当“五四”文学革命退潮后，不少先行者纷纷将目光转向中国古典文学，公安派因之重新浮出“历史地表”，其反对因袭模拟、追求个性解放的文学主张得到高度表彰，并被认为与新文学的诉求“基本相通”。这一理念最初只是一篇演讲稿中并不严密的理论构想，却在流布过程中得到了全面的推广和必要的完善，甚而为新文学确立了本土源头，影响一时无两。 类似主张风行之日，亦招致了不少反对声音，特别是以鲁迅为首的一批作家，个中因素较为繁复，但双方的论争却更为清晰地揭示了中晚明诗学的整体面貌，即除了“风花雪月”外，也有着“关心世道”的一面。尽管双方的理论论争如火如荼，但就实际效果来说，显然还是鼓吹性灵的一方占据了上风。彼时出现了大量小品选本，如刘大杰《晚明小品集》、施蛰存《晚明二十家小品》、王英《晚明小品文总集选》、阿英《晚明小品文库》等，虽不无“载道”的旨趣，但终究是以鼓吹“言志”或“性灵”为主导。此外，无论是彼时文人创作的小品文，抑或是指导小品文写作的教科书，无不以上述旨趣为宗旨。 经由这样一番努力，整个社会层面造就了关注、阅读、研究公安派和竟陵派的热潮，不但改变了他们少有人知、多遭恶谥的局面，甚至将其塑造为新文学的源头，纳入文学史的进化轨迹中。至于复古派则并不在讨论范围内，陈独秀的《文学革命论》更是将其列入“妖魔”行列，他们身上的枷锁非但没有打破，反而越发沉重了。 由此造就的，不仅是中晚明的“新”发现，也是“新”塑造。彼时学人关注的只是公安派、竟陵派及周边文人，且在意的只是他们身上与新文学相关联的那一面，于是乎公安派、竟陵派被置于文艺的核心位置，诗学的核心论述也被所谓“新思潮”全面接管。延及今日，谈论起这个时期，我们想到的就是公安派和竟陵派，或者“三袁”“钟谭”，以及上溯的徐渭、李贽，下及的张岱等人。至于七子派，则因为他们的“落后”，仍属于被检讨和批判的对象。 “现代”的发端 当我们将新文学的源头追溯至中晚明时，既是凸显（指公安派、竟陵派），也是遮蔽（指七子派）。自新的研究范式确立之日起，我们的理解视域就带有明显的区分和筛选性质，且这种研究取向日益强化乃至走向极端，特别是当我们的研究逐渐溢出文学范围，介入更为广阔的思想文化史研究领域中。 嵇文甫称“道学界的王学左派和文学界的公安派竟陵派是同一时代精神的表现”，多年来我们对“时代精神”的理解屡有变化，但总能通过对文学作品/现象的分析和阐释，发现社会文化发展的影响或印迹。经年发展，已经形成固定模式，论及中晚明文学，“先谈社会环境，即资本主义萌芽的历史情境→在思想界的反映（李贽和王学左派的影响）→在文学界的反映（公安三袁等）”（吴承学、李光摩《“五四”与晚明──20世纪关于“五四”新文学与晚明文学关系的研究》），文学固然为社会文化做了注脚，社会文化也赋予了文学新的阐释可能，彼此互相成就。 至20世纪80年代，传统文化如何走向现代成为时代的中心议题。其中最为突出的话题即是中国文化近代化的开端起于何时，众多学人不约而同地想到了明清之际，并特别强调了晚明时代的突出意义。商传认为“主张中国传统社会在晚明时代开始发生社会变迁，或者说社会转型的观点已渐渐为多数学者所公认”。我们有关中晚明诗学的新理解和新阐释，都是在这一背景下徐徐展开，资本主义萌芽、市民社会、早期启蒙、自然人性论等考察视角都是其必然产物。较之新文学的源头说，相关阐释可谓是进一步地深化与全面，充分展示了其所具“现代”意义的多面与深刻。 有关七子派的评价也开始发生微妙变化。经细致辨析，我们发现在七子派的文学思想中同样存在“革新”元素。譬如前七子领袖李梦阳，陈建华即认为“其主要的积极的部分与晚明文学思潮是相通的”；而后七子的领袖王世贞，据说其晚年有“自悔”之论，不少学人因之申发其后期的“自我修正”之举。至于王世懋、屠隆、胡应麟等人更是被视作由复古转向革新的“过渡者”，复古派与革新派也由敌对状态转趋融合。复古派虽存在“局限性”，亦有“突破”的成分，甚而可被视为革新思潮的“前导”和“先驱”，如此一来，中晚明文学/诗学内部虽存在分歧，但却具有相近的主旨和统一、明确的演进目标，种种新认识和新评价因之突破了部分对象层面，成为全局性的结论。 综上，有关中晚明诗学的认识日益丰富，特别是在社会文化的参照下，不断挖掘出了它的多种可能性，给我们提供了宝贵经验。但与此同时，我们对可能的问题也要保持警醒：一方面，三重视域虽多有积极意义，但可能的缺失——譬如说立场的偏狭、逻辑的错谬——同样非常显著。另一方面，就近百年的社会历史发展进程来看，我们受进化论影响太大，突出强调了文学“革新”与“现代”的一面，阐释历程看似多元，实则所有的洪流都汇聚到单一方向。当此之时，我们应当转换视角，综合考量历史的多重面向，特别是反思并超越上述视域的偏狭之处，尽可能地挖掘和展示中晚明诗学的丰富可能性。 （作者：王逊，系扬州大学文学院教授）",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "马克思伦敦居所变迁的微历史",
+      "summary": "马克思伦敦居所变迁的微历史",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23062.html",
+      "copy_text": "马克思伦敦居所变迁的微历史\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23062.html",
+      "excerpt": "卡尔·马克思作为举世公认的伟大思想家，其核心思想的锻造与形成，大多是在其后半生的政治流亡地——伦敦——完成的。长期以来，大众对马克思在大英博物馆埋头治学的故事耳熟能详，却对其在伦敦经历的颠沛流离、贫病交加的日常生活知之较少。居住作为人类生存的基础空间实践，绝非简单的物理容器，它是社会地位、经济状况与生存策略的直接投射。马克思一家在伦敦的几处居所，恰似几个历史切片，完整记录了这个流亡知识分子家庭在19世纪伦敦城市空间中的真实处境。从微历史的视角切入，细致考察马克思家庭的居所变迁轨迹，揭示其伟大思想生产背后鲜为人知的物质图景与生活逻辑，更能透视其个人命运与资本主义城市发展、阶级分化、交通技术革命等宏大叙事之间深刻而隐秘的互文关系。 切尔西安德森街4号：初到伦敦，面临生存重压 1848年欧洲革命失败后，马克思被迫流亡英国。1849年初，他在伦敦西郊切尔西安德森街4号安顿下来。这是一栋典型的英国中产阶级联排住宅，月租金高达6英镑，屋内有独立壁炉、功能分区明确的厨房以及足以容纳全家起居的宽敞空间。这一时期的伦敦，正经历着工业资本的集聚与城市功能的急剧分化。作为大英帝国的政治与经济中枢，伦敦在成为全球贸易中心的同时，城市空间也在被资本与社会关系重新塑造。如果说工业革命催生了如“棉业都市”曼彻斯特庞大的现代工人阶级，那么首都伦敦不仅吸引大量白领职员和专业人士，也吸引了国际无产者和革命流亡者。 搬到此地不久，马克思失去了祖国的稳定收入来源，既需偿还此前办报欠下的债务，又因语言障碍难以通过英文写作迅速谋生，家庭经济很快陷入绝境。1850年4月，因未能交清房租，法警上门，家具被查封拍卖，全家人被逐出门外。妻子燕妮从娘家带来的部分首饰、珍藏的书籍与常用家具，都在这场变故中流失。马克思一家只能在颠沛流离中寻找新的安身之处。 苏活迪恩街28号：贫病交加，但矢志如初 被逐出切尔西后，马克思一家经历了短暂的旅馆寄居（莱斯特街德国旅馆，周租金高达5英镑10先令），最终搬到伦敦著名的贫民窟——苏活区迪恩街，一个被认为是19世纪中叶伦敦工业化、城市化阴暗面的空间典型。他们先在46号丝带厂后的公寓住了半年，后搬至28号顶楼的两间小屋。其中一间是全家的卧室，另一间临街的房间则集客厅、厨房与书房功能于一体。居住于此的六年（1850-1856年），是马克思伦敦生涯中最贫困、最悲惨的时期，也是其思想创造力迸发的关键阶段。 迪恩街的居住空间拥挤、阴暗，狭窄的街道终年被伦敦的煤烟笼罩，空气里混杂着附近作坊的机油味与居民厨房的油烟。这里还聚集了大量来自欧洲大陆的流亡者、底层裁缝与小商贩，人口密度极高，公共卫生条件恶劣。恩格斯在回忆这段岁月时，直接将其描述为“肮脏的小巷、破烂的房屋”。居住在此，意味着被剥夺了安全、健康、隐私等基本生存条件。1855年，8岁的幼子埃德加因营养不良与延误医治不幸夭折。长期的饥寒交迫与精神重压，让马克思的肝病与痈疮反复发作，身体处于透支状态。 在如此恶劣的环境中，马克思依然为人类解放的崇高理想而不懈奋斗，物质的匮乏与精神的丰饶在这一时期形成惊人反差。每天清晨，马克思步行穿过半个伦敦城，前往大英博物馆的圆形阅览室，查阅经济学文献、摘抄笔记，下午再回到迪恩街小屋，在嘈杂的环境中整理笔记、撰写文稿。在这里，他完成了《路易·波拿巴的雾月十八日》的写作，并开始起草《资本论》第一卷的初稿。这间狭小的临街房间，同时也是早期共产主义者同盟的秘密联络点之一，许多来自欧洲各国的革命流亡者，都曾在此会面、讨论甚至短暂寄居。迪恩街的阁楼，成了一个流亡知识分子将切身的贫困体验，淬炼为对资本主义社会进行最彻底的理论批判的熔炉。 北郊肯蒂什镇：郊区化浪潮中的相对安稳 1856年之后，马克思一家的居住轨迹出现明显转折——他们搬到了伦敦北郊的肯蒂什镇。促成这次搬迁的原因，除了经济上获得亲朋遗产，还有19世纪中后期伦敦城市空间的深层变动：铁路的延伸让郊区化成为可能。中心城区越来越被商业和办公功能占据，而肯蒂什镇等新兴郊区空间，则开始接纳那些希望逃离内城拥挤、寻求更多空间的中产阶级家庭。在随后近30年的时间里（直至1883年逝世），他们虽数次搬迁（格拉弗顿坊路9号、莫丹娜别墅1号、梅特兰德公园路41号），但始终活动于这一新兴的中产阶级郊区。 当时的肯蒂什镇尚处于建设初期，租金偏低。这里被视作“受人尊敬的街区环境”，空气清新，周边还分布着大片可供散步的郊野绿地。马克思迁入此处后，拥有了独立书房，可以在不受打扰的环境下高效率地工作，《资本论》第一卷的定稿和后续卷次的写作，大多是在这一时期完成的。 在相对稳定的空间支持下，马克思的活动呈现新的特点，形成了独特的“郊区静思-市中心活动”的空间模式。他在北郊的宁静住所中锤炼理论，在市中心科芬园等公共空间组织第一国际的活动、联络各国流亡同志。但这种郊区生活，也存在一些问题。作为当时欧洲最具影响力的革命思想家之一，马克思始终处于英国警方与多国情报机构的监视之下，甚至被一些邻居视为“危险的外来者”，这与迪恩街时期和底层流亡者、工人打成一片的社群氛围，形成了鲜明的对比。 从个人居住轨迹解码19世纪伦敦的城市叙事 马克思一家在伦敦的居所变迁，不仅是个人生活史的记录，更是解读19世纪资本主义城市空间生产的经典案例。毋庸讳言，每一次搬迁，都与其家庭财政状况紧密相关，而家庭财政的起伏则受制于资本主义城市空间中地租和房价的逻辑。与此同时，这种变迁轨迹也恰好对应英国城市化演进的过程，即从早期市中心功能区的分化，到工业化进程中内城贫民窟的形成，再到铁路发展后催生的郊区化浪潮和中产阶级向郊区的迁徙。 从安德森街到迪恩街，再到肯蒂什镇，马克思亲身经历了资本如何重塑城市、阶级如何划分空间、技术如何改变人们的生活。另外，马克思寻找居所、适应新环境、在异质社群中求存的经历，是无数大都市移民共同的体验，是其宏大阶级理论与全球视野最质朴的生活来源。 今天，迪恩街28号的建筑已改造为名为“Quo Vadis”的餐厅，外墙悬挂着官方认证的蓝色纪念牌，内部专门设置了以马克思命名的纪念厅，墙上陈列着相关画像与生平介绍，这里成为全球马克思研究者与左翼人士到访伦敦的重要“朝圣点”。而当年的切尔西安德森街4号，如今已融入高收入阶层居住的切尔西街区，外观虽与百年前相差无几，却没有任何标识记录这段历史。马克思最后居住的梅特兰德公园路41号，在二战后的城市更新中被拆除，如今的新建公寓外墙上，仅镶嵌着一块小型的历史记述牌，提醒路人这里曾是伟大思想家的人生终点。这些或醒目或隐秘的空间遗存，共同构成了一个空间-历史的场域，供后人凭吊与思索：伟大的思想，如何在具体而微的、充满张力的日常生活空间中被孕育和锻造。 （作者：陆伟芳，系上海师范大学世界史系、都市文化中心教授）",
+      "verified": true
+    },
+    {
+      "media": "光明日报",
+      "title": "公告（10-11版中缝）",
+      "summary": "公告（10-11版中缝）",
+      "time": "08-24 00:00",
+      "link": "https://epaper.gmw.cn/gmrb/html/content/202608/24/content_23068.html",
+      "copy_text": "公告（10-11版中缝）\nhttps://epaper.gmw.cn/gmrb/html/content/202608/24/content_23068.html",
+      "excerpt": "公告专栏 2026年8月24日 广西壮族自治区灵山县人民法院公告 (2026)桂0721民初1467号 李德业、梁连芳: 本院受理原告李善富与被告李德业、梁连芳民间借贷纠纷一案，现已审理终结。因你们下落不明，现依法向你们公告送达民事判决书。自发出公告之日起，经过30日即视为送达。如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数或者代表人的人数提出副本，上诉于广西壮族自治区钦州市中级人民法院。 陕西省安康市汉滨区人民法院公告 胡德安(公民身份号码6124011989****5176): 本院受理原告高祥兵诉你民间借贷纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3758号民事判决书。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 陕西省安康市汉滨区人民法院公告 陈建(公民身份号码6124011991****4872): 本院受理原告周定林诉你民间借贷纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3760号民事判决书。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 陕西省安康市汉滨区人民法院公告 魏芳(公民身份号码6124012000****4829): 本院受理原告关富龙诉你离婚纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3755号民事判决书。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 陕西省安康市汉滨区人民法院公告 胡德亮(公民身份号码6124011992****5174): 本院受理原告安康市汉滨区明川航梦广告工作室诉你承揽合同纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3757号民事判决书。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 陕西省安康市汉滨区人民法院公告 陈婷(公民身份号码6124011995****5542): 本院受理原告柯胜程诉你民间借贷纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3759号民事判决书及民事裁定书(补正)。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 陕西省安康市汉滨区人民法院公告 赵德龙(公民身份号码6124011994****4970): 本院受理原告巨红红诉你劳务合同纠纷一案，现已审理终结。现依法向你公告送达本院(2026)陕0902民初3756号民事判决书。限你自公告刊登之日起30日内来本院领取上述文书，逾期视为送达。如不服本判决，可在公告期满后十五日内向本院递交上诉状及副本，上诉于陕西省安康市中级人民法院。也可以在判决书送达之日起十五日内，向陕西省安康市中级人民法院在线提交上诉状，逾期本判决即发生法律效力。 江苏省常州市天宁区人民法院公告 金波: 本院受理胡毅诉你买卖合同纠纷一案，已审理终结。因你下落不明，现我院依法向你公告送达(2026)苏0402民初3320号民事判决书。自公告之日起30日内来本院领取判决书，逾期即视为送达。如不服本判决，可在公告期满之日起15日内向本院递交上诉状及副本，上诉于江苏省常州市中级人民法院。 湖北省恩施市人民法院公告 (2025)鄂2801民初4902号 恩施市永誉百年置业发展有限责任公司、恩施市君悦商务宾馆有限公司、宋方俊、宋伟: 本院受理的湖北恩施农村商业银行股份有限公司申请执行恩施市永誉百年置业发展有限责任公司、恩施市君悦商务宾馆有限公司、宋方俊、宋伟、罗婷、李来金金融借款合同纠纷一案，依据湖北恩施农村商业银行股份有限公司的申请，本院将依法分别对恩施市永誉百年置业发展有限责任公司名下位于湖北省恩施市六角亭街道办事处龙鳞宫路18号(南山小镇)12-13幢1单元101号等33户不动产;恩施市君悦商务宾馆有限公司名下位于恩施市舞阳街道办事处园艺场内1幢1单元101号房产及恩施市小渡船街道办事处航空大道43号(图书馆东侧)1幢1单元101-401号房产;宋伟名下位于恩施市后山湾阳光花园18号1幢101-301号房产进行价格评估及网络司法拍卖。因无法采取直接送达、邮寄送达、委托送达等方式向你们送达相关法律文书，现依法公告向你们送达本院为办理上述案件的选择鉴定(评估)机构通知书、拍卖的执行裁定书。自公告之日起，经过30日即视为送达。本院定于2026年9月29日9时30分在本院司法技术部门办理选择评估机构的评估事宜;定于2026年9月30日9时30分进行现场勘验。逾期不到视为放弃相关权利(即放弃包括参加选择评估机构、知晓已选择确定的评估机构、参加评估现场勘察、接收评估报告、对评估报告提出异议、对拍卖的执行裁定提出异议等权利)，并承担相应法律责任。 安徽省五河县人民法院公告 深圳绿动力环境治理工程有限公司: 本院受理的原告湖南众安泰瑜环境科技有限公司诉被告深圳绿动力环境治理工程有限公司建设工程施工合同纠纷一案，现依法向你公告送达起诉状副本及证据材料、应诉通知书、举证通知书、合议庭组成人员告知书及开庭传票。自公告之日起，经过30日即视为送达。提出答辩状和举证期限为公告期满后15日内，并于举证期届满后第3日上午8:30分(遇法定节假日顺延)在本院第十一法庭开庭审理，逾期将依法缺席审判。 贵州省贵阳市云岩区人民法院公告 吴洪: 本院受理原告中国建设银行股份有限公司贵州省分行诉你金融借款合同纠纷一案[案号:(2026)黔0103民初20600号]，根据《中华人民共和国民事诉讼法》第九十五条规定，本案适用普通程序独任审理。因你下落不明，现依法向你公告送达民事起诉状、应诉通知书、举证通知书、开庭传票、普通程序独任审理告知书，自公告之日起，经过30日即视为送达，提出答辩状的期限为公告期满后15日内，举证期限为答辩期满后15日内，并定于举证期限届满后的第3日上午9时30分(遇法定节假日顺延)在本院公开开庭审理，逾期将依法缺席裁判。 贵州省贵阳市云岩区人民法院公告 袁辉: 本院受理原告中国建设银行股份有限公司贵州省分行诉你金融借款合同纠纷一案已审理终结。现依法向你公告送达本院(2026)黔0103民初4998号民事判决书，自公告之日起30日内到本院领取民事判决书，逾期则视为送达。如不服本判决，可在公告期满后15日内，向本院递交上诉状及副本，上诉于贵州省贵阳市中级人民法院。逾期本判决即发生法律效力。 贵州省都匀市人民法院公告 王国平: 本院受理原告联科非融资性担保(深圳)有限公司诉你追偿权纠纷一案，案号为(2026)黔2701民初5836号，因你外出下落不明，现依法向你公告送达起诉状副本、证据材料、应诉通知书、举证通知书、风险提示书、调解建议书、参诉须知、公开承诺书、纪律监督卡、上网告知书、开庭传票、民事裁定书。自本公告发出之日起经过30日即视为送达。提出答辩状的期限和举证期限分别为公告期满后的15日内，并定于举证期满后2026年10月12日14时30分(若遇节假日顺延)在都匀市人民法院匀东人民法庭公开开庭审理，逾期未到将依法缺席裁判。 贵州省都匀市人民法院公告 许青能: 本院受理原告许昌道逸信息咨询有限公司诉你追偿权纠纷一案，因你下落不明，依照《中华人民共和国民事诉讼法》第九十五条的规定，向你公告送达(2026)黔2701民初5276号民事判决书，自本公告发出之日起30日内到我院领取，否则视为送达。如不服本判决，可在文书送达后15日内向本院递交上诉状及副本，上诉于贵州省黔南布依族苗族自治州中级人民法院。 贵州省都匀市人民法院公告 肖开文: 本院受理(2026)黔2701民初7574号原告荣万家生活服务股份有限公司都匀分公司与你物业服务合同纠纷一案，因你外出下落不明，现依法向你公告送达起诉状副本、应诉通知书、举证通知书、风险提示书、调解建议书、参诉须知、公开承诺书、纪律监督卡、上网告知书、开庭传票、民事裁定书。自本公告发出之日起经过30日即视为送达。答辩状、举证期限为公告期满后的15日，并定于举证期满后的2026年10月12日上午9点00分(如遇节假日则顺延)在都匀市人民法院匀东人民法庭公开开庭审理，逾期未到将依法缺席裁判。 贵州省龙里县人民法院公告 陈艳: 本院受理原告龙里县绘聚居民服务有限责任公司与被告何成凯、陈艳金融借款合同纠纷一案[案号:(2026)黔2730民初3012号]，现依法向你公告送达起诉状副本、应诉通知书、举证通知书、诉讼权利义务告知书、裁判文书上网告知书、适用程序告知书、传票(联系电话:0854-8622678)，自公告之日起经过30日即视为送达，提出答辩和举证期限为公告期满后15日内，并定于2026年10月12日下午15时在本院第三高清数字法庭公开开庭进行审理，逾期不到庭将依法缺席判决。 河南省平顶山市新华区人民法院公告 平顶山鹰平房地产经纪有限公司： 本院受理刘怀申诉你委托合同纠纷一案，已审理终结。现依法向你公告送达本院（2026）豫0402民初2825号民事判决书。自发出本公告之日起30日内来本院领取，逾期视为送达。如不服本判决，可在公告期满后15日内向本院递交上诉状及副本，上诉于河南省平顶山市中级人民法院。特此公告 河南省平顶山市新华区人民法院公告 (2026)豫0402民初3163号 胡万涛、吴艳红、余会现、张长安、程小要: 本院受理原告河南农村商业银行股份有限公司平顶山中心支行诉你们的金融借款合同纠纷一案，已审理终结。现依法向你公告送达本院(2026)豫0402民初3163号民事判决书。自本公告之日起30日内来本院速裁团队领取判决书，逾期即视为送达。对本判决不服的，可在判决书送达之日起十五日内，向本院递交上诉状及副本，上诉于河南省平顶山市中级人民法院。逾期未上诉的，本判决即发生法律效力。特此公告 江苏省常州市天宁区人民法院公告 常州华基建设工程有限公司延陵分公司、常州华基建设工程有限公司: 本院受理原告常州铝腾金属制品有限公司与你们买卖合同纠纷一案，现依法向你们公告送达起诉状副本、应诉、举证通知书、开庭传票等诉讼文书。自公告之日起经过30日，即视为送达。提出答辩状和举证的期限分别为公告期满后的15日内。并定于举证期满后第3日上午9时30分(遇法定节假日顺延)在本院第九法庭开庭审理，逾期将依法缺席裁判。 本版广告为信息资讯，不作为签订合同及承担法律责任的依据。联系电话：010-67078410",
+      "verified": true
+    },
+    {
+      "media": "中国新闻报",
+      "title": "从西安到阿拉木图 中欧班列向西再提速",
+      "summary": "从西安到阿拉木图 中欧班列向西再提速",
+      "time": "08-24 00:00",
+      "link": "http://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html",
+      "copy_text": "从西安到阿拉木图 中欧班列向西再提速\nhttp://epaperres.chinanews.com/epms/article/html/2026/08/24/1541394111460937728.html",
+      "excerpt": "本报讯（杨英琦 党田野）汽笛长鸣，一列列中欧班列满载汽车零配件、家电产品向西驶往海外。与此同时，来自中亚的菜籽油、面粉等货物也沿同一通道源源不断进入中国市场。这是记者近日踏访中欧班列西安集结中心见到的场景。 目前，中欧班列（西安）已累计开通18条国际运输干线、26条“+西欧”线路，覆盖欧亚大陆全境及中国国内主要货源地。西安成为中国首个中欧班列累计开行突破30000列的城市，内陆集结、陆海联动、全球分拨的现代物流体系正在这里加速形成。 在陕西康佳智能家电有限公司生产车间，自动化流水线有序运转，冰箱、洗衣机、洗碗机完成组装打包，随即装车运往中欧班列西安集结中心，当天即可搭乘中欧班列发往中亚和欧洲市场。 “工厂距中欧班列西安集结中心约1公里，当天生产、当天发运，发往俄罗斯最快7天抵达，真正实现了高效率、低成本出海。”公司总经理陈钊介绍，截至今年7月底，公司经中欧班列出口的冰箱、洗衣机等白色家电达28.6万台。 “我们推行‘班列+跨境电商’‘班列+汽车零配件’出口模式，依托中欧班列带动产业落地，吸引多家生产贸易、跨境电商企业落户陕西。”西安自贸港建设运营有限公司副总经理张冰馨说。 2025年6月，中国·西安哈萨克斯坦码头在阿拉木图市投入运营，与位于西安的哈萨克斯坦西安码头互联互通，实现从“点对点”向“枢纽对枢纽”的运输升级。 “这样的双码头联动大幅提升了口岸换装、重载箱与空载箱的调配效率。过去西安到阿拉木图需15天，如今压缩至四到七天；口岸换装则从原来的三至五天缩短为几小时。”西安欣赛福国际物流有限公司总经理李烨介绍，其所在公司主营新能源产品、光伏产品、家电及日用百货等，哈萨克斯坦是其核心市场。 “如今，我们公司的业务量已实现2至3倍的增长，中欧班列不仅提振了本土企业开拓海外市场的信心，更凭借开行密集、班次稳定的优势，吸引长三角、珠三角等地货源向西安集结。”李烨说。",
+      "verified": true
     }
   ]
 }
