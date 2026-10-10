@@ -219,8 +219,8 @@
       return all.filter((item, index) => all.findIndex((candidate) => (candidate.url || candidate.title) === (item.url || item.title)) === index);
     };
     const policyCopyText = (item) => {
-      const summary = String(item.summary || "").replace(/^\s*△\s*/, "").replace(/\s*来源：.*$/s, "").trim();
-      return `△${summary}\n来源：${String(item.url || "").trim()}`.trim();
+      const summary = String(item.summary || "").replace(/\s*来源：.*$/s, "").trim();
+      return `${summary.startsWith("△") ? summary : `△${summary}`}\n来源：${String(item.url || "").trim()}`.trim();
     };
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
     const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
@@ -270,8 +270,8 @@
     }
     function renderVisual(data, items) {
       const personal = state.active === "personal";
-      if (state.active === "policy") { $("#visual-overview").innerHTML = "<div class=\"visual-facts\"><div class=\"visual-fact\"><span>今日政策</span><strong>" + (stats.today || 0) + "</strong></div><div class=\"visual-fact\"><span>昨日政策</span><strong>" + (stats.yesterday || 0) + "</strong></div><div class=\"visual-fact\"><span>当前状态</span><strong>" + (data ? "已同步" : "等待") + "</strong></div></div>"; $("#visual-title").textContent = "政策来源态势"; $("#visual-list").innerHTML = ""; return; }
       const stats = data?.stats || {};
+      if (state.active === "policy") { $("#visual-overview").innerHTML = "<div class=\"visual-facts\"><div class=\"visual-fact\"><span>今日政策</span><strong>" + (stats.today || 0) + "</strong></div><div class=\"visual-fact\"><span>昨日政策</span><strong>" + (stats.yesterday || 0) + "</strong></div><div class=\"visual-fact\"><span>当前状态</span><strong>" + (data ? "已同步" : "等待") + "</strong></div></div>"; $("#visual-title").textContent = "政策来源态势"; $("#visual-list").innerHTML = ""; return; }
       const total = personal ? Number(stats.total_posts || 0) : Number(items.length || 0);
       const focus = personal ? Number(stats.new_neg || 0) : Number(stats.verified || 0);
       const ratio = total ? Math.min(100, Math.round(focus / total * 100)) : 0;
