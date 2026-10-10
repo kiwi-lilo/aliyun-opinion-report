@@ -220,7 +220,7 @@
     };
     const policyCopyText = (item) => {
       const summary = String(item.summary || "").replace(/\s*来源：.*$/s, "").trim();
-      return `${summary.startsWith("△") ? summary : `△${summary}`}\n来源：${String(item.url || "").trim()}`.trim();
+      return `${summary.startsWith("△") ? summary : `△${summary}`}\n${String(item.source_name || item.source_type || "官方来源").trim()}`.trim();
     };
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
     const summaryRemainder = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const first = firstSentence(value); return first && value.startsWith(first) ? value.slice(first.length).trim() : ""; };
