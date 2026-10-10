@@ -163,6 +163,7 @@
       <nav class="tabs" role="tablist" aria-label="报告类型">
         <button class="tab" type="button" role="tab" aria-selected="true" data-tab="personal">个人舆情 <span class="tab-count" id="personal-count">--</span></button>
         <button class="tab" type="button" role="tab" aria-selected="false" data-tab="media">央媒涉陕 <span class="tab-count" id="media-count">--</span></button>
+        <button class="tab" type="button" role="tab" aria-selected="false" data-tab="policy">政策参考 <span class="tab-count" id="policy-count">--</span></button>
       </nav>
     </div>
   </header>
@@ -194,7 +195,7 @@
   </main>
   <footer>联合报告入口 · 数据由 GitHub Actions 与阿里云函数分别更新</footer>
   <script>
-    const state = { active: "personal", personal: null, media: null, errors: [], issueFilter: "all", postBrowserMode: "monitored_posts", postBrowserOpen: false };
+    const state = { active: "personal", personal: null, media: null, policy: null, errors: [], issueFilter: "all", postBrowserMode: "monitored_posts", postBrowserOpen: false };
     const $ = (selector) => document.querySelector(selector);
     const escapeHtml = (value) => String(value ?? "").replace(/[&<>'"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;","\"":"&quot;"}[char]));
     const copyText = async (value) => {
@@ -229,7 +230,7 @@
       };
     };
     const normalizeMedia = (data) => ({ ...data, items: data.items || data.top10 || data.recommendations || [], featured: data.top10 || data.recommendations || data.items || [] });
-    function currentData() { return state.active === "personal" ? state.personal : state.media; }
+    function currentData() { return state.active === "personal" ? state.personal : state.active === "media" ? state.media : state.policy; }
     function rssCandidates() { return state.media?.rss_candidates || []; }
     function openPostBrowser(mode) {
       state.postBrowserMode = mode;
@@ -242,7 +243,9 @@
       const stats = data?.stats || {};
       const values = state.active === "personal"
         ? [[stats.new_neg ?? 0, "新增负面", "new-negative-card"], [stats.total_posts ?? 0, "监测帖子", "monitored-posts-card"], [stats.healthy ?? 0, "健康城市", ""], [stats.city_count ?? 0, "覆盖城市", ""]]
-        : [[data?.items?.length ?? 0, "有效报道", ""], [stats.verified ?? 0, "原文核验", ""], [stats.rss_candidates ?? 0, "RSS候选", "rss-candidate-card"], [stats.summary_candidates ?? 0, "精选候选", ""]];
+        : state.active === "media"
+          ? [[data?.items?.length ?? 0, "有效报道", ""], [stats.verified ?? 0, "原文核验", ""], [stats.rss_candidates ?? 0, "RSS候选", "rss-candidate-card"], [stats.summary_candidates ?? 0, "精选候选", ""]]
+          : [[stats.today ?? 0, "今日政策", ""], [stats.yesterday ?? 0, "昨日政策", ""], [stats.ministries ?? 0, "国家部委", ""], [stats.provinces ?? 0, "外省政策", ""]];
       $("#metrics").innerHTML = values.map(([value, label, actionId]) => {
         const tag = actionId ? "button" : "div";
         const extra = actionId ? ` id="${actionId}" class="metric metric-action" type="button"` : " class=\"metric\"";
@@ -259,6 +262,7 @@
     }
     function renderVisual(data, items) {
       const personal = state.active === "personal";
+      if (state.active === "policy") { $("#visual-overview").innerHTML = "<div class=\"visual-facts\"><div class=\"visual-fact\"><span>今日政策</span><strong>" + (stats.today || 0) + "</strong></div><div class=\"visual-fact\"><span>昨日政策</span><strong>" + (stats.yesterday || 0) + "</strong></div><div class=\"visual-fact\"><span>当前状态</span><strong>" + (data ? "已同步" : "等待") + "</strong></div></div>"; $("#visual-title").textContent = "政策来源态势"; $("#visual-list").innerHTML = ""; return; }
       const stats = data?.stats || {};
       const total = personal ? Number(stats.total_posts || 0) : Number(items.length || 0);
       const focus = personal ? Number(stats.new_neg || 0) : Number(stats.verified || 0);
@@ -280,6 +284,12 @@
     }
     function renderIssueFilters(data) {
       const personal = state.active === "personal";
+      if (state.active === "policy") {
+        const values = [...new Set((data?.items || []).map((item) => String(item.topic || "综合").trim()))].sort((a,b) => a.localeCompare(b,"zh-CN"));
+        const options = [["all", "全部主题"], ...values.map((value) => [value, value])];
+        if (!options.some(([value]) => value === state.issueFilter)) state.issueFilter = "all";
+        $("#issue-filters").innerHTML = options.map(([value,label]) => `<button class="filter" type="button" aria-pressed="${String(value === state.issueFilter)}" data-filter="${escapeHtml(value)}">${escapeHtml(label)}</button>`).join(""); return;
+      }
       const items = personal ? (data?.items || []) : (data?.featured || data?.items || []);
       const values = [...new Set(items.map((item) => {
         const value = personal ? (item.city || item.region || "其他") : (item.media || "其他");
@@ -322,18 +332,18 @@
         const label = String(item.label || item.sentiment_label || "");
         const level = /负面|关注/.test(label) ? "negative" : /正面|正向/.test(label) ? "positive" : "all";
         const haystack = [item.city, item.media, item.title, item.summary, item.user, item.region].join(" ").toLowerCase();
-        const filterValue = personal ? (item.city || item.region || "其他") : (item.media || "其他");
+        const filterValue = personal ? (item.city || item.region || "其他") : state.active === "policy" ? (item.topic || "综合") : (item.media || "其他");
         return (filter === "all" || filterValue === filter) && (!query || haystack.includes(query));
       });
       $("#result-count").textContent = `共 ${visible.length} 条`;
       $("#issue-list").innerHTML = visible.length ? visible.map((item, index) => {
         const label = item.label || item.sentiment_label || "报道";
         const level = /负面|关注/.test(label) ? "negative" : /正面|正向/.test(label) ? "positive" : "all";
-        const heading = personal ? firstSentence(item.summary || item.text || "暂无摘要") : `${item.media || "央媒"} · ${item.title || "未命名报道"}`;
-        const meta = state.active === "personal" ? `${item.region || item.city || ""} · ${item.time || ""}` : `${item.time || ""}`;
+        const heading = personal ? firstSentence(item.summary || item.text || "暂无摘要") : state.active === "policy" ? (item.title || "未命名政策") : `${item.media || "央媒"} · ${item.title || "未命名报道"}`;
+        const meta = state.active === "personal" ? `${item.region || item.city || ""} · ${item.time || ""}` : state.active === "policy" ? `${item.timeliness || ""} · ${item.published_at || ""} · ${item.region || ""} · ${item.source_name || ""} · ${item.topic || ""}` : `${item.time || ""}`;
         const link = item.url || item.link || "";
         const body = personal ? summaryRemainder(item.summary || item.text || "") : (item.summary || "");
-        const author = personal ? (item.user ? `@${item.user}` : "") : "";
+        const author = personal ? (item.user ? `@${item.user}` : "") : state.active === "policy" ? (item.source_type || "") : "";
         return `<article class="issue" data-level="${level}"><div class="issue-number">${String(index + 1).padStart(2, "0")}</div><div><div class="issue-top"><div class="issue-meta"><strong>${escapeHtml(heading)}</strong>${personal ? `<span class="tag ${level === "positive" ? "good" : ""}">${escapeHtml(label)}</span>` : ""}<br>${escapeHtml(meta)}</div><button class="copy-button" type="button" data-copy="${escapeHtml(itemText(item))}">复制</button></div>${body ? `<p class="issue-summary">${escapeHtml(body)}</p>` : ""}<div class="issue-footer"><span class="issue-author">${escapeHtml(author)}</span>${link ? `<a class="issue-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">查看原文 ↗</a>` : ""}</div></div></article>`;
       }).join("") : `<div class="empty">当前报告没有符合条件的内容。</div>`;
     }
@@ -379,8 +389,9 @@
       const personalMonitoredCount = state.personal ? (state.personal.monitored_posts.length || Number(state.personal.stats?.total_posts || 0)) : null;
       $("#personal-count").textContent = personalMonitoredCount === null ? "--" : String(personalMonitoredCount).padStart(2, "0");
       $("#media-count").textContent = state.media ? String(state.media.items.length).padStart(2, "0") : "--";
-      $("#section-label").textContent = state.active === "personal" ? "Personal / 01" : "Verified sources / 02";
-      $("#panel-title").textContent = state.active === "personal" ? "精选舆情" : "精选报道";
+      $("#policy-count").textContent = state.policy ? String(state.policy.items.length).padStart(2, "0") : "--";
+      $("#section-label").textContent = state.active === "personal" ? "Personal / 01" : state.active === "media" ? "Verified sources / 02" : "Policy reference / 03";
+      $("#panel-title").textContent = state.active === "personal" ? "精选舆情" : state.active === "media" ? "精选报道" : "政策参考信息";
       $("#updated-line").textContent = data ? `${data.period || "最新报告"} · 更新于 ${data.updated_at || "未知时间"}` : "正在读取最新日报";
       $("#status-line").textContent = state.errors.length ? "部分数据未更新" : (data ? "数据已同步" : "在线读取");
       renderMetrics(data); renderVisual(data, items); renderIssueFilters(data); renderIssues(); renderPostBrowser(); renderUnsummarized(); renderOtherMedia(); bindCopyButtons();
@@ -390,10 +401,11 @@
     $("#issue-search").addEventListener("input", renderIssues);
     $("#post-browser-collapse").addEventListener("click", () => { state.postBrowserOpen = false; $("#post-browser").hidden = true; });
     async function load() {
-      const requests = await Promise.allSettled([fetch(`personal.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("personal"); return response.json(); }), fetch(`media.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("media"); return response.json(); })]);
-      state.errors = []; if (requests[0].status === "fulfilled") state.personal = normalizePersonal(requests[0].value); else state.errors.push("personal"); if (requests[1].status === "fulfilled") state.media = normalizeMedia(requests[1].value); else state.errors.push("media"); render();
+      const requests = await Promise.allSettled([fetch(`personal.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("personal"); return response.json(); }), fetch(`media.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("media"); return response.json(); }), fetch(`policy_reference.json?v=${Date.now()}`, { cache: "no-store" }).then((response) => { if (!response.ok) throw new Error("policy"); return response.json(); })]);
+      state.errors = []; if (requests[0].status === "fulfilled") state.personal = normalizePersonal(requests[0].value); else state.errors.push("personal"); if (requests[1].status === "fulfilled") state.media = normalizeMedia(requests[1].value); else state.errors.push("media"); if (requests[2].status === "fulfilled") state.policy = requests[2].value; else state.errors.push("policy"); render();
     }
     render(); load();
   </script>
 </body>
 </html>
+
