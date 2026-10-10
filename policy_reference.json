@@ -1,46 +1,52 @@
 {
   "source": "policy_reference",
-  "updated_at": "2026-10-11T01:40+08:00",
+  "updated_at": "2026-10-11T02:35+08:00",
   "date": "2026-10-11",
   "status": "partial",
   "errors": [
-    "工业和信息化部: HTTPSConnectionPool(host='miit.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='miit.gov.cn', port=443): Failed to resolve 'miit.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "国家金融监督管理总局: HTTPSConnectionPool(host='nfra.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='nfra.gov.cn', port=443): Failed to resolve 'nfra.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "住房和城乡建设部: HTTPSConnectionPool(host='mohurd.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mohurd.gov.cn', port=443): Failed to resolve 'mohurd.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "人力资源和社会保障部: HTTPSConnectionPool(host='mohrss.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mohrss.gov.cn', port=443): Failed to resolve 'mohrss.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "国家发展改革委: HTTPSConnectionPool(host='ndrc.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ndrc.gov.cn', port=443): Failed to resolve 'ndrc.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "民政部: HTTPSConnectionPool(host='mca.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mca.gov.cn', port=443): Failed to resolve 'mca.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "国家数据局: HTTPSConnectionPool(host='nda.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='nda.gov.cn', port=443): Failed to resolve 'nda.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "农业农村部: HTTPSConnectionPool(host='moa.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='moa.gov.cn', port=443): Failed to resolve 'moa.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "商务部: HTTPSConnectionPool(host='mofcom.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mofcom.gov.cn', port=443): Failed to resolve 'mofcom.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
+    "国家发展改革委: HTTPSConnectionPool(host='ndrc.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ndrc.gov.cn', port=443): Failed to resolve 'ndrc.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
+    "住房和城乡建设部: HTTPSConnectionPool(host='mohurd.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mohurd.gov.cn', port=443): Failed to resolve 'mohurd.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
+    "国家金融监督管理总局: HTTPSConnectionPool(host='nfra.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='nfra.gov.cn', port=443): Failed to resolve 'nfra.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "教育部: HTTPSConnectionPool(host='moe.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='moe.gov.cn', port=443): Failed to resolve 'moe.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "国家税务总局: HTTPSConnectionPool(host='chinatax.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='chinatax.gov.cn', port=443): Failed to resolve 'chinatax.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "国家卫生健康委: HTTPSConnectionPool(host='nhc.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='nhc.gov.cn', port=443): Failed to resolve 'nhc.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "江苏: HTTPSConnectionPool(host='jiangsu.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='jiangsu.gov.cn', port=443): Failed to resolve 'jiangsu.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "浙江: HTTPSConnectionPool(host='zj.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='zj.gov.cn', port=443): Failed to resolve 'zj.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "广东: HTTPSConnectionPool(host='gd.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gd.gov.cn', port=443): Failed to resolve 'gd.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "山东: HTTPSConnectionPool(host='shandong.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='shandong.gov.cn', port=443): Failed to resolve 'shandong.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "四川: HTTPSConnectionPool(host='sc.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='sc.gov.cn', port=443): Failed to resolve 'sc.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "交通运输部: HTTPSConnectionPool(host='mot.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mot.gov.cn', port=443) at 0x22a6cd09d10>, 'Connection to mot.gov.cn timed out. (connect timeout=1)'))",
-    "国家知识产权局: HTTPSConnectionPool(host='cnipa.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cnipa.gov.cn', port=443) at 0x22a6cd0ad50>, 'Connection to cnipa.gov.cn timed out. (connect timeout=1)'))",
-    "安徽: HTTPSConnectionPool(host='ah.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ah.gov.cn', port=443): Failed to resolve 'ah.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "天津: HTTPSConnectionPool(host='tj.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tj.gov.cn', port=443) at 0x22a6ce29310>, 'Connection to tj.gov.cn timed out. (connect timeout=1)'))",
-    "生态环境部: HTTPSConnectionPool(host='mee.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))",
     "北京: HTTPSConnectionPool(host='beijing.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)')))",
+    "山东: HTTPSConnectionPool(host='shandong.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='shandong.gov.cn', port=443): Failed to resolve 'shandong.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "湖南: HTTPSConnectionPool(host='hunan.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)')))",
-    "人民网地方频道: HTTPSConnectionPool(host='local.people.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='local.people.com.cn', port=443) at 0x22a6cd09810>, 'Connection to local.people.com.cn timed out. (connect timeout=1)'))",
+    "四川: HTTPSConnectionPool(host='sc.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='sc.gov.cn', port=443): Failed to resolve 'sc.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "深圳: 404 Client Error: Not Found for url: https://sz.gov.cn/",
     "湖北: 412 Client Error: Precondition Failed for url: https://hubei.gov.cn/",
+    "安徽: HTTPSConnectionPool(host='ah.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ah.gov.cn', port=443): Failed to resolve 'ah.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
     "河北: HTTPSConnectionPool(host='hebei.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='hebei.gov.cn', port=443): Failed to resolve 'hebei.gov.cn' ([Errno 11001] getaddrinfo failed)\"))",
-    "中国新闻网地方频道: HTTPSConnectionPool(host='www.chinanews.com.cn', port=443): Read timed out. (read timeout=1)",
-    "市场监管总局: HTTPSConnectionPool(host='samr.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='samr.gov.cn', port=443): Failed to resolve 'samr.gov.cn' ([Errno 11002] getaddrinfo failed)\"))"
+    "中国新闻网地方频道: 404 Client Error: Not Found for url: https://www.chinanews.com.cn/%E5%9C%B0%E6%96%B9/",
+    "交通运输部: HTTPSConnectionPool(host='mot.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mot.gov.cn', port=443) at 0x24aae87e5d0>, 'Connection to mot.gov.cn timed out. (connect timeout=8)'))",
+    "国家知识产权局: HTTPSConnectionPool(host='cnipa.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cnipa.gov.cn', port=443) at 0x24aae65bed0>, 'Connection to cnipa.gov.cn timed out. (connect timeout=8)'))",
+    "市场监管总局: HTTPSConnectionPool(host='samr.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='samr.gov.cn', port=443): Failed to resolve 'samr.gov.cn' ([Errno 11002] getaddrinfo failed)\"))",
+    "天津: HTTPSConnectionPool(host='tj.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tj.gov.cn', port=443) at 0x24aae87fc50>, 'Connection to tj.gov.cn timed out. (connect timeout=8)'))",
+    "人民网地方频道: HTTPSConnectionPool(host='local.people.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='local.people.com.cn', port=443) at 0x24aae998550>, 'Connection to local.people.com.cn timed out. (connect timeout=8)'))"
   ],
   "stats": {
-    "total": 0,
+    "total": 1,
     "today": 0,
-    "yesterday": 0,
+    "yesterday": 1,
     "ministries": 0,
-    "provinces": 0
+    "provinces": 1
   },
-  "items": []
+  "items": [
+    {
+      "title": "中共上海市委办公厅 上海市人民政府办公厅印发《上海市生活垃圾分类提质增效三年行动计划（2026—2028年）》的通知",
+      "region": "外省",
+      "source_name": "上海",
+      "published_at": "2026-10-10",
+      "summary": "△上海中共上海市委办公厅 上海市人民政府办公厅印发《上海市生活垃圾分类提质增效三年行动计划（2026—2028年）》的通知。中共上海市委办公厅 上海市人民政府办公厅 2026年5月21日 上海市生活垃圾分类提质增效三年行动计划（2026—2028年） 为深入贯彻落实习近平总书记关于垃圾分类工作重要指示批示精神，推动生活垃圾分类提质增效，深入推进绿色低碳转型，制定本行动计划。一、主要目标 到2028年，全市生活垃圾全程分类体系更加完善，湿垃圾分出量占比超过35%，湿垃圾分出纯净度达95%左右；二、推动源头减量 （一）加强重点领域垃圾减量。推行生产者责任延伸制度，推动企业践行社会责任。",
+      "url": "https://www.shanghai.gov.cn/nw44142/20261010/c21b4c4ebaae4d368ac9fc48e17c11b4.html",
+      "source_type": "政府官网",
+      "timeliness": "昨日",
+      "topic": "民政"
+    }
+  ]
 }
