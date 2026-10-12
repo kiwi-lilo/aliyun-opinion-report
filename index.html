@@ -386,6 +386,14 @@
     }
     function renderOtherMedia() {
       const panel = $("#other-news");
+      if (state.active === "policy" && state.policy) {
+        const other = state.policy.other_items || [];
+        panel.hidden = false;
+        $("#other-news-count").textContent = `共 ${other.length} 条`;
+        $("#other-news-list").innerHTML = other.length ? other.map((item) => `<li class="other-news-row"><a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名政策")}</a><span>${escapeHtml(item.timeliness || "日期不明")} · ${escapeHtml(item.source_name || item.source_type || "官方来源")}</span></li>`).join("") : `<li class="empty">暂无其他符合日期条件的政策。</li>`;
+        $("#other-news h3").textContent = "其他有效政策";
+        return;
+      }
       if (state.active !== "media" || !state.media) { panel.hidden = true; return; }
       const featuredLinks = new Set((state.media.featured || []).map((item) => item.link || item.title));
       const other = (state.media.items || []).filter((item) => !featuredLinks.has(item.link || item.title));
@@ -401,7 +409,7 @@
       $("#media-count").textContent = state.media ? String(state.media.items.length).padStart(2, "0") : "--";
       $("#policy-count").textContent = state.policy ? String(policyItems(state.policy).length).padStart(2, "0") : "--";
       $("#section-label").textContent = state.active === "personal" ? "Personal / 01" : state.active === "media" ? "Verified sources / 02" : "Policy reference / 03";
-      $("#panel-title").textContent = state.active === "personal" ? "精选舆情" : state.active === "media" ? "精选报道" : "政策参考信息";
+      $("#panel-title").textContent = state.active === "personal" ? "精选舆情" : state.active === "media" ? "精选报道" : "政策参考信息（精选10条）";
       $("#updated-line").textContent = data ? `${data.period || "最新报告"} · 更新于 ${data.updated_at || "未知时间"}` : "正在读取最新日报";
       $("#status-line").textContent = state.errors.length ? "部分数据未更新" : (data ? "数据已同步" : "在线读取");
       renderMetrics(data); renderVisual(data, items); renderIssueFilters(data); renderIssues(); renderPostBrowser(); renderUnsummarized(); renderOtherMedia(); bindCopyButtons();
