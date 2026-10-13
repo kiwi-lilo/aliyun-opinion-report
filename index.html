@@ -220,7 +220,7 @@
     };
     const policyCopyText = (item) => {
       const summary = String(item.summary || "").replace(/\s*来源：.*$/s, "").trim();
-      const source = String(item.source_name || item.source_type || "官方来源").trim();
+      const source = String(item.source_label || item.source_name || item.source_type || "官方来源").trim();
       return `${summary.startsWith("△") ? summary : `△${summary}`}\n${source}：${String(item.url || "").trim()}`.trim();
     };
     const firstSentence = (text) => { const value = String(text || "").replace(/\s+/g, " ").trim(); const match = value.match(/^.*?[。！？!?]/); return (match ? match[0] : value).trim(); };
@@ -254,7 +254,7 @@
         ? [[stats.new_neg ?? 0, "新增负面", "new-negative-card"], [stats.total_posts ?? 0, "监测帖子", "monitored-posts-card"], [stats.healthy ?? 0, "健康城市", ""], [stats.city_count ?? 0, "覆盖城市", ""]]
         : state.active === "media"
           ? [[data?.items?.length ?? 0, "有效报道", ""], [stats.verified ?? 0, "原文核验", ""], [stats.rss_candidates ?? 0, "RSS候选", "rss-candidate-card"], [stats.summary_candidates ?? 0, "精选候选", ""]]
-          : [[stats.today ?? 0, "今日政策", ""], [stats.yesterday ?? 0, "昨日政策", ""], [stats.ministries ?? 0, "国家部委", ""], [stats.provinces ?? 0, "外省政策", ""]];
+          : [[stats.today ?? 0, "今日政策", ""], [stats.yesterday ?? 0, "昨日政策", ""], [stats.ministries ?? 0, "国家部委", ""], [stats.local ?? stats.provinces ?? 0, "地方政策", ""]];
       $("#metrics").innerHTML = values.map(([value, label, actionId]) => {
         const tag = actionId ? "button" : "div";
         const extra = actionId ? ` id="${actionId}" class="metric metric-action" type="button"` : " class=\"metric\"";
@@ -390,7 +390,7 @@
         const other = state.policy.other_items || [];
         panel.hidden = false;
         $("#other-news-count").textContent = `共 ${other.length} 条`;
-        $("#other-news-list").innerHTML = other.length ? other.map((item) => `<li class="other-news-row"><a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名政策")}</a><span>${escapeHtml(item.timeliness || "日期不明")} · ${escapeHtml(item.source_name || item.source_type || "官方来源")}</span></li>`).join("") : `<li class="empty">暂无其他符合日期条件的政策。</li>`;
+        $("#other-news-list").innerHTML = other.length ? other.map((item) => `<li class="other-news-row"><a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || "未命名政策")}</a><span>${escapeHtml(item.timeliness || "日期不明")} · ${escapeHtml(item.source_label || item.source_name || item.source_type || "官方来源")}</span></li>`).join("") : `<li class="empty">暂无其他符合日期条件的政策。</li>`;
         $("#other-news h3").textContent = "其他有效政策";
         return;
       }
