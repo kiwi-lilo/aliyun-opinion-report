@@ -1,49 +1,48 @@
 {
   "source": "policy_reference",
-  "updated_at": "2026-10-13T23:51+08:00",
-  "date": "2026-10-13",
+  "updated_at": "2026-10-14T07:53+08:00",
+  "date": "2026-10-14",
   "status": "partial",
   "errors": [
     "湖北: 412 Client Error: Precondition Failed for url: https://www.hubei.gov.cn/zwgk/",
     "达州市: Exceeded 30 redirects.",
+    "吉林市: 404 Client Error: Not Found for url: https://www.jlcity.gov.cn/zt/zwzt/ggqsyxxgk/zcwj_gg/",
+    "滨州市: 404 Client Error: Not Found for url: http://www.binzhou.gov.cn/zwgk/zcwjk",
     "安庆市: 521 Server Error:  for url: https://www.anqing.gov.cn/site/tpl/2000001021",
     "淮南市: 404 Client Error: Not Found for url: https://www.huainan.gov.cn/public/column/",
     "濮阳市: 400 Client Error: Bad Request for url: https://www.puyang.gov.cn/zwxx/zwxx_list.thtml?cid=363",
     "日喀则市: 400 Client Error: Bad Request for url: http://www.rikaze.gov.cn/public-policy.thtml?id=10975",
-    "宣威市: 403 Client Error: Forbidden for url: http://www.xw.gov.cn/gov/pub/files/zcwj.html",
     "磐石市: 404 Client Error: Not Found for url: http://www.panshi.gov.cn/xxgk/xzgfxwj/",
     "马尔康市: 404 Client Error: Not Found for url: http://www.maerkang.gov.cn/10462/c108923/xxgkgz.shtml",
-    "临沧市: HTTPSConnectionPool(host='www.lincang.gov.cn', port=443): Max retries exceeded with url: /zfxxgk_lcs/lzf.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)')))",
-    "湖南: HTTPSConnectionPool(host='www.hunan.gov.cn', port=443): Max retries exceeded with url: /hnszf/xxgk/wjk/szfwj/wjk_glrb.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF o",
     "宁国市: 404 Client Error: Not Found for url: https://www.ningguo.gov.cn/PolicyContent/search",
     "潜山市: 521 Server Error:  for url: https://www.qss.gov.cn/public/column/2000006051?type=4&catId=7581373&action=list",
-    "吉林市: HTTPSConnectionPool(host='www.jlcity.gov.cn', port=443): Max retries exceeded with url: /zt/zwzt/ggqsyxxgk/zcwj_gg/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred",
-    "张家口市: HTTPSConnectionPool(host='www.zjk.gov.cn', port=443): Max retries exceeded with url: /xxgk/list/lm_zc.thtml?pid=74 (Caused by ProtocolError('Connection aborted.', BadStatusLine('HTTP/1.1 40002 \\r\\n'))",
+    "临沧市: HTTPSConnectionPool(host='www.lincang.gov.cn', port=443): Max retries exceeded with url: /zfxxgk_lcs/lzf.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)')))",
+    "湖南: HTTPSConnectionPool(host='www.hunan.gov.cn', port=443): Max retries exceeded with url: /hnszf/xxgk/wjk/szfwj/wjk_glrb.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)",
     "迁安市: 400 Client Error: Bad Request for url: http://www.qianan.gov.cn/channel/list/87.html",
+    "张家口市: HTTPSConnectionPool(host='www.zjk.gov.cn', port=443): Max retries exceeded with url: /xxgk/list/lm_zc.thtml?pid=74 (Caused by ProtocolError('Connection aborted.', BadStatusLine('HTTP/1.1 40002 \\r\\n'))",
+    "滦州市: HTTPConnectionPool(host='www.luanxian.gov.cn', port=80): Max retries exceeded with url: /index.php?m=content&c=index&a=lists&catid=681 (Caused by ProtocolError('Connection aborted.', RemoteDisconnecte",
     "深圳市: HTTPSConnectionPool(host='www.sz.gov.cn', port=443): Max retries exceeded with url: /cn/xxgk/zfxxgj/zfwj/index.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1032)')))",
-    "珠海市: HTTPSConnectionPool(host='www.zhuhai.gov.cn', port=443): Max retries exceeded with url: /zw/fggw/gfxwj/index.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i",
     "北票市: 403 Client Error: Forbidden for url: https://www.bp.gov.cn/articleweb/searchMessageOpenList.ct?siteCode=BPSZF&pageMax=20&govTextnumId=162935392046238&beginYear=2003",
     "凌源市: 403 Client Error: Forbidden for url: https://www.lingyuan.gov.cn/articleweb/searchMessageOpenList.ct?siteCode=CYSZF&pageMax=20&beginYear=2003",
-    "孝感市: HTTPSConnectionPool(host='www.xiaogan.gov.cn', port=443): Max retries exceeded with url: /c/www/gfxwj.jhtml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol",
     "安康市: HTTPSConnectionPool(host='credit.ankang.gov.cn', port=443): Max retries exceeded with url: /wcm/column/zcfg.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certi",
     "霸州市: HTTPSConnectionPool(host='www.bazhou.gov.cn', port=443): Max retries exceeded with url: /zwgk/bzszcwj (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', N"
   ],
   "stats": {
     "total": 10,
-    "today": 4,
+    "today": 0,
     "yesterday": 4,
-    "ministries": 2,
+    "ministries": 1,
     "provinces": 1,
-    "local": 8,
+    "local": 9,
     "municipalities": 1,
-    "prefecture": 3,
+    "prefecture": 4,
     "county": 4,
     "unknown_date": 0,
     "sources_total": 676,
-    "sources_failed": 23,
-    "candidates_discovered": 5094,
-    "articles_fetched": 250,
-    "article_failures": 10,
+    "sources_failed": 22,
+    "candidates_discovered": 5103,
+    "articles_fetched": 251,
+    "article_failures": 9,
     "normalized": 122,
     "llm_calls": 10,
     "cities_crawlable": 649,
@@ -60,11 +59,11 @@
       "source_label": "国家知识产权局",
       "published_at": "2026-10-13",
       "date_confidence": "document",
-      "summary": "△国家知识产权局印发《关于加强知识产权公共服务体系建设的意见》，提出到2030年知识产权公共服务体系更加健全完善。意见明确，在产业园区、创新集群等建立公共服务工作站，面向创新主体提供“一站式”“托管式”服务；围绕中小企业需求，提供专利信息分析、产业导航、转化运用、侵权预警、维权援助等定制化服务；面向战略科技力量建立“陪伴式”服务机制，支撑关键核心技术攻关；推进京津冀、长三角、粤港澳大湾区等公共服务一体化联动，深化“人工智能+”应用。该意见将提升知识产权公共服务水平，支撑科技创新和产业升级。",
+      "summary": "△国家知识产权局印发《关于加强知识产权公共服务体系建设的意见》，提出到2030年公共服务体系更加健全、精准有效。意见明确：在产业园区、创新集群建立工作站，提供“一站式”“托管式”服务；面向中小企业提供专利信息分析、产业导航、转化运用、侵权预警、维权援助等定制化服务；面向战略科技力量建立“陪伴式”服务机制，支撑关键核心技术攻关；推进京津冀、长三角、粤港澳大湾区等公共服务一体化联动，深化东中西部协作，并加强人工智能应用。该意见将提升公共服务水平，为科技创新和产业升级提供有力支撑。",
       "url": "https://www.cnipa.gov.cn/art/2026/10/13/art_75_208510.html",
       "source_type": "部委官网",
       "topic": "产业",
-      "timeliness": "当日",
+      "timeliness": "昨日",
       "summary_source": "deepseek"
     },
     {
@@ -74,11 +73,11 @@
       "source_label": "哈密市人民政府官网",
       "published_at": "2026-10-13",
       "date_confidence": "document",
-      "summary": "△哈密市科学技术局印发《哈密市科技计划项目管理办法实施细则》，适用于市科技局组织实施的科技计划项目。项目可采取公开竞争、定向委托、“揭榜挂帅”“赛马制”等方式遴选，实施期限一般不超过3年；拟立项项目公示不少于5个工作日，合同书签订应在30个工作日内完成。财政资金50万元（含）以上事前立项事前补助类项目开展年度考核，100万元（含）以上事前立项事前补助项目须第三方财务审计；不通过验收单位暂停1年申报资格。细则自发布之日起施行。此举旨在规范项目管理，强化绩效目标管理，提高财政科研资金使用效益。",
+      "summary": "△哈密市科学技术局印发《哈密市科技计划项目管理办法实施细则》，适用于市科技局组织、实施或指导的科学研究、技术开发、成果转化等科技计划项目。项目遴选可采取公开竞争、定向委托等方式，组织可采取“揭榜挂帅”“赛马制”等模式，实施期限一般不超过3年；拟立项和验收结论公示不少于5个工作日。财政资金资助50万元及以上事前立项事前补助项目开展年度考核，100万元及以上须第三方财务审计；不通过验收暂停1年申报资格。细则自发布之日起施行，旨在规范哈密市科技计划项目管理。",
       "url": "https://www.hami.gov.cn/hami/c123427/202610/5e0d689fc46b4bd18b4c9e8a704fa2c3.shtml",
       "source_type": "市政府官网",
       "topic": "产业",
-      "timeliness": "当日",
+      "timeliness": "昨日",
       "summary_source": "deepseek"
     },
     {
@@ -88,11 +87,11 @@
       "source_label": "霍尔果斯市人民政府官网",
       "published_at": "2026-10-13",
       "date_confidence": "document",
-      "summary": "△塔城地区行署办公室印发《塔城地区信息软件业提质扩能若干意见》。该意见自2026年10月8日起施行，有效期5年，适用辖区内信软企业、装备制造企业等。重点措施包括：支持首版次软件、首台（套）装备开发应用并争取纳入自治区推广目录；加强优质企业培育，落实集成电路设计、软件企业所得税优惠；支持数字化诊断，实现规上企业智改数转诊断全覆盖；实施“人工智能+”行动，打造标杆应用场景。旨在推动信息软件业提质扩能，助力服务业高质量发展。",
+      "summary": "△塔城地区行署办公室印发《塔城地区信息软件业提质扩能若干意见》，自2026年10月8日起施行，有效期5年。意见面向信软、装备制造及工业企业，支持首版次软件、首台（套）装备开发应用并纳入自治区推广目录；集成电路设计、软件等企业获利年度起第一至二年免征、第三至五年减半征收企业所得税；推动规上工业企业智改数转诊断全覆盖，实施“人工智能+”行动，加快算力中心及5G、千兆光纤等设施建设。旨在促进信息软件业提质扩能，支撑产业协同转型和高质量发展。",
       "url": "https://www.xjtc.gov.cn/zfxxgk/qwfb/zcfg21/content_6482",
       "source_type": "县级市政府官网",
       "topic": "产业",
-      "timeliness": "当日",
+      "timeliness": "昨日",
       "summary_source": "deepseek"
     },
     {
@@ -102,24 +101,10 @@
       "source_label": "中国政府网",
       "published_at": "2026-10-13",
       "date_confidence": "page",
-      "summary": "△中共中央、国务院提出《关于发展新质生产力的意见》，以全要素生产率大幅提升为核心标志。意见部署：加强原创性颠覆性科技创新和关键核心技术攻关，发挥新型举国体制优势；强化企业科技创新主体地位，建立企业研发准备金制度，提高研发费用加计扣除比例；全面实施“人工智能+”行动，推进智能网联新能源汽车、人形机器人等新一代智能终端应用；培育新兴产业，前瞻布局量子科技、生物制造、第六代移动通信等未来产业。旨在加快形成同新质生产力更相适应的生产关系，支撑高质量发展。",
+      "summary": "△中共中央、国务院印发《关于发展新质生产力的意见》，以全要素生产率大幅提升为核心标志。意见提出，加强原创性颠覆性科技创新，突破关键核心技术；强化企业科技创新主体地位，建立研发准备金制度，提高研发费用加计扣除比例；全面实施“人工智能+”行动，布局国家人工智能行业应用中试基地。各地区各有关部门要因地制宜、先立后破、稳中求进，严禁借发展新质生产力之名违规滥用政策，以更好支撑高质量发展。",
       "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm",
       "source_type": "县级市政府官网",
       "topic": "产业",
-      "timeliness": "当日",
-      "summary_source": "deepseek"
-    },
-    {
-      "title": "市政府关于南通市区部分地块详细规划图则及短期利用图则的批复",
-      "region": "地级市",
-      "source_name": "南通市",
-      "source_label": "南通市人民政府官网",
-      "published_at": "2026-10-12",
-      "date_confidence": "document",
-      "summary": "△南通市人民政府2026年10月12日发布《市政府关于南通市区部分地块详细规划图则及短期利用图则的批复》，原则同意市自然资源和规划局呈报的《地块图则》。图则涉及图斑433处，其中详细规划图则21处、短期利用图则412处；分布于崇川区34处、通州区238处、海门区三星镇112处、南通经济技术开发区33处、通州湾示范区16处。详细规划图则控制指标应作为强制性内容控制；短期利用图则须保障项目近期建设需求，且不得影响远期规划实施。市自然资源和规划局会同相关县（市、区）及市有关部门依法加强管理，确保图则落实，提升土地资源综合利用效率。",
-      "url": "https://www.nantong.gov.cn/ntsrmzf/szfwj/content/0a623533-9201-4094-8bbf-d229c1492bb8.html",
-      "source_type": "市政府官网",
-      "topic": "民政",
       "timeliness": "昨日",
       "summary_source": "deepseek"
     },
@@ -130,11 +115,39 @@
       "source_label": "长治市人民政府官网",
       "published_at": "2026-10-12",
       "date_confidence": "document",
-      "summary": "△长治市人民政府印发《长治市国民经济和社会发展第十五个五年规划纲要》（长政发〔2026〕5号），成文时间为2026年9月17日，发布日期为2026年10月12日，现行有效。该通知适用长治市国民经济和社会发展“十五五”相关工作；主题词为国民经济、社会发展、十五五；相关具体内容见附件《长治市十五五规划纲要.pdf》及图文解读。该纲要将为长治市“十五五”时期经济社会发展提供规划指引。",
+      "summary": "△长治市人民政府印发《长治市国民经济和社会发展第十五个五年规划纲要》的通知（长政发〔2026〕5号），成文时间为2026年9月17日，发布日期为2026年10月12日，现行有效。该通知适用于长治市“十五五”时期国民经济和社会发展，纲要内容以PDF附件形式公开；网页正文未载明具体措施、量化目标及执行时间。该纲要旨在为长治市“十五五”时期国民经济和社会发展提供规划指引。",
       "url": "https://www.changzhi.gov.cn/xxgkml/czsrmzf/zfwj_3465/202610/t20261012_3212690.shtml",
       "source_type": "市政府官网",
       "topic": "产业",
-      "timeliness": "昨日",
+      "timeliness": "近三日",
+      "summary_source": "deepseek"
+    },
+    {
+      "title": "市政府关于南通市区部分地块详细规划图则及短期利用图则的批复",
+      "region": "地级市",
+      "source_name": "南通市",
+      "source_label": "南通市人民政府官网",
+      "published_at": "2026-10-12",
+      "date_confidence": "document",
+      "summary": "△南通市人民政府2026年10月12日批复《南通市区部分地块详细规划图则及短期利用图则》（通政复〔2026〕135号），原则同意市自然资源和规划局呈报方案。图则涉及图斑433处，其中详细规划图则21处、短期利用图则412处，分布于崇川、通州、海门、南通经开区和通州湾示范区。详细规划图则控制指标作为强制性内容；短期利用图则须保障近期建设需求且不影响远期规划。市自然资源和规划局会同相关县（市、区）及市有关部门加强管理，确保落实，提升土地资源综合利用效率。此举将保障近期建设并衔接远期规划实施。",
+      "url": "https://www.nantong.gov.cn/ntsrmzf/szfwj/content/0a623533-9201-4094-8bbf-d229c1492bb8.html",
+      "source_type": "市政府官网",
+      "topic": "民政",
+      "timeliness": "近三日",
+      "summary_source": "deepseek"
+    },
+    {
+      "title": "常州市交通运输局关于开展全市交通建设2026年第三次电子招标投标活动“双随机、一公开”抽查工作的通知",
+      "region": "地级市",
+      "source_name": "常州市",
+      "source_label": "常州市人民政府官网",
+      "published_at": "2026-10-12",
+      "date_confidence": "document",
+      "summary": "△常州市交通运输局印发《关于开展全市交通建设2026年第三次电子招标投标活动“双随机、一公开”抽查工作的通知》（常交建〔2026〕13号），对2026年7月至9月利用江苏交通招标投标交易平台开展电子招投标的全市（含辖市区）依法必须招标交通工程建设项目，抽查比例不低于20%。检查由局建管科和综合行政执法支队统筹，持行政执法证人员实施，采取市级检查+区级互查，计划10月中旬开展；受检单位对问题须10日内报送整改材料。此举旨在规范招投标市场行为，营造公平、公开、公正、透明的招投标环境。",
+      "url": "https://www.changzhou.gov.cn/gi_news/62179178993484",
+      "source_type": "市政府官网",
+      "topic": "营商环境",
+      "timeliness": "近三日",
       "summary_source": "deepseek"
     },
     {
@@ -144,11 +157,11 @@
       "source_label": "东方市人民政府官网",
       "published_at": "2026-10-12",
       "date_confidence": "document",
-      "summary": "△东方市自然资源和规划局、东方市农业农村局《关于实施槟榔种植用途管制的通知》明确：严禁占用永久基本农田种植槟榔等多年生非粮食作物，公益林、天然林、自然保护区和海南热带雨林国家公园管控区内严禁新增开垦、扩种槟榔及毁林种植。拟种植农户须填报《槟榔种植审批表》，经属地乡镇审核同意后备案，办理设施农业备案、林木采伐许可、用电报装等须提交该表。永久基本农田已种槟榔应限期清除，逾期由乡镇依法处置，费用由种植者承担；非法占用永久基本农田逾期不改正的，按占用面积处耕地开垦费2倍以上5倍以下罚款。此举旨在严守耕地和生态保护红线，筑牢粮食安全和海南自贸港生态安全屏障。",
+      "summary": "△东方市自然资源和规划局、东方市农业农村局发布《关于实施槟榔种植用途管制的通知》，严禁占用永久基本农田种植槟榔，禁止在公益林、天然林、自然保护区和海南热带雨林国家公园管控区新增开垦、扩种或毁林种植。拟种农户须填报《槟榔种植审批表》，经属地乡镇审核备案；办理设施农业备案、林木采伐许可、用电报装须提交该表。违规种植限期清除恢复；非法占用永久基本农田处耕地开垦费2至5倍罚款，毁坏林地处恢复费用3倍以下罚款，并纳入信用记录，构成犯罪追究刑责。此举旨在严守耕地和生态保护红线，筑牢粮食安全与自贸港生态安全屏障。",
       "url": "http://dongfang.hainan.gov.cn/xxgkzl/sgtj/xxgkml/202610/t20261012_4160183.html",
       "source_type": "县级市政府官网",
       "topic": "产业",
-      "timeliness": "昨日",
+      "timeliness": "近三日",
       "summary_source": "deepseek"
     },
     {
@@ -158,11 +171,11 @@
       "source_label": "新民市人民政府官网",
       "published_at": "2026-10-12",
       "date_confidence": "page",
-      "summary": "△新民市人民政府办公室印发《新民市畜禽养殖禁养区划定方案（修订）》，将饮用水水源保护区、自然保护区、城镇居民区等人口聚集区及主要境内流域沿河划为禁养区。方案明确饮用水水源一级保护区禁止畜禽养殖活动，二级保护区禁止建设有污染物排放的养殖场；禁养区总面积279.8165平方千米，其中流域沿河192.96平方千米、人口聚集区52.73平方千米。方案自印发之日起执行。此举旨在优化养殖业结构，促进畜牧业持续健康发展，推动环境质量改善和生态文明建设。",
+      "summary": "△新民市人民政府办公室印发《新民市畜禽养殖禁养区划定方案（修订）》。方案将饮用水水源保护区、自然保护区、城镇居民区等人口聚集区及主要境内流域沿河划为禁养区，总面积279.8165平方千米。一级保护区内禁止畜禽养殖，二级保护区禁止建设有污染物排放的养殖场；辽河干流大堤背水面坡脚外20米、蒲河等沿河堤坝两侧各外延400米划为禁养区。自印发之日起执行。旨在优化畜禽养殖业结构，促进畜牧业持续健康发展，推动环境质量改善和生态文明建设全面发展。",
       "url": "https://www.xinmin.gov.cn/zwgk/fdzdgknr/zfwj/xzbfwj/202608/t20260811_5070917.html",
       "source_type": "县级市政府官网",
       "topic": "民政",
-      "timeliness": "昨日",
+      "timeliness": "近三日",
       "summary_source": "deepseek"
     },
     {
@@ -172,24 +185,10 @@
       "source_label": "北京市人民政府官网",
       "published_at": "2026-10-11",
       "date_confidence": "document",
-      "summary": "△北京市人民政府印发《北京市“十五五”时期现代综合交通运输体系发展规划》，发至各区人民政府、市政府各委、办、局、各市属机构，要求认真贯彻落实。规划实施日期为2026年10月12日，成文日期为2026年10月11日。相关发布信息显示，到2030年，轨道交通运营里程将超1050公里，中心城区绿色出行比例达78%。该规划将擘画首都交通新蓝图，推进现代综合交通运输体系建设。",
+      "summary": "△北京市人民政府印发《北京市“十五五”时期现代综合交通运输体系发展规划》（京政发〔2026〕29号），要求各区人民政府、市政府各委、办、局和各市属机构认真贯彻落实，自2026年10月12日起实施。规划面向“十五五”时期首都现代综合交通运输体系建设，明确到2030年轨道交通运营里程将超1050公里，中心城区绿色出行比例达78%。该规划旨在擘画首都交通新蓝图，为首都交通高质量发展和现代综合交通运输体系完善提供支撑。",
       "url": "https://www.beijing.gov.cn/zhengce/zfwj/zfwj2016/szfwj/202610/t20261012_4898783.html",
       "source_type": "市政府官网",
       "topic": "民政",
-      "timeliness": "近三日",
-      "summary_source": "deepseek"
-    },
-    {
-      "title": "消耗臭氧层物质管理条例",
-      "region": "国家部委",
-      "source_name": "生态环境部",
-      "source_label": "生态环境部",
-      "published_at": "2026-10-10",
-      "date_confidence": "document",
-      "summary": "△生态环境部发布《消耗臭氧层物质管理条例》（第三次修订）。条例适用于境内生产、销售、使用和进出口消耗臭氧层物质等活动，国家对其实行总量控制和配额管理；生产、使用单位须于每年10月31日前申请下一年度配额，主管部门12月20日前完成审查核发；销售、维修、回收、销毁等单位应备案，原始资料保存至少3年；无生产配额许可证生产最高处500万元罚款。条例自2010年6月1日起施行。此举旨在履行保护臭氧层国际公约义务，保护生态环境和人体健康。",
-      "url": "https://www.mee.gov.cn/zcwj/gwywj/202610/t20261010_1175970.shtml",
-      "source_type": "部委官网",
-      "topic": "产业",
       "timeliness": "近三日",
       "summary_source": "deepseek"
     }
@@ -206,7 +205,7 @@
       "url": "https://www.mee.gov.cn/zcwj/gwywj/202610/t20261010_1175967.shtml",
       "source_type": "部委官网",
       "topic": "产业",
-      "timeliness": "近三日"
+      "timeliness": "过期"
     },
     {
       "title": "省政府办公厅印发关于支持青年社区建设若干措施的通知",
@@ -219,7 +218,20 @@
       "url": "http://www.jiangsu.gov.cn/art/2026/10/10/art_46144_11840065.html",
       "source_type": "政府官网",
       "topic": "产业",
-      "timeliness": "近三日"
+      "timeliness": "过期"
+    },
+    {
+      "title": "消耗臭氧层物质管理条例",
+      "region": "国家部委",
+      "source_name": "生态环境部",
+      "source_label": "生态环境部",
+      "published_at": "2026-10-10",
+      "date_confidence": "document",
+      "summary": "△生态环境部消耗臭氧层物质管理条例。国务院生态环境主管部门会同国务院有关部门拟订《中国履行〈关于消耗臭氧层物质的蒙特利尔议定书〉国家方案》(以下简称国家方案)，报国务院批准后实施。第六条 国务院生态环境主管部门根据国家方案和消耗臭氧层物质淘汰进展情况，会同国务院有关部门确定并公布限制或者禁止新建、改建、扩建生产、使用消耗臭氧层物质建设项目的类别，制定并公布限制或者禁止生产、使用、进出口消耗臭氧层物。",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202610/t20261010_1175970.shtml",
+      "source_type": "部委官网",
+      "topic": "产业",
+      "timeliness": "过期"
     },
     {
       "title": "晋江市人民政府关于晋江市高铁新区中部片区控制性详细规划350582—1503—A—06地块调整的批复",
@@ -232,7 +244,7 @@
       "url": "https://www.jinjiang.gov.cn/xxgk/zfxxgkzl/ml/03/202610/t20261010_3334742.htm",
       "source_type": "县级市政府官网",
       "topic": "营商环境",
-      "timeliness": "近三日"
+      "timeliness": "过期"
     },
     {
       "title": "晋江市人民政府关于世纪大道片区控制性详细规划350582—03—N—01 02地块调整的批复",
@@ -245,7 +257,7 @@
       "url": "https://www.jinjiang.gov.cn/xxgk/zfxxgkzl/ml/03/202610/t20261010_3334738.htm",
       "source_type": "县级市政府官网",
       "topic": "营商环境",
-      "timeliness": "近三日"
+      "timeliness": "过期"
     },
     {
       "title": "关于印发《2026年绥芬河市高素质农民培育工作实施方案》的通知",
@@ -258,7 +270,7 @@
       "url": "https://www.suifenhe.gov.cn:443/sfh/c101860/202610/c03_1064077.shtml",
       "source_type": "县级市政府官网",
       "topic": "产业",
-      "timeliness": "近三日"
+      "timeliness": "过期"
     },
     {
       "title": "东方市人民政府关于东预征2026-11号宗地征地补偿安置方案的公告",
@@ -271,7 +283,7 @@
       "url": "http://dongfang.hainan.gov.cn/xxgkzl/szfbgs/xxgkml/202610/t20261010_4159878.html",
       "source_type": "县级市政府官网",
       "topic": "营商环境",
-      "timeliness": "近三日"
+      "timeliness": "过期"
     },
     {
       "title": "衡水市人民政府 关于公布市政府规章和行政规范性文件 清理结果的通知",
@@ -453,19 +465,6 @@
       "url": "http://www.yueqing.gov.cn/col/col1229145292/art/2026/art_371b0fa606294cfaae95cdc7501cff24.html",
       "source_type": "县级市政府官网",
       "topic": "医疗",
-      "timeliness": "过期"
-    },
-    {
-      "title": "北京市人民政府关于印发《北京市“十五五”时期现代化基础设施发展规划》的通知",
-      "region": "直辖市",
-      "source_name": "北京市",
-      "source_label": "北京市人民政府官网",
-      "published_at": "2026-10-06",
-      "date_confidence": "document",
-      "summary": "△北京市人民政府官网北京市人民政府关于印发《北京市“十五五”时期现代化基础设施发展规划》的通知。北京市人民政府关于印发《北京市“十五五”时期现代化基础设施发展规划》的通知_市政府文件_首都之窗_北京市人民政府门户网站 政务公开 > 政策服务 > 政府文件 > 2016年以后政府文件 > 市政府文件 [主题分类] 城乡建设、环境保护/城市规划 [发文机构] 北京市人民政府 [联合发文单位] [实施日。",
-      "url": "https://www.beijing.gov.cn/zhengce/zfwj/zfwj2016/szfwj/202610/t20261008_4893026.html",
-      "source_type": "市政府官网",
-      "topic": "民政",
       "timeliness": "过期"
     },
     {
