@@ -210,7 +210,8 @@
       for (const marker of [`（新浪微博：${user}）`, `（新浪微博:${user}）`]) {
         if (user && body.endsWith(marker)) body = body.slice(0, -marker.length).trim();
       }
-      const source = user ? `（新浪微博：${user}）` : "";
+      const channelName = String(item.channel_name || "").trim();
+      const source = channelName ? `（${channelName}）` : (user ? `（新浪微博：${user}）` : "");
       return `△${body}${source}${link}`.trim();
     };
     const itemText = (item) => item.copy_text || [item.summary || item.title || "", item.url || item.link || ""].filter(Boolean).join("\n");
